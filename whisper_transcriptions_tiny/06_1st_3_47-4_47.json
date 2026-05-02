@@ -1,0 +1,1115 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 10.92,
+            "text": " Voice command for my computer and when I'm writing stuff like blog posts or other things for my other work, that's when I use that tool.",
+            "tokens": [
+                50364,
+                15229,
+                5622,
+                337,
+                452,
+                3820,
+                293,
+                562,
+                286,
+                478,
+                3579,
+                1507,
+                411,
+                6968,
+                12300,
+                420,
+                661,
+                721,
+                337,
+                452,
+                661,
+                589,
+                11,
+                300,
+                311,
+                562,
+                286,
+                764,
+                300,
+                2290,
+                13,
+                50914
+            ],
+            "avg_logprob": -0.35220589357263904,
+            "compression_ratio": 1.5804878048780489,
+            "no_speech_prob": 0.06439208984375,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.34,
+                    "word": " Voice",
+                    "probability": 0.0279083251953125
+                },
+                {
+                    "start": 0.34,
+                    "end": 1.24,
+                    "word": " command",
+                    "probability": 0.91162109375
+                },
+                {
+                    "start": 1.24,
+                    "end": 2.22,
+                    "word": " for",
+                    "probability": 0.79443359375
+                },
+                {
+                    "start": 2.22,
+                    "end": 2.38,
+                    "word": " my",
+                    "probability": 0.97216796875
+                },
+                {
+                    "start": 2.38,
+                    "end": 2.78,
+                    "word": " computer",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 2.78,
+                    "end": 3.06,
+                    "word": " and",
+                    "probability": 0.6337890625
+                },
+                {
+                    "start": 3.06,
+                    "end": 3.26,
+                    "word": " when",
+                    "probability": 0.974609375
+                },
+                {
+                    "start": 3.26,
+                    "end": 3.7,
+                    "word": " I'm",
+                    "probability": 0.98193359375
+                },
+                {
+                    "start": 3.7,
+                    "end": 4.08,
+                    "word": " writing",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 4.08,
+                    "end": 4.48,
+                    "word": " stuff",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 4.48,
+                    "end": 4.78,
+                    "word": " like",
+                    "probability": 0.95068359375
+                },
+                {
+                    "start": 4.78,
+                    "end": 5.06,
+                    "word": " blog",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 5.06,
+                    "end": 5.58,
+                    "word": " posts",
+                    "probability": 0.95849609375
+                },
+                {
+                    "start": 5.58,
+                    "end": 6.32,
+                    "word": " or",
+                    "probability": 0.95751953125
+                },
+                {
+                    "start": 6.32,
+                    "end": 6.74,
+                    "word": " other",
+                    "probability": 0.9375
+                },
+                {
+                    "start": 6.74,
+                    "end": 7.08,
+                    "word": " things",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 7.08,
+                    "end": 7.36,
+                    "word": " for",
+                    "probability": 0.9794921875
+                },
+                {
+                    "start": 7.36,
+                    "end": 7.88,
+                    "word": " my",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 7.88,
+                    "end": 8.1,
+                    "word": " other",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 8.1,
+                    "end": 8.6,
+                    "word": " work,",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 9.14,
+                    "end": 9.34,
+                    "word": " that's",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 9.34,
+                    "end": 9.46,
+                    "word": " when",
+                    "probability": 0.958984375
+                },
+                {
+                    "start": 9.46,
+                    "end": 9.62,
+                    "word": " I",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 9.62,
+                    "end": 10.02,
+                    "word": " use",
+                    "probability": 0.392822265625
+                },
+                {
+                    "start": 10.02,
+                    "end": 10.3,
+                    "word": " that",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 10.3,
+                    "end": 10.92,
+                    "word": " tool.",
+                    "probability": 0.9931640625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.24,
+            "end": 15.14,
+            "text": " Okay. Which verse the tool that CSE is developing?",
+            "tokens": [
+                50914,
+                1033,
+                13,
+                3013,
+                7996,
+                264,
+                2290,
+                300,
+                383,
+                5879,
+                307,
+                6416,
+                30,
+                51164
+            ],
+            "avg_logprob": -0.35220589357263904,
+            "compression_ratio": 1.5804878048780489,
+            "no_speech_prob": 0.06439208984375,
+            "words": [
+                {
+                    "start": 11.24,
+                    "end": 11.5,
+                    "word": " Okay.",
+                    "probability": 0.205322265625
+                },
+                {
+                    "start": 12.32,
+                    "end": 12.52,
+                    "word": " Which",
+                    "probability": 0.765625
+                },
+                {
+                    "start": 12.52,
+                    "end": 12.8,
+                    "word": " verse",
+                    "probability": 0.248779296875
+                },
+                {
+                    "start": 12.8,
+                    "end": 13.2,
+                    "word": " the",
+                    "probability": 0.6689453125
+                },
+                {
+                    "start": 13.2,
+                    "end": 13.4,
+                    "word": " tool",
+                    "probability": 0.96923828125
+                },
+                {
+                    "start": 13.4,
+                    "end": 13.66,
+                    "word": " that",
+                    "probability": 0.9736328125
+                },
+                {
+                    "start": 13.66,
+                    "end": 14.16,
+                    "word": " CSE",
+                    "probability": 0.603271484375
+                },
+                {
+                    "start": 14.16,
+                    "end": 14.56,
+                    "word": " is",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 14.56,
+                    "end": 15.14,
+                    "word": " developing?",
+                    "probability": 0.99658203125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 15.94,
+            "end": 17.72,
+            "text": " Hmm. So that's what was interested.",
+            "tokens": [
+                51164,
+                8239,
+                13,
+                407,
+                300,
+                311,
+                437,
+                390,
+                3102,
+                13,
+                51264
+            ],
+            "avg_logprob": -0.35220589357263904,
+            "compression_ratio": 1.5804878048780489,
+            "no_speech_prob": 0.06439208984375,
+            "words": [
+                {
+                    "start": 15.94,
+                    "end": 16.58,
+                    "word": " Hmm.",
+                    "probability": 0.096435546875
+                },
+                {
+                    "start": 16.58,
+                    "end": 16.76,
+                    "word": " So",
+                    "probability": 0.2218017578125
+                },
+                {
+                    "start": 16.76,
+                    "end": 16.98,
+                    "word": " that's",
+                    "probability": 0.559814453125
+                },
+                {
+                    "start": 16.98,
+                    "end": 17.06,
+                    "word": " what",
+                    "probability": 0.81396484375
+                },
+                {
+                    "start": 17.06,
+                    "end": 17.38,
+                    "word": " was",
+                    "probability": 0.6064453125
+                },
+                {
+                    "start": 17.38,
+                    "end": 17.72,
+                    "word": " interested.",
+                    "probability": 0.88525390625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 18.68,
+            "end": 19.32,
+            "text": " Okay.",
+            "tokens": [
+                51264,
+                1033,
+                13,
+                51414
+            ],
+            "avg_logprob": -0.35220589357263904,
+            "compression_ratio": 1.5804878048780489,
+            "no_speech_prob": 0.06439208984375,
+            "words": [
+                {
+                    "start": 18.68,
+                    "end": 19.32,
+                    "word": " Okay.",
+                    "probability": 0.93896484375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 21.34,
+            "end": 29.98,
+            "text": " When you have the tool that you had used, do you remember ever coming across in the technique?",
+            "tokens": [
+                51414,
+                1133,
+                291,
+                362,
+                264,
+                2290,
+                300,
+                291,
+                632,
+                1143,
+                11,
+                360,
+                291,
+                1604,
+                1562,
+                1348,
+                2108,
+                294,
+                264,
+                6532,
+                30,
+                51814
+            ],
+            "avg_logprob": -0.35220589357263904,
+            "compression_ratio": 1.5804878048780489,
+            "no_speech_prob": 0.06439208984375,
+            "words": [
+                {
+                    "start": 21.34,
+                    "end": 21.5,
+                    "word": " When",
+                    "probability": 0.8427734375
+                },
+                {
+                    "start": 21.5,
+                    "end": 21.78,
+                    "word": " you",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 21.78,
+                    "end": 22.06,
+                    "word": " have",
+                    "probability": 0.96923828125
+                },
+                {
+                    "start": 22.06,
+                    "end": 22.3,
+                    "word": " the",
+                    "probability": 0.5791015625
+                },
+                {
+                    "start": 22.3,
+                    "end": 23.96,
+                    "word": " tool",
+                    "probability": 0.3798828125
+                },
+                {
+                    "start": 23.96,
+                    "end": 24.22,
+                    "word": " that",
+                    "probability": 0.86376953125
+                },
+                {
+                    "start": 24.22,
+                    "end": 24.36,
+                    "word": " you",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 24.36,
+                    "end": 24.8,
+                    "word": " had",
+                    "probability": 0.1790771484375
+                },
+                {
+                    "start": 24.8,
+                    "end": 25.6,
+                    "word": " used,",
+                    "probability": 0.98291015625
+                },
+                {
+                    "start": 26.42,
+                    "end": 26.9,
+                    "word": " do",
+                    "probability": 0.86767578125
+                },
+                {
+                    "start": 26.9,
+                    "end": 27.18,
+                    "word": " you",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 27.18,
+                    "end": 27.64,
+                    "word": " remember",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 27.64,
+                    "end": 28.12,
+                    "word": " ever",
+                    "probability": 0.9306640625
+                },
+                {
+                    "start": 28.12,
+                    "end": 28.4,
+                    "word": " coming",
+                    "probability": 0.8095703125
+                },
+                {
+                    "start": 28.4,
+                    "end": 28.92,
+                    "word": " across",
+                    "probability": 0.76904296875
+                },
+                {
+                    "start": 28.92,
+                    "end": 29.46,
+                    "word": " in",
+                    "probability": 0.92138671875
+                },
+                {
+                    "start": 29.46,
+                    "end": 29.64,
+                    "word": " the",
+                    "probability": 0.9375
+                },
+                {
+                    "start": 29.64,
+                    "end": 29.98,
+                    "word": " technique?",
+                    "probability": 0.51708984375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2998,
+            "start": 29.98,
+            "end": 40.96,
+            "text": " Or typical difficulties? For example, if you were working with different dialects or any unclear speech, did the tool have any issues transcribing those?",
+            "tokens": [
+                50364,
+                1610,
+                7476,
+                14399,
+                30,
+                1171,
+                1365,
+                11,
+                498,
+                291,
+                645,
+                1364,
+                365,
+                819,
+                24652,
+                82,
+                420,
+                604,
+                25636,
+                6218,
+                11,
+                630,
+                264,
+                2290,
+                362,
+                604,
+                2663,
+                1145,
+                39541,
+                729,
+                30,
+                50914
+            ],
+            "avg_logprob": -0.16449057565976496,
+            "compression_ratio": 1.5609756097560976,
+            "no_speech_prob": 0.09332275390625,
+            "words": [
+                {
+                    "start": 29.98,
+                    "end": 30.84,
+                    "word": " Or",
+                    "probability": 0.008941650390625
+                },
+                {
+                    "start": 30.84,
+                    "end": 30.84,
+                    "word": " typical",
+                    "probability": 0.00307464599609375
+                },
+                {
+                    "start": 30.94,
+                    "end": 31.98,
+                    "word": " difficulties?",
+                    "probability": 0.931640625
+                },
+                {
+                    "start": 32.78,
+                    "end": 32.78,
+                    "word": " For",
+                    "probability": 0.8466796875
+                },
+                {
+                    "start": 32.88,
+                    "end": 33.12,
+                    "word": " example,",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 33.16,
+                    "end": 33.34,
+                    "word": " if",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 33.34,
+                    "end": 33.44,
+                    "word": " you",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 33.44,
+                    "end": 33.64,
+                    "word": " were",
+                    "probability": 0.814453125
+                },
+                {
+                    "start": 33.64,
+                    "end": 33.96,
+                    "word": " working",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 33.96,
+                    "end": 34.8,
+                    "word": " with",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 34.8,
+                    "end": 35.3,
+                    "word": " different",
+                    "probability": 0.9638671875
+                },
+                {
+                    "start": 35.3,
+                    "end": 36.22,
+                    "word": " dialects",
+                    "probability": 0.987060546875
+                },
+                {
+                    "start": 36.22,
+                    "end": 36.56,
+                    "word": " or",
+                    "probability": 0.7705078125
+                },
+                {
+                    "start": 36.56,
+                    "end": 36.78,
+                    "word": " any",
+                    "probability": 0.88720703125
+                },
+                {
+                    "start": 36.78,
+                    "end": 37.14,
+                    "word": " unclear",
+                    "probability": 0.9736328125
+                },
+                {
+                    "start": 37.14,
+                    "end": 37.76,
+                    "word": " speech,",
+                    "probability": 0.97705078125
+                },
+                {
+                    "start": 38.1,
+                    "end": 38.1,
+                    "word": " did",
+                    "probability": 0.96533203125
+                },
+                {
+                    "start": 38.2,
+                    "end": 38.28,
+                    "word": " the",
+                    "probability": 0.962890625
+                },
+                {
+                    "start": 38.28,
+                    "end": 38.42,
+                    "word": " tool",
+                    "probability": 0.8251953125
+                },
+                {
+                    "start": 38.42,
+                    "end": 38.74,
+                    "word": " have",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 38.74,
+                    "end": 38.96,
+                    "word": " any",
+                    "probability": 0.90380859375
+                },
+                {
+                    "start": 38.96,
+                    "end": 39.66,
+                    "word": " issues",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 39.66,
+                    "end": 40.44,
+                    "word": " transcribing",
+                    "probability": 0.9365234375
+                },
+                {
+                    "start": 40.44,
+                    "end": 40.96,
+                    "word": " those?",
+                    "probability": 0.9091796875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 2998,
+            "start": 41.6,
+            "end": 44.76,
+            "text": " Or did it work slowly or anything like that?",
+            "tokens": [
+                50914,
+                1610,
+                630,
+                309,
+                589,
+                5692,
+                420,
+                1340,
+                411,
+                300,
+                30,
+                51114
+            ],
+            "avg_logprob": -0.16449057565976496,
+            "compression_ratio": 1.5609756097560976,
+            "no_speech_prob": 0.09332275390625,
+            "words": [
+                {
+                    "start": 41.6,
+                    "end": 41.7,
+                    "word": " Or",
+                    "probability": 0.8935546875
+                },
+                {
+                    "start": 41.7,
+                    "end": 41.74,
+                    "word": " did",
+                    "probability": 0.970703125
+                },
+                {
+                    "start": 41.74,
+                    "end": 41.92,
+                    "word": " it",
+                    "probability": 0.75048828125
+                },
+                {
+                    "start": 41.92,
+                    "end": 42.22,
+                    "word": " work",
+                    "probability": 0.955078125
+                },
+                {
+                    "start": 42.22,
+                    "end": 42.82,
+                    "word": " slowly",
+                    "probability": 0.9677734375
+                },
+                {
+                    "start": 42.82,
+                    "end": 43.7,
+                    "word": " or",
+                    "probability": 0.5703125
+                },
+                {
+                    "start": 43.7,
+                    "end": 43.94,
+                    "word": " anything",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 43.94,
+                    "end": 44.14,
+                    "word": " like",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 44.14,
+                    "end": 44.76,
+                    "word": " that?",
+                    "probability": 0.9990234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 8,
+            "seek": 2998,
+            "start": 45.62,
+            "end": 51.94,
+            "text": " Yes. I think that was why I kind of abandoned the transcribing project and moved into a different direction at that time.",
+            "tokens": [
+                51114,
+                1079,
+                13,
+                286,
+                519,
+                300,
+                390,
+                983,
+                286,
+                733,
+                295,
+                13732,
+                264,
+                1145,
+                39541,
+                1716,
+                293,
+                4259,
+                666,
+                257,
+                819,
+                3513,
+                412,
+                300,
+                565,
+                13,
+                51464
+            ],
+            "avg_logprob": -0.16449057565976496,
+            "compression_ratio": 1.5609756097560976,
+            "no_speech_prob": 0.09332275390625,
+            "words": [
+                {
+                    "start": 45.62,
+                    "end": 45.86,
+                    "word": " Yes.",
+                    "probability": 0.5234375
+                },
+                {
+                    "start": 46.52,
+                    "end": 46.68,
+                    "word": " I",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 46.68,
+                    "end": 46.86,
+                    "word": " think",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 46.86,
+                    "end": 47.0,
+                    "word": " that",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 47.0,
+                    "end": 47.16,
+                    "word": " was",
+                    "probability": 0.94482421875
+                },
+                {
+                    "start": 47.16,
+                    "end": 47.34,
+                    "word": " why",
+                    "probability": 0.857421875
+                },
+                {
+                    "start": 47.34,
+                    "end": 47.66,
+                    "word": " I",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 47.66,
+                    "end": 47.66,
+                    "word": " kind",
+                    "probability": 0.8017578125
+                },
+                {
+                    "start": 47.76,
+                    "end": 47.86,
+                    "word": " of",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 47.86,
+                    "end": 48.26,
+                    "word": " abandoned",
+                    "probability": 0.94384765625
+                },
+                {
+                    "start": 48.26,
+                    "end": 48.52,
+                    "word": " the",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 48.52,
+                    "end": 48.96,
+                    "word": " transcribing",
+                    "probability": 0.9677734375
+                },
+                {
+                    "start": 48.96,
+                    "end": 49.44,
+                    "word": " project",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 49.44,
+                    "end": 49.84,
+                    "word": " and",
+                    "probability": 0.5546875
+                },
+                {
+                    "start": 49.84,
+                    "end": 50.06,
+                    "word": " moved",
+                    "probability": 0.609375
+                },
+                {
+                    "start": 50.06,
+                    "end": 50.48,
+                    "word": " into",
+                    "probability": 0.982421875
+                },
+                {
+                    "start": 50.48,
+                    "end": 50.56,
+                    "word": " a",
+                    "probability": 0.9619140625
+                },
+                {
+                    "start": 50.56,
+                    "end": 50.8,
+                    "word": " different",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 50.8,
+                    "end": 51.24,
+                    "word": " direction",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 51.24,
+                    "end": 51.54,
+                    "word": " at",
+                    "probability": 0.90673828125
+                },
+                {
+                    "start": 51.54,
+                    "end": 51.72,
+                    "word": " that",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 51.72,
+                    "end": 51.94,
+                    "word": " time.",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 9,
+            "seek": 5194,
+            "start": 51.94,
+            "end": 60.02,
+            "text": " The data I have is from people who have not used their finish language for decades. So there.",
+            "tokens": [
+                50364,
+                440,
+                1412,
+                286,
+                362,
+                307,
+                490,
+                561,
+                567,
+                362,
+                406,
+                1143,
+                641,
+                2413,
+                2856,
+                337,
+                7878,
+                13,
+                407,
+                456,
+                13,
+                50764
+            ],
+            "avg_logprob": -0.22214673394742218,
+            "compression_ratio": 1.1204819277108433,
+            "no_speech_prob": 0.353759765625,
+            "words": [
+                {
+                    "start": 51.94,
+                    "end": 52.72,
+                    "word": " The",
+                    "probability": 0.5947265625
+                },
+                {
+                    "start": 52.72,
+                    "end": 53.12,
+                    "word": " data",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 53.12,
+                    "end": 53.4,
+                    "word": " I",
+                    "probability": 0.97216796875
+                },
+                {
+                    "start": 53.4,
+                    "end": 54.0,
+                    "word": " have",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 54.0,
+                    "end": 54.6,
+                    "word": " is",
+                    "probability": 0.955078125
+                },
+                {
+                    "start": 54.6,
+                    "end": 55.08,
+                    "word": " from",
+                    "probability": 0.98193359375
+                },
+                {
+                    "start": 55.08,
+                    "end": 56.26,
+                    "word": " people",
+                    "probability": 0.95947265625
+                },
+                {
+                    "start": 56.26,
+                    "end": 56.54,
+                    "word": " who",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 56.54,
+                    "end": 56.68,
+                    "word": " have",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 56.68,
+                    "end": 56.92,
+                    "word": " not",
+                    "probability": 0.97900390625
+                },
+                {
+                    "start": 56.92,
+                    "end": 57.14,
+                    "word": " used",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 57.14,
+                    "end": 57.38,
+                    "word": " their",
+                    "probability": 0.97119140625
+                },
+                {
+                    "start": 57.38,
+                    "end": 57.62,
+                    "word": " finish",
+                    "probability": 0.298828125
+                },
+                {
+                    "start": 57.62,
+                    "end": 58.02,
+                    "word": " language",
+                    "probability": 0.46484375
+                },
+                {
+                    "start": 58.02,
+                    "end": 58.96,
+                    "word": " for",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 58.96,
+                    "end": 59.4,
+                    "word": " decades.",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 59.82,
+                    "end": 59.82,
+                    "word": " So",
+                    "probability": 0.93115234375
+                },
+                {
+                    "start": 59.92,
+                    "end": 60.02,
+                    "word": " there.",
+                    "probability": 0.68359375
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " Voice command for my computer and when I'm writing stuff like blog posts or other things for my other work, that's when I use that tool. Okay. Which verse the tool that CSE is developing? Hmm. So that's what was interested. Okay. When you have the tool that you had used, do you remember ever coming across in the technique? Or typical difficulties? For example, if you were working with different dialects or any unclear speech, did the tool have any issues transcribing those? Or did it work slowly or anything like that? Yes. I think that was why I kind of abandoned the transcribing project and moved into a different direction at that time. The data I have is from people who have not used their finish language for decades. So there."
+}

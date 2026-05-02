@@ -1,0 +1,1000 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.94,
+            "end": 7.86,
+            "text": " So, the platform hacking phase offers this verb as open open source. Right.",
+            "tokens": [
+                50364,
+                407,
+                11,
+                264,
+                3663,
+                31422,
+                5574,
+                7736,
+                341,
+                9595,
+                382,
+                1269,
+                1269,
+                4009,
+                13,
+                1779,
+                13,
+                50764
+            ],
+            "avg_logprob": -0.41206393997336543,
+            "compression_ratio": 1.5114155251141552,
+            "no_speech_prob": 0.2310791015625,
+            "words": [
+                {
+                    "start": 1.94,
+                    "end": 2.66,
+                    "word": " So,",
+                    "probability": 0.04156494140625
+                },
+                {
+                    "start": 2.66,
+                    "end": 3.38,
+                    "word": " the",
+                    "probability": 0.7412109375
+                },
+                {
+                    "start": 3.38,
+                    "end": 3.74,
+                    "word": " platform",
+                    "probability": 0.93896484375
+                },
+                {
+                    "start": 3.74,
+                    "end": 4.12,
+                    "word": " hacking",
+                    "probability": 0.49462890625
+                },
+                {
+                    "start": 4.12,
+                    "end": 4.42,
+                    "word": " phase",
+                    "probability": 0.880859375
+                },
+                {
+                    "start": 4.42,
+                    "end": 4.68,
+                    "word": " offers",
+                    "probability": 0.974609375
+                },
+                {
+                    "start": 4.68,
+                    "end": 4.96,
+                    "word": " this",
+                    "probability": 0.237060546875
+                },
+                {
+                    "start": 4.96,
+                    "end": 5.32,
+                    "word": " verb",
+                    "probability": 0.027435302734375
+                },
+                {
+                    "start": 5.32,
+                    "end": 5.66,
+                    "word": " as",
+                    "probability": 0.89306640625
+                },
+                {
+                    "start": 5.66,
+                    "end": 6.2,
+                    "word": " open",
+                    "probability": 0.86962890625
+                },
+                {
+                    "start": 6.2,
+                    "end": 6.52,
+                    "word": " open",
+                    "probability": 0.253662109375
+                },
+                {
+                    "start": 6.52,
+                    "end": 7.22,
+                    "word": " source.",
+                    "probability": 0.9609375
+                },
+                {
+                    "start": 7.22,
+                    "end": 7.86,
+                    "word": " Right.",
+                    "probability": 0.42919921875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.86,
+            "end": 10.66,
+            "text": " To all that, yeah, you can use. Right.",
+            "tokens": [
+                50764,
+                1407,
+                439,
+                300,
+                11,
+                1338,
+                11,
+                291,
+                393,
+                764,
+                13,
+                1779,
+                13,
+                50964
+            ],
+            "avg_logprob": -0.41206393997336543,
+            "compression_ratio": 1.5114155251141552,
+            "no_speech_prob": 0.2310791015625,
+            "words": [
+                {
+                    "start": 7.86,
+                    "end": 8.44,
+                    "word": " To",
+                    "probability": 0.213134765625
+                },
+                {
+                    "start": 8.44,
+                    "end": 8.68,
+                    "word": " all",
+                    "probability": 0.9306640625
+                },
+                {
+                    "start": 8.68,
+                    "end": 8.92,
+                    "word": " that,",
+                    "probability": 0.8740234375
+                },
+                {
+                    "start": 9.46,
+                    "end": 9.46,
+                    "word": " yeah,",
+                    "probability": 0.81005859375
+                },
+                {
+                    "start": 9.46,
+                    "end": 9.52,
+                    "word": " you",
+                    "probability": 0.9892578125
+                },
+                {
+                    "start": 9.52,
+                    "end": 9.7,
+                    "word": " can",
+                    "probability": 0.98388671875
+                },
+                {
+                    "start": 9.7,
+                    "end": 10.3,
+                    "word": " use.",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 10.5,
+                    "end": 10.66,
+                    "word": " Right.",
+                    "probability": 0.32666015625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 11.54,
+            "end": 23.1,
+            "text": " Well, I mean, I kind of have a lead up question today's because there's one more concern about using AI tools for research.",
+            "tokens": [
+                50964,
+                1042,
+                11,
+                286,
+                914,
+                11,
+                286,
+                733,
+                295,
+                362,
+                257,
+                1477,
+                493,
+                1168,
+                965,
+                311,
+                570,
+                456,
+                311,
+                472,
+                544,
+                3136,
+                466,
+                1228,
+                7318,
+                3873,
+                337,
+                2132,
+                13,
+                51564
+            ],
+            "avg_logprob": -0.41206393997336543,
+            "compression_ratio": 1.5114155251141552,
+            "no_speech_prob": 0.2310791015625,
+            "words": [
+                {
+                    "start": 11.54,
+                    "end": 11.54,
+                    "word": " Well,",
+                    "probability": 0.27294921875
+                },
+                {
+                    "start": 12.58,
+                    "end": 12.66,
+                    "word": " I",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 12.66,
+                    "end": 13.18,
+                    "word": " mean,",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 14.24,
+                    "end": 14.3,
+                    "word": " I",
+                    "probability": 0.9150390625
+                },
+                {
+                    "start": 14.3,
+                    "end": 14.5,
+                    "word": " kind",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 14.5,
+                    "end": 15.22,
+                    "word": " of",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 15.22,
+                    "end": 15.22,
+                    "word": " have",
+                    "probability": 0.9599609375
+                },
+                {
+                    "start": 15.24,
+                    "end": 15.22,
+                    "word": " a",
+                    "probability": 0.86279296875
+                },
+                {
+                    "start": 15.26,
+                    "end": 15.72,
+                    "word": " lead",
+                    "probability": 0.8935546875
+                },
+                {
+                    "start": 15.72,
+                    "end": 15.96,
+                    "word": " up",
+                    "probability": 0.68701171875
+                },
+                {
+                    "start": 15.96,
+                    "end": 16.32,
+                    "word": " question",
+                    "probability": 0.97998046875
+                },
+                {
+                    "start": 16.32,
+                    "end": 16.78,
+                    "word": " today's",
+                    "probability": 0.625
+                },
+                {
+                    "start": 16.78,
+                    "end": 17.06,
+                    "word": " because",
+                    "probability": 0.6982421875
+                },
+                {
+                    "start": 17.06,
+                    "end": 17.56,
+                    "word": " there's",
+                    "probability": 0.980712890625
+                },
+                {
+                    "start": 17.56,
+                    "end": 17.74,
+                    "word": " one",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 17.74,
+                    "end": 18.04,
+                    "word": " more",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 18.04,
+                    "end": 18.54,
+                    "word": " concern",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 18.54,
+                    "end": 18.94,
+                    "word": " about",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 18.94,
+                    "end": 20.14,
+                    "word": " using",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 20.14,
+                    "end": 21.52,
+                    "word": " AI",
+                    "probability": 0.81591796875
+                },
+                {
+                    "start": 21.52,
+                    "end": 21.88,
+                    "word": " tools",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 21.88,
+                    "end": 22.44,
+                    "word": " for",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 22.44,
+                    "end": 23.1,
+                    "word": " research.",
+                    "probability": 0.99365234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 23.54,
+            "end": 28.86,
+            "text": " That I think has to be taken into account. And that's a data protection and data management.",
+            "tokens": [
+                51564,
+                663,
+                286,
+                519,
+                575,
+                281,
+                312,
+                2726,
+                666,
+                2696,
+                13,
+                400,
+                300,
+                311,
+                257,
+                1412,
+                6334,
+                293,
+                1412,
+                4592,
+                13,
+                51814
+            ],
+            "avg_logprob": -0.41206393997336543,
+            "compression_ratio": 1.5114155251141552,
+            "no_speech_prob": 0.2310791015625,
+            "words": [
+                {
+                    "start": 23.54,
+                    "end": 23.88,
+                    "word": " That",
+                    "probability": 0.5908203125
+                },
+                {
+                    "start": 23.88,
+                    "end": 24.02,
+                    "word": " I",
+                    "probability": 0.351318359375
+                },
+                {
+                    "start": 24.02,
+                    "end": 24.26,
+                    "word": " think",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 24.26,
+                    "end": 24.52,
+                    "word": " has",
+                    "probability": 0.9892578125
+                },
+                {
+                    "start": 24.52,
+                    "end": 24.58,
+                    "word": " to",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 24.58,
+                    "end": 24.72,
+                    "word": " be",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 24.72,
+                    "end": 25.0,
+                    "word": " taken",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 25.0,
+                    "end": 25.4,
+                    "word": " into",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 25.4,
+                    "end": 25.98,
+                    "word": " account.",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 26.06,
+                    "end": 26.42,
+                    "word": " And",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 26.42,
+                    "end": 26.96,
+                    "word": " that's",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 26.96,
+                    "end": 27.16,
+                    "word": " a",
+                    "probability": 0.5458984375
+                },
+                {
+                    "start": 27.16,
+                    "end": 27.34,
+                    "word": " data",
+                    "probability": 0.931640625
+                },
+                {
+                    "start": 27.34,
+                    "end": 27.84,
+                    "word": " protection",
+                    "probability": 0.96435546875
+                },
+                {
+                    "start": 27.84,
+                    "end": 28.18,
+                    "word": " and",
+                    "probability": 0.94775390625
+                },
+                {
+                    "start": 28.18,
+                    "end": 28.38,
+                    "word": " data",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 28.38,
+                    "end": 28.86,
+                    "word": " management.",
+                    "probability": 0.99658203125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2886,
+            "start": 28.86,
+            "end": 46.0,
+            "text": " Because it would for example be against the policies of my university to use a tool that uploads the interview audio to an external server somewhere else.",
+            "tokens": [
+                50364,
+                1436,
+                309,
+                576,
+                337,
+                1365,
+                312,
+                1970,
+                264,
+                7657,
+                295,
+                452,
+                5454,
+                281,
+                764,
+                257,
+                2290,
+                300,
+                48611,
+                264,
+                4049,
+                6278,
+                281,
+                364,
+                8320,
+                7154,
+                4079,
+                1646,
+                13,
+                51214
+            ],
+            "avg_logprob": -0.1731770835591085,
+            "compression_ratio": 1.53551912568306,
+            "no_speech_prob": 0.030242919921875,
+            "words": [
+                {
+                    "start": 28.86,
+                    "end": 30.28,
+                    "word": " Because",
+                    "probability": 0.19482421875
+                },
+                {
+                    "start": 30.28,
+                    "end": 31.2,
+                    "word": " it",
+                    "probability": 0.7880859375
+                },
+                {
+                    "start": 31.2,
+                    "end": 31.44,
+                    "word": " would",
+                    "probability": 0.95458984375
+                },
+                {
+                    "start": 31.44,
+                    "end": 31.54,
+                    "word": " for",
+                    "probability": 0.54345703125
+                },
+                {
+                    "start": 31.54,
+                    "end": 32.02,
+                    "word": " example",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 32.02,
+                    "end": 32.38,
+                    "word": " be",
+                    "probability": 0.912109375
+                },
+                {
+                    "start": 32.38,
+                    "end": 33.08,
+                    "word": " against",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 33.08,
+                    "end": 33.6,
+                    "word": " the",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 33.6,
+                    "end": 34.2,
+                    "word": " policies",
+                    "probability": 0.97998046875
+                },
+                {
+                    "start": 34.2,
+                    "end": 34.9,
+                    "word": " of",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 34.9,
+                    "end": 35.12,
+                    "word": " my",
+                    "probability": 0.9873046875
+                },
+                {
+                    "start": 35.12,
+                    "end": 35.74,
+                    "word": " university",
+                    "probability": 0.92431640625
+                },
+                {
+                    "start": 35.74,
+                    "end": 36.6,
+                    "word": " to",
+                    "probability": 0.765625
+                },
+                {
+                    "start": 36.6,
+                    "end": 36.92,
+                    "word": " use",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 36.92,
+                    "end": 37.22,
+                    "word": " a",
+                    "probability": 0.93896484375
+                },
+                {
+                    "start": 37.22,
+                    "end": 37.58,
+                    "word": " tool",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 37.58,
+                    "end": 38.42,
+                    "word": " that",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 38.42,
+                    "end": 39.04,
+                    "word": " uploads",
+                    "probability": 0.9365234375
+                },
+                {
+                    "start": 39.04,
+                    "end": 41.08,
+                    "word": " the",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 41.08,
+                    "end": 42.14,
+                    "word": " interview",
+                    "probability": 0.58203125
+                },
+                {
+                    "start": 42.14,
+                    "end": 43.04,
+                    "word": " audio",
+                    "probability": 0.97314453125
+                },
+                {
+                    "start": 43.04,
+                    "end": 43.92,
+                    "word": " to",
+                    "probability": 0.98291015625
+                },
+                {
+                    "start": 43.92,
+                    "end": 44.16,
+                    "word": " an",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 44.16,
+                    "end": 44.5,
+                    "word": " external",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 44.5,
+                    "end": 44.9,
+                    "word": " server",
+                    "probability": 0.9130859375
+                },
+                {
+                    "start": 44.9,
+                    "end": 45.28,
+                    "word": " somewhere",
+                    "probability": 0.97607421875
+                },
+                {
+                    "start": 45.28,
+                    "end": 46.0,
+                    "word": " else.",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2886,
+            "start": 46.8,
+            "end": 56.76,
+            "text": " So that's some third part to get an access it. So for example, I am not able to use or not allowed to use the built in speech,",
+            "tokens": [
+                51214,
+                407,
+                300,
+                311,
+                512,
+                2636,
+                644,
+                281,
+                483,
+                364,
+                2105,
+                309,
+                13,
+                407,
+                337,
+                1365,
+                11,
+                286,
+                669,
+                406,
+                1075,
+                281,
+                764,
+                420,
+                406,
+                4350,
+                281,
+                764,
+                264,
+                3094,
+                294,
+                6218,
+                11,
+                51764
+            ],
+            "avg_logprob": -0.1731770835591085,
+            "compression_ratio": 1.53551912568306,
+            "no_speech_prob": 0.030242919921875,
+            "words": [
+                {
+                    "start": 46.8,
+                    "end": 46.8,
+                    "word": " So",
+                    "probability": 0.95556640625
+                },
+                {
+                    "start": 46.9,
+                    "end": 47.34,
+                    "word": " that's",
+                    "probability": 0.929443359375
+                },
+                {
+                    "start": 47.34,
+                    "end": 47.44,
+                    "word": " some",
+                    "probability": 0.92236328125
+                },
+                {
+                    "start": 47.44,
+                    "end": 47.66,
+                    "word": " third",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 47.66,
+                    "end": 47.9,
+                    "word": " part",
+                    "probability": 0.7060546875
+                },
+                {
+                    "start": 47.9,
+                    "end": 48.0,
+                    "word": " to",
+                    "probability": 0.49267578125
+                },
+                {
+                    "start": 48.0,
+                    "end": 48.14,
+                    "word": " get",
+                    "probability": 0.48681640625
+                },
+                {
+                    "start": 48.14,
+                    "end": 48.28,
+                    "word": " an",
+                    "probability": 0.65869140625
+                },
+                {
+                    "start": 48.28,
+                    "end": 48.5,
+                    "word": " access",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 48.5,
+                    "end": 49.22,
+                    "word": " it.",
+                    "probability": 0.7763671875
+                },
+                {
+                    "start": 50.0,
+                    "end": 50.12,
+                    "word": " So",
+                    "probability": 0.92333984375
+                },
+                {
+                    "start": 50.12,
+                    "end": 50.34,
+                    "word": " for",
+                    "probability": 0.82861328125
+                },
+                {
+                    "start": 50.34,
+                    "end": 51.12,
+                    "word": " example,",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 52.54,
+                    "end": 52.76,
+                    "word": " I",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 52.76,
+                    "end": 52.92,
+                    "word": " am",
+                    "probability": 0.89404296875
+                },
+                {
+                    "start": 52.92,
+                    "end": 53.18,
+                    "word": " not",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 53.18,
+                    "end": 53.5,
+                    "word": " able",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 53.5,
+                    "end": 53.7,
+                    "word": " to",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 53.7,
+                    "end": 53.88,
+                    "word": " use",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 53.88,
+                    "end": 54.0,
+                    "word": " or",
+                    "probability": 0.94873046875
+                },
+                {
+                    "start": 54.0,
+                    "end": 54.22,
+                    "word": " not",
+                    "probability": 0.9775390625
+                },
+                {
+                    "start": 54.22,
+                    "end": 54.64,
+                    "word": " allowed",
+                    "probability": 0.8759765625
+                },
+                {
+                    "start": 54.64,
+                    "end": 54.92,
+                    "word": " to",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 54.92,
+                    "end": 55.24,
+                    "word": " use",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 55.24,
+                    "end": 55.46,
+                    "word": " the",
+                    "probability": 0.97900390625
+                },
+                {
+                    "start": 55.46,
+                    "end": 55.72,
+                    "word": " built",
+                    "probability": 0.6630859375
+                },
+                {
+                    "start": 55.72,
+                    "end": 56.1,
+                    "word": " in",
+                    "probability": 0.61376953125
+                },
+                {
+                    "start": 56.1,
+                    "end": 56.76,
+                    "word": " speech,",
+                    "probability": 0.92724609375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 5676,
+            "start": 56.76,
+            "end": 59.72,
+            "text": " I am a powered speech text.",
+            "tokens": [
+                50364,
+                286,
+                669,
+                257,
+                17786,
+                6218,
+                2487,
+                13,
+                50514
+            ],
+            "avg_logprob": -0.783984375,
+            "compression_ratio": 0.7714285714285715,
+            "no_speech_prob": 0.184814453125,
+            "words": [
+                {
+                    "start": 56.76,
+                    "end": 57.4,
+                    "word": " I",
+                    "probability": 0.0192108154296875
+                },
+                {
+                    "start": 57.4,
+                    "end": 57.4,
+                    "word": " am",
+                    "probability": 0.0321044921875
+                },
+                {
+                    "start": 57.5,
+                    "end": 57.46,
+                    "word": " a",
+                    "probability": 0.131591796875
+                },
+                {
+                    "start": 57.46,
+                    "end": 58.02,
+                    "word": " powered",
+                    "probability": 0.890625
+                },
+                {
+                    "start": 58.02,
+                    "end": 59.26,
+                    "word": " speech",
+                    "probability": 0.9130859375
+                },
+                {
+                    "start": 59.26,
+                    "end": 59.72,
+                    "word": " text.",
+                    "probability": 0.65478515625
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " So, the platform hacking phase offers this verb as open open source. Right. To all that, yeah, you can use. Right. Well, I mean, I kind of have a lead up question today's because there's one more concern about using AI tools for research. That I think has to be taken into account. And that's a data protection and data management. Because it would for example be against the policies of my university to use a tool that uploads the interview audio to an external server somewhere else. So that's some third part to get an access it. So for example, I am not able to use or not allowed to use the built in speech, I am a powered speech text."
+}

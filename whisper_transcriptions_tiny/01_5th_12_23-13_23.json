@@ -1,0 +1,918 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 11.86,
+            "text": " Then about the volume of your data, if you can estimate how much speech data do you have in your projects?",
+            "tokens": [
+                50364,
+                1396,
+                466,
+                264,
+                5523,
+                295,
+                428,
+                1412,
+                11,
+                498,
+                291,
+                393,
+                12539,
+                577,
+                709,
+                6218,
+                1412,
+                360,
+                291,
+                362,
+                294,
+                428,
+                4455,
+                30,
+                50964
+            ],
+            "avg_logprob": -0.28574811012455914,
+            "compression_ratio": 1.5743243243243243,
+            "no_speech_prob": 0.051605224609375,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.9,
+                    "word": " Then",
+                    "probability": 0.50830078125
+                },
+                {
+                    "start": 0.9,
+                    "end": 1.26,
+                    "word": " about",
+                    "probability": 0.921875
+                },
+                {
+                    "start": 1.26,
+                    "end": 1.76,
+                    "word": " the",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 1.76,
+                    "end": 2.08,
+                    "word": " volume",
+                    "probability": 0.97412109375
+                },
+                {
+                    "start": 2.08,
+                    "end": 2.58,
+                    "word": " of",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 2.58,
+                    "end": 3.28,
+                    "word": " your",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 3.28,
+                    "end": 3.86,
+                    "word": " data,",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 4.58,
+                    "end": 4.78,
+                    "word": " if",
+                    "probability": 0.9404296875
+                },
+                {
+                    "start": 4.78,
+                    "end": 4.92,
+                    "word": " you",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 4.92,
+                    "end": 5.42,
+                    "word": " can",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 5.42,
+                    "end": 6.02,
+                    "word": " estimate",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 6.02,
+                    "end": 7.1,
+                    "word": " how",
+                    "probability": 0.9697265625
+                },
+                {
+                    "start": 7.1,
+                    "end": 7.7,
+                    "word": " much",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 7.7,
+                    "end": 8.36,
+                    "word": " speech",
+                    "probability": 0.8935546875
+                },
+                {
+                    "start": 8.36,
+                    "end": 9.14,
+                    "word": " data",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 9.14,
+                    "end": 9.7,
+                    "word": " do",
+                    "probability": 0.67822265625
+                },
+                {
+                    "start": 9.7,
+                    "end": 9.8,
+                    "word": " you",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 9.8,
+                    "end": 10.12,
+                    "word": " have",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 10.12,
+                    "end": 10.38,
+                    "word": " in",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 10.38,
+                    "end": 11.06,
+                    "word": " your",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 11.06,
+                    "end": 11.86,
+                    "word": " projects?",
+                    "probability": 0.8046875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 12.96,
+            "end": 17.06,
+            "text": " Maybe were you doing your doctoral thesis?",
+            "tokens": [
+                50964,
+                2704,
+                645,
+                291,
+                884,
+                428,
+                41419,
+                22288,
+                30,
+                51214
+            ],
+            "avg_logprob": -0.28574811012455914,
+            "compression_ratio": 1.5743243243243243,
+            "no_speech_prob": 0.051605224609375,
+            "words": [
+                {
+                    "start": 12.96,
+                    "end": 12.96,
+                    "word": " Maybe",
+                    "probability": 0.72900390625
+                },
+                {
+                    "start": 13.96,
+                    "end": 14.56,
+                    "word": " were",
+                    "probability": 0.5400390625
+                },
+                {
+                    "start": 14.56,
+                    "end": 14.68,
+                    "word": " you",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 14.68,
+                    "end": 15.02,
+                    "word": " doing",
+                    "probability": 0.978515625
+                },
+                {
+                    "start": 15.02,
+                    "end": 16.3,
+                    "word": " your",
+                    "probability": 0.97265625
+                },
+                {
+                    "start": 16.3,
+                    "end": 16.6,
+                    "word": " doctoral",
+                    "probability": 0.8427734375
+                },
+                {
+                    "start": 16.6,
+                    "end": 17.06,
+                    "word": " thesis?",
+                    "probability": 0.98291015625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 17.8,
+            "end": 20.28,
+            "text": " Yes, yes, yes.",
+            "tokens": [
+                51214,
+                1079,
+                11,
+                2086,
+                11,
+                2086,
+                13,
+                51364
+            ],
+            "avg_logprob": -0.28574811012455914,
+            "compression_ratio": 1.5743243243243243,
+            "no_speech_prob": 0.051605224609375,
+            "words": [
+                {
+                    "start": 17.8,
+                    "end": 18.08,
+                    "word": " Yes,",
+                    "probability": 0.2900390625
+                },
+                {
+                    "start": 18.2,
+                    "end": 19.0,
+                    "word": " yes,",
+                    "probability": 0.8779296875
+                },
+                {
+                    "start": 20.08,
+                    "end": 20.28,
+                    "word": " yes.",
+                    "probability": 0.71044921875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 21.2,
+            "end": 24.6,
+            "text": " Can you estimate how much speech data do you have?",
+            "tokens": [
+                51364,
+                1664,
+                291,
+                12539,
+                577,
+                709,
+                6218,
+                1412,
+                360,
+                291,
+                362,
+                30,
+                51614
+            ],
+            "avg_logprob": -0.28574811012455914,
+            "compression_ratio": 1.5743243243243243,
+            "no_speech_prob": 0.051605224609375,
+            "words": [
+                {
+                    "start": 21.2,
+                    "end": 21.34,
+                    "word": " Can",
+                    "probability": 0.1846923828125
+                },
+                {
+                    "start": 21.34,
+                    "end": 21.52,
+                    "word": " you",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 21.52,
+                    "end": 22.12,
+                    "word": " estimate",
+                    "probability": 0.9765625
+                },
+                {
+                    "start": 22.12,
+                    "end": 22.48,
+                    "word": " how",
+                    "probability": 0.95751953125
+                },
+                {
+                    "start": 22.48,
+                    "end": 22.74,
+                    "word": " much",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 22.74,
+                    "end": 23.12,
+                    "word": " speech",
+                    "probability": 0.9404296875
+                },
+                {
+                    "start": 23.12,
+                    "end": 23.46,
+                    "word": " data",
+                    "probability": 0.9814453125
+                },
+                {
+                    "start": 23.46,
+                    "end": 23.74,
+                    "word": " do",
+                    "probability": 0.9755859375
+                },
+                {
+                    "start": 23.74,
+                    "end": 23.76,
+                    "word": " you",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 23.76,
+                    "end": 24.6,
+                    "word": " have?",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 25.68,
+            "end": 27.26,
+            "text": " I'd say 10 hours.",
+            "tokens": [
+                51614,
+                286,
+                1116,
+                584,
+                1266,
+                2496,
+                13,
+                51764
+            ],
+            "avg_logprob": -0.28574811012455914,
+            "compression_ratio": 1.5743243243243243,
+            "no_speech_prob": 0.051605224609375,
+            "words": [
+                {
+                    "start": 25.68,
+                    "end": 26.32,
+                    "word": " I'd",
+                    "probability": 0.846923828125
+                },
+                {
+                    "start": 26.32,
+                    "end": 26.5,
+                    "word": " say",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 26.5,
+                    "end": 26.76,
+                    "word": " 10",
+                    "probability": 0.56787109375
+                },
+                {
+                    "start": 26.76,
+                    "end": 27.26,
+                    "word": " hours.",
+                    "probability": 0.99658203125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2726,
+            "start": 27.26,
+            "end": 28.16,
+            "text": " Okay.",
+            "tokens": [
+                50364,
+                1033,
+                13,
+                50464
+            ],
+            "avg_logprob": -0.2953345087212576,
+            "compression_ratio": 1.427710843373494,
+            "no_speech_prob": 0.027435302734375,
+            "words": [
+                {
+                    "start": 27.26,
+                    "end": 28.16,
+                    "word": " Okay.",
+                    "probability": 0.23974609375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 2726,
+            "start": 30.28,
+            "end": 36.9,
+            "text": " Maybe now week to week basis. How much speech data do you need to transcribe?",
+            "tokens": [
+                50464,
+                2704,
+                586,
+                1243,
+                281,
+                1243,
+                5143,
+                13,
+                1012,
+                709,
+                6218,
+                1412,
+                360,
+                291,
+                643,
+                281,
+                1145,
+                8056,
+                30,
+                50864
+            ],
+            "avg_logprob": -0.2953345087212576,
+            "compression_ratio": 1.427710843373494,
+            "no_speech_prob": 0.027435302734375,
+            "words": [
+                {
+                    "start": 30.28,
+                    "end": 30.56,
+                    "word": " Maybe",
+                    "probability": 0.8193359375
+                },
+                {
+                    "start": 30.56,
+                    "end": 31.16,
+                    "word": " now",
+                    "probability": 0.6005859375
+                },
+                {
+                    "start": 31.16,
+                    "end": 31.92,
+                    "word": " week",
+                    "probability": 0.708984375
+                },
+                {
+                    "start": 31.92,
+                    "end": 32.2,
+                    "word": " to",
+                    "probability": 0.83154296875
+                },
+                {
+                    "start": 32.2,
+                    "end": 32.52,
+                    "word": " week",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 32.52,
+                    "end": 33.16,
+                    "word": " basis.",
+                    "probability": 0.8818359375
+                },
+                {
+                    "start": 33.98,
+                    "end": 34.0,
+                    "word": " How",
+                    "probability": 0.9619140625
+                },
+                {
+                    "start": 34.0,
+                    "end": 34.4,
+                    "word": " much",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 34.4,
+                    "end": 34.86,
+                    "word": " speech",
+                    "probability": 0.1986083984375
+                },
+                {
+                    "start": 34.86,
+                    "end": 35.24,
+                    "word": " data",
+                    "probability": 0.65087890625
+                },
+                {
+                    "start": 35.24,
+                    "end": 35.48,
+                    "word": " do",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 35.48,
+                    "end": 35.7,
+                    "word": " you",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 35.7,
+                    "end": 35.96,
+                    "word": " need",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 35.96,
+                    "end": 36.14,
+                    "word": " to",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 36.14,
+                    "end": 36.9,
+                    "word": " transcribe?",
+                    "probability": 0.82763671875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 8,
+            "seek": 2726,
+            "start": 40.62,
+            "end": 44.16,
+            "text": " Well, I I needed to transcribe that 10 hour.",
+            "tokens": [
+                50864,
+                1042,
+                11,
+                286,
+                286,
+                2978,
+                281,
+                1145,
+                8056,
+                300,
+                1266,
+                1773,
+                13,
+                51214
+            ],
+            "avg_logprob": -0.2953345087212576,
+            "compression_ratio": 1.427710843373494,
+            "no_speech_prob": 0.027435302734375,
+            "words": [
+                {
+                    "start": 40.62,
+                    "end": 41.28,
+                    "word": " Well,",
+                    "probability": 0.84423828125
+                },
+                {
+                    "start": 41.28,
+                    "end": 41.94,
+                    "word": " I",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 41.94,
+                    "end": 42.0,
+                    "word": " I",
+                    "probability": 0.5146484375
+                },
+                {
+                    "start": 42.0,
+                    "end": 42.18,
+                    "word": " needed",
+                    "probability": 0.58984375
+                },
+                {
+                    "start": 42.18,
+                    "end": 42.48,
+                    "word": " to",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 42.48,
+                    "end": 42.92,
+                    "word": " transcribe",
+                    "probability": 0.97216796875
+                },
+                {
+                    "start": 42.92,
+                    "end": 43.32,
+                    "word": " that",
+                    "probability": 0.94580078125
+                },
+                {
+                    "start": 43.32,
+                    "end": 43.52,
+                    "word": " 10",
+                    "probability": 0.5703125
+                },
+                {
+                    "start": 43.52,
+                    "end": 44.16,
+                    "word": " hour.",
+                    "probability": 0.8583984375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 9,
+            "seek": 2726,
+            "start": 44.62,
+            "end": 51.28,
+            "text": " Yeah, a package of data. Now that I have transcribed it, now I'm not collecting anymore at the moment.",
+            "tokens": [
+                51214,
+                865,
+                11,
+                257,
+                7372,
+                295,
+                1412,
+                13,
+                823,
+                300,
+                286,
+                362,
+                1145,
+                18732,
+                309,
+                11,
+                586,
+                286,
+                478,
+                406,
+                12510,
+                3602,
+                412,
+                264,
+                1623,
+                13,
+                51564
+            ],
+            "avg_logprob": -0.2953345087212576,
+            "compression_ratio": 1.427710843373494,
+            "no_speech_prob": 0.027435302734375,
+            "words": [
+                {
+                    "start": 44.62,
+                    "end": 44.66,
+                    "word": " Yeah,",
+                    "probability": 0.90869140625
+                },
+                {
+                    "start": 44.78,
+                    "end": 45.0,
+                    "word": " a",
+                    "probability": 0.280517578125
+                },
+                {
+                    "start": 45.0,
+                    "end": 46.08,
+                    "word": " package",
+                    "probability": 0.859375
+                },
+                {
+                    "start": 46.08,
+                    "end": 47.28,
+                    "word": " of",
+                    "probability": 0.955078125
+                },
+                {
+                    "start": 47.28,
+                    "end": 47.68,
+                    "word": " data.",
+                    "probability": 0.08251953125
+                },
+                {
+                    "start": 47.68,
+                    "end": 48.02,
+                    "word": " Now",
+                    "probability": 0.5029296875
+                },
+                {
+                    "start": 48.02,
+                    "end": 48.2,
+                    "word": " that",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 48.2,
+                    "end": 48.36,
+                    "word": " I",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 48.36,
+                    "end": 48.52,
+                    "word": " have",
+                    "probability": 0.9794921875
+                },
+                {
+                    "start": 48.52,
+                    "end": 48.92,
+                    "word": " transcribed",
+                    "probability": 0.681640625
+                },
+                {
+                    "start": 48.92,
+                    "end": 49.28,
+                    "word": " it,",
+                    "probability": 0.943359375
+                },
+                {
+                    "start": 49.34,
+                    "end": 49.38,
+                    "word": " now",
+                    "probability": 0.9677734375
+                },
+                {
+                    "start": 49.38,
+                    "end": 49.6,
+                    "word": " I'm",
+                    "probability": 0.9794921875
+                },
+                {
+                    "start": 49.6,
+                    "end": 49.76,
+                    "word": " not",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 49.76,
+                    "end": 50.1,
+                    "word": " collecting",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 50.1,
+                    "end": 50.54,
+                    "word": " anymore",
+                    "probability": 0.81005859375
+                },
+                {
+                    "start": 50.54,
+                    "end": 50.8,
+                    "word": " at",
+                    "probability": 0.9384765625
+                },
+                {
+                    "start": 50.8,
+                    "end": 50.9,
+                    "word": " the",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 50.9,
+                    "end": 51.28,
+                    "word": " moment.",
+                    "probability": 0.9990234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 10,
+            "seek": 2726,
+            "start": 51.86,
+            "end": 52.02,
+            "text": " Okay.",
+            "tokens": [
+                51564,
+                1033,
+                13,
+                51664
+            ],
+            "avg_logprob": -0.2953345087212576,
+            "compression_ratio": 1.427710843373494,
+            "no_speech_prob": 0.027435302734375,
+            "words": [
+                {
+                    "start": 51.86,
+                    "end": 52.02,
+                    "word": " Okay.",
+                    "probability": 0.9111328125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 11,
+            "seek": 5202,
+            "start": 54.98,
+            "end": 59.64,
+            "text": " Then something else, I have a question about your technique.",
+            "tokens": [
+                50364,
+                1396,
+                746,
+                1646,
+                11,
+                286,
+                362,
+                257,
+                1168,
+                466,
+                428,
+                6532,
+                13,
+                50764
+            ],
+            "avg_logprob": -0.3169270912806193,
+            "compression_ratio": 0.9090909090909091,
+            "no_speech_prob": 0.0447998046875,
+            "words": [
+                {
+                    "start": 54.98,
+                    "end": 55.74,
+                    "word": " Then",
+                    "probability": 0.29736328125
+                },
+                {
+                    "start": 55.74,
+                    "end": 56.28,
+                    "word": " something",
+                    "probability": 0.85791015625
+                },
+                {
+                    "start": 56.28,
+                    "end": 56.82,
+                    "word": " else,",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 56.98,
+                    "end": 56.98,
+                    "word": " I",
+                    "probability": 0.9814453125
+                },
+                {
+                    "start": 57.08,
+                    "end": 57.16,
+                    "word": " have",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 57.16,
+                    "end": 57.28,
+                    "word": " a",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 57.28,
+                    "end": 57.5,
+                    "word": " question",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 57.5,
+                    "end": 57.86,
+                    "word": " about",
+                    "probability": 0.98046875
+                },
+                {
+                    "start": 57.86,
+                    "end": 58.46,
+                    "word": " your",
+                    "probability": 0.9658203125
+                },
+                {
+                    "start": 58.46,
+                    "end": 59.64,
+                    "word": " technique.",
+                    "probability": 0.91015625
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " Then about the volume of your data, if you can estimate how much speech data do you have in your projects? Maybe were you doing your doctoral thesis? Yes, yes, yes. Can you estimate how much speech data do you have? I'd say 10 hours. Okay. Maybe now week to week basis. How much speech data do you need to transcribe? Well, I I needed to transcribe that 10 hour. Yeah, a package of data. Now that I have transcribed it, now I'm not collecting anymore at the moment. Okay. Then something else, I have a question about your technique."
+}

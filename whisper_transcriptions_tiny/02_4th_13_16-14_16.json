@@ -1,0 +1,816 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.6,
+            "text": " A bridge. Okay. Yeah, so sometimes it's longer, sometimes it's.",
+            "tokens": [
+                50364,
+                316,
+                7283,
+                13,
+                1033,
+                13,
+                865,
+                11,
+                370,
+                2171,
+                309,
+                311,
+                2854,
+                11,
+                2171,
+                309,
+                311,
+                13,
+                50714
+            ],
+            "avg_logprob": -0.4003906383046082,
+            "compression_ratio": 1.5390070921985815,
+            "no_speech_prob": 0.09881591796875,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.42,
+                    "word": " A",
+                    "probability": 0.0200042724609375
+                },
+                {
+                    "start": 0.42,
+                    "end": 0.98,
+                    "word": " bridge.",
+                    "probability": 0.198486328125
+                },
+                {
+                    "start": 1.96,
+                    "end": 1.96,
+                    "word": " Okay.",
+                    "probability": 0.2215576171875
+                },
+                {
+                    "start": 2.7,
+                    "end": 2.76,
+                    "word": " Yeah,",
+                    "probability": 0.74560546875
+                },
+                {
+                    "start": 2.78,
+                    "end": 2.88,
+                    "word": " so",
+                    "probability": 0.6923828125
+                },
+                {
+                    "start": 2.88,
+                    "end": 3.24,
+                    "word": " sometimes",
+                    "probability": 0.9814453125
+                },
+                {
+                    "start": 3.24,
+                    "end": 3.7,
+                    "word": " it's",
+                    "probability": 0.947265625
+                },
+                {
+                    "start": 3.7,
+                    "end": 4.02,
+                    "word": " longer,",
+                    "probability": 0.97265625
+                },
+                {
+                    "start": 4.3,
+                    "end": 4.56,
+                    "word": " sometimes",
+                    "probability": 0.65185546875
+                },
+                {
+                    "start": 4.56,
+                    "end": 6.6,
+                    "word": " it's.",
+                    "probability": 0.96923828125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.28,
+            "end": 16.62,
+            "text": " Yeah. Then I would like to ask you about your own technical capabilities.",
+            "tokens": [
+                50714,
+                865,
+                13,
+                1396,
+                286,
+                576,
+                411,
+                281,
+                1029,
+                291,
+                466,
+                428,
+                1065,
+                6191,
+                10862,
+                13,
+                51114
+            ],
+            "avg_logprob": -0.4003906383046082,
+            "compression_ratio": 1.5390070921985815,
+            "no_speech_prob": 0.09881591796875,
+            "words": [
+                {
+                    "start": 9.28,
+                    "end": 9.28,
+                    "word": " Yeah.",
+                    "probability": 0.873046875
+                },
+                {
+                    "start": 10.98,
+                    "end": 11.78,
+                    "word": " Then",
+                    "probability": 0.39013671875
+                },
+                {
+                    "start": 11.78,
+                    "end": 11.98,
+                    "word": " I",
+                    "probability": 0.93359375
+                },
+                {
+                    "start": 11.98,
+                    "end": 12.2,
+                    "word": " would",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 12.2,
+                    "end": 12.86,
+                    "word": " like",
+                    "probability": 0.9814453125
+                },
+                {
+                    "start": 12.86,
+                    "end": 13.16,
+                    "word": " to",
+                    "probability": 0.97265625
+                },
+                {
+                    "start": 13.16,
+                    "end": 13.34,
+                    "word": " ask",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 13.34,
+                    "end": 13.58,
+                    "word": " you",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 13.58,
+                    "end": 13.92,
+                    "word": " about",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 13.92,
+                    "end": 14.42,
+                    "word": " your",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 14.42,
+                    "end": 14.92,
+                    "word": " own",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 14.92,
+                    "end": 15.62,
+                    "word": " technical",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 15.62,
+                    "end": 16.62,
+                    "word": " capabilities.",
+                    "probability": 0.998046875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 17.6,
+            "end": 23.78,
+            "text": " So if you could just with your own words, assess your own technical capability.",
+            "tokens": [
+                51114,
+                407,
+                498,
+                291,
+                727,
+                445,
+                365,
+                428,
+                1065,
+                2283,
+                11,
+                5877,
+                428,
+                1065,
+                6191,
+                13759,
+                13,
+                51564
+            ],
+            "avg_logprob": -0.4003906383046082,
+            "compression_ratio": 1.5390070921985815,
+            "no_speech_prob": 0.09881591796875,
+            "words": [
+                {
+                    "start": 17.6,
+                    "end": 17.78,
+                    "word": " So",
+                    "probability": 0.9140625
+                },
+                {
+                    "start": 17.78,
+                    "end": 17.92,
+                    "word": " if",
+                    "probability": 0.88427734375
+                },
+                {
+                    "start": 17.92,
+                    "end": 18.48,
+                    "word": " you",
+                    "probability": 0.98291015625
+                },
+                {
+                    "start": 18.48,
+                    "end": 18.72,
+                    "word": " could",
+                    "probability": 0.6298828125
+                },
+                {
+                    "start": 18.72,
+                    "end": 19.1,
+                    "word": " just",
+                    "probability": 0.93701171875
+                },
+                {
+                    "start": 19.1,
+                    "end": 19.42,
+                    "word": " with",
+                    "probability": 0.8466796875
+                },
+                {
+                    "start": 19.42,
+                    "end": 19.78,
+                    "word": " your",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 19.78,
+                    "end": 20.0,
+                    "word": " own",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 20.0,
+                    "end": 20.96,
+                    "word": " words,",
+                    "probability": 0.9873046875
+                },
+                {
+                    "start": 21.2,
+                    "end": 21.84,
+                    "word": " assess",
+                    "probability": 0.8779296875
+                },
+                {
+                    "start": 21.84,
+                    "end": 22.26,
+                    "word": " your",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 22.26,
+                    "end": 22.74,
+                    "word": " own",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 22.74,
+                    "end": 23.12,
+                    "word": " technical",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 23.12,
+                    "end": 23.78,
+                    "word": " capability.",
+                    "probability": 0.62548828125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2164,
+            "start": 26.52,
+            "end": 32.3,
+            "text": " You mean like using a technical pause? Yes.",
+            "tokens": [
+                50514,
+                509,
+                914,
+                411,
+                1228,
+                257,
+                6191,
+                10465,
+                30,
+                1079,
+                13,
+                50814
+            ],
+            "avg_logprob": -0.2945696623598943,
+            "compression_ratio": 1.3513513513513513,
+            "no_speech_prob": 0.39013671875,
+            "words": [
+                {
+                    "start": 26.52,
+                    "end": 26.9,
+                    "word": " You",
+                    "probability": 0.11541748046875
+                },
+                {
+                    "start": 26.9,
+                    "end": 27.66,
+                    "word": " mean",
+                    "probability": 0.888671875
+                },
+                {
+                    "start": 27.66,
+                    "end": 28.04,
+                    "word": " like",
+                    "probability": 0.56103515625
+                },
+                {
+                    "start": 28.04,
+                    "end": 28.46,
+                    "word": " using",
+                    "probability": 0.96435546875
+                },
+                {
+                    "start": 28.46,
+                    "end": 30.06,
+                    "word": " a",
+                    "probability": 0.81396484375
+                },
+                {
+                    "start": 30.06,
+                    "end": 30.86,
+                    "word": " technical",
+                    "probability": 0.5234375
+                },
+                {
+                    "start": 30.86,
+                    "end": 31.66,
+                    "word": " pause?",
+                    "probability": 0.00809478759765625
+                },
+                {
+                    "start": 32.02,
+                    "end": 32.3,
+                    "word": " Yes.",
+                    "probability": 0.91064453125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2164,
+            "start": 33.88,
+            "end": 41.94,
+            "text": " I think I'm quite good at that. And I know that if I need to learn something,",
+            "tokens": [
+                50814,
+                286,
+                519,
+                286,
+                478,
+                1596,
+                665,
+                412,
+                300,
+                13,
+                400,
+                286,
+                458,
+                300,
+                498,
+                286,
+                643,
+                281,
+                1466,
+                746,
+                11,
+                51264
+            ],
+            "avg_logprob": -0.2945696623598943,
+            "compression_ratio": 1.3513513513513513,
+            "no_speech_prob": 0.39013671875,
+            "words": [
+                {
+                    "start": 33.88,
+                    "end": 33.94,
+                    "word": " I",
+                    "probability": 0.927734375
+                },
+                {
+                    "start": 33.94,
+                    "end": 34.32,
+                    "word": " think",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 34.32,
+                    "end": 35.2,
+                    "word": " I'm",
+                    "probability": 0.877197265625
+                },
+                {
+                    "start": 35.2,
+                    "end": 35.66,
+                    "word": " quite",
+                    "probability": 0.9521484375
+                },
+                {
+                    "start": 35.66,
+                    "end": 36.46,
+                    "word": " good",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 36.46,
+                    "end": 36.96,
+                    "word": " at",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 36.96,
+                    "end": 37.58,
+                    "word": " that.",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 38.3,
+                    "end": 38.3,
+                    "word": " And",
+                    "probability": 0.888671875
+                },
+                {
+                    "start": 38.4,
+                    "end": 39.5,
+                    "word": " I",
+                    "probability": 0.90283203125
+                },
+                {
+                    "start": 39.5,
+                    "end": 39.76,
+                    "word": " know",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 39.76,
+                    "end": 40.34,
+                    "word": " that",
+                    "probability": 0.95751953125
+                },
+                {
+                    "start": 40.34,
+                    "end": 40.52,
+                    "word": " if",
+                    "probability": 0.96435546875
+                },
+                {
+                    "start": 40.52,
+                    "end": 40.7,
+                    "word": " I",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 40.7,
+                    "end": 40.96,
+                    "word": " need",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 40.96,
+                    "end": 41.12,
+                    "word": " to",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 41.12,
+                    "end": 41.38,
+                    "word": " learn",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 41.38,
+                    "end": 41.94,
+                    "word": " something,",
+                    "probability": 0.99560546875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2164,
+            "start": 42.24,
+            "end": 48.98,
+            "text": " I will go and look for it and and find it and teach myself how to do it.",
+            "tokens": [
+                51264,
+                286,
+                486,
+                352,
+                293,
+                574,
+                337,
+                309,
+                293,
+                293,
+                915,
+                309,
+                293,
+                2924,
+                2059,
+                577,
+                281,
+                360,
+                309,
+                13,
+                51614
+            ],
+            "avg_logprob": -0.2945696623598943,
+            "compression_ratio": 1.3513513513513513,
+            "no_speech_prob": 0.39013671875,
+            "words": [
+                {
+                    "start": 42.24,
+                    "end": 42.32,
+                    "word": " I",
+                    "probability": 0.98583984375
+                },
+                {
+                    "start": 42.32,
+                    "end": 43.76,
+                    "word": " will",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 43.76,
+                    "end": 44.08,
+                    "word": " go",
+                    "probability": 0.97802734375
+                },
+                {
+                    "start": 44.08,
+                    "end": 44.34,
+                    "word": " and",
+                    "probability": 0.892578125
+                },
+                {
+                    "start": 44.34,
+                    "end": 44.88,
+                    "word": " look",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 44.88,
+                    "end": 45.2,
+                    "word": " for",
+                    "probability": 0.912109375
+                },
+                {
+                    "start": 45.2,
+                    "end": 45.58,
+                    "word": " it",
+                    "probability": 0.9404296875
+                },
+                {
+                    "start": 45.58,
+                    "end": 45.72,
+                    "word": " and",
+                    "probability": 0.74169921875
+                },
+                {
+                    "start": 45.72,
+                    "end": 45.98,
+                    "word": " and",
+                    "probability": 0.1778564453125
+                },
+                {
+                    "start": 45.98,
+                    "end": 46.18,
+                    "word": " find",
+                    "probability": 0.89013671875
+                },
+                {
+                    "start": 46.18,
+                    "end": 46.52,
+                    "word": " it",
+                    "probability": 0.97021484375
+                },
+                {
+                    "start": 46.52,
+                    "end": 46.96,
+                    "word": " and",
+                    "probability": 0.95068359375
+                },
+                {
+                    "start": 46.96,
+                    "end": 47.2,
+                    "word": " teach",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 47.2,
+                    "end": 47.64,
+                    "word": " myself",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 47.64,
+                    "end": 48.0,
+                    "word": " how",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 48.0,
+                    "end": 48.1,
+                    "word": " to",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 48.1,
+                    "end": 48.34,
+                    "word": " do",
+                    "probability": 0.89697265625
+                },
+                {
+                    "start": 48.34,
+                    "end": 48.98,
+                    "word": " it.",
+                    "probability": 0.42529296875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 4684,
+            "start": 48.98,
+            "end": 59.6,
+            "text": " Okay. So I think I can survive and I can help others to whenever they need.",
+            "tokens": [
+                50364,
+                1033,
+                13,
+                407,
+                286,
+                519,
+                286,
+                393,
+                7867,
+                293,
+                286,
+                393,
+                854,
+                2357,
+                281,
+                5699,
+                436,
+                643,
+                13,
+                50864
+            ],
+            "avg_logprob": -0.2648809410276867,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.287841796875,
+            "words": [
+                {
+                    "start": 48.98,
+                    "end": 49.82,
+                    "word": " Okay.",
+                    "probability": 0.5146484375
+                },
+                {
+                    "start": 50.82,
+                    "end": 51.16,
+                    "word": " So",
+                    "probability": 0.53564453125
+                },
+                {
+                    "start": 51.16,
+                    "end": 52.7,
+                    "word": " I",
+                    "probability": 0.54638671875
+                },
+                {
+                    "start": 52.7,
+                    "end": 52.96,
+                    "word": " think",
+                    "probability": 0.9580078125
+                },
+                {
+                    "start": 52.96,
+                    "end": 53.7,
+                    "word": " I",
+                    "probability": 0.98193359375
+                },
+                {
+                    "start": 53.7,
+                    "end": 53.98,
+                    "word": " can",
+                    "probability": 0.9169921875
+                },
+                {
+                    "start": 53.98,
+                    "end": 54.56,
+                    "word": " survive",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 54.56,
+                    "end": 55.9,
+                    "word": " and",
+                    "probability": 0.935546875
+                },
+                {
+                    "start": 55.9,
+                    "end": 56.1,
+                    "word": " I",
+                    "probability": 0.8505859375
+                },
+                {
+                    "start": 56.1,
+                    "end": 57.42,
+                    "word": " can",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 57.42,
+                    "end": 57.78,
+                    "word": " help",
+                    "probability": 0.9794921875
+                },
+                {
+                    "start": 57.78,
+                    "end": 58.2,
+                    "word": " others",
+                    "probability": 0.6455078125
+                },
+                {
+                    "start": 58.2,
+                    "end": 58.54,
+                    "word": " to",
+                    "probability": 0.283203125
+                },
+                {
+                    "start": 58.54,
+                    "end": 58.9,
+                    "word": " whenever",
+                    "probability": 0.830078125
+                },
+                {
+                    "start": 58.9,
+                    "end": 59.22,
+                    "word": " they",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 59.22,
+                    "end": 59.6,
+                    "word": " need.",
+                    "probability": 0.9931640625
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " A bridge. Okay. Yeah, so sometimes it's longer, sometimes it's. Yeah. Then I would like to ask you about your own technical capabilities. So if you could just with your own words, assess your own technical capability. You mean like using a technical pause? Yes. I think I'm quite good at that. And I know that if I need to learn something, I will go and look for it and and find it and teach myself how to do it. Okay. So I think I can survive and I can help others to whenever they need."
+}

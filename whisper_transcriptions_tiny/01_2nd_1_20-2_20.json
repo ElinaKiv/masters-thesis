@@ -1,0 +1,1024 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.0,
+            "text": " Okay, great. Do you have any particular reason why you chose Whisperer?",
+            "tokens": [
+                50364,
+                1033,
+                11,
+                869,
+                13,
+                1144,
+                291,
+                362,
+                604,
+                1729,
+                1778,
+                983,
+                291,
+                5111,
+                41132,
+                610,
+                260,
+                30,
+                50664
+            ],
+            "avg_logprob": -0.23380055366193547,
+            "compression_ratio": 1.516304347826087,
+            "no_speech_prob": 0.0180206298828125,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.54,
+                    "word": " Okay,",
+                    "probability": 0.4794921875
+                },
+                {
+                    "start": 0.72,
+                    "end": 1.18,
+                    "word": " great.",
+                    "probability": 0.91650390625
+                },
+                {
+                    "start": 2.74,
+                    "end": 2.86,
+                    "word": " Do",
+                    "probability": 0.94580078125
+                },
+                {
+                    "start": 2.86,
+                    "end": 3.06,
+                    "word": " you",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 3.06,
+                    "end": 3.24,
+                    "word": " have",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 3.24,
+                    "end": 3.42,
+                    "word": " any",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 3.42,
+                    "end": 3.84,
+                    "word": " particular",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 3.84,
+                    "end": 4.52,
+                    "word": " reason",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 4.52,
+                    "end": 5.04,
+                    "word": " why",
+                    "probability": 0.90185546875
+                },
+                {
+                    "start": 5.04,
+                    "end": 5.24,
+                    "word": " you",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 5.24,
+                    "end": 5.64,
+                    "word": " chose",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 5.64,
+                    "end": 6.0,
+                    "word": " Whisperer?",
+                    "probability": 0.7117513020833334
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.88,
+            "end": 18.88,
+            "text": " I use the software that's approved by our university and I don't remember if either Whisperer was the only option",
+            "tokens": [
+                50880,
+                286,
+                764,
+                264,
+                4722,
+                300,
+                311,
+                10826,
+                538,
+                527,
+                5454,
+                293,
+                286,
+                500,
+                380,
+                1604,
+                498,
+                2139,
+                41132,
+                610,
+                260,
+                390,
+                264,
+                787,
+                3614,
+                51304
+            ],
+            "avg_logprob": -0.23380055366193547,
+            "compression_ratio": 1.516304347826087,
+            "no_speech_prob": 0.0180206298828125,
+            "words": [
+                {
+                    "start": 9.88,
+                    "end": 10.6,
+                    "word": " I",
+                    "probability": 0.75732421875
+                },
+                {
+                    "start": 10.6,
+                    "end": 10.92,
+                    "word": " use",
+                    "probability": 0.55029296875
+                },
+                {
+                    "start": 10.92,
+                    "end": 11.16,
+                    "word": " the",
+                    "probability": 0.92431640625
+                },
+                {
+                    "start": 11.16,
+                    "end": 11.46,
+                    "word": " software",
+                    "probability": 0.96728515625
+                },
+                {
+                    "start": 11.46,
+                    "end": 11.92,
+                    "word": " that's",
+                    "probability": 0.96435546875
+                },
+                {
+                    "start": 11.92,
+                    "end": 12.28,
+                    "word": " approved",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 12.28,
+                    "end": 12.96,
+                    "word": " by",
+                    "probability": 0.88427734375
+                },
+                {
+                    "start": 12.96,
+                    "end": 13.22,
+                    "word": " our",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 13.22,
+                    "end": 13.76,
+                    "word": " university",
+                    "probability": 0.80712890625
+                },
+                {
+                    "start": 13.76,
+                    "end": 15.42,
+                    "word": " and",
+                    "probability": 0.5224609375
+                },
+                {
+                    "start": 15.42,
+                    "end": 15.78,
+                    "word": " I",
+                    "probability": 0.96142578125
+                },
+                {
+                    "start": 15.78,
+                    "end": 16.0,
+                    "word": " don't",
+                    "probability": 0.997802734375
+                },
+                {
+                    "start": 16.0,
+                    "end": 16.5,
+                    "word": " remember",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 16.5,
+                    "end": 17.02,
+                    "word": " if",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 17.02,
+                    "end": 17.3,
+                    "word": " either",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 17.3,
+                    "end": 17.78,
+                    "word": " Whisperer",
+                    "probability": 0.9734700520833334
+                },
+                {
+                    "start": 17.78,
+                    "end": 17.96,
+                    "word": " was",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 17.96,
+                    "end": 18.18,
+                    "word": " the",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 18.18,
+                    "end": 18.44,
+                    "word": " only",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 18.44,
+                    "end": 18.88,
+                    "word": " option",
+                    "probability": 0.99560546875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 18.88,
+            "end": 27.28,
+            "text": " for finish in that software or if it was recommended as the best, but either of those reasons",
+            "tokens": [
+                51304,
+                337,
+                2413,
+                294,
+                300,
+                4722,
+                420,
+                498,
+                309,
+                390,
+                9628,
+                382,
+                264,
+                1151,
+                11,
+                457,
+                2139,
+                295,
+                729,
+                4112,
+                51724
+            ],
+            "avg_logprob": -0.23380055366193547,
+            "compression_ratio": 1.516304347826087,
+            "no_speech_prob": 0.0180206298828125,
+            "words": [
+                {
+                    "start": 18.88,
+                    "end": 19.2,
+                    "word": " for",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 19.2,
+                    "end": 19.52,
+                    "word": " finish",
+                    "probability": 0.7890625
+                },
+                {
+                    "start": 19.52,
+                    "end": 19.86,
+                    "word": " in",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 19.86,
+                    "end": 20.02,
+                    "word": " that",
+                    "probability": 0.9453125
+                },
+                {
+                    "start": 20.02,
+                    "end": 20.38,
+                    "word": " software",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 20.38,
+                    "end": 20.88,
+                    "word": " or",
+                    "probability": 0.70849609375
+                },
+                {
+                    "start": 20.88,
+                    "end": 21.14,
+                    "word": " if",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 21.14,
+                    "end": 21.32,
+                    "word": " it",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 21.32,
+                    "end": 21.62,
+                    "word": " was",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 21.62,
+                    "end": 22.22,
+                    "word": " recommended",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 22.22,
+                    "end": 22.62,
+                    "word": " as",
+                    "probability": 0.9677734375
+                },
+                {
+                    "start": 22.62,
+                    "end": 22.76,
+                    "word": " the",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 22.76,
+                    "end": 23.92,
+                    "word": " best,",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 24.74,
+                    "end": 25.08,
+                    "word": " but",
+                    "probability": 0.984375
+                },
+                {
+                    "start": 25.08,
+                    "end": 25.72,
+                    "word": " either",
+                    "probability": 0.96728515625
+                },
+                {
+                    "start": 25.72,
+                    "end": 25.92,
+                    "word": " of",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 25.92,
+                    "end": 26.32,
+                    "word": " those",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 26.32,
+                    "end": 27.28,
+                    "word": " reasons",
+                    "probability": 0.99853515625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2728,
+            "start": 27.28,
+            "end": 35.58,
+            "text": " what the reason I decided to use that. Okay. So would you say that you came across Whisperer by yourself",
+            "tokens": [
+                50364,
+                437,
+                264,
+                1778,
+                286,
+                3047,
+                281,
+                764,
+                300,
+                13,
+                1033,
+                13,
+                407,
+                576,
+                291,
+                584,
+                300,
+                291,
+                1361,
+                2108,
+                41132,
+                610,
+                260,
+                538,
+                1803,
+                50772
+            ],
+            "avg_logprob": -0.21472886555335102,
+            "compression_ratio": 1.494949494949495,
+            "no_speech_prob": 0.038177490234375,
+            "words": [
+                {
+                    "start": 27.28,
+                    "end": 27.54,
+                    "word": " what",
+                    "probability": 0.174560546875
+                },
+                {
+                    "start": 27.54,
+                    "end": 27.74,
+                    "word": " the",
+                    "probability": 0.73388671875
+                },
+                {
+                    "start": 27.74,
+                    "end": 27.96,
+                    "word": " reason",
+                    "probability": 0.9697265625
+                },
+                {
+                    "start": 27.96,
+                    "end": 28.42,
+                    "word": " I",
+                    "probability": 0.8642578125
+                },
+                {
+                    "start": 28.42,
+                    "end": 28.76,
+                    "word": " decided",
+                    "probability": 0.98388671875
+                },
+                {
+                    "start": 28.76,
+                    "end": 29.02,
+                    "word": " to",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 29.02,
+                    "end": 29.18,
+                    "word": " use",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 29.18,
+                    "end": 29.92,
+                    "word": " that.",
+                    "probability": 0.74609375
+                },
+                {
+                    "start": 30.28,
+                    "end": 30.28,
+                    "word": " Okay.",
+                    "probability": 0.24658203125
+                },
+                {
+                    "start": 31.94,
+                    "end": 31.96,
+                    "word": " So",
+                    "probability": 0.8515625
+                },
+                {
+                    "start": 31.96,
+                    "end": 32.12,
+                    "word": " would",
+                    "probability": 0.384033203125
+                },
+                {
+                    "start": 32.12,
+                    "end": 32.3,
+                    "word": " you",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 32.3,
+                    "end": 32.5,
+                    "word": " say",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 32.5,
+                    "end": 32.86,
+                    "word": " that",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 32.86,
+                    "end": 33.84,
+                    "word": " you",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 33.84,
+                    "end": 34.1,
+                    "word": " came",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 34.1,
+                    "end": 34.4,
+                    "word": " across",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 34.4,
+                    "end": 35.04,
+                    "word": " Whisperer",
+                    "probability": 0.36834716796875
+                },
+                {
+                    "start": 35.04,
+                    "end": 35.14,
+                    "word": " by",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 35.14,
+                    "end": 35.58,
+                    "word": " yourself",
+                    "probability": 0.97900390625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2728,
+            "start": 35.58,
+            "end": 44.36,
+            "text": " or had you heard anything about it beforehand? I might have heard the name at some point,",
+            "tokens": [
+                50772,
+                420,
+                632,
+                291,
+                2198,
+                1340,
+                466,
+                309,
+                22893,
+                30,
+                286,
+                1062,
+                362,
+                2198,
+                264,
+                1315,
+                412,
+                512,
+                935,
+                11,
+                51208
+            ],
+            "avg_logprob": -0.21472886555335102,
+            "compression_ratio": 1.494949494949495,
+            "no_speech_prob": 0.038177490234375,
+            "words": [
+                {
+                    "start": 35.58,
+                    "end": 35.96,
+                    "word": " or",
+                    "probability": 0.7841796875
+                },
+                {
+                    "start": 35.96,
+                    "end": 36.16,
+                    "word": " had",
+                    "probability": 0.97802734375
+                },
+                {
+                    "start": 36.16,
+                    "end": 36.36,
+                    "word": " you",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 36.36,
+                    "end": 36.68,
+                    "word": " heard",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 36.68,
+                    "end": 37.08,
+                    "word": " anything",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 37.08,
+                    "end": 37.5,
+                    "word": " about",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 37.5,
+                    "end": 37.7,
+                    "word": " it",
+                    "probability": 0.97265625
+                },
+                {
+                    "start": 37.7,
+                    "end": 38.1,
+                    "word": " beforehand?",
+                    "probability": 0.86279296875
+                },
+                {
+                    "start": 41.14,
+                    "end": 41.3,
+                    "word": " I",
+                    "probability": 0.78076171875
+                },
+                {
+                    "start": 41.3,
+                    "end": 41.56,
+                    "word": " might",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 41.56,
+                    "end": 41.88,
+                    "word": " have",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 41.88,
+                    "end": 42.3,
+                    "word": " heard",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 42.3,
+                    "end": 42.58,
+                    "word": " the",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 42.58,
+                    "end": 43.34,
+                    "word": " name",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 43.34,
+                    "end": 43.94,
+                    "word": " at",
+                    "probability": 0.96923828125
+                },
+                {
+                    "start": 43.94,
+                    "end": 44.06,
+                    "word": " some",
+                    "probability": 0.98046875
+                },
+                {
+                    "start": 44.06,
+                    "end": 44.36,
+                    "word": " point,",
+                    "probability": 0.99853515625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2728,
+            "start": 45.28,
+            "end": 52.12,
+            "text": " but mostly I was just I was looking through our internet for some guidance on automatic transcription",
+            "tokens": [
+                51208,
+                457,
+                5240,
+                286,
+                390,
+                445,
+                286,
+                390,
+                1237,
+                807,
+                527,
+                4705,
+                337,
+                512,
+                10056,
+                322,
+                12509,
+                35288,
+                51604
+            ],
+            "avg_logprob": -0.21472886555335102,
+            "compression_ratio": 1.494949494949495,
+            "no_speech_prob": 0.038177490234375,
+            "words": [
+                {
+                    "start": 45.28,
+                    "end": 45.28,
+                    "word": " but",
+                    "probability": 0.9794921875
+                },
+                {
+                    "start": 45.48,
+                    "end": 45.8,
+                    "word": " mostly",
+                    "probability": 0.962890625
+                },
+                {
+                    "start": 45.8,
+                    "end": 46.06,
+                    "word": " I",
+                    "probability": 0.83935546875
+                },
+                {
+                    "start": 46.06,
+                    "end": 46.3,
+                    "word": " was",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 46.3,
+                    "end": 46.76,
+                    "word": " just",
+                    "probability": 0.81298828125
+                },
+                {
+                    "start": 46.76,
+                    "end": 47.14,
+                    "word": " I",
+                    "probability": 0.2325439453125
+                },
+                {
+                    "start": 47.14,
+                    "end": 47.28,
+                    "word": " was",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 47.28,
+                    "end": 47.54,
+                    "word": " looking",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 47.54,
+                    "end": 47.88,
+                    "word": " through",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 47.88,
+                    "end": 48.18,
+                    "word": " our",
+                    "probability": 0.88525390625
+                },
+                {
+                    "start": 48.18,
+                    "end": 48.64,
+                    "word": " internet",
+                    "probability": 0.80126953125
+                },
+                {
+                    "start": 48.64,
+                    "end": 49.0,
+                    "word": " for",
+                    "probability": 0.65283203125
+                },
+                {
+                    "start": 49.0,
+                    "end": 49.28,
+                    "word": " some",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 49.28,
+                    "end": 49.66,
+                    "word": " guidance",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 49.66,
+                    "end": 51.16,
+                    "word": " on",
+                    "probability": 0.95703125
+                },
+                {
+                    "start": 51.16,
+                    "end": 51.54,
+                    "word": " automatic",
+                    "probability": 0.9150390625
+                },
+                {
+                    "start": 51.54,
+                    "end": 52.12,
+                    "word": " transcription",
+                    "probability": 0.9736328125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 5212,
+            "start": 52.12,
+            "end": 59.68,
+            "text": " of the data and there it was mentioned that recommended to use it if you want to use some sort of automation.",
+            "tokens": [
+                50364,
+                295,
+                264,
+                1412,
+                293,
+                456,
+                309,
+                390,
+                2835,
+                300,
+                9628,
+                281,
+                764,
+                309,
+                498,
+                291,
+                528,
+                281,
+                764,
+                512,
+                1333,
+                295,
+                17769,
+                13,
+                50764
+            ],
+            "avg_logprob": -0.3614783573609132,
+            "compression_ratio": 1.3132530120481927,
+            "no_speech_prob": 0.041046142578125,
+            "words": [
+                {
+                    "start": 52.12,
+                    "end": 52.86,
+                    "word": " of",
+                    "probability": 0.6669921875
+                },
+                {
+                    "start": 52.86,
+                    "end": 53.3,
+                    "word": " the",
+                    "probability": 0.95361328125
+                },
+                {
+                    "start": 53.3,
+                    "end": 54.2,
+                    "word": " data",
+                    "probability": 0.35107421875
+                },
+                {
+                    "start": 54.2,
+                    "end": 54.58,
+                    "word": " and",
+                    "probability": 0.6455078125
+                },
+                {
+                    "start": 54.58,
+                    "end": 54.86,
+                    "word": " there",
+                    "probability": 0.72314453125
+                },
+                {
+                    "start": 54.86,
+                    "end": 55.04,
+                    "word": " it",
+                    "probability": 0.87744140625
+                },
+                {
+                    "start": 55.04,
+                    "end": 55.38,
+                    "word": " was",
+                    "probability": 0.90625
+                },
+                {
+                    "start": 55.38,
+                    "end": 55.96,
+                    "word": " mentioned",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 55.96,
+                    "end": 56.62,
+                    "word": " that",
+                    "probability": 0.85498046875
+                },
+                {
+                    "start": 56.62,
+                    "end": 57.22,
+                    "word": " recommended",
+                    "probability": 0.599609375
+                },
+                {
+                    "start": 57.22,
+                    "end": 57.66,
+                    "word": " to",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 57.66,
+                    "end": 57.88,
+                    "word": " use",
+                    "probability": 0.931640625
+                },
+                {
+                    "start": 57.88,
+                    "end": 58.04,
+                    "word": " it",
+                    "probability": 0.7265625
+                },
+                {
+                    "start": 58.04,
+                    "end": 58.22,
+                    "word": " if",
+                    "probability": 0.9296875
+                },
+                {
+                    "start": 58.22,
+                    "end": 58.34,
+                    "word": " you",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 58.34,
+                    "end": 58.56,
+                    "word": " want",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 58.56,
+                    "end": 58.62,
+                    "word": " to",
+                    "probability": 0.9873046875
+                },
+                {
+                    "start": 58.62,
+                    "end": 58.84,
+                    "word": " use",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 58.84,
+                    "end": 59.06,
+                    "word": " some",
+                    "probability": 0.724609375
+                },
+                {
+                    "start": 59.06,
+                    "end": 59.24,
+                    "word": " sort",
+                    "probability": 0.767578125
+                },
+                {
+                    "start": 59.24,
+                    "end": 59.38,
+                    "word": " of",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 59.38,
+                    "end": 59.68,
+                    "word": " automation.",
+                    "probability": 0.59716796875
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " Okay, great. Do you have any particular reason why you chose Whisperer? I use the software that's approved by our university and I don't remember if either Whisperer was the only option for finish in that software or if it was recommended as the best, but either of those reasons what the reason I decided to use that. Okay. So would you say that you came across Whisperer by yourself or had you heard anything about it beforehand? I might have heard the name at some point, but mostly I was just I was looking through our internet for some guidance on automatic transcription of the data and there it was mentioned that recommended to use it if you want to use some sort of automation."
+}

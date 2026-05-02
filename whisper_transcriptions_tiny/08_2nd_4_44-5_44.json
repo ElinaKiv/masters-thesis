@@ -1,0 +1,928 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.64,
+            "text": " And you already mentioned that you have heard about me spurs, but you hadn't used it all.",
+            "tokens": [
+                50364,
+                400,
+                291,
+                1217,
+                2835,
+                300,
+                291,
+                362,
+                2198,
+                466,
+                385,
+                637,
+                2156,
+                11,
+                457,
+                291,
+                8782,
+                380,
+                1143,
+                309,
+                439,
+                13,
+                50714
+            ],
+            "avg_logprob": -0.3288143483154914,
+            "compression_ratio": 1.5144508670520231,
+            "no_speech_prob": 0.055267333984375,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.82,
+                    "word": " And",
+                    "probability": 0.5400390625
+                },
+                {
+                    "start": 0.82,
+                    "end": 1.34,
+                    "word": " you",
+                    "probability": 0.72900390625
+                },
+                {
+                    "start": 1.34,
+                    "end": 1.6,
+                    "word": " already",
+                    "probability": 0.57421875
+                },
+                {
+                    "start": 1.6,
+                    "end": 2.02,
+                    "word": " mentioned",
+                    "probability": 0.98291015625
+                },
+                {
+                    "start": 2.02,
+                    "end": 2.36,
+                    "word": " that",
+                    "probability": 0.96435546875
+                },
+                {
+                    "start": 2.36,
+                    "end": 2.58,
+                    "word": " you",
+                    "probability": 0.98583984375
+                },
+                {
+                    "start": 2.58,
+                    "end": 2.86,
+                    "word": " have",
+                    "probability": 0.88671875
+                },
+                {
+                    "start": 2.86,
+                    "end": 3.14,
+                    "word": " heard",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 3.14,
+                    "end": 3.54,
+                    "word": " about",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 3.54,
+                    "end": 3.7,
+                    "word": " me",
+                    "probability": 0.0653076171875
+                },
+                {
+                    "start": 3.7,
+                    "end": 4.08,
+                    "word": " spurs,",
+                    "probability": 0.24493408203125
+                },
+                {
+                    "start": 4.32,
+                    "end": 4.32,
+                    "word": " but",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 4.42,
+                    "end": 4.48,
+                    "word": " you",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 4.48,
+                    "end": 4.96,
+                    "word": " hadn't",
+                    "probability": 0.96142578125
+                },
+                {
+                    "start": 4.96,
+                    "end": 5.32,
+                    "word": " used",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 5.32,
+                    "end": 5.6,
+                    "word": " it",
+                    "probability": 0.94921875
+                },
+                {
+                    "start": 5.6,
+                    "end": 6.64,
+                    "word": " all.",
+                    "probability": 0.281982421875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.92,
+            "end": 17.2,
+            "text": " Yeah, I actually I have also been working as a with some as a translator at some point.",
+            "tokens": [
+                50714,
+                865,
+                11,
+                286,
+                767,
+                286,
+                362,
+                611,
+                668,
+                1364,
+                382,
+                257,
+                365,
+                512,
+                382,
+                257,
+                35223,
+                412,
+                512,
+                935,
+                13,
+                51264
+            ],
+            "avg_logprob": -0.3288143483154914,
+            "compression_ratio": 1.5144508670520231,
+            "no_speech_prob": 0.055267333984375,
+            "words": [
+                {
+                    "start": 7.92,
+                    "end": 7.92,
+                    "word": " Yeah,",
+                    "probability": 0.6650390625
+                },
+                {
+                    "start": 8.64,
+                    "end": 10.16,
+                    "word": " I",
+                    "probability": 0.34228515625
+                },
+                {
+                    "start": 10.16,
+                    "end": 11.52,
+                    "word": " actually",
+                    "probability": 0.413818359375
+                },
+                {
+                    "start": 11.52,
+                    "end": 11.96,
+                    "word": " I",
+                    "probability": 0.58349609375
+                },
+                {
+                    "start": 11.96,
+                    "end": 12.14,
+                    "word": " have",
+                    "probability": 0.943359375
+                },
+                {
+                    "start": 12.14,
+                    "end": 12.42,
+                    "word": " also",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 12.42,
+                    "end": 12.68,
+                    "word": " been",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 12.68,
+                    "end": 13.26,
+                    "word": " working",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 13.26,
+                    "end": 13.9,
+                    "word": " as",
+                    "probability": 0.6611328125
+                },
+                {
+                    "start": 13.9,
+                    "end": 14.46,
+                    "word": " a",
+                    "probability": 0.82421875
+                },
+                {
+                    "start": 14.46,
+                    "end": 14.76,
+                    "word": " with",
+                    "probability": 0.302978515625
+                },
+                {
+                    "start": 14.76,
+                    "end": 15.1,
+                    "word": " some",
+                    "probability": 0.9169921875
+                },
+                {
+                    "start": 15.1,
+                    "end": 15.7,
+                    "word": " as",
+                    "probability": 0.92333984375
+                },
+                {
+                    "start": 15.7,
+                    "end": 15.84,
+                    "word": " a",
+                    "probability": 0.896484375
+                },
+                {
+                    "start": 15.84,
+                    "end": 16.28,
+                    "word": " translator",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 16.28,
+                    "end": 16.78,
+                    "word": " at",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 16.78,
+                    "end": 16.92,
+                    "word": " some",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 16.92,
+                    "end": 17.2,
+                    "word": " point.",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 17.92,
+            "end": 28.08,
+            "text": " I used it to because I got an assignment to translate a video, which was in Finnish,",
+            "tokens": [
+                51264,
+                286,
+                1143,
+                309,
+                281,
+                570,
+                286,
+                658,
+                364,
+                15187,
+                281,
+                13799,
+                257,
+                960,
+                11,
+                597,
+                390,
+                294,
+                38429,
+                11,
+                51764
+            ],
+            "avg_logprob": -0.3288143483154914,
+            "compression_ratio": 1.5144508670520231,
+            "no_speech_prob": 0.055267333984375,
+            "words": [
+                {
+                    "start": 17.92,
+                    "end": 18.3,
+                    "word": " I",
+                    "probability": 0.21240234375
+                },
+                {
+                    "start": 18.3,
+                    "end": 18.6,
+                    "word": " used",
+                    "probability": 0.98046875
+                },
+                {
+                    "start": 18.6,
+                    "end": 19.14,
+                    "word": " it",
+                    "probability": 0.978515625
+                },
+                {
+                    "start": 19.14,
+                    "end": 19.66,
+                    "word": " to",
+                    "probability": 0.8564453125
+                },
+                {
+                    "start": 19.66,
+                    "end": 20.02,
+                    "word": " because",
+                    "probability": 0.7294921875
+                },
+                {
+                    "start": 20.02,
+                    "end": 20.34,
+                    "word": " I",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 20.34,
+                    "end": 20.9,
+                    "word": " got",
+                    "probability": 0.90283203125
+                },
+                {
+                    "start": 20.9,
+                    "end": 21.94,
+                    "word": " an",
+                    "probability": 0.96826171875
+                },
+                {
+                    "start": 21.94,
+                    "end": 22.44,
+                    "word": " assignment",
+                    "probability": 0.9892578125
+                },
+                {
+                    "start": 22.44,
+                    "end": 23.84,
+                    "word": " to",
+                    "probability": 0.96484375
+                },
+                {
+                    "start": 23.84,
+                    "end": 24.14,
+                    "word": " translate",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 24.14,
+                    "end": 24.42,
+                    "word": " a",
+                    "probability": 0.95263671875
+                },
+                {
+                    "start": 24.42,
+                    "end": 25.02,
+                    "word": " video,",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 25.6,
+                    "end": 26.36,
+                    "word": " which",
+                    "probability": 0.94775390625
+                },
+                {
+                    "start": 26.36,
+                    "end": 26.74,
+                    "word": " was",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 26.74,
+                    "end": 27.46,
+                    "word": " in",
+                    "probability": 0.9208984375
+                },
+                {
+                    "start": 27.46,
+                    "end": 28.08,
+                    "word": " Finnish,",
+                    "probability": 0.192626953125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2808,
+            "start": 28.08,
+            "end": 40.26,
+            "text": " but it was from Finnish to Swedish. So I used whisper to create the transcription to help the translation task in this video.",
+            "tokens": [
+                50364,
+                457,
+                309,
+                390,
+                490,
+                38429,
+                281,
+                23523,
+                13,
+                407,
+                286,
+                1143,
+                26018,
+                281,
+                1884,
+                264,
+                35288,
+                281,
+                854,
+                264,
+                12853,
+                5633,
+                294,
+                341,
+                960,
+                13,
+                50964
+            ],
+            "avg_logprob": -0.22316028562284285,
+            "compression_ratio": 1.4261363636363635,
+            "no_speech_prob": 0.05792236328125,
+            "words": [
+                {
+                    "start": 28.08,
+                    "end": 28.66,
+                    "word": " but",
+                    "probability": 0.00616455078125
+                },
+                {
+                    "start": 28.66,
+                    "end": 28.66,
+                    "word": " it",
+                    "probability": 0.1583251953125
+                },
+                {
+                    "start": 28.76,
+                    "end": 28.84,
+                    "word": " was",
+                    "probability": 0.91845703125
+                },
+                {
+                    "start": 28.84,
+                    "end": 29.06,
+                    "word": " from",
+                    "probability": 0.96533203125
+                },
+                {
+                    "start": 29.06,
+                    "end": 29.32,
+                    "word": " Finnish",
+                    "probability": 0.2017822265625
+                },
+                {
+                    "start": 29.32,
+                    "end": 29.48,
+                    "word": " to",
+                    "probability": 0.4921875
+                },
+                {
+                    "start": 29.48,
+                    "end": 29.8,
+                    "word": " Swedish.",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 30.6,
+                    "end": 30.64,
+                    "word": " So",
+                    "probability": 0.927734375
+                },
+                {
+                    "start": 30.64,
+                    "end": 30.8,
+                    "word": " I",
+                    "probability": 0.89501953125
+                },
+                {
+                    "start": 30.8,
+                    "end": 31.44,
+                    "word": " used",
+                    "probability": 0.9755859375
+                },
+                {
+                    "start": 31.44,
+                    "end": 31.96,
+                    "word": " whisper",
+                    "probability": 0.4892578125
+                },
+                {
+                    "start": 31.96,
+                    "end": 32.54,
+                    "word": " to",
+                    "probability": 0.97265625
+                },
+                {
+                    "start": 32.54,
+                    "end": 33.1,
+                    "word": " create",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 33.1,
+                    "end": 34.4,
+                    "word": " the",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 34.4,
+                    "end": 34.92,
+                    "word": " transcription",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 34.92,
+                    "end": 36.32,
+                    "word": " to",
+                    "probability": 0.9638671875
+                },
+                {
+                    "start": 36.32,
+                    "end": 37.04,
+                    "word": " help",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 37.04,
+                    "end": 38.66,
+                    "word": " the",
+                    "probability": 0.96875
+                },
+                {
+                    "start": 38.66,
+                    "end": 39.06,
+                    "word": " translation",
+                    "probability": 0.9794921875
+                },
+                {
+                    "start": 39.06,
+                    "end": 39.76,
+                    "word": " task",
+                    "probability": 0.7939453125
+                },
+                {
+                    "start": 39.76,
+                    "end": 39.94,
+                    "word": " in",
+                    "probability": 0.6875
+                },
+                {
+                    "start": 39.94,
+                    "end": 40.08,
+                    "word": " this",
+                    "probability": 0.33935546875
+                },
+                {
+                    "start": 40.08,
+                    "end": 40.26,
+                    "word": " video.",
+                    "probability": 0.31640625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2808,
+            "start": 40.52,
+            "end": 48.22,
+            "text": " But that was not related to my current academic research.",
+            "tokens": [
+                50964,
+                583,
+                300,
+                390,
+                406,
+                4077,
+                281,
+                452,
+                2190,
+                7778,
+                2132,
+                13,
+                51414
+            ],
+            "avg_logprob": -0.22316028562284285,
+            "compression_ratio": 1.4261363636363635,
+            "no_speech_prob": 0.05792236328125,
+            "words": [
+                {
+                    "start": 40.52,
+                    "end": 40.52,
+                    "word": " But",
+                    "probability": 0.96875
+                },
+                {
+                    "start": 40.54,
+                    "end": 40.68,
+                    "word": " that",
+                    "probability": 0.97607421875
+                },
+                {
+                    "start": 40.68,
+                    "end": 41.56,
+                    "word": " was",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 41.56,
+                    "end": 42.68,
+                    "word": " not",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 42.68,
+                    "end": 44.24,
+                    "word": " related",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 44.24,
+                    "end": 44.96,
+                    "word": " to",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 44.96,
+                    "end": 45.08,
+                    "word": " my",
+                    "probability": 0.8662109375
+                },
+                {
+                    "start": 45.08,
+                    "end": 45.56,
+                    "word": " current",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 45.56,
+                    "end": 46.14,
+                    "word": " academic",
+                    "probability": 0.8623046875
+                },
+                {
+                    "start": 46.14,
+                    "end": 48.22,
+                    "word": " research.",
+                    "probability": 0.98974609375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2808,
+            "start": 49.12,
+            "end": 52.36,
+            "text": " Okay, yeah, but do you have a little experience with whisper?",
+            "tokens": [
+                51414,
+                1033,
+                11,
+                1338,
+                11,
+                457,
+                360,
+                291,
+                362,
+                257,
+                707,
+                1752,
+                365,
+                26018,
+                30,
+                51614
+            ],
+            "avg_logprob": -0.22316028562284285,
+            "compression_ratio": 1.4261363636363635,
+            "no_speech_prob": 0.05792236328125,
+            "words": [
+                {
+                    "start": 49.12,
+                    "end": 49.88,
+                    "word": " Okay,",
+                    "probability": 0.15576171875
+                },
+                {
+                    "start": 50.06,
+                    "end": 50.18,
+                    "word": " yeah,",
+                    "probability": 0.58251953125
+                },
+                {
+                    "start": 50.26,
+                    "end": 50.3,
+                    "word": " but",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 50.3,
+                    "end": 50.44,
+                    "word": " do",
+                    "probability": 0.591796875
+                },
+                {
+                    "start": 50.44,
+                    "end": 50.64,
+                    "word": " you",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 50.64,
+                    "end": 50.64,
+                    "word": " have",
+                    "probability": 1.0
+                },
+                {
+                    "start": 50.66,
+                    "end": 50.72,
+                    "word": " a",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 50.72,
+                    "end": 50.96,
+                    "word": " little",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 50.96,
+                    "end": 51.56,
+                    "word": " experience",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 51.56,
+                    "end": 51.98,
+                    "word": " with",
+                    "probability": 0.90869140625
+                },
+                {
+                    "start": 51.98,
+                    "end": 52.36,
+                    "word": " whisper?",
+                    "probability": 0.88232421875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 2808,
+            "start": 53.02,
+            "end": 53.3,
+            "text": " Yeah.",
+            "tokens": [
+                51614,
+                865,
+                13,
+                51664
+            ],
+            "avg_logprob": -0.22316028562284285,
+            "compression_ratio": 1.4261363636363635,
+            "no_speech_prob": 0.05792236328125,
+            "words": [
+                {
+                    "start": 53.02,
+                    "end": 53.3,
+                    "word": " Yeah.",
+                    "probability": 0.69921875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 8,
+            "seek": 5330,
+            "start": 54.68,
+            "end": 59.72,
+            "text": " Do you remember why you chose whisper when you used it a little?",
+            "tokens": [
+                50364,
+                1144,
+                291,
+                1604,
+                983,
+                291,
+                5111,
+                26018,
+                562,
+                291,
+                1143,
+                309,
+                257,
+                707,
+                30,
+                50714
+            ],
+            "avg_logprob": -0.10989200367647059,
+            "compression_ratio": 1.0491803278688525,
+            "no_speech_prob": 0.00478363037109375,
+            "words": [
+                {
+                    "start": 54.68,
+                    "end": 55.42,
+                    "word": " Do",
+                    "probability": 0.72607421875
+                },
+                {
+                    "start": 55.42,
+                    "end": 55.62,
+                    "word": " you",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 55.62,
+                    "end": 56.08,
+                    "word": " remember",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 56.08,
+                    "end": 56.72,
+                    "word": " why",
+                    "probability": 0.9306640625
+                },
+                {
+                    "start": 56.72,
+                    "end": 57.02,
+                    "word": " you",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 57.02,
+                    "end": 57.46,
+                    "word": " chose",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 57.46,
+                    "end": 57.94,
+                    "word": " whisper",
+                    "probability": 0.2322998046875
+                },
+                {
+                    "start": 57.94,
+                    "end": 58.48,
+                    "word": " when",
+                    "probability": 0.92431640625
+                },
+                {
+                    "start": 58.48,
+                    "end": 58.94,
+                    "word": " you",
+                    "probability": 0.978515625
+                },
+                {
+                    "start": 58.94,
+                    "end": 59.24,
+                    "word": " used",
+                    "probability": 0.927734375
+                },
+                {
+                    "start": 59.24,
+                    "end": 59.44,
+                    "word": " it",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 59.44,
+                    "end": 59.48,
+                    "word": " a",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 59.48,
+                    "end": 59.72,
+                    "word": " little?",
+                    "probability": 0.99755859375
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " And you already mentioned that you have heard about me spurs, but you hadn't used it all. Yeah, I actually I have also been working as a with some as a translator at some point. I used it to because I got an assignment to translate a video, which was in Finnish, but it was from Finnish to Swedish. So I used whisper to create the transcription to help the translation task in this video. But that was not related to my current academic research. Okay, yeah, but do you have a little experience with whisper? Yeah. Do you remember why you chose whisper when you used it a little?"
+}

@@ -1,0 +1,925 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 24.2,
+            "text": " Okay. And then related to this, if you could choose a language model that would either be very, very fast, but not that accurate or not 100% accurate, or language model that works slowly, but produces again verbatim transcriptions, which one would you choose?",
+            "tokens": [
+                50364,
+                1033,
+                13,
+                400,
+                550,
+                4077,
+                281,
+                341,
+                11,
+                498,
+                291,
+                727,
+                2826,
+                257,
+                2856,
+                2316,
+                300,
+                576,
+                2139,
+                312,
+                588,
+                11,
+                588,
+                2370,
+                11,
+                457,
+                406,
+                300,
+                8559,
+                420,
+                406,
+                2319,
+                4,
+                8559,
+                11,
+                420,
+                2856,
+                2316,
+                300,
+                1985,
+                5692,
+                11,
+                457,
+                14725,
+                797,
+                9595,
+                267,
+                332,
+                24444,
+                626,
+                11,
+                597,
+                472,
+                576,
+                291,
+                2826,
+                30,
+                51564
+            ],
+            "avg_logprob": -0.2339843690395355,
+            "compression_ratio": 1.5416666666666667,
+            "no_speech_prob": 0.1265869140625,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.78,
+                    "word": " Okay.",
+                    "probability": 0.40966796875
+                },
+                {
+                    "start": 2.58,
+                    "end": 2.68,
+                    "word": " And",
+                    "probability": 0.84814453125
+                },
+                {
+                    "start": 2.68,
+                    "end": 3.0,
+                    "word": " then",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 3.0,
+                    "end": 3.38,
+                    "word": " related",
+                    "probability": 0.88427734375
+                },
+                {
+                    "start": 3.38,
+                    "end": 3.62,
+                    "word": " to",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 3.62,
+                    "end": 4.3,
+                    "word": " this,",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 4.34,
+                    "end": 4.76,
+                    "word": " if",
+                    "probability": 0.95947265625
+                },
+                {
+                    "start": 4.76,
+                    "end": 4.94,
+                    "word": " you",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 4.94,
+                    "end": 5.32,
+                    "word": " could",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 5.32,
+                    "end": 5.94,
+                    "word": " choose",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 5.94,
+                    "end": 6.32,
+                    "word": " a",
+                    "probability": 0.9873046875
+                },
+                {
+                    "start": 6.32,
+                    "end": 6.58,
+                    "word": " language",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 6.58,
+                    "end": 7.12,
+                    "word": " model",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 7.12,
+                    "end": 8.1,
+                    "word": " that",
+                    "probability": 0.76318359375
+                },
+                {
+                    "start": 8.1,
+                    "end": 8.48,
+                    "word": " would",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 8.48,
+                    "end": 8.8,
+                    "word": " either",
+                    "probability": 0.9873046875
+                },
+                {
+                    "start": 8.8,
+                    "end": 9.54,
+                    "word": " be",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 9.54,
+                    "end": 9.96,
+                    "word": " very,",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 9.96,
+                    "end": 10.28,
+                    "word": " very",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 10.28,
+                    "end": 11.16,
+                    "word": " fast,",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 11.86,
+                    "end": 12.18,
+                    "word": " but",
+                    "probability": 0.974609375
+                },
+                {
+                    "start": 12.18,
+                    "end": 12.7,
+                    "word": " not",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 12.7,
+                    "end": 13.28,
+                    "word": " that",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 13.28,
+                    "end": 13.72,
+                    "word": " accurate",
+                    "probability": 0.9697265625
+                },
+                {
+                    "start": 13.72,
+                    "end": 14.54,
+                    "word": " or",
+                    "probability": 0.6640625
+                },
+                {
+                    "start": 14.54,
+                    "end": 15.02,
+                    "word": " not",
+                    "probability": 0.96240234375
+                },
+                {
+                    "start": 15.02,
+                    "end": 15.42,
+                    "word": " 100",
+                    "probability": 0.91748046875
+                },
+                {
+                    "start": 15.42,
+                    "end": 15.92,
+                    "word": "%",
+                    "probability": 0.82763671875
+                },
+                {
+                    "start": 15.92,
+                    "end": 16.32,
+                    "word": " accurate,",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 16.88,
+                    "end": 17.14,
+                    "word": " or",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 17.14,
+                    "end": 17.52,
+                    "word": " language",
+                    "probability": 0.465576171875
+                },
+                {
+                    "start": 17.52,
+                    "end": 17.92,
+                    "word": " model",
+                    "probability": 0.98388671875
+                },
+                {
+                    "start": 17.92,
+                    "end": 18.24,
+                    "word": " that",
+                    "probability": 0.943359375
+                },
+                {
+                    "start": 18.24,
+                    "end": 18.6,
+                    "word": " works",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 18.6,
+                    "end": 19.3,
+                    "word": " slowly,",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 19.68,
+                    "end": 19.88,
+                    "word": " but",
+                    "probability": 0.984375
+                },
+                {
+                    "start": 19.88,
+                    "end": 20.26,
+                    "word": " produces",
+                    "probability": 0.98583984375
+                },
+                {
+                    "start": 20.26,
+                    "end": 21.04,
+                    "word": " again",
+                    "probability": 0.63427734375
+                },
+                {
+                    "start": 21.04,
+                    "end": 21.66,
+                    "word": " verbatim",
+                    "probability": 0.9083658854166666
+                },
+                {
+                    "start": 21.66,
+                    "end": 22.76,
+                    "word": " transcriptions,",
+                    "probability": 0.8759765625
+                },
+                {
+                    "start": 23.1,
+                    "end": 23.18,
+                    "word": " which",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 23.18,
+                    "end": 23.34,
+                    "word": " one",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 23.34,
+                    "end": 23.56,
+                    "word": " would",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 23.56,
+                    "end": 23.68,
+                    "word": " you",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 23.68,
+                    "end": 24.2,
+                    "word": " choose?",
+                    "probability": 0.99462890625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 2420,
+            "start": 24.2,
+            "end": 40.32,
+            "text": " Well, and research, always the first. Do you ever have to need to create transcriptions in the moment that while the audio is playing the transcriptions are created simultaneously?",
+            "tokens": [
+                50364,
+                1042,
+                11,
+                293,
+                2132,
+                11,
+                1009,
+                264,
+                700,
+                13,
+                1144,
+                291,
+                1562,
+                362,
+                281,
+                643,
+                281,
+                1884,
+                24444,
+                626,
+                294,
+                264,
+                1623,
+                300,
+                1339,
+                264,
+                6278,
+                307,
+                2433,
+                264,
+                24444,
+                626,
+                366,
+                2942,
+                16561,
+                30,
+                51164
+            ],
+            "avg_logprob": -0.2701704480431297,
+            "compression_ratio": 1.5302013422818792,
+            "no_speech_prob": 0.280517578125,
+            "words": [
+                {
+                    "start": 24.2,
+                    "end": 24.98,
+                    "word": " Well,",
+                    "probability": 0.517578125
+                },
+                {
+                    "start": 25.0,
+                    "end": 25.1,
+                    "word": " and",
+                    "probability": 0.50830078125
+                },
+                {
+                    "start": 25.1,
+                    "end": 25.58,
+                    "word": " research,",
+                    "probability": 0.98388671875
+                },
+                {
+                    "start": 26.12,
+                    "end": 26.18,
+                    "word": " always",
+                    "probability": 0.923828125
+                },
+                {
+                    "start": 26.18,
+                    "end": 26.42,
+                    "word": " the",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 26.42,
+                    "end": 27.1,
+                    "word": " first.",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 28.62,
+                    "end": 29.24,
+                    "word": " Do",
+                    "probability": 0.4580078125
+                },
+                {
+                    "start": 29.24,
+                    "end": 29.48,
+                    "word": " you",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 29.48,
+                    "end": 29.78,
+                    "word": " ever",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 29.78,
+                    "end": 30.14,
+                    "word": " have",
+                    "probability": 0.97216796875
+                },
+                {
+                    "start": 30.14,
+                    "end": 30.26,
+                    "word": " to",
+                    "probability": 0.6923828125
+                },
+                {
+                    "start": 30.26,
+                    "end": 30.72,
+                    "word": " need",
+                    "probability": 0.9755859375
+                },
+                {
+                    "start": 30.72,
+                    "end": 30.92,
+                    "word": " to",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 30.92,
+                    "end": 31.34,
+                    "word": " create",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 31.34,
+                    "end": 32.86,
+                    "word": " transcriptions",
+                    "probability": 0.94921875
+                },
+                {
+                    "start": 32.86,
+                    "end": 33.36,
+                    "word": " in",
+                    "probability": 0.953125
+                },
+                {
+                    "start": 33.36,
+                    "end": 33.56,
+                    "word": " the",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 33.56,
+                    "end": 34.18,
+                    "word": " moment",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 34.18,
+                    "end": 35.34,
+                    "word": " that",
+                    "probability": 0.693359375
+                },
+                {
+                    "start": 35.34,
+                    "end": 36.72,
+                    "word": " while",
+                    "probability": 0.81640625
+                },
+                {
+                    "start": 36.72,
+                    "end": 36.94,
+                    "word": " the",
+                    "probability": 0.9775390625
+                },
+                {
+                    "start": 36.94,
+                    "end": 37.2,
+                    "word": " audio",
+                    "probability": 0.91650390625
+                },
+                {
+                    "start": 37.2,
+                    "end": 37.42,
+                    "word": " is",
+                    "probability": 0.7177734375
+                },
+                {
+                    "start": 37.42,
+                    "end": 37.72,
+                    "word": " playing",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 37.72,
+                    "end": 38.24,
+                    "word": " the",
+                    "probability": 0.564453125
+                },
+                {
+                    "start": 38.24,
+                    "end": 38.94,
+                    "word": " transcriptions",
+                    "probability": 0.997314453125
+                },
+                {
+                    "start": 38.94,
+                    "end": 39.26,
+                    "word": " are",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 39.26,
+                    "end": 39.66,
+                    "word": " created",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 39.66,
+                    "end": 40.32,
+                    "word": " simultaneously?",
+                    "probability": 0.98828125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 2420,
+            "start": 41.44,
+            "end": 44.4,
+            "text": " Nope. Okay, no need for that. No need for that.",
+            "tokens": [
+                51164,
+                12172,
+                13,
+                1033,
+                11,
+                572,
+                643,
+                337,
+                300,
+                13,
+                883,
+                643,
+                337,
+                300,
+                13,
+                51364
+            ],
+            "avg_logprob": -0.2701704480431297,
+            "compression_ratio": 1.5302013422818792,
+            "no_speech_prob": 0.280517578125,
+            "words": [
+                {
+                    "start": 41.44,
+                    "end": 41.44,
+                    "word": " Nope.",
+                    "probability": 0.48876953125
+                },
+                {
+                    "start": 42.52,
+                    "end": 42.54,
+                    "word": " Okay,",
+                    "probability": 0.55615234375
+                },
+                {
+                    "start": 42.68,
+                    "end": 42.76,
+                    "word": " no",
+                    "probability": 0.9619140625
+                },
+                {
+                    "start": 42.76,
+                    "end": 42.92,
+                    "word": " need",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 42.92,
+                    "end": 43.04,
+                    "word": " for",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 43.04,
+                    "end": 43.4,
+                    "word": " that.",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 43.54,
+                    "end": 43.78,
+                    "word": " No",
+                    "probability": 0.66015625
+                },
+                {
+                    "start": 43.78,
+                    "end": 44.0,
+                    "word": " need",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 44.0,
+                    "end": 44.14,
+                    "word": " for",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 44.14,
+                    "end": 44.4,
+                    "word": " that.",
+                    "probability": 0.990234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 4440,
+            "start": 44.4,
+            "end": 59.3,
+            "text": " Okay. And then I would ask about your or maybe also your research groups technical capabilities. So if you just with your own words, if you could estimate what your technical capabilities are like.",
+            "tokens": [
+                50364,
+                1033,
+                13,
+                400,
+                550,
+                286,
+                576,
+                1029,
+                466,
+                428,
+                420,
+                1310,
+                611,
+                428,
+                2132,
+                3935,
+                6191,
+                10862,
+                13,
+                407,
+                498,
+                291,
+                445,
+                365,
+                428,
+                1065,
+                2283,
+                11,
+                498,
+                291,
+                727,
+                12539,
+                437,
+                428,
+                6191,
+                10862,
+                366,
+                411,
+                13,
+                51114
+            ],
+            "avg_logprob": -0.15558308217583633,
+            "compression_ratio": 1.481203007518797,
+            "no_speech_prob": 0.322265625,
+            "words": [
+                {
+                    "start": 44.4,
+                    "end": 45.32,
+                    "word": " Okay.",
+                    "probability": 0.319091796875
+                },
+                {
+                    "start": 47.28,
+                    "end": 47.34,
+                    "word": " And",
+                    "probability": 0.35791015625
+                },
+                {
+                    "start": 47.34,
+                    "end": 47.48,
+                    "word": " then",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 47.48,
+                    "end": 47.56,
+                    "word": " I",
+                    "probability": 0.97998046875
+                },
+                {
+                    "start": 47.56,
+                    "end": 47.7,
+                    "word": " would",
+                    "probability": 0.97314453125
+                },
+                {
+                    "start": 47.7,
+                    "end": 47.96,
+                    "word": " ask",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 47.96,
+                    "end": 48.84,
+                    "word": " about",
+                    "probability": 0.97265625
+                },
+                {
+                    "start": 48.84,
+                    "end": 49.36,
+                    "word": " your",
+                    "probability": 0.47705078125
+                },
+                {
+                    "start": 49.36,
+                    "end": 49.82,
+                    "word": " or",
+                    "probability": 0.443359375
+                },
+                {
+                    "start": 49.82,
+                    "end": 50.1,
+                    "word": " maybe",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 50.1,
+                    "end": 50.5,
+                    "word": " also",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 50.5,
+                    "end": 51.1,
+                    "word": " your",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 51.1,
+                    "end": 51.46,
+                    "word": " research",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 51.46,
+                    "end": 52.1,
+                    "word": " groups",
+                    "probability": 0.880859375
+                },
+                {
+                    "start": 52.1,
+                    "end": 52.7,
+                    "word": " technical",
+                    "probability": 0.91796875
+                },
+                {
+                    "start": 52.7,
+                    "end": 53.48,
+                    "word": " capabilities.",
+                    "probability": 0.90966796875
+                },
+                {
+                    "start": 54.62,
+                    "end": 54.68,
+                    "word": " So",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 54.68,
+                    "end": 54.84,
+                    "word": " if",
+                    "probability": 0.91845703125
+                },
+                {
+                    "start": 54.84,
+                    "end": 55.04,
+                    "word": " you",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 55.04,
+                    "end": 55.24,
+                    "word": " just",
+                    "probability": 0.7314453125
+                },
+                {
+                    "start": 55.24,
+                    "end": 55.4,
+                    "word": " with",
+                    "probability": 0.7099609375
+                },
+                {
+                    "start": 55.4,
+                    "end": 55.66,
+                    "word": " your",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 55.66,
+                    "end": 55.8,
+                    "word": " own",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 55.8,
+                    "end": 56.04,
+                    "word": " words,",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 56.22,
+                    "end": 56.24,
+                    "word": " if",
+                    "probability": 0.98193359375
+                },
+                {
+                    "start": 56.24,
+                    "end": 56.3,
+                    "word": " you",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 56.3,
+                    "end": 56.62,
+                    "word": " could",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 56.62,
+                    "end": 57.08,
+                    "word": " estimate",
+                    "probability": 0.95751953125
+                },
+                {
+                    "start": 57.08,
+                    "end": 57.54,
+                    "word": " what",
+                    "probability": 0.943359375
+                },
+                {
+                    "start": 57.54,
+                    "end": 57.68,
+                    "word": " your",
+                    "probability": 0.94775390625
+                },
+                {
+                    "start": 57.68,
+                    "end": 58.06,
+                    "word": " technical",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 58.06,
+                    "end": 58.62,
+                    "word": " capabilities",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 58.62,
+                    "end": 59.02,
+                    "word": " are",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 59.02,
+                    "end": 59.3,
+                    "word": " like.",
+                    "probability": 0.99560546875
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " Okay. And then related to this, if you could choose a language model that would either be very, very fast, but not that accurate or not 100% accurate, or language model that works slowly, but produces again verbatim transcriptions, which one would you choose? Well, and research, always the first. Do you ever have to need to create transcriptions in the moment that while the audio is playing the transcriptions are created simultaneously? Nope. Okay, no need for that. No need for that. Okay. And then I would ask about your or maybe also your research groups technical capabilities. So if you just with your own words, if you could estimate what your technical capabilities are like."
+}

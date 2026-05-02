@@ -1,0 +1,1133 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.98,
+            "text": " So at the University of All, and it's we can use it in a safe way so that we don't have to upload",
+            "tokens": [
+                50364,
+                407,
+                412,
+                264,
+                3535,
+                295,
+                1057,
+                11,
+                293,
+                309,
+                311,
+                321,
+                393,
+                764,
+                309,
+                294,
+                257,
+                3273,
+                636,
+                370,
+                300,
+                321,
+                500,
+                380,
+                362,
+                281,
+                6580,
+                50784
+            ],
+            "avg_logprob": -0.31331381605317193,
+            "compression_ratio": 1.75,
+            "no_speech_prob": 0.04083251953125,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.24,
+                    "word": " So",
+                    "probability": 0.54150390625
+                },
+                {
+                    "start": 0.24,
+                    "end": 0.58,
+                    "word": " at",
+                    "probability": 0.5283203125
+                },
+                {
+                    "start": 0.58,
+                    "end": 0.66,
+                    "word": " the",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 0.66,
+                    "end": 0.94,
+                    "word": " University",
+                    "probability": 0.73681640625
+                },
+                {
+                    "start": 0.94,
+                    "end": 1.32,
+                    "word": " of",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 1.32,
+                    "end": 1.76,
+                    "word": " All,",
+                    "probability": 0.25146484375
+                },
+                {
+                    "start": 2.48,
+                    "end": 2.74,
+                    "word": " and",
+                    "probability": 0.81201171875
+                },
+                {
+                    "start": 2.74,
+                    "end": 3.26,
+                    "word": " it's",
+                    "probability": 0.933349609375
+                },
+                {
+                    "start": 3.26,
+                    "end": 3.6,
+                    "word": " we",
+                    "probability": 0.28125
+                },
+                {
+                    "start": 3.6,
+                    "end": 3.8,
+                    "word": " can",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 3.8,
+                    "end": 4.16,
+                    "word": " use",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 4.16,
+                    "end": 4.42,
+                    "word": " it",
+                    "probability": 0.97216796875
+                },
+                {
+                    "start": 4.42,
+                    "end": 4.62,
+                    "word": " in",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 4.62,
+                    "end": 4.7,
+                    "word": " a",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 4.7,
+                    "end": 4.98,
+                    "word": " safe",
+                    "probability": 0.9677734375
+                },
+                {
+                    "start": 4.98,
+                    "end": 5.62,
+                    "word": " way",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 5.62,
+                    "end": 6.34,
+                    "word": " so",
+                    "probability": 0.6328125
+                },
+                {
+                    "start": 6.34,
+                    "end": 6.58,
+                    "word": " that",
+                    "probability": 0.9482421875
+                },
+                {
+                    "start": 6.58,
+                    "end": 6.68,
+                    "word": " we",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 6.68,
+                    "end": 6.94,
+                    "word": " don't",
+                    "probability": 0.998291015625
+                },
+                {
+                    "start": 6.94,
+                    "end": 7.28,
+                    "word": " have",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 7.28,
+                    "end": 7.44,
+                    "word": " to",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 7.44,
+                    "end": 7.98,
+                    "word": " upload",
+                    "probability": 0.97119140625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.98,
+            "end": 14.52,
+            "text": " the data that we have into public servers, or servers that we don't know where they exist.",
+            "tokens": [
+                50784,
+                264,
+                1412,
+                300,
+                321,
+                362,
+                666,
+                1908,
+                15909,
+                11,
+                420,
+                15909,
+                300,
+                321,
+                500,
+                380,
+                458,
+                689,
+                436,
+                2514,
+                13,
+                51114
+            ],
+            "avg_logprob": -0.31331381605317193,
+            "compression_ratio": 1.75,
+            "no_speech_prob": 0.04083251953125,
+            "words": [
+                {
+                    "start": 7.98,
+                    "end": 8.68,
+                    "word": " the",
+                    "probability": 0.98291015625
+                },
+                {
+                    "start": 8.68,
+                    "end": 8.9,
+                    "word": " data",
+                    "probability": 0.70068359375
+                },
+                {
+                    "start": 8.9,
+                    "end": 9.2,
+                    "word": " that",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 9.2,
+                    "end": 9.32,
+                    "word": " we",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 9.32,
+                    "end": 9.76,
+                    "word": " have",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 9.76,
+                    "end": 10.24,
+                    "word": " into",
+                    "probability": 0.95947265625
+                },
+                {
+                    "start": 10.24,
+                    "end": 10.8,
+                    "word": " public",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 10.8,
+                    "end": 11.46,
+                    "word": " servers,",
+                    "probability": 0.744140625
+                },
+                {
+                    "start": 11.78,
+                    "end": 11.8,
+                    "word": " or",
+                    "probability": 0.351318359375
+                },
+                {
+                    "start": 11.8,
+                    "end": 12.12,
+                    "word": " servers",
+                    "probability": 0.904296875
+                },
+                {
+                    "start": 12.12,
+                    "end": 12.38,
+                    "word": " that",
+                    "probability": 0.98046875
+                },
+                {
+                    "start": 12.38,
+                    "end": 12.52,
+                    "word": " we",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 12.52,
+                    "end": 13.02,
+                    "word": " don't",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 13.02,
+                    "end": 13.38,
+                    "word": " know",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 13.38,
+                    "end": 13.62,
+                    "word": " where",
+                    "probability": 0.95263671875
+                },
+                {
+                    "start": 13.62,
+                    "end": 13.82,
+                    "word": " they",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 13.82,
+                    "end": 14.52,
+                    "word": " exist.",
+                    "probability": 0.986328125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 15.22,
+            "end": 20.8,
+            "text": " So the way in which we can use whisper is sort of internally inside the University of All.",
+            "tokens": [
+                51114,
+                407,
+                264,
+                636,
+                294,
+                597,
+                321,
+                393,
+                764,
+                26018,
+                307,
+                1333,
+                295,
+                19501,
+                1854,
+                264,
+                3535,
+                295,
+                1057,
+                13,
+                51404
+            ],
+            "avg_logprob": -0.31331381605317193,
+            "compression_ratio": 1.75,
+            "no_speech_prob": 0.04083251953125,
+            "words": [
+                {
+                    "start": 15.22,
+                    "end": 15.36,
+                    "word": " So",
+                    "probability": 0.92578125
+                },
+                {
+                    "start": 15.36,
+                    "end": 16.12,
+                    "word": " the",
+                    "probability": 0.51318359375
+                },
+                {
+                    "start": 16.12,
+                    "end": 16.38,
+                    "word": " way",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 16.38,
+                    "end": 16.5,
+                    "word": " in",
+                    "probability": 0.79638671875
+                },
+                {
+                    "start": 16.5,
+                    "end": 16.58,
+                    "word": " which",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 16.58,
+                    "end": 16.7,
+                    "word": " we",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 16.7,
+                    "end": 16.9,
+                    "word": " can",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 16.9,
+                    "end": 17.22,
+                    "word": " use",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 17.22,
+                    "end": 17.58,
+                    "word": " whisper",
+                    "probability": 0.127685546875
+                },
+                {
+                    "start": 17.58,
+                    "end": 17.88,
+                    "word": " is",
+                    "probability": 0.77734375
+                },
+                {
+                    "start": 17.88,
+                    "end": 18.0,
+                    "word": " sort",
+                    "probability": 0.42578125
+                },
+                {
+                    "start": 18.0,
+                    "end": 19.26,
+                    "word": " of",
+                    "probability": 0.9365234375
+                },
+                {
+                    "start": 19.26,
+                    "end": 19.26,
+                    "word": " internally",
+                    "probability": 0.919921875
+                },
+                {
+                    "start": 19.3,
+                    "end": 19.9,
+                    "word": " inside",
+                    "probability": 0.93212890625
+                },
+                {
+                    "start": 19.9,
+                    "end": 20.04,
+                    "word": " the",
+                    "probability": 0.98046875
+                },
+                {
+                    "start": 20.04,
+                    "end": 20.34,
+                    "word": " University",
+                    "probability": 0.943359375
+                },
+                {
+                    "start": 20.34,
+                    "end": 20.64,
+                    "word": " of",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 20.64,
+                    "end": 20.8,
+                    "word": " All.",
+                    "probability": 0.95703125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 20.8,
+            "end": 26.72,
+            "text": " So it's a saved process, all the data stays here. And that's why we use that.",
+            "tokens": [
+                51404,
+                407,
+                309,
+                311,
+                257,
+                6624,
+                1399,
+                11,
+                439,
+                264,
+                1412,
+                10834,
+                510,
+                13,
+                400,
+                300,
+                311,
+                983,
+                321,
+                764,
+                300,
+                13,
+                51744
+            ],
+            "avg_logprob": -0.31331381605317193,
+            "compression_ratio": 1.75,
+            "no_speech_prob": 0.04083251953125,
+            "words": [
+                {
+                    "start": 20.8,
+                    "end": 20.94,
+                    "word": " So",
+                    "probability": 0.96630859375
+                },
+                {
+                    "start": 20.94,
+                    "end": 21.16,
+                    "word": " it's",
+                    "probability": 0.989501953125
+                },
+                {
+                    "start": 21.16,
+                    "end": 21.26,
+                    "word": " a",
+                    "probability": 0.9599609375
+                },
+                {
+                    "start": 21.26,
+                    "end": 21.5,
+                    "word": " saved",
+                    "probability": 0.265625
+                },
+                {
+                    "start": 21.5,
+                    "end": 21.92,
+                    "word": " process,",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 22.38,
+                    "end": 22.6,
+                    "word": " all",
+                    "probability": 0.984375
+                },
+                {
+                    "start": 22.6,
+                    "end": 22.72,
+                    "word": " the",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 22.72,
+                    "end": 23.02,
+                    "word": " data",
+                    "probability": 0.94482421875
+                },
+                {
+                    "start": 23.02,
+                    "end": 23.3,
+                    "word": " stays",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 23.3,
+                    "end": 24.16,
+                    "word": " here.",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 24.64,
+                    "end": 24.9,
+                    "word": " And",
+                    "probability": 0.6259765625
+                },
+                {
+                    "start": 24.9,
+                    "end": 25.2,
+                    "word": " that's",
+                    "probability": 0.997802734375
+                },
+                {
+                    "start": 25.2,
+                    "end": 25.38,
+                    "word": " why",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 25.38,
+                    "end": 25.78,
+                    "word": " we",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 25.78,
+                    "end": 26.2,
+                    "word": " use",
+                    "probability": 0.75830078125
+                },
+                {
+                    "start": 26.2,
+                    "end": 26.72,
+                    "word": " that.",
+                    "probability": 0.9912109375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2672,
+            "start": 27.34,
+            "end": 31.2,
+            "text": " And that's why we haven't used any other speech recognition tools.",
+            "tokens": [
+                50404,
+                400,
+                300,
+                311,
+                983,
+                321,
+                2378,
+                380,
+                1143,
+                604,
+                661,
+                6218,
+                11150,
+                3873,
+                13,
+                50584
+            ],
+            "avg_logprob": -0.21621621460527987,
+            "compression_ratio": 1.6944444444444444,
+            "no_speech_prob": 0.1385498046875,
+            "words": [
+                {
+                    "start": 27.34,
+                    "end": 27.68,
+                    "word": " And",
+                    "probability": 0.459228515625
+                },
+                {
+                    "start": 27.68,
+                    "end": 27.94,
+                    "word": " that's",
+                    "probability": 0.9755859375
+                },
+                {
+                    "start": 27.94,
+                    "end": 28.0,
+                    "word": " why",
+                    "probability": 0.978515625
+                },
+                {
+                    "start": 28.0,
+                    "end": 28.22,
+                    "word": " we",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 28.22,
+                    "end": 28.54,
+                    "word": " haven't",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 28.54,
+                    "end": 28.96,
+                    "word": " used",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 28.96,
+                    "end": 29.58,
+                    "word": " any",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 29.58,
+                    "end": 29.94,
+                    "word": " other",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 29.94,
+                    "end": 30.2,
+                    "word": " speech",
+                    "probability": 0.560546875
+                },
+                {
+                    "start": 30.2,
+                    "end": 30.64,
+                    "word": " recognition",
+                    "probability": 0.9892578125
+                },
+                {
+                    "start": 30.64,
+                    "end": 31.2,
+                    "word": " tools.",
+                    "probability": 0.99365234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2672,
+            "start": 31.88,
+            "end": 43.06,
+            "text": " Because the data we have is often sensitive. And in the agreements that we've made with the people that we've recorded",
+            "tokens": [
+                50584,
+                1436,
+                264,
+                1412,
+                321,
+                362,
+                307,
+                2049,
+                9477,
+                13,
+                400,
+                294,
+                264,
+                21422,
+                300,
+                321,
+                600,
+                1027,
+                365,
+                264,
+                561,
+                300,
+                321,
+                600,
+                8287,
+                51184
+            ],
+            "avg_logprob": -0.21621621460527987,
+            "compression_ratio": 1.6944444444444444,
+            "no_speech_prob": 0.1385498046875,
+            "words": [
+                {
+                    "start": 31.88,
+                    "end": 31.88,
+                    "word": " Because",
+                    "probability": 0.5126953125
+                },
+                {
+                    "start": 31.98,
+                    "end": 32.62,
+                    "word": " the",
+                    "probability": 0.77978515625
+                },
+                {
+                    "start": 32.62,
+                    "end": 32.9,
+                    "word": " data",
+                    "probability": 0.873046875
+                },
+                {
+                    "start": 32.9,
+                    "end": 33.2,
+                    "word": " we",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 33.2,
+                    "end": 33.8,
+                    "word": " have",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 33.8,
+                    "end": 34.82,
+                    "word": " is",
+                    "probability": 0.9453125
+                },
+                {
+                    "start": 34.82,
+                    "end": 35.32,
+                    "word": " often",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 35.32,
+                    "end": 36.18,
+                    "word": " sensitive.",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 38.94,
+                    "end": 39.52,
+                    "word": " And",
+                    "probability": 0.67138671875
+                },
+                {
+                    "start": 39.52,
+                    "end": 40.08,
+                    "word": " in",
+                    "probability": 0.97509765625
+                },
+                {
+                    "start": 40.08,
+                    "end": 40.24,
+                    "word": " the",
+                    "probability": 0.96044921875
+                },
+                {
+                    "start": 40.24,
+                    "end": 40.62,
+                    "word": " agreements",
+                    "probability": 0.50732421875
+                },
+                {
+                    "start": 40.62,
+                    "end": 40.98,
+                    "word": " that",
+                    "probability": 0.9658203125
+                },
+                {
+                    "start": 40.98,
+                    "end": 41.28,
+                    "word": " we've",
+                    "probability": 0.95458984375
+                },
+                {
+                    "start": 41.28,
+                    "end": 41.56,
+                    "word": " made",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 41.56,
+                    "end": 41.84,
+                    "word": " with",
+                    "probability": 0.853515625
+                },
+                {
+                    "start": 41.84,
+                    "end": 41.96,
+                    "word": " the",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 41.96,
+                    "end": 42.22,
+                    "word": " people",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 42.22,
+                    "end": 42.44,
+                    "word": " that",
+                    "probability": 0.97216796875
+                },
+                {
+                    "start": 42.44,
+                    "end": 42.72,
+                    "word": " we've",
+                    "probability": 0.928955078125
+                },
+                {
+                    "start": 42.72,
+                    "end": 43.06,
+                    "word": " recorded",
+                    "probability": 0.96484375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 2672,
+            "start": 43.06,
+            "end": 52.52,
+            "text": " is that we don't upload the data that we have to public servers or the internet. And so that's why we only use whisper.",
+            "tokens": [
+                51184,
+                307,
+                300,
+                321,
+                500,
+                380,
+                6580,
+                264,
+                1412,
+                300,
+                321,
+                362,
+                281,
+                1908,
+                15909,
+                420,
+                264,
+                4705,
+                13,
+                400,
+                370,
+                300,
+                311,
+                983,
+                321,
+                787,
+                764,
+                26018,
+                13,
+                51704
+            ],
+            "avg_logprob": -0.21621621460527987,
+            "compression_ratio": 1.6944444444444444,
+            "no_speech_prob": 0.1385498046875,
+            "words": [
+                {
+                    "start": 43.06,
+                    "end": 43.38,
+                    "word": " is",
+                    "probability": 0.837890625
+                },
+                {
+                    "start": 43.38,
+                    "end": 44.68,
+                    "word": " that",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 44.68,
+                    "end": 44.7,
+                    "word": " we",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 44.7,
+                    "end": 46.38,
+                    "word": " don't",
+                    "probability": 0.956298828125
+                },
+                {
+                    "start": 46.38,
+                    "end": 46.8,
+                    "word": " upload",
+                    "probability": 0.5947265625
+                },
+                {
+                    "start": 46.8,
+                    "end": 47.06,
+                    "word": " the",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 47.06,
+                    "end": 47.2,
+                    "word": " data",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 47.2,
+                    "end": 47.48,
+                    "word": " that",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 47.48,
+                    "end": 47.58,
+                    "word": " we",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 47.58,
+                    "end": 47.92,
+                    "word": " have",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 47.92,
+                    "end": 48.08,
+                    "word": " to",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 48.08,
+                    "end": 48.46,
+                    "word": " public",
+                    "probability": 0.974609375
+                },
+                {
+                    "start": 48.46,
+                    "end": 48.9,
+                    "word": " servers",
+                    "probability": 0.501953125
+                },
+                {
+                    "start": 48.9,
+                    "end": 49.18,
+                    "word": " or",
+                    "probability": 0.8623046875
+                },
+                {
+                    "start": 49.18,
+                    "end": 49.34,
+                    "word": " the",
+                    "probability": 0.97509765625
+                },
+                {
+                    "start": 49.34,
+                    "end": 49.74,
+                    "word": " internet.",
+                    "probability": 0.6064453125
+                },
+                {
+                    "start": 50.42,
+                    "end": 50.42,
+                    "word": " And",
+                    "probability": 0.7607421875
+                },
+                {
+                    "start": 50.52,
+                    "end": 50.42,
+                    "word": " so",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 50.62,
+                    "end": 51.32,
+                    "word": " that's",
+                    "probability": 0.77294921875
+                },
+                {
+                    "start": 51.32,
+                    "end": 51.4,
+                    "word": " why",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 51.4,
+                    "end": 51.7,
+                    "word": " we",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 51.7,
+                    "end": 51.86,
+                    "word": " only",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 51.86,
+                    "end": 52.14,
+                    "word": " use",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 52.14,
+                    "end": 52.52,
+                    "word": " whisper.",
+                    "probability": 0.257568359375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 8,
+            "seek": 5252,
+            "start": 52.52,
+            "end": 56.4,
+            "text": " So that's why we'd used it so far.",
+            "tokens": [
+                50404,
+                407,
+                300,
+                311,
+                983,
+                321,
+                1116,
+                1143,
+                309,
+                370,
+                1400,
+                13,
+                50564
+            ],
+            "avg_logprob": -0.42885043578488485,
+            "compression_ratio": 0.8095238095238095,
+            "no_speech_prob": 0.08563232421875,
+            "words": [
+                {
+                    "start": 52.52,
+                    "end": 53.8,
+                    "word": " So",
+                    "probability": 0.50927734375
+                },
+                {
+                    "start": 53.8,
+                    "end": 54.52,
+                    "word": " that's",
+                    "probability": 0.787841796875
+                },
+                {
+                    "start": 54.52,
+                    "end": 54.9,
+                    "word": " why",
+                    "probability": 0.546875
+                },
+                {
+                    "start": 54.9,
+                    "end": 55.16,
+                    "word": " we'd",
+                    "probability": 0.804443359375
+                },
+                {
+                    "start": 55.16,
+                    "end": 55.38,
+                    "word": " used",
+                    "probability": 0.509765625
+                },
+                {
+                    "start": 55.38,
+                    "end": 55.64,
+                    "word": " it",
+                    "probability": 0.97265625
+                },
+                {
+                    "start": 55.64,
+                    "end": 55.8,
+                    "word": " so",
+                    "probability": 0.7431640625
+                },
+                {
+                    "start": 55.8,
+                    "end": 56.4,
+                    "word": " far.",
+                    "probability": 0.99365234375
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " So at the University of All, and it's we can use it in a safe way so that we don't have to upload the data that we have into public servers, or servers that we don't know where they exist. So the way in which we can use whisper is sort of internally inside the University of All. So it's a saved process, all the data stays here. And that's why we use that. And that's why we haven't used any other speech recognition tools. Because the data we have is often sensitive. And in the agreements that we've made with the people that we've recorded is that we don't upload the data that we have to public servers or the internet. And so that's why we only use whisper. So that's why we'd used it so far."
+}

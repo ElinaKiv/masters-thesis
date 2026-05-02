@@ -1,0 +1,1253 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 9.16,
+            "text": " A thing that you're thinking about, like people are a little bit like shy away from technical tools because they don't trust them because they don't understand them or what they're talking about.",
+            "tokens": [
+                50364,
+                316,
+                551,
+                300,
+                291,
+                434,
+                1953,
+                466,
+                11,
+                411,
+                561,
+                366,
+                257,
+                707,
+                857,
+                411,
+                12685,
+                1314,
+                490,
+                6191,
+                3873,
+                570,
+                436,
+                500,
+                380,
+                3361,
+                552,
+                570,
+                436,
+                500,
+                380,
+                1223,
+                552,
+                420,
+                437,
+                436,
+                434,
+                1417,
+                466,
+                13,
+                50864
+            ],
+            "avg_logprob": -0.2925145487452662,
+            "compression_ratio": 1.826086956521739,
+            "no_speech_prob": 0.07269287109375,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.34,
+                    "word": " A",
+                    "probability": 0.05377197265625
+                },
+                {
+                    "start": 0.34,
+                    "end": 0.64,
+                    "word": " thing",
+                    "probability": 0.974609375
+                },
+                {
+                    "start": 0.64,
+                    "end": 1.04,
+                    "word": " that",
+                    "probability": 0.9638671875
+                },
+                {
+                    "start": 1.04,
+                    "end": 1.5,
+                    "word": " you're",
+                    "probability": 0.954833984375
+                },
+                {
+                    "start": 1.5,
+                    "end": 1.5,
+                    "word": " thinking",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 1.6,
+                    "end": 1.84,
+                    "word": " about,",
+                    "probability": 0.978515625
+                },
+                {
+                    "start": 2.08,
+                    "end": 2.08,
+                    "word": " like",
+                    "probability": 0.92041015625
+                },
+                {
+                    "start": 2.1,
+                    "end": 2.34,
+                    "word": " people",
+                    "probability": 0.6796875
+                },
+                {
+                    "start": 2.34,
+                    "end": 2.62,
+                    "word": " are",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 2.62,
+                    "end": 2.66,
+                    "word": " a",
+                    "probability": 0.97900390625
+                },
+                {
+                    "start": 2.66,
+                    "end": 2.86,
+                    "word": " little",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 2.86,
+                    "end": 3.26,
+                    "word": " bit",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 3.26,
+                    "end": 3.34,
+                    "word": " like",
+                    "probability": 0.324951171875
+                },
+                {
+                    "start": 3.34,
+                    "end": 3.56,
+                    "word": " shy",
+                    "probability": 0.796875
+                },
+                {
+                    "start": 3.56,
+                    "end": 3.96,
+                    "word": " away",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 3.96,
+                    "end": 4.2,
+                    "word": " from",
+                    "probability": 0.982421875
+                },
+                {
+                    "start": 4.2,
+                    "end": 4.58,
+                    "word": " technical",
+                    "probability": 0.97021484375
+                },
+                {
+                    "start": 4.58,
+                    "end": 4.9,
+                    "word": " tools",
+                    "probability": 0.1407470703125
+                },
+                {
+                    "start": 4.9,
+                    "end": 5.1,
+                    "word": " because",
+                    "probability": 0.54736328125
+                },
+                {
+                    "start": 5.1,
+                    "end": 5.16,
+                    "word": " they",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 5.16,
+                    "end": 5.36,
+                    "word": " don't",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 5.36,
+                    "end": 5.64,
+                    "word": " trust",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 5.64,
+                    "end": 5.86,
+                    "word": " them",
+                    "probability": 0.94482421875
+                },
+                {
+                    "start": 5.86,
+                    "end": 6.0,
+                    "word": " because",
+                    "probability": 0.71044921875
+                },
+                {
+                    "start": 6.0,
+                    "end": 6.1,
+                    "word": " they",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 6.1,
+                    "end": 6.34,
+                    "word": " don't",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 6.34,
+                    "end": 7.02,
+                    "word": " understand",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 7.02,
+                    "end": 7.52,
+                    "word": " them",
+                    "probability": 0.982421875
+                },
+                {
+                    "start": 7.52,
+                    "end": 8.7,
+                    "word": " or",
+                    "probability": 0.68701171875
+                },
+                {
+                    "start": 8.7,
+                    "end": 8.94,
+                    "word": " what",
+                    "probability": 0.55322265625
+                },
+                {
+                    "start": 8.94,
+                    "end": 9.16,
+                    "word": " they're",
+                    "probability": 0.404296875
+                },
+                {
+                    "start": 9.16,
+                    "end": 9.16,
+                    "word": " talking",
+                    "probability": 0.28515625
+                },
+                {
+                    "start": 9.2,
+                    "end": 9.16,
+                    "word": " about.",
+                    "probability": 0.9912109375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.16,
+            "end": 20.1,
+            "text": " I was thinking about the people don't think they lack the skills to use them, but the second point you had is also a very valid point so you can think about that as well if you want.",
+            "tokens": [
+                50864,
+                286,
+                390,
+                1953,
+                466,
+                264,
+                561,
+                500,
+                380,
+                519,
+                436,
+                5011,
+                264,
+                3942,
+                281,
+                764,
+                552,
+                11,
+                457,
+                264,
+                1150,
+                935,
+                291,
+                632,
+                307,
+                611,
+                257,
+                588,
+                7363,
+                935,
+                370,
+                291,
+                393,
+                519,
+                466,
+                300,
+                382,
+                731,
+                498,
+                291,
+                528,
+                13,
+                51414
+            ],
+            "avg_logprob": -0.2925145487452662,
+            "compression_ratio": 1.826086956521739,
+            "no_speech_prob": 0.07269287109375,
+            "words": [
+                {
+                    "start": 9.3,
+                    "end": 9.16,
+                    "word": " I",
+                    "probability": 0.1668701171875
+                },
+                {
+                    "start": 9.32,
+                    "end": 9.36,
+                    "word": " was",
+                    "probability": 0.9287109375
+                },
+                {
+                    "start": 9.36,
+                    "end": 9.9,
+                    "word": " thinking",
+                    "probability": 0.177978515625
+                },
+                {
+                    "start": 9.9,
+                    "end": 10.52,
+                    "word": " about",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 10.52,
+                    "end": 11.3,
+                    "word": " the",
+                    "probability": 0.798828125
+                },
+                {
+                    "start": 11.3,
+                    "end": 11.7,
+                    "word": " people",
+                    "probability": 0.91259765625
+                },
+                {
+                    "start": 11.7,
+                    "end": 12.16,
+                    "word": " don't",
+                    "probability": 0.915283203125
+                },
+                {
+                    "start": 12.16,
+                    "end": 12.48,
+                    "word": " think",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 12.48,
+                    "end": 12.66,
+                    "word": " they",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 12.66,
+                    "end": 12.9,
+                    "word": " lack",
+                    "probability": 0.83203125
+                },
+                {
+                    "start": 12.9,
+                    "end": 13.1,
+                    "word": " the",
+                    "probability": 0.95263671875
+                },
+                {
+                    "start": 13.1,
+                    "end": 13.36,
+                    "word": " skills",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 13.36,
+                    "end": 13.6,
+                    "word": " to",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 13.6,
+                    "end": 13.86,
+                    "word": " use",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 13.86,
+                    "end": 14.32,
+                    "word": " them,",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 14.64,
+                    "end": 14.76,
+                    "word": " but",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 14.76,
+                    "end": 14.86,
+                    "word": " the",
+                    "probability": 0.72412109375
+                },
+                {
+                    "start": 14.86,
+                    "end": 15.1,
+                    "word": " second",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 15.1,
+                    "end": 15.42,
+                    "word": " point",
+                    "probability": 0.92919921875
+                },
+                {
+                    "start": 15.42,
+                    "end": 15.64,
+                    "word": " you",
+                    "probability": 0.8935546875
+                },
+                {
+                    "start": 15.64,
+                    "end": 16.02,
+                    "word": " had",
+                    "probability": 0.88720703125
+                },
+                {
+                    "start": 16.02,
+                    "end": 16.26,
+                    "word": " is",
+                    "probability": 0.9375
+                },
+                {
+                    "start": 16.26,
+                    "end": 16.58,
+                    "word": " also",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 16.58,
+                    "end": 16.74,
+                    "word": " a",
+                    "probability": 0.92529296875
+                },
+                {
+                    "start": 16.74,
+                    "end": 16.84,
+                    "word": " very",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 16.84,
+                    "end": 17.08,
+                    "word": " valid",
+                    "probability": 0.97021484375
+                },
+                {
+                    "start": 17.08,
+                    "end": 17.4,
+                    "word": " point",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 17.4,
+                    "end": 17.6,
+                    "word": " so",
+                    "probability": 0.3583984375
+                },
+                {
+                    "start": 17.6,
+                    "end": 17.7,
+                    "word": " you",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 17.7,
+                    "end": 18.36,
+                    "word": " can",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 18.36,
+                    "end": 18.72,
+                    "word": " think",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 18.72,
+                    "end": 18.98,
+                    "word": " about",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 18.98,
+                    "end": 19.2,
+                    "word": " that",
+                    "probability": 0.97119140625
+                },
+                {
+                    "start": 19.2,
+                    "end": 19.44,
+                    "word": " as",
+                    "probability": 0.96923828125
+                },
+                {
+                    "start": 19.44,
+                    "end": 19.56,
+                    "word": " well",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 19.56,
+                    "end": 19.76,
+                    "word": " if",
+                    "probability": 0.71484375
+                },
+                {
+                    "start": 19.76,
+                    "end": 19.82,
+                    "word": " you",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 19.82,
+                    "end": 20.1,
+                    "word": " want.",
+                    "probability": 0.9384765625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 2010,
+            "start": 21.0,
+            "end": 32.22,
+            "text": " Okay, I think maybe a lot of my coworkers feel that adopting a new technology, a new tool, a new technological tool.",
+            "tokens": [
+                50414,
+                1033,
+                11,
+                286,
+                519,
+                1310,
+                257,
+                688,
+                295,
+                452,
+                43465,
+                841,
+                300,
+                32328,
+                257,
+                777,
+                2899,
+                11,
+                257,
+                777,
+                2290,
+                11,
+                257,
+                777,
+                18439,
+                2290,
+                13,
+                50964
+            ],
+            "avg_logprob": -0.16216518580913544,
+            "compression_ratio": 1.6353591160220995,
+            "no_speech_prob": 0.7255859375,
+            "words": [
+                {
+                    "start": 21.0,
+                    "end": 21.34,
+                    "word": " Okay,",
+                    "probability": 0.250732421875
+                },
+                {
+                    "start": 21.62,
+                    "end": 21.94,
+                    "word": " I",
+                    "probability": 0.365478515625
+                },
+                {
+                    "start": 21.94,
+                    "end": 23.76,
+                    "word": " think",
+                    "probability": 0.92724609375
+                },
+                {
+                    "start": 23.76,
+                    "end": 25.46,
+                    "word": " maybe",
+                    "probability": 0.86474609375
+                },
+                {
+                    "start": 25.46,
+                    "end": 26.06,
+                    "word": " a",
+                    "probability": 0.98583984375
+                },
+                {
+                    "start": 26.06,
+                    "end": 26.2,
+                    "word": " lot",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 26.2,
+                    "end": 26.36,
+                    "word": " of",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 26.36,
+                    "end": 26.58,
+                    "word": " my",
+                    "probability": 0.984375
+                },
+                {
+                    "start": 26.58,
+                    "end": 27.12,
+                    "word": " coworkers",
+                    "probability": 0.623046875
+                },
+                {
+                    "start": 27.12,
+                    "end": 27.86,
+                    "word": " feel",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 27.86,
+                    "end": 28.56,
+                    "word": " that",
+                    "probability": 0.984375
+                },
+                {
+                    "start": 28.56,
+                    "end": 28.9,
+                    "word": " adopting",
+                    "probability": 0.97607421875
+                },
+                {
+                    "start": 28.9,
+                    "end": 29.16,
+                    "word": " a",
+                    "probability": 0.984375
+                },
+                {
+                    "start": 29.16,
+                    "end": 29.26,
+                    "word": " new",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 29.26,
+                    "end": 29.92,
+                    "word": " technology,",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 30.0,
+                    "end": 30.22,
+                    "word": " a",
+                    "probability": 0.96630859375
+                },
+                {
+                    "start": 30.22,
+                    "end": 30.46,
+                    "word": " new",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 30.46,
+                    "end": 30.86,
+                    "word": " tool,",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 30.88,
+                    "end": 30.96,
+                    "word": " a",
+                    "probability": 0.8701171875
+                },
+                {
+                    "start": 30.96,
+                    "end": 31.02,
+                    "word": " new",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 31.02,
+                    "end": 31.62,
+                    "word": " technological",
+                    "probability": 0.8076171875
+                },
+                {
+                    "start": 31.62,
+                    "end": 32.22,
+                    "word": " tool.",
+                    "probability": 0.998046875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2010,
+            "start": 32.58,
+            "end": 46.92,
+            "text": " It feels like a big chore to start to understand what needs to be done and kind of where do I find everything I need and how it feels very complicated before they try a new thing.",
+            "tokens": [
+                50964,
+                467,
+                3417,
+                411,
+                257,
+                955,
+                14625,
+                281,
+                722,
+                281,
+                1223,
+                437,
+                2203,
+                281,
+                312,
+                1096,
+                293,
+                733,
+                295,
+                689,
+                360,
+                286,
+                915,
+                1203,
+                286,
+                643,
+                293,
+                577,
+                309,
+                3417,
+                588,
+                6179,
+                949,
+                436,
+                853,
+                257,
+                777,
+                551,
+                13,
+                51714
+            ],
+            "avg_logprob": -0.16216518580913544,
+            "compression_ratio": 1.6353591160220995,
+            "no_speech_prob": 0.7255859375,
+            "words": [
+                {
+                    "start": 32.58,
+                    "end": 32.64,
+                    "word": " It",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 32.64,
+                    "end": 32.88,
+                    "word": " feels",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 32.88,
+                    "end": 33.22,
+                    "word": " like",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 33.22,
+                    "end": 33.34,
+                    "word": " a",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 33.34,
+                    "end": 33.9,
+                    "word": " big",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 33.9,
+                    "end": 34.4,
+                    "word": " chore",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 34.4,
+                    "end": 34.8,
+                    "word": " to",
+                    "probability": 0.9794921875
+                },
+                {
+                    "start": 34.8,
+                    "end": 35.26,
+                    "word": " start",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 35.26,
+                    "end": 35.7,
+                    "word": " to",
+                    "probability": 0.97998046875
+                },
+                {
+                    "start": 35.7,
+                    "end": 36.46,
+                    "word": " understand",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 36.46,
+                    "end": 36.88,
+                    "word": " what",
+                    "probability": 0.97119140625
+                },
+                {
+                    "start": 36.88,
+                    "end": 37.12,
+                    "word": " needs",
+                    "probability": 0.951171875
+                },
+                {
+                    "start": 37.12,
+                    "end": 37.32,
+                    "word": " to",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 37.32,
+                    "end": 37.36,
+                    "word": " be",
+                    "probability": 0.75537109375
+                },
+                {
+                    "start": 37.36,
+                    "end": 37.7,
+                    "word": " done",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 37.7,
+                    "end": 38.14,
+                    "word": " and",
+                    "probability": 0.57861328125
+                },
+                {
+                    "start": 38.14,
+                    "end": 38.2,
+                    "word": " kind",
+                    "probability": 0.615234375
+                },
+                {
+                    "start": 38.2,
+                    "end": 38.82,
+                    "word": " of",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 38.82,
+                    "end": 39.76,
+                    "word": " where",
+                    "probability": 0.87939453125
+                },
+                {
+                    "start": 39.76,
+                    "end": 39.96,
+                    "word": " do",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 39.96,
+                    "end": 40.12,
+                    "word": " I",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 40.12,
+                    "end": 40.34,
+                    "word": " find",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 40.34,
+                    "end": 40.76,
+                    "word": " everything",
+                    "probability": 0.97900390625
+                },
+                {
+                    "start": 40.76,
+                    "end": 41.04,
+                    "word": " I",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 41.04,
+                    "end": 41.42,
+                    "word": " need",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 41.42,
+                    "end": 41.88,
+                    "word": " and",
+                    "probability": 0.90576171875
+                },
+                {
+                    "start": 41.88,
+                    "end": 42.3,
+                    "word": " how",
+                    "probability": 0.80126953125
+                },
+                {
+                    "start": 42.3,
+                    "end": 43.38,
+                    "word": " it",
+                    "probability": 0.388671875
+                },
+                {
+                    "start": 43.38,
+                    "end": 43.84,
+                    "word": " feels",
+                    "probability": 0.45849609375
+                },
+                {
+                    "start": 43.84,
+                    "end": 44.22,
+                    "word": " very",
+                    "probability": 0.91259765625
+                },
+                {
+                    "start": 44.22,
+                    "end": 44.72,
+                    "word": " complicated",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 44.72,
+                    "end": 45.84,
+                    "word": " before",
+                    "probability": 0.9658203125
+                },
+                {
+                    "start": 45.84,
+                    "end": 46.14,
+                    "word": " they",
+                    "probability": 0.98193359375
+                },
+                {
+                    "start": 46.14,
+                    "end": 46.44,
+                    "word": " try",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 46.44,
+                    "end": 46.52,
+                    "word": " a",
+                    "probability": 0.77001953125
+                },
+                {
+                    "start": 46.52,
+                    "end": 46.66,
+                    "word": " new",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 46.66,
+                    "end": 46.92,
+                    "word": " thing.",
+                    "probability": 0.98388671875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 4692,
+            "start": 46.92,
+            "end": 57.12,
+            "text": " I think it is really, it can be very effortful to adopt a new technological tool because you have to understand how everything is figured out.",
+            "tokens": [
+                50364,
+                286,
+                519,
+                309,
+                307,
+                534,
+                11,
+                309,
+                393,
+                312,
+                588,
+                4630,
+                906,
+                281,
+                6878,
+                257,
+                777,
+                18439,
+                2290,
+                570,
+                291,
+                362,
+                281,
+                1223,
+                577,
+                1203,
+                307,
+                8932,
+                484,
+                13,
+                50864
+            ],
+            "avg_logprob": -0.23281249701976775,
+            "compression_ratio": 1.3333333333333333,
+            "no_speech_prob": 0.05322265625,
+            "words": [
+                {
+                    "start": 46.92,
+                    "end": 47.18,
+                    "word": " I",
+                    "probability": 0.75146484375
+                },
+                {
+                    "start": 47.18,
+                    "end": 47.32,
+                    "word": " think",
+                    "probability": 0.98388671875
+                },
+                {
+                    "start": 47.32,
+                    "end": 48.12,
+                    "word": " it",
+                    "probability": 0.48095703125
+                },
+                {
+                    "start": 48.12,
+                    "end": 48.68,
+                    "word": " is",
+                    "probability": 0.447021484375
+                },
+                {
+                    "start": 48.68,
+                    "end": 49.28,
+                    "word": " really,",
+                    "probability": 0.666015625
+                },
+                {
+                    "start": 49.38,
+                    "end": 49.86,
+                    "word": " it",
+                    "probability": 0.919921875
+                },
+                {
+                    "start": 49.86,
+                    "end": 50.04,
+                    "word": " can",
+                    "probability": 0.5751953125
+                },
+                {
+                    "start": 50.04,
+                    "end": 50.26,
+                    "word": " be",
+                    "probability": 0.9658203125
+                },
+                {
+                    "start": 50.26,
+                    "end": 50.48,
+                    "word": " very",
+                    "probability": 0.7900390625
+                },
+                {
+                    "start": 50.48,
+                    "end": 50.94,
+                    "word": " effortful",
+                    "probability": 0.925537109375
+                },
+                {
+                    "start": 50.94,
+                    "end": 51.1,
+                    "word": " to",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 51.1,
+                    "end": 51.3,
+                    "word": " adopt",
+                    "probability": 0.38330078125
+                },
+                {
+                    "start": 51.3,
+                    "end": 51.6,
+                    "word": " a",
+                    "probability": 0.94189453125
+                },
+                {
+                    "start": 51.6,
+                    "end": 52.82,
+                    "word": " new",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 52.82,
+                    "end": 53.28,
+                    "word": " technological",
+                    "probability": 0.8935546875
+                },
+                {
+                    "start": 53.28,
+                    "end": 53.98,
+                    "word": " tool",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 53.98,
+                    "end": 54.32,
+                    "word": " because",
+                    "probability": 0.56640625
+                },
+                {
+                    "start": 54.32,
+                    "end": 54.5,
+                    "word": " you",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 54.5,
+                    "end": 54.74,
+                    "word": " have",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 54.74,
+                    "end": 55.14,
+                    "word": " to",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 55.14,
+                    "end": 55.64,
+                    "word": " understand",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 55.64,
+                    "end": 55.9,
+                    "word": " how",
+                    "probability": 0.97265625
+                },
+                {
+                    "start": 55.9,
+                    "end": 56.18,
+                    "word": " everything",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 56.18,
+                    "end": 56.44,
+                    "word": " is",
+                    "probability": 0.974609375
+                },
+                {
+                    "start": 56.44,
+                    "end": 56.64,
+                    "word": " figured",
+                    "probability": 0.96533203125
+                },
+                {
+                    "start": 56.64,
+                    "end": 57.12,
+                    "word": " out.",
+                    "probability": 0.99755859375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 4692,
+            "start": 57.48,
+            "end": 60.02,
+            "text": " So I think people probably...",
+            "tokens": [
+                50864,
+                407,
+                286,
+                519,
+                561,
+                1391,
+                485,
+                51014
+            ],
+            "avg_logprob": -0.23281249701976775,
+            "compression_ratio": 1.3333333333333333,
+            "no_speech_prob": 0.05322265625,
+            "words": [
+                {
+                    "start": 57.48,
+                    "end": 57.48,
+                    "word": " So",
+                    "probability": 0.64501953125
+                },
+                {
+                    "start": 57.5,
+                    "end": 57.5,
+                    "word": " I",
+                    "probability": 0.92041015625
+                },
+                {
+                    "start": 57.6,
+                    "end": 58.74,
+                    "word": " think",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 58.74,
+                    "end": 59.46,
+                    "word": " people",
+                    "probability": 0.466064453125
+                },
+                {
+                    "start": 59.46,
+                    "end": 60.02,
+                    "word": " probably...",
+                    "probability": 0.19329833984375
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " A thing that you're thinking about, like people are a little bit like shy away from technical tools because they don't trust them because they don't understand them or what they're talking about. I was thinking about the people don't think they lack the skills to use them, but the second point you had is also a very valid point so you can think about that as well if you want. Okay, I think maybe a lot of my coworkers feel that adopting a new technology, a new tool, a new technological tool. It feels like a big chore to start to understand what needs to be done and kind of where do I find everything I need and how it feels very complicated before they try a new thing. I think it is really, it can be very effortful to adopt a new technological tool because you have to understand how everything is figured out. So I think people probably..."
+}
