@@ -8,7 +8,7 @@ The folder "running_whisper" contains a script for running Whisper transcription
 
 Raw transcription data for both Whisper and gold standard transcriptions is stored in the "raw_data" folder. 
 
-The gold standard JSON-files contain word level references (which were made manually) to the corresponding words transcribed with Whisper. Each gold standard JSON-file contains transcriptions for one of the eight interviews, i.e., each JSON-file contains all eight samples from one interview.
+Each gold standard JSON-file contains transcriptions for one of the eight interviews, i.e., each JSON-file contains all eight samples from one interview. The gold standard JSON-files contain word level references (which were made manually) to the corresponding words transcribed with Whisper.
 
 The Whisper transcriptions are grouped to folders according to model size. Each folder contains the transcriptions for all eight samples from all eight interviews.
 
