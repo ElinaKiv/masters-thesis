@@ -1,0 +1,1168 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.88,
+            "text": " Create words that weren't actually there, so we want to create instructions in which we recommend",
+            "tokens": [
+                50365,
+                20248,
+                2283,
+                300,
+                4999,
+                380,
+                767,
+                456,
+                11,
+                370,
+                321,
+                528,
+                281,
+                1884,
+                9415,
+                294,
+                597,
+                321,
+                2748,
+                50685
+            ],
+            "avg_logprob": -0.15590659700907195,
+            "compression_ratio": 1.6278026905829597,
+            "no_speech_prob": 0.05340576171875,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.26,
+                    "word": " Create",
+                    "probability": 0.01313018798828125
+                },
+                {
+                    "start": 0.26,
+                    "end": 0.64,
+                    "word": " words",
+                    "probability": 0.9501953125
+                },
+                {
+                    "start": 0.64,
+                    "end": 0.92,
+                    "word": " that",
+                    "probability": 0.955078125
+                },
+                {
+                    "start": 0.92,
+                    "end": 1.22,
+                    "word": " weren't",
+                    "probability": 0.989013671875
+                },
+                {
+                    "start": 1.22,
+                    "end": 1.52,
+                    "word": " actually",
+                    "probability": 0.94775390625
+                },
+                {
+                    "start": 1.52,
+                    "end": 1.8,
+                    "word": " there,",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 1.9,
+                    "end": 2.02,
+                    "word": " so",
+                    "probability": 0.95947265625
+                },
+                {
+                    "start": 2.02,
+                    "end": 2.18,
+                    "word": " we",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 2.18,
+                    "end": 2.9,
+                    "word": " want",
+                    "probability": 0.931640625
+                },
+                {
+                    "start": 2.9,
+                    "end": 3.1,
+                    "word": " to",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 3.1,
+                    "end": 3.38,
+                    "word": " create",
+                    "probability": 0.7236328125
+                },
+                {
+                    "start": 3.38,
+                    "end": 3.94,
+                    "word": " instructions",
+                    "probability": 0.97265625
+                },
+                {
+                    "start": 3.94,
+                    "end": 4.34,
+                    "word": " in",
+                    "probability": 0.94482421875
+                },
+                {
+                    "start": 4.34,
+                    "end": 4.56,
+                    "word": " which",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 4.56,
+                    "end": 5.32,
+                    "word": " we",
+                    "probability": 0.79052734375
+                },
+                {
+                    "start": 5.32,
+                    "end": 5.88,
+                    "word": " recommend",
+                    "probability": 0.9951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.28,
+            "end": 12.46,
+            "text": " which type of model would be the best for which type of task. So this is something that's important",
+            "tokens": [
+                50685,
+                597,
+                2010,
+                295,
+                2316,
+                576,
+                312,
+                264,
+                1151,
+                337,
+                597,
+                2010,
+                295,
+                5633,
+                13,
+                407,
+                341,
+                307,
+                746,
+                300,
+                311,
+                1021,
+                51013
+            ],
+            "avg_logprob": -0.15590659700907195,
+            "compression_ratio": 1.6278026905829597,
+            "no_speech_prob": 0.05340576171875,
+            "words": [
+                {
+                    "start": 6.28,
+                    "end": 6.56,
+                    "word": " which",
+                    "probability": 0.8388671875
+                },
+                {
+                    "start": 6.56,
+                    "end": 6.88,
+                    "word": " type",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 6.88,
+                    "end": 7.1,
+                    "word": " of",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 7.1,
+                    "end": 7.4,
+                    "word": " model",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 7.4,
+                    "end": 7.62,
+                    "word": " would",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 7.62,
+                    "end": 7.8,
+                    "word": " be",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 7.8,
+                    "end": 7.96,
+                    "word": " the",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 7.96,
+                    "end": 8.16,
+                    "word": " best",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 8.16,
+                    "end": 8.44,
+                    "word": " for",
+                    "probability": 0.97314453125
+                },
+                {
+                    "start": 8.44,
+                    "end": 9.22,
+                    "word": " which",
+                    "probability": 0.8486328125
+                },
+                {
+                    "start": 9.22,
+                    "end": 9.46,
+                    "word": " type",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 9.46,
+                    "end": 9.66,
+                    "word": " of",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 9.66,
+                    "end": 10.06,
+                    "word": " task.",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 10.5,
+                    "end": 11.06,
+                    "word": " So",
+                    "probability": 0.67529296875
+                },
+                {
+                    "start": 11.06,
+                    "end": 11.28,
+                    "word": " this",
+                    "probability": 0.7294921875
+                },
+                {
+                    "start": 11.28,
+                    "end": 11.42,
+                    "word": " is",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 11.42,
+                    "end": 11.66,
+                    "word": " something",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 11.66,
+                    "end": 11.94,
+                    "word": " that's",
+                    "probability": 0.980712890625
+                },
+                {
+                    "start": 11.94,
+                    "end": 12.46,
+                    "word": " important",
+                    "probability": 0.9736328125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 12.46,
+            "end": 20.04,
+            "text": " to us. Yeah and at the moment, as I said, I'm interested mostly in the",
+            "tokens": [
+                51013,
+                281,
+                505,
+                13,
+                865,
+                293,
+                412,
+                264,
+                1623,
+                11,
+                382,
+                286,
+                848,
+                11,
+                286,
+                478,
+                3102,
+                5240,
+                294,
+                264,
+                51381
+            ],
+            "avg_logprob": -0.15590659700907195,
+            "compression_ratio": 1.6278026905829597,
+            "no_speech_prob": 0.05340576171875,
+            "words": [
+                {
+                    "start": 12.46,
+                    "end": 13.3,
+                    "word": " to",
+                    "probability": 0.7421875
+                },
+                {
+                    "start": 13.3,
+                    "end": 13.92,
+                    "word": " us.",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 14.26,
+                    "end": 14.82,
+                    "word": " Yeah",
+                    "probability": 0.4912109375
+                },
+                {
+                    "start": 14.82,
+                    "end": 15.34,
+                    "word": " and",
+                    "probability": 0.1832275390625
+                },
+                {
+                    "start": 15.34,
+                    "end": 16.02,
+                    "word": " at",
+                    "probability": 0.9658203125
+                },
+                {
+                    "start": 16.02,
+                    "end": 16.26,
+                    "word": " the",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 16.26,
+                    "end": 16.58,
+                    "word": " moment,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 16.64,
+                    "end": 16.82,
+                    "word": " as",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 16.82,
+                    "end": 16.92,
+                    "word": " I",
+                    "probability": 0.94775390625
+                },
+                {
+                    "start": 16.92,
+                    "end": 17.24,
+                    "word": " said,",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 17.28,
+                    "end": 18.78,
+                    "word": " I'm",
+                    "probability": 0.88330078125
+                },
+                {
+                    "start": 18.78,
+                    "end": 19.24,
+                    "word": " interested",
+                    "probability": 0.96484375
+                },
+                {
+                    "start": 19.24,
+                    "end": 19.66,
+                    "word": " mostly",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 19.66,
+                    "end": 19.96,
+                    "word": " in",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 19.96,
+                    "end": 20.04,
+                    "word": " the",
+                    "probability": 0.994140625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 20.04,
+            "end": 26.5,
+            "text": " in the substance of the interviews, so I'm not looking at the speech per se, but if I was then",
+            "tokens": [
+                51381,
+                294,
+                264,
+                12961,
+                295,
+                264,
+                12318,
+                11,
+                370,
+                286,
+                478,
+                406,
+                1237,
+                412,
+                264,
+                6218,
+                680,
+                369,
+                11,
+                457,
+                498,
+                286,
+                390,
+                550,
+                51701
+            ],
+            "avg_logprob": -0.15590659700907195,
+            "compression_ratio": 1.6278026905829597,
+            "no_speech_prob": 0.05340576171875,
+            "words": [
+                {
+                    "start": 20.04,
+                    "end": 20.4,
+                    "word": " in",
+                    "probability": 0.1378173828125
+                },
+                {
+                    "start": 20.4,
+                    "end": 20.66,
+                    "word": " the",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 20.66,
+                    "end": 20.92,
+                    "word": " substance",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 20.92,
+                    "end": 21.24,
+                    "word": " of",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 21.24,
+                    "end": 21.36,
+                    "word": " the",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 21.36,
+                    "end": 21.82,
+                    "word": " interviews,",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 21.98,
+                    "end": 22.2,
+                    "word": " so",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 22.2,
+                    "end": 22.48,
+                    "word": " I'm",
+                    "probability": 0.97900390625
+                },
+                {
+                    "start": 22.48,
+                    "end": 22.64,
+                    "word": " not",
+                    "probability": 1.0
+                },
+                {
+                    "start": 22.64,
+                    "end": 22.94,
+                    "word": " looking",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 22.94,
+                    "end": 23.14,
+                    "word": " at",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 23.14,
+                    "end": 23.54,
+                    "word": " the",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 23.54,
+                    "end": 23.98,
+                    "word": " speech",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 23.98,
+                    "end": 24.48,
+                    "word": " per",
+                    "probability": 0.9521484375
+                },
+                {
+                    "start": 24.48,
+                    "end": 24.74,
+                    "word": " se,",
+                    "probability": 0.9814453125
+                },
+                {
+                    "start": 24.92,
+                    "end": 25.18,
+                    "word": " but",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 25.18,
+                    "end": 25.42,
+                    "word": " if",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 25.42,
+                    "end": 25.6,
+                    "word": " I",
+                    "probability": 0.97509765625
+                },
+                {
+                    "start": 25.6,
+                    "end": 25.9,
+                    "word": " was",
+                    "probability": 0.98583984375
+                },
+                {
+                    "start": 25.9,
+                    "end": 26.5,
+                    "word": " then",
+                    "probability": 0.60791015625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2650,
+            "start": 26.5,
+            "end": 34.92,
+            "text": " it would be very difficult to do it on Whisper because it lacks the option to have it very",
+            "tokens": [
+                50365,
+                309,
+                576,
+                312,
+                588,
+                2252,
+                281,
+                360,
+                309,
+                322,
+                41132,
+                610,
+                570,
+                309,
+                31132,
+                264,
+                3614,
+                281,
+                362,
+                309,
+                588,
+                50781
+            ],
+            "avg_logprob": -0.1417824074074074,
+            "compression_ratio": 1.5518867924528301,
+            "no_speech_prob": 0.58154296875,
+            "words": [
+                {
+                    "start": 26.5,
+                    "end": 26.66,
+                    "word": " it",
+                    "probability": 0.034088134765625
+                },
+                {
+                    "start": 26.66,
+                    "end": 26.98,
+                    "word": " would",
+                    "probability": 0.97119140625
+                },
+                {
+                    "start": 26.98,
+                    "end": 27.22,
+                    "word": " be",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 27.22,
+                    "end": 27.42,
+                    "word": " very",
+                    "probability": 0.9013671875
+                },
+                {
+                    "start": 27.42,
+                    "end": 27.8,
+                    "word": " difficult",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 27.8,
+                    "end": 28.06,
+                    "word": " to",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 28.06,
+                    "end": 28.2,
+                    "word": " do",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 28.2,
+                    "end": 28.36,
+                    "word": " it",
+                    "probability": 0.97705078125
+                },
+                {
+                    "start": 28.36,
+                    "end": 28.46,
+                    "word": " on",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 28.46,
+                    "end": 28.76,
+                    "word": " Whisper",
+                    "probability": 0.825439453125
+                },
+                {
+                    "start": 28.76,
+                    "end": 29.02,
+                    "word": " because",
+                    "probability": 0.77392578125
+                },
+                {
+                    "start": 29.02,
+                    "end": 29.36,
+                    "word": " it",
+                    "probability": 0.9892578125
+                },
+                {
+                    "start": 29.36,
+                    "end": 31.26,
+                    "word": " lacks",
+                    "probability": 0.92724609375
+                },
+                {
+                    "start": 31.26,
+                    "end": 31.58,
+                    "word": " the",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 31.58,
+                    "end": 33.7,
+                    "word": " option",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 33.7,
+                    "end": 34.2,
+                    "word": " to",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 34.2,
+                    "end": 34.42,
+                    "word": " have",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 34.42,
+                    "end": 34.58,
+                    "word": " it",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 34.58,
+                    "end": 34.92,
+                    "word": " very",
+                    "probability": 0.9208984375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2650,
+            "start": 36.1,
+            "end": 45.02,
+            "text": " annotated and transcribed very speech-like. So I don't know how people who are actually",
+            "tokens": [
+                50841,
+                25339,
+                770,
+                293,
+                1145,
+                18732,
+                588,
+                6218,
+                12,
+                4092,
+                13,
+                407,
+                286,
+                500,
+                380,
+                458,
+                577,
+                561,
+                567,
+                366,
+                767,
+                51293
+            ],
+            "avg_logprob": -0.1417824074074074,
+            "compression_ratio": 1.5518867924528301,
+            "no_speech_prob": 0.58154296875,
+            "words": [
+                {
+                    "start": 36.1,
+                    "end": 36.7,
+                    "word": " annotated",
+                    "probability": 0.930908203125
+                },
+                {
+                    "start": 36.7,
+                    "end": 37.0,
+                    "word": " and",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 37.0,
+                    "end": 37.92,
+                    "word": " transcribed",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 37.92,
+                    "end": 38.2,
+                    "word": " very",
+                    "probability": 0.89892578125
+                },
+                {
+                    "start": 38.2,
+                    "end": 38.58,
+                    "word": " speech",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 38.58,
+                    "end": 38.98,
+                    "word": "-like.",
+                    "probability": 0.970703125
+                },
+                {
+                    "start": 40.16,
+                    "end": 40.76,
+                    "word": " So",
+                    "probability": 0.80224609375
+                },
+                {
+                    "start": 40.76,
+                    "end": 42.68,
+                    "word": " I",
+                    "probability": 0.822265625
+                },
+                {
+                    "start": 42.68,
+                    "end": 42.9,
+                    "word": " don't",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 42.9,
+                    "end": 43.1,
+                    "word": " know",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 43.1,
+                    "end": 43.4,
+                    "word": " how",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 43.4,
+                    "end": 44.18,
+                    "word": " people",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 44.18,
+                    "end": 44.48,
+                    "word": " who",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 44.48,
+                    "end": 44.64,
+                    "word": " are",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 44.64,
+                    "end": 45.02,
+                    "word": " actually",
+                    "probability": 0.99755859375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 2650,
+            "start": 45.94,
+            "end": 53.04,
+            "text": " looking at speech and dialects, for example, and spoken language, how they are doing their",
+            "tokens": [
+                51353,
+                1237,
+                412,
+                6218,
+                293,
+                24652,
+                82,
+                11,
+                337,
+                1365,
+                11,
+                293,
+                10759,
+                2856,
+                11,
+                577,
+                436,
+                366,
+                884,
+                641,
+                51689
+            ],
+            "avg_logprob": -0.1417824074074074,
+            "compression_ratio": 1.5518867924528301,
+            "no_speech_prob": 0.58154296875,
+            "words": [
+                {
+                    "start": 45.94,
+                    "end": 46.54,
+                    "word": " looking",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 46.54,
+                    "end": 46.88,
+                    "word": " at",
+                    "probability": 0.9619140625
+                },
+                {
+                    "start": 46.88,
+                    "end": 48.64,
+                    "word": " speech",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 48.64,
+                    "end": 49.3,
+                    "word": " and",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 49.3,
+                    "end": 50.32,
+                    "word": " dialects,",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 50.32,
+                    "end": 50.38,
+                    "word": " for",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 50.38,
+                    "end": 50.78,
+                    "word": " example,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 50.96,
+                    "end": 51.18,
+                    "word": " and",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 51.18,
+                    "end": 51.42,
+                    "word": " spoken",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 51.42,
+                    "end": 51.86,
+                    "word": " language,",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 51.96,
+                    "end": 52.14,
+                    "word": " how",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 52.14,
+                    "end": 52.34,
+                    "word": " they",
+                    "probability": 1.0
+                },
+                {
+                    "start": 52.34,
+                    "end": 52.54,
+                    "word": " are",
+                    "probability": 1.0
+                },
+                {
+                    "start": 52.54,
+                    "end": 52.84,
+                    "word": " doing",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 52.84,
+                    "end": 53.04,
+                    "word": " their",
+                    "probability": 0.6494140625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 8,
+            "seek": 2650,
+            "start": 53.04,
+            "end": 56.4,
+            "text": " transcribing at the moment. Yeah this is something that I'm",
+            "tokens": [
+                51689,
+                1145,
+                39541,
+                412,
+                264,
+                1623,
+                13,
+                865,
+                341,
+                307,
+                746,
+                300,
+                286,
+                478,
+                51857
+            ],
+            "avg_logprob": -0.1417824074074074,
+            "compression_ratio": 1.5518867924528301,
+            "no_speech_prob": 0.58154296875,
+            "words": [
+                {
+                    "start": 53.04,
+                    "end": 53.66,
+                    "word": " transcribing",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 53.66,
+                    "end": 53.82,
+                    "word": " at",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 53.82,
+                    "end": 53.94,
+                    "word": " the",
+                    "probability": 1.0
+                },
+                {
+                    "start": 53.94,
+                    "end": 54.2,
+                    "word": " moment.",
+                    "probability": 1.0
+                },
+                {
+                    "start": 54.58,
+                    "end": 55.18,
+                    "word": " Yeah",
+                    "probability": 0.89501953125
+                },
+                {
+                    "start": 55.18,
+                    "end": 55.4,
+                    "word": " this",
+                    "probability": 0.00017404556274414062
+                },
+                {
+                    "start": 55.4,
+                    "end": 55.6,
+                    "word": " is",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 55.6,
+                    "end": 55.86,
+                    "word": " something",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 55.86,
+                    "end": 56.08,
+                    "word": " that",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 56.08,
+                    "end": 56.4,
+                    "word": " I'm",
+                    "probability": 0.976318359375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 9,
+            "seek": 5650,
+            "start": 56.5,
+            "end": 60.02,
+            "text": " trying to research in my master's thesis. I'm also a linguist.",
+            "tokens": [
+                50365,
+                1382,
+                281,
+                2132,
+                294,
+                452,
+                4505,
+                311,
+                22288,
+                13,
+                286,
+                478,
+                611,
+                257,
+                21766,
+                468,
+                13,
+                50541
+            ],
+            "avg_logprob": -0.43421053572704915,
+            "compression_ratio": 0.9393939393939394,
+            "no_speech_prob": 0.385009765625,
+            "words": [
+                {
+                    "start": 56.5,
+                    "end": 57.14,
+                    "word": " trying",
+                    "probability": 0.8251953125
+                },
+                {
+                    "start": 57.14,
+                    "end": 57.32,
+                    "word": " to",
+                    "probability": 1.0
+                },
+                {
+                    "start": 57.32,
+                    "end": 57.72,
+                    "word": " research",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 57.72,
+                    "end": 57.98,
+                    "word": " in",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 57.98,
+                    "end": 58.18,
+                    "word": " my",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 58.18,
+                    "end": 58.82,
+                    "word": " master's",
+                    "probability": 0.965087890625
+                },
+                {
+                    "start": 58.82,
+                    "end": 59.08,
+                    "word": " thesis.",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 59.2,
+                    "end": 59.42,
+                    "word": " I'm",
+                    "probability": 0.994384765625
+                },
+                {
+                    "start": 59.42,
+                    "end": 59.64,
+                    "word": " also",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 59.64,
+                    "end": 59.78,
+                    "word": " a",
+                    "probability": 0.489501953125
+                },
+                {
+                    "start": 59.78,
+                    "end": 60.02,
+                    "word": " linguist.",
+                    "probability": 0.81982421875
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " Create words that weren't actually there, so we want to create instructions in which we recommend which type of model would be the best for which type of task. So this is something that's important to us. Yeah and at the moment, as I said, I'm interested mostly in the in the substance of the interviews, so I'm not looking at the speech per se, but if I was then it would be very difficult to do it on Whisper because it lacks the option to have it very annotated and transcribed very speech-like. So I don't know how people who are actually looking at speech and dialects, for example, and spoken language, how they are doing their transcribing at the moment. Yeah this is something that I'm trying to research in my master's thesis. I'm also a linguist."
+}

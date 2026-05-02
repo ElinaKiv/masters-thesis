@@ -1,0 +1,892 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 13.02,
+            "text": " What are your technical capabilities? So if you could just a little bit explain what you consider your technical capabilities to be like. Do you consider yourself very sufficient or something else?",
+            "tokens": [
+                50365,
+                708,
+                366,
+                428,
+                6191,
+                10862,
+                30,
+                407,
+                498,
+                291,
+                727,
+                445,
+                257,
+                707,
+                857,
+                2903,
+                437,
+                291,
+                1949,
+                428,
+                6191,
+                10862,
+                281,
+                312,
+                411,
+                13,
+                1144,
+                291,
+                1949,
+                1803,
+                588,
+                11563,
+                420,
+                746,
+                1646,
+                30,
+                51065
+            ],
+            "avg_logprob": -0.22550676380460327,
+            "compression_ratio": 1.572139303482587,
+            "no_speech_prob": 0.546875,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.16,
+                    "word": " What",
+                    "probability": 0.07470703125
+                },
+                {
+                    "start": 0.16,
+                    "end": 0.16,
+                    "word": " are",
+                    "probability": 0.468994140625
+                },
+                {
+                    "start": 0.18,
+                    "end": 0.16,
+                    "word": " your",
+                    "probability": 0.96484375
+                },
+                {
+                    "start": 0.2,
+                    "end": 0.62,
+                    "word": " technical",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 0.62,
+                    "end": 1.54,
+                    "word": " capabilities?",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 2.02,
+                    "end": 2.06,
+                    "word": " So",
+                    "probability": 0.142578125
+                },
+                {
+                    "start": 2.06,
+                    "end": 2.22,
+                    "word": " if",
+                    "probability": 0.82763671875
+                },
+                {
+                    "start": 2.22,
+                    "end": 2.32,
+                    "word": " you",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 2.32,
+                    "end": 2.56,
+                    "word": " could",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 2.56,
+                    "end": 4.6,
+                    "word": " just",
+                    "probability": 0.783203125
+                },
+                {
+                    "start": 4.6,
+                    "end": 4.84,
+                    "word": " a",
+                    "probability": 0.93701171875
+                },
+                {
+                    "start": 4.84,
+                    "end": 5.0,
+                    "word": " little",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 5.0,
+                    "end": 5.16,
+                    "word": " bit",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 5.16,
+                    "end": 5.46,
+                    "word": " explain",
+                    "probability": 0.98046875
+                },
+                {
+                    "start": 5.46,
+                    "end": 5.94,
+                    "word": " what",
+                    "probability": 0.958984375
+                },
+                {
+                    "start": 5.94,
+                    "end": 6.08,
+                    "word": " you",
+                    "probability": 0.83984375
+                },
+                {
+                    "start": 6.08,
+                    "end": 6.5,
+                    "word": " consider",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 6.5,
+                    "end": 6.84,
+                    "word": " your",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 6.84,
+                    "end": 7.28,
+                    "word": " technical",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 7.28,
+                    "end": 7.86,
+                    "word": " capabilities",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 7.86,
+                    "end": 8.28,
+                    "word": " to",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 8.28,
+                    "end": 8.44,
+                    "word": " be",
+                    "probability": 1.0
+                },
+                {
+                    "start": 8.44,
+                    "end": 8.84,
+                    "word": " like.",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 8.98,
+                    "end": 9.16,
+                    "word": " Do",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 9.16,
+                    "end": 9.24,
+                    "word": " you",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 9.24,
+                    "end": 9.54,
+                    "word": " consider",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 9.54,
+                    "end": 10.02,
+                    "word": " yourself",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 10.02,
+                    "end": 10.82,
+                    "word": " very",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 10.82,
+                    "end": 11.3,
+                    "word": " sufficient",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 11.3,
+                    "end": 11.86,
+                    "word": " or",
+                    "probability": 0.9453125
+                },
+                {
+                    "start": 11.86,
+                    "end": 12.72,
+                    "word": " something",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 12.72,
+                    "end": 13.02,
+                    "word": " else?",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 15.5,
+            "end": 26.68,
+            "text": " I'd say I'm quite proficient with technology. It's not... I mean, I grew up in the 1990s. I know how to use computers.",
+            "tokens": [
+                51065,
+                286,
+                1116,
+                584,
+                286,
+                478,
+                1596,
+                1740,
+                24549,
+                365,
+                2899,
+                13,
+                467,
+                311,
+                406,
+                485,
+                286,
+                914,
+                11,
+                286,
+                6109,
+                493,
+                294,
+                264,
+                13384,
+                82,
+                13,
+                286,
+                458,
+                577,
+                281,
+                764,
+                10807,
+                13,
+                51815
+            ],
+            "avg_logprob": -0.22550676380460327,
+            "compression_ratio": 1.572139303482587,
+            "no_speech_prob": 0.546875,
+            "words": [
+                {
+                    "start": 15.5,
+                    "end": 16.18,
+                    "word": " I'd",
+                    "probability": 0.981201171875
+                },
+                {
+                    "start": 16.18,
+                    "end": 16.52,
+                    "word": " say",
+                    "probability": 1.0
+                },
+                {
+                    "start": 16.52,
+                    "end": 17.26,
+                    "word": " I'm",
+                    "probability": 0.995361328125
+                },
+                {
+                    "start": 17.26,
+                    "end": 17.8,
+                    "word": " quite",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 17.8,
+                    "end": 18.4,
+                    "word": " proficient",
+                    "probability": 0.999755859375
+                },
+                {
+                    "start": 18.4,
+                    "end": 18.6,
+                    "word": " with",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 18.6,
+                    "end": 18.94,
+                    "word": " technology.",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 20.4,
+                    "end": 20.88,
+                    "word": " It's",
+                    "probability": 0.786376953125
+                },
+                {
+                    "start": 20.88,
+                    "end": 21.34,
+                    "word": " not...",
+                    "probability": 0.5948486328125
+                },
+                {
+                    "start": 21.34,
+                    "end": 21.68,
+                    "word": " I",
+                    "probability": 0.978515625
+                },
+                {
+                    "start": 21.68,
+                    "end": 21.88,
+                    "word": " mean,",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 21.96,
+                    "end": 23.06,
+                    "word": " I",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 23.06,
+                    "end": 23.98,
+                    "word": " grew",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 23.98,
+                    "end": 24.24,
+                    "word": " up",
+                    "probability": 1.0
+                },
+                {
+                    "start": 24.24,
+                    "end": 24.38,
+                    "word": " in",
+                    "probability": 1.0
+                },
+                {
+                    "start": 24.38,
+                    "end": 24.52,
+                    "word": " the",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 24.52,
+                    "end": 25.5,
+                    "word": " 1990s.",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 25.5,
+                    "end": 25.6,
+                    "word": " I",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 25.6,
+                    "end": 25.78,
+                    "word": " know",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 25.78,
+                    "end": 25.9,
+                    "word": " how",
+                    "probability": 1.0
+                },
+                {
+                    "start": 25.9,
+                    "end": 26.02,
+                    "word": " to",
+                    "probability": 1.0
+                },
+                {
+                    "start": 26.02,
+                    "end": 26.2,
+                    "word": " use",
+                    "probability": 1.0
+                },
+                {
+                    "start": 26.2,
+                    "end": 26.68,
+                    "word": " computers.",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 2668,
+            "start": 29.14,
+            "end": 40.46,
+            "text": " I'm not interested in technology. I'm bored and frustrated and annoyed if I have to learn how to use new software, but I can do it and it's not a difficult problem.",
+            "tokens": [
+                50365,
+                286,
+                478,
+                406,
+                3102,
+                294,
+                2899,
+                13,
+                286,
+                478,
+                13521,
+                293,
+                15751,
+                293,
+                25921,
+                498,
+                286,
+                362,
+                281,
+                1466,
+                577,
+                281,
+                764,
+                777,
+                4722,
+                11,
+                457,
+                286,
+                393,
+                360,
+                309,
+                293,
+                309,
+                311,
+                406,
+                257,
+                2252,
+                1154,
+                13,
+                51115
+            ],
+            "avg_logprob": -0.11718749896519715,
+            "compression_ratio": 1.4450261780104712,
+            "no_speech_prob": 0.252197265625,
+            "words": [
+                {
+                    "start": 29.14,
+                    "end": 29.7,
+                    "word": " I'm",
+                    "probability": 0.982421875
+                },
+                {
+                    "start": 29.7,
+                    "end": 29.9,
+                    "word": " not",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 29.9,
+                    "end": 30.58,
+                    "word": " interested",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 30.58,
+                    "end": 31.22,
+                    "word": " in",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 31.22,
+                    "end": 31.82,
+                    "word": " technology.",
+                    "probability": 1.0
+                },
+                {
+                    "start": 32.22,
+                    "end": 32.78,
+                    "word": " I'm",
+                    "probability": 0.999755859375
+                },
+                {
+                    "start": 32.78,
+                    "end": 33.2,
+                    "word": " bored",
+                    "probability": 1.0
+                },
+                {
+                    "start": 33.2,
+                    "end": 33.46,
+                    "word": " and",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 33.46,
+                    "end": 33.94,
+                    "word": " frustrated",
+                    "probability": 1.0
+                },
+                {
+                    "start": 33.94,
+                    "end": 34.44,
+                    "word": " and",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 34.44,
+                    "end": 34.86,
+                    "word": " annoyed",
+                    "probability": 1.0
+                },
+                {
+                    "start": 34.86,
+                    "end": 35.32,
+                    "word": " if",
+                    "probability": 0.97998046875
+                },
+                {
+                    "start": 35.32,
+                    "end": 35.46,
+                    "word": " I",
+                    "probability": 1.0
+                },
+                {
+                    "start": 35.46,
+                    "end": 35.6,
+                    "word": " have",
+                    "probability": 1.0
+                },
+                {
+                    "start": 35.6,
+                    "end": 35.78,
+                    "word": " to",
+                    "probability": 1.0
+                },
+                {
+                    "start": 35.78,
+                    "end": 35.96,
+                    "word": " learn",
+                    "probability": 1.0
+                },
+                {
+                    "start": 35.96,
+                    "end": 36.16,
+                    "word": " how",
+                    "probability": 1.0
+                },
+                {
+                    "start": 36.16,
+                    "end": 36.32,
+                    "word": " to",
+                    "probability": 1.0
+                },
+                {
+                    "start": 36.32,
+                    "end": 36.6,
+                    "word": " use",
+                    "probability": 1.0
+                },
+                {
+                    "start": 36.6,
+                    "end": 36.86,
+                    "word": " new",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 36.86,
+                    "end": 37.42,
+                    "word": " software,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 37.86,
+                    "end": 38.2,
+                    "word": " but",
+                    "probability": 1.0
+                },
+                {
+                    "start": 38.2,
+                    "end": 38.42,
+                    "word": " I",
+                    "probability": 1.0
+                },
+                {
+                    "start": 38.42,
+                    "end": 38.7,
+                    "word": " can",
+                    "probability": 1.0
+                },
+                {
+                    "start": 38.7,
+                    "end": 39.0,
+                    "word": " do",
+                    "probability": 1.0
+                },
+                {
+                    "start": 39.0,
+                    "end": 39.2,
+                    "word": " it",
+                    "probability": 1.0
+                },
+                {
+                    "start": 39.2,
+                    "end": 39.36,
+                    "word": " and",
+                    "probability": 0.748046875
+                },
+                {
+                    "start": 39.36,
+                    "end": 39.54,
+                    "word": " it's",
+                    "probability": 1.0
+                },
+                {
+                    "start": 39.54,
+                    "end": 39.66,
+                    "word": " not",
+                    "probability": 1.0
+                },
+                {
+                    "start": 39.66,
+                    "end": 39.8,
+                    "word": " a",
+                    "probability": 1.0
+                },
+                {
+                    "start": 39.8,
+                    "end": 40.14,
+                    "word": " difficult",
+                    "probability": 0.357421875
+                },
+                {
+                    "start": 40.14,
+                    "end": 40.46,
+                    "word": " problem.",
+                    "probability": 0.69140625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2668,
+            "start": 42.12,
+            "end": 49.72,
+            "text": " Okay. Yeah, good answer. Would you say that you're at all familiar with command line tools?",
+            "tokens": [
+                51115,
+                1033,
+                13,
+                865,
+                11,
+                665,
+                1867,
+                13,
+                6068,
+                291,
+                584,
+                300,
+                291,
+                434,
+                412,
+                439,
+                4963,
+                365,
+                5622,
+                1622,
+                3873,
+                30,
+                51565
+            ],
+            "avg_logprob": -0.11718749896519715,
+            "compression_ratio": 1.4450261780104712,
+            "no_speech_prob": 0.252197265625,
+            "words": [
+                {
+                    "start": 42.12,
+                    "end": 42.68,
+                    "word": " Okay.",
+                    "probability": 0.97314453125
+                },
+                {
+                    "start": 42.76,
+                    "end": 43.18,
+                    "word": " Yeah,",
+                    "probability": 0.9619140625
+                },
+                {
+                    "start": 43.2,
+                    "end": 43.36,
+                    "word": " good",
+                    "probability": 1.0
+                },
+                {
+                    "start": 43.36,
+                    "end": 43.58,
+                    "word": " answer.",
+                    "probability": 1.0
+                },
+                {
+                    "start": 44.98,
+                    "end": 45.54,
+                    "word": " Would",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 45.54,
+                    "end": 45.74,
+                    "word": " you",
+                    "probability": 1.0
+                },
+                {
+                    "start": 45.74,
+                    "end": 45.96,
+                    "word": " say",
+                    "probability": 1.0
+                },
+                {
+                    "start": 45.96,
+                    "end": 46.1,
+                    "word": " that",
+                    "probability": 1.0
+                },
+                {
+                    "start": 46.1,
+                    "end": 46.36,
+                    "word": " you're",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 46.36,
+                    "end": 46.78,
+                    "word": " at",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 46.78,
+                    "end": 46.98,
+                    "word": " all",
+                    "probability": 1.0
+                },
+                {
+                    "start": 46.98,
+                    "end": 47.42,
+                    "word": " familiar",
+                    "probability": 1.0
+                },
+                {
+                    "start": 47.42,
+                    "end": 47.88,
+                    "word": " with",
+                    "probability": 1.0
+                },
+                {
+                    "start": 47.88,
+                    "end": 48.46,
+                    "word": " command",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 48.46,
+                    "end": 49.26,
+                    "word": " line",
+                    "probability": 0.9765625
+                },
+                {
+                    "start": 49.26,
+                    "end": 49.72,
+                    "word": " tools?",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2668,
+            "start": 54.82,
+            "end": 56.26,
+            "text": " Familiar with? Yes.",
+            "tokens": [
+                51565,
+                7342,
+                4600,
+                365,
+                30,
+                1079,
+                13,
+                51865
+            ],
+            "avg_logprob": -0.11718749896519715,
+            "compression_ratio": 1.4450261780104712,
+            "no_speech_prob": 0.252197265625,
+            "words": [
+                {
+                    "start": 54.82,
+                    "end": 55.38,
+                    "word": " Familiar",
+                    "probability": 0.980224609375
+                },
+                {
+                    "start": 55.38,
+                    "end": 55.66,
+                    "word": " with?",
+                    "probability": 1.0
+                },
+                {
+                    "start": 55.76,
+                    "end": 56.26,
+                    "word": " Yes.",
+                    "probability": 0.9990234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 5668,
+            "start": 56.68,
+            "end": 58.42,
+            "text": " I have...",
+            "tokens": [
+                50365,
+                286,
+                362,
+                485,
+                50515
+            ],
+            "avg_logprob": -0.5138549705346426,
+            "compression_ratio": 0.5294117647058824,
+            "no_speech_prob": 0.5390625,
+            "words": [
+                {
+                    "start": 56.68,
+                    "end": 58.38,
+                    "word": " I",
+                    "probability": 0.86962890625
+                },
+                {
+                    "start": 58.38,
+                    "end": 58.42,
+                    "word": " have...",
+                    "probability": 0.75
+                }
+            ],
+            "temperature": 0.2
+        }
+    ],
+    "language": "en",
+    "text": " What are your technical capabilities? So if you could just a little bit explain what you consider your technical capabilities to be like. Do you consider yourself very sufficient or something else? I'd say I'm quite proficient with technology. It's not... I mean, I grew up in the 1990s. I know how to use computers. I'm not interested in technology. I'm bored and frustrated and annoyed if I have to learn how to use new software, but I can do it and it's not a difficult problem. Okay. Yeah, good answer. Would you say that you're at all familiar with command line tools? Familiar with? Yes. I have..."
+}

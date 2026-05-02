@@ -1,0 +1,951 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 12.28,
+            "text": " ...descriptions on various levels of accuracy, and also because I work with very different, phonetically distinct varieties of the language.",
+            "tokens": [
+                50365,
+                1097,
+                14792,
+                34173,
+                322,
+                3683,
+                4358,
+                295,
+                14170,
+                11,
+                293,
+                611,
+                570,
+                286,
+                589,
+                365,
+                588,
+                819,
+                11,
+                30754,
+                22652,
+                10644,
+                22092,
+                295,
+                264,
+                2856,
+                13,
+                51015
+            ],
+            "avg_logprob": -0.17616637995545292,
+            "compression_ratio": 1.5194174757281553,
+            "no_speech_prob": 0.96337890625,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.28,
+                    "word": " ...descriptions",
+                    "probability": 0.4810689290364583
+                },
+                {
+                    "start": 0.28,
+                    "end": 0.68,
+                    "word": " on",
+                    "probability": 0.982421875
+                },
+                {
+                    "start": 0.68,
+                    "end": 1.02,
+                    "word": " various",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 1.02,
+                    "end": 1.48,
+                    "word": " levels",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 1.48,
+                    "end": 1.74,
+                    "word": " of",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 1.74,
+                    "end": 2.14,
+                    "word": " accuracy,",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 2.46,
+                    "end": 3.4,
+                    "word": " and",
+                    "probability": 0.9423828125
+                },
+                {
+                    "start": 3.4,
+                    "end": 4.32,
+                    "word": " also",
+                    "probability": 0.97119140625
+                },
+                {
+                    "start": 4.32,
+                    "end": 4.76,
+                    "word": " because",
+                    "probability": 0.958984375
+                },
+                {
+                    "start": 4.76,
+                    "end": 5.36,
+                    "word": " I",
+                    "probability": 0.98291015625
+                },
+                {
+                    "start": 5.36,
+                    "end": 5.76,
+                    "word": " work",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 5.76,
+                    "end": 6.04,
+                    "word": " with",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 6.04,
+                    "end": 6.94,
+                    "word": " very",
+                    "probability": 0.845703125
+                },
+                {
+                    "start": 6.94,
+                    "end": 8.3,
+                    "word": " different,",
+                    "probability": 0.96728515625
+                },
+                {
+                    "start": 8.62,
+                    "end": 9.12,
+                    "word": " phonetically",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 9.12,
+                    "end": 10.22,
+                    "word": " distinct",
+                    "probability": 0.9404296875
+                },
+                {
+                    "start": 10.22,
+                    "end": 11.48,
+                    "word": " varieties",
+                    "probability": 0.80224609375
+                },
+                {
+                    "start": 11.48,
+                    "end": 11.84,
+                    "word": " of",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 11.84,
+                    "end": 11.9,
+                    "word": " the",
+                    "probability": 0.666015625
+                },
+                {
+                    "start": 11.9,
+                    "end": 12.28,
+                    "word": " language.",
+                    "probability": 0.99755859375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 12.6,
+            "end": 29.3,
+            "text": " So I think I would, for example, need to be able to adjust the model or tool so that it correctly writes down words or phonemes based on different ways of pronouncing them.",
+            "tokens": [
+                51015,
+                407,
+                286,
+                519,
+                286,
+                576,
+                11,
+                337,
+                1365,
+                11,
+                643,
+                281,
+                312,
+                1075,
+                281,
+                4369,
+                264,
+                2316,
+                420,
+                2290,
+                370,
+                300,
+                309,
+                8944,
+                13657,
+                760,
+                2283,
+                420,
+                30754,
+                443,
+                279,
+                2361,
+                322,
+                819,
+                2098,
+                295,
+                14144,
+                2175,
+                552,
+                13,
+                51815
+            ],
+            "avg_logprob": -0.17616637995545292,
+            "compression_ratio": 1.5194174757281553,
+            "no_speech_prob": 0.96337890625,
+            "words": [
+                {
+                    "start": 12.6,
+                    "end": 12.98,
+                    "word": " So",
+                    "probability": 0.9072265625
+                },
+                {
+                    "start": 12.98,
+                    "end": 13.12,
+                    "word": " I",
+                    "probability": 0.86474609375
+                },
+                {
+                    "start": 13.12,
+                    "end": 13.34,
+                    "word": " think",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 13.34,
+                    "end": 13.56,
+                    "word": " I",
+                    "probability": 0.962890625
+                },
+                {
+                    "start": 13.56,
+                    "end": 13.72,
+                    "word": " would,",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 13.78,
+                    "end": 13.96,
+                    "word": " for",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 13.96,
+                    "end": 14.3,
+                    "word": " example,",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 14.38,
+                    "end": 14.78,
+                    "word": " need",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 14.78,
+                    "end": 15.0,
+                    "word": " to",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 15.0,
+                    "end": 15.14,
+                    "word": " be",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 15.14,
+                    "end": 15.4,
+                    "word": " able",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 15.4,
+                    "end": 15.74,
+                    "word": " to",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 15.74,
+                    "end": 16.32,
+                    "word": " adjust",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 16.32,
+                    "end": 16.9,
+                    "word": " the",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 16.9,
+                    "end": 17.54,
+                    "word": " model",
+                    "probability": 0.95361328125
+                },
+                {
+                    "start": 17.54,
+                    "end": 18.0,
+                    "word": " or",
+                    "probability": 0.97119140625
+                },
+                {
+                    "start": 18.0,
+                    "end": 18.38,
+                    "word": " tool",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 18.38,
+                    "end": 19.4,
+                    "word": " so",
+                    "probability": 0.86376953125
+                },
+                {
+                    "start": 19.4,
+                    "end": 19.66,
+                    "word": " that",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 19.66,
+                    "end": 19.98,
+                    "word": " it",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 19.98,
+                    "end": 20.84,
+                    "word": " correctly",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 20.84,
+                    "end": 21.5,
+                    "word": " writes",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 21.5,
+                    "end": 22.04,
+                    "word": " down",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 22.04,
+                    "end": 24.42,
+                    "word": " words",
+                    "probability": 0.94677734375
+                },
+                {
+                    "start": 24.42,
+                    "end": 26.32,
+                    "word": " or",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 26.32,
+                    "end": 27.0,
+                    "word": " phonemes",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 27.0,
+                    "end": 27.54,
+                    "word": " based",
+                    "probability": 0.98388671875
+                },
+                {
+                    "start": 27.54,
+                    "end": 27.7,
+                    "word": " on",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 27.7,
+                    "end": 27.98,
+                    "word": " different",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 27.98,
+                    "end": 28.34,
+                    "word": " ways",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 28.34,
+                    "end": 28.5,
+                    "word": " of",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 28.5,
+                    "end": 29.06,
+                    "word": " pronouncing",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 29.06,
+                    "end": 29.3,
+                    "word": " them.",
+                    "probability": 0.99853515625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 2930,
+            "start": 29.3,
+            "end": 31.06,
+            "text": " So I would need some customizability.",
+            "tokens": [
+                50365,
+                407,
+                286,
+                576,
+                643,
+                512,
+                2375,
+                590,
+                2310,
+                13,
+                50515
+            ],
+            "avg_logprob": -0.13070913079457405,
+            "compression_ratio": 1.482233502538071,
+            "no_speech_prob": 0.1820068359375,
+            "words": [
+                {
+                    "start": 29.3,
+                    "end": 29.52,
+                    "word": " So",
+                    "probability": 0.814453125
+                },
+                {
+                    "start": 29.52,
+                    "end": 29.7,
+                    "word": " I",
+                    "probability": 0.9072265625
+                },
+                {
+                    "start": 29.7,
+                    "end": 29.9,
+                    "word": " would",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 29.9,
+                    "end": 30.1,
+                    "word": " need",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 30.1,
+                    "end": 30.28,
+                    "word": " some",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 30.28,
+                    "end": 31.06,
+                    "word": " customizability.",
+                    "probability": 0.9718424479166666
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2930,
+            "start": 32.92,
+            "end": 33.94,
+            "text": " Okay, yeah.",
+            "tokens": [
+                50515,
+                1033,
+                11,
+                1338,
+                13,
+                50615
+            ],
+            "avg_logprob": -0.13070913079457405,
+            "compression_ratio": 1.482233502538071,
+            "no_speech_prob": 0.1820068359375,
+            "words": [
+                {
+                    "start": 32.92,
+                    "end": 33.54,
+                    "word": " Okay,",
+                    "probability": 0.93212890625
+                },
+                {
+                    "start": 33.62,
+                    "end": 33.94,
+                    "word": " yeah.",
+                    "probability": 0.99853515625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2930,
+            "start": 34.5,
+            "end": 47.36,
+            "text": " And as for what's most important for me, well, I mean, naturally that the tool transcribes correctly.",
+            "tokens": [
+                50615,
+                400,
+                382,
+                337,
+                437,
+                311,
+                881,
+                1021,
+                337,
+                385,
+                11,
+                731,
+                11,
+                286,
+                914,
+                11,
+                8195,
+                300,
+                264,
+                2290,
+                1145,
+                1142,
+                6446,
+                8944,
+                13,
+                51315
+            ],
+            "avg_logprob": -0.13070913079457405,
+            "compression_ratio": 1.482233502538071,
+            "no_speech_prob": 0.1820068359375,
+            "words": [
+                {
+                    "start": 34.5,
+                    "end": 35.12,
+                    "word": " And",
+                    "probability": 0.98388671875
+                },
+                {
+                    "start": 35.12,
+                    "end": 36.06,
+                    "word": " as",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 36.06,
+                    "end": 36.18,
+                    "word": " for",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 36.18,
+                    "end": 36.42,
+                    "word": " what's",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 36.42,
+                    "end": 36.5,
+                    "word": " most",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 36.5,
+                    "end": 37.12,
+                    "word": " important",
+                    "probability": 1.0
+                },
+                {
+                    "start": 37.12,
+                    "end": 37.52,
+                    "word": " for",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 37.52,
+                    "end": 37.74,
+                    "word": " me,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 37.92,
+                    "end": 40.16,
+                    "word": " well,",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 40.42,
+                    "end": 40.72,
+                    "word": " I",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 40.72,
+                    "end": 40.94,
+                    "word": " mean,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 41.0,
+                    "end": 43.94,
+                    "word": " naturally",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 43.94,
+                    "end": 44.84,
+                    "word": " that",
+                    "probability": 0.82421875
+                },
+                {
+                    "start": 44.84,
+                    "end": 45.48,
+                    "word": " the",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 45.48,
+                    "end": 45.84,
+                    "word": " tool",
+                    "probability": 1.0
+                },
+                {
+                    "start": 45.84,
+                    "end": 46.94,
+                    "word": " transcribes",
+                    "probability": 0.9986979166666666
+                },
+                {
+                    "start": 46.94,
+                    "end": 47.36,
+                    "word": " correctly.",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2930,
+            "start": 47.8,
+            "end": 57.9,
+            "text": " Because the tools I've used in the past have made very many errors to the point of me almost not saving any time or work by using the tools.",
+            "tokens": [
+                51315,
+                1436,
+                264,
+                3873,
+                286,
+                600,
+                1143,
+                294,
+                264,
+                1791,
+                362,
+                1027,
+                588,
+                867,
+                13603,
+                281,
+                264,
+                935,
+                295,
+                385,
+                1920,
+                406,
+                6816,
+                604,
+                565,
+                420,
+                589,
+                538,
+                1228,
+                264,
+                3873,
+                13,
+                51815
+            ],
+            "avg_logprob": -0.13070913079457405,
+            "compression_ratio": 1.482233502538071,
+            "no_speech_prob": 0.1820068359375,
+            "words": [
+                {
+                    "start": 47.8,
+                    "end": 48.36,
+                    "word": " Because",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 48.36,
+                    "end": 48.58,
+                    "word": " the",
+                    "probability": 1.0
+                },
+                {
+                    "start": 48.58,
+                    "end": 48.8,
+                    "word": " tools",
+                    "probability": 1.0
+                },
+                {
+                    "start": 48.8,
+                    "end": 49.0,
+                    "word": " I've",
+                    "probability": 0.995849609375
+                },
+                {
+                    "start": 49.0,
+                    "end": 49.08,
+                    "word": " used",
+                    "probability": 1.0
+                },
+                {
+                    "start": 49.08,
+                    "end": 49.24,
+                    "word": " in",
+                    "probability": 1.0
+                },
+                {
+                    "start": 49.24,
+                    "end": 49.3,
+                    "word": " the",
+                    "probability": 1.0
+                },
+                {
+                    "start": 49.3,
+                    "end": 49.76,
+                    "word": " past",
+                    "probability": 1.0
+                },
+                {
+                    "start": 49.76,
+                    "end": 50.84,
+                    "word": " have",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 50.84,
+                    "end": 51.52,
+                    "word": " made",
+                    "probability": 1.0
+                },
+                {
+                    "start": 51.52,
+                    "end": 51.92,
+                    "word": " very",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 51.92,
+                    "end": 52.14,
+                    "word": " many",
+                    "probability": 1.0
+                },
+                {
+                    "start": 52.14,
+                    "end": 52.5,
+                    "word": " errors",
+                    "probability": 1.0
+                },
+                {
+                    "start": 52.5,
+                    "end": 52.98,
+                    "word": " to",
+                    "probability": 0.93603515625
+                },
+                {
+                    "start": 52.98,
+                    "end": 53.1,
+                    "word": " the",
+                    "probability": 1.0
+                },
+                {
+                    "start": 53.1,
+                    "end": 53.44,
+                    "word": " point",
+                    "probability": 1.0
+                },
+                {
+                    "start": 53.44,
+                    "end": 53.82,
+                    "word": " of",
+                    "probability": 1.0
+                },
+                {
+                    "start": 53.82,
+                    "end": 54.56,
+                    "word": " me",
+                    "probability": 1.0
+                },
+                {
+                    "start": 54.56,
+                    "end": 55.08,
+                    "word": " almost",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 55.08,
+                    "end": 55.4,
+                    "word": " not",
+                    "probability": 1.0
+                },
+                {
+                    "start": 55.4,
+                    "end": 55.96,
+                    "word": " saving",
+                    "probability": 1.0
+                },
+                {
+                    "start": 55.96,
+                    "end": 56.28,
+                    "word": " any",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 56.28,
+                    "end": 56.56,
+                    "word": " time",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 56.56,
+                    "end": 56.72,
+                    "word": " or",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 56.72,
+                    "end": 56.98,
+                    "word": " work",
+                    "probability": 1.0
+                },
+                {
+                    "start": 56.98,
+                    "end": 57.16,
+                    "word": " by",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 57.16,
+                    "end": 57.48,
+                    "word": " using",
+                    "probability": 1.0
+                },
+                {
+                    "start": 57.48,
+                    "end": 57.62,
+                    "word": " the",
+                    "probability": 1.0
+                },
+                {
+                    "start": 57.62,
+                    "end": 57.9,
+                    "word": " tools.",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 5790,
+            "start": 57.9,
+            "end": 59.78,
+            "text": " Because I've had to correct so much.",
+            "tokens": [
+                50365,
+                1436,
+                286,
+                600,
+                632,
+                281,
+                3006,
+                370,
+                709,
+                13,
+                50515
+            ],
+            "avg_logprob": -0.09977213417490323,
+            "compression_ratio": 0.8181818181818182,
+            "no_speech_prob": 0.1986083984375,
+            "words": [
+                {
+                    "start": 57.9,
+                    "end": 58.2,
+                    "word": " Because",
+                    "probability": 0.02392578125
+                },
+                {
+                    "start": 58.2,
+                    "end": 58.42,
+                    "word": " I've",
+                    "probability": 0.96240234375
+                },
+                {
+                    "start": 58.42,
+                    "end": 58.62,
+                    "word": " had",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 58.62,
+                    "end": 58.78,
+                    "word": " to",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 58.78,
+                    "end": 59.04,
+                    "word": " correct",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 59.04,
+                    "end": 59.46,
+                    "word": " so",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 59.46,
+                    "end": 59.78,
+                    "word": " much.",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " ...descriptions on various levels of accuracy, and also because I work with very different, phonetically distinct varieties of the language. So I think I would, for example, need to be able to adjust the model or tool so that it correctly writes down words or phonemes based on different ways of pronouncing them. So I would need some customizability. Okay, yeah. And as for what's most important for me, well, I mean, naturally that the tool transcribes correctly. Because the tools I've used in the past have made very many errors to the point of me almost not saving any time or work by using the tools. Because I've had to correct so much."
+}

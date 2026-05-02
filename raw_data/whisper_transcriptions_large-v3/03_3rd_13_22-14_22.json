@@ -1,0 +1,1030 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 8.2,
+            "text": " Yes, yes, that would be great. Yeah. Yeah, because otherwise we have to do it manually. So far we've been doing it manually.",
+            "tokens": [
+                50365,
+                1079,
+                11,
+                2086,
+                11,
+                300,
+                576,
+                312,
+                869,
+                13,
+                865,
+                13,
+                865,
+                11,
+                570,
+                5911,
+                321,
+                362,
+                281,
+                360,
+                309,
+                16945,
+                13,
+                407,
+                1400,
+                321,
+                600,
+                668,
+                884,
+                309,
+                16945,
+                13,
+                50789
+            ],
+            "avg_logprob": -0.29543585291034297,
+            "compression_ratio": 1.560846560846561,
+            "no_speech_prob": 0.126220703125,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.62,
+                    "word": " Yes,",
+                    "probability": 0.61181640625
+                },
+                {
+                    "start": 1.5,
+                    "end": 1.68,
+                    "word": " yes,",
+                    "probability": 0.1451416015625
+                },
+                {
+                    "start": 1.74,
+                    "end": 1.92,
+                    "word": " that",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 1.92,
+                    "end": 2.14,
+                    "word": " would",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 2.14,
+                    "end": 2.28,
+                    "word": " be",
+                    "probability": 1.0
+                },
+                {
+                    "start": 2.28,
+                    "end": 2.52,
+                    "word": " great.",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 2.72,
+                    "end": 2.9,
+                    "word": " Yeah.",
+                    "probability": 0.8798828125
+                },
+                {
+                    "start": 3.16,
+                    "end": 3.64,
+                    "word": " Yeah,",
+                    "probability": 0.63671875
+                },
+                {
+                    "start": 5.16,
+                    "end": 5.32,
+                    "word": " because",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 5.32,
+                    "end": 5.62,
+                    "word": " otherwise",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 5.62,
+                    "end": 5.98,
+                    "word": " we",
+                    "probability": 0.9365234375
+                },
+                {
+                    "start": 5.98,
+                    "end": 6.1,
+                    "word": " have",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 6.1,
+                    "end": 6.2,
+                    "word": " to",
+                    "probability": 1.0
+                },
+                {
+                    "start": 6.2,
+                    "end": 6.32,
+                    "word": " do",
+                    "probability": 1.0
+                },
+                {
+                    "start": 6.32,
+                    "end": 6.42,
+                    "word": " it",
+                    "probability": 1.0
+                },
+                {
+                    "start": 6.42,
+                    "end": 6.7,
+                    "word": " manually.",
+                    "probability": 1.0
+                },
+                {
+                    "start": 6.8,
+                    "end": 6.96,
+                    "word": " So",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 6.96,
+                    "end": 7.16,
+                    "word": " far",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 7.16,
+                    "end": 7.4,
+                    "word": " we've",
+                    "probability": 0.7958984375
+                },
+                {
+                    "start": 7.4,
+                    "end": 7.52,
+                    "word": " been",
+                    "probability": 1.0
+                },
+                {
+                    "start": 7.52,
+                    "end": 7.76,
+                    "word": " doing",
+                    "probability": 1.0
+                },
+                {
+                    "start": 7.76,
+                    "end": 7.9,
+                    "word": " it",
+                    "probability": 1.0
+                },
+                {
+                    "start": 7.9,
+                    "end": 8.2,
+                    "word": " manually.",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.42,
+            "end": 15.98,
+            "text": " Yeah, yeah. And does the data that you're working with contain sensitive information usually?",
+            "tokens": [
+                50789,
+                865,
+                11,
+                1338,
+                13,
+                400,
+                775,
+                264,
+                1412,
+                300,
+                291,
+                434,
+                1364,
+                365,
+                5304,
+                9477,
+                1589,
+                2673,
+                30,
+                51173
+            ],
+            "avg_logprob": -0.29543585291034297,
+            "compression_ratio": 1.560846560846561,
+            "no_speech_prob": 0.126220703125,
+            "words": [
+                {
+                    "start": 8.42,
+                    "end": 8.7,
+                    "word": " Yeah,",
+                    "probability": 0.94970703125
+                },
+                {
+                    "start": 8.7,
+                    "end": 9.08,
+                    "word": " yeah.",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 10.2,
+                    "end": 10.68,
+                    "word": " And",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 10.68,
+                    "end": 11.52,
+                    "word": " does",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 11.52,
+                    "end": 11.74,
+                    "word": " the",
+                    "probability": 1.0
+                },
+                {
+                    "start": 11.74,
+                    "end": 12.08,
+                    "word": " data",
+                    "probability": 1.0
+                },
+                {
+                    "start": 12.08,
+                    "end": 12.42,
+                    "word": " that",
+                    "probability": 1.0
+                },
+                {
+                    "start": 12.42,
+                    "end": 12.68,
+                    "word": " you're",
+                    "probability": 1.0
+                },
+                {
+                    "start": 12.68,
+                    "end": 13.16,
+                    "word": " working",
+                    "probability": 1.0
+                },
+                {
+                    "start": 13.16,
+                    "end": 13.46,
+                    "word": " with",
+                    "probability": 1.0
+                },
+                {
+                    "start": 13.46,
+                    "end": 13.92,
+                    "word": " contain",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 13.92,
+                    "end": 14.82,
+                    "word": " sensitive",
+                    "probability": 1.0
+                },
+                {
+                    "start": 14.82,
+                    "end": 15.34,
+                    "word": " information",
+                    "probability": 1.0
+                },
+                {
+                    "start": 15.34,
+                    "end": 15.98,
+                    "word": " usually?",
+                    "probability": 0.9345703125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 17.48,
+            "end": 23.26,
+            "text": " It does, usually. Because, well, not usually, but sometimes. Because if it's",
+            "tokens": [
+                51229,
+                467,
+                775,
+                11,
+                2673,
+                13,
+                1436,
+                11,
+                731,
+                11,
+                406,
+                2673,
+                11,
+                457,
+                2171,
+                13,
+                1436,
+                498,
+                309,
+                311,
+                51521
+            ],
+            "avg_logprob": -0.29543585291034297,
+            "compression_ratio": 1.560846560846561,
+            "no_speech_prob": 0.126220703125,
+            "words": [
+                {
+                    "start": 17.48,
+                    "end": 17.96,
+                    "word": " It",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 17.96,
+                    "end": 18.26,
+                    "word": " does,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 18.48,
+                    "end": 18.94,
+                    "word": " usually.",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 19.66,
+                    "end": 20.14,
+                    "word": " Because,",
+                    "probability": 0.54443359375
+                },
+                {
+                    "start": 20.28,
+                    "end": 20.64,
+                    "word": " well,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 20.66,
+                    "end": 20.82,
+                    "word": " not",
+                    "probability": 1.0
+                },
+                {
+                    "start": 20.82,
+                    "end": 21.12,
+                    "word": " usually,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 21.16,
+                    "end": 21.34,
+                    "word": " but",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 21.34,
+                    "end": 21.7,
+                    "word": " sometimes.",
+                    "probability": 1.0
+                },
+                {
+                    "start": 22.22,
+                    "end": 22.7,
+                    "word": " Because",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 22.7,
+                    "end": 22.92,
+                    "word": " if",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 22.92,
+                    "end": 23.26,
+                    "word": " it's",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2326,
+            "start": 26.76,
+            "end": 33.3,
+            "text": " semi-structured interviews or naturally occurring conversations, people do tend to speak about their",
+            "tokens": [
+                50365,
+                12909,
+                12,
+                372,
+                46847,
+                12318,
+                420,
+                8195,
+                18386,
+                7315,
+                11,
+                561,
+                360,
+                3928,
+                281,
+                1710,
+                466,
+                641,
+                50869
+            ],
+            "avg_logprob": -0.11429398148148148,
+            "compression_ratio": 1.7799043062200957,
+            "no_speech_prob": 0.294921875,
+            "words": [
+                {
+                    "start": 26.76,
+                    "end": 27.32,
+                    "word": " semi",
+                    "probability": 0.90380859375
+                },
+                {
+                    "start": 27.32,
+                    "end": 27.72,
+                    "word": "-structured",
+                    "probability": 0.9793294270833334
+                },
+                {
+                    "start": 27.72,
+                    "end": 28.12,
+                    "word": " interviews",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 28.12,
+                    "end": 28.68,
+                    "word": " or",
+                    "probability": 0.9072265625
+                },
+                {
+                    "start": 28.68,
+                    "end": 29.22,
+                    "word": " naturally",
+                    "probability": 0.9609375
+                },
+                {
+                    "start": 29.22,
+                    "end": 29.72,
+                    "word": " occurring",
+                    "probability": 0.54541015625
+                },
+                {
+                    "start": 29.72,
+                    "end": 30.9,
+                    "word": " conversations,",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 31.04,
+                    "end": 31.46,
+                    "word": " people",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 31.46,
+                    "end": 31.7,
+                    "word": " do",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 31.7,
+                    "end": 31.96,
+                    "word": " tend",
+                    "probability": 1.0
+                },
+                {
+                    "start": 31.96,
+                    "end": 32.2,
+                    "word": " to",
+                    "probability": 1.0
+                },
+                {
+                    "start": 32.2,
+                    "end": 32.62,
+                    "word": " speak",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 32.62,
+                    "end": 32.96,
+                    "word": " about",
+                    "probability": 1.0
+                },
+                {
+                    "start": 32.96,
+                    "end": 33.3,
+                    "word": " their",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2326,
+            "start": 34.06,
+            "end": 41.78,
+            "text": " illnesses and whatever. Not always, but sometimes. We don't ask about them, but they do mention",
+            "tokens": [
+                50917,
+                30791,
+                293,
+                2035,
+                13,
+                1726,
+                1009,
+                11,
+                457,
+                2171,
+                13,
+                492,
+                500,
+                380,
+                1029,
+                466,
+                552,
+                11,
+                457,
+                436,
+                360,
+                2152,
+                51293
+            ],
+            "avg_logprob": -0.11429398148148148,
+            "compression_ratio": 1.7799043062200957,
+            "no_speech_prob": 0.294921875,
+            "words": [
+                {
+                    "start": 34.06,
+                    "end": 34.62,
+                    "word": " illnesses",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 34.62,
+                    "end": 35.1,
+                    "word": " and",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 35.1,
+                    "end": 35.38,
+                    "word": " whatever.",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 37.72,
+                    "end": 38.28,
+                    "word": " Not",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 38.28,
+                    "end": 38.68,
+                    "word": " always,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 38.74,
+                    "end": 38.92,
+                    "word": " but",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 38.92,
+                    "end": 39.2,
+                    "word": " sometimes.",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 39.28,
+                    "end": 39.44,
+                    "word": " We",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 39.44,
+                    "end": 39.64,
+                    "word": " don't",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 39.64,
+                    "end": 39.8,
+                    "word": " ask",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 39.8,
+                    "end": 40.06,
+                    "word": " about",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 40.06,
+                    "end": 40.34,
+                    "word": " them,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 40.42,
+                    "end": 40.58,
+                    "word": " but",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 40.58,
+                    "end": 41.14,
+                    "word": " they",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 41.14,
+                    "end": 41.38,
+                    "word": " do",
+                    "probability": 1.0
+                },
+                {
+                    "start": 41.38,
+                    "end": 41.78,
+                    "word": " mention",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2326,
+            "start": 42.4,
+            "end": 48.76,
+            "text": " things about their health. And what concerns me most is that they speak about third people.",
+            "tokens": [
+                51325,
+                721,
+                466,
+                641,
+                1585,
+                13,
+                400,
+                437,
+                7389,
+                385,
+                881,
+                307,
+                300,
+                436,
+                1710,
+                466,
+                2636,
+                561,
+                13,
+                51653
+            ],
+            "avg_logprob": -0.11429398148148148,
+            "compression_ratio": 1.7799043062200957,
+            "no_speech_prob": 0.294921875,
+            "words": [
+                {
+                    "start": 42.4,
+                    "end": 42.68,
+                    "word": " things",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 42.68,
+                    "end": 42.92,
+                    "word": " about",
+                    "probability": 1.0
+                },
+                {
+                    "start": 42.92,
+                    "end": 43.16,
+                    "word": " their",
+                    "probability": 1.0
+                },
+                {
+                    "start": 43.16,
+                    "end": 43.4,
+                    "word": " health.",
+                    "probability": 1.0
+                },
+                {
+                    "start": 43.72,
+                    "end": 44.28,
+                    "word": " And",
+                    "probability": 0.828125
+                },
+                {
+                    "start": 44.28,
+                    "end": 44.44,
+                    "word": " what",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 44.44,
+                    "end": 44.8,
+                    "word": " concerns",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 44.8,
+                    "end": 45.2,
+                    "word": " me",
+                    "probability": 1.0
+                },
+                {
+                    "start": 45.2,
+                    "end": 45.6,
+                    "word": " most",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 45.6,
+                    "end": 45.94,
+                    "word": " is",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 45.94,
+                    "end": 46.18,
+                    "word": " that",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 46.18,
+                    "end": 46.46,
+                    "word": " they",
+                    "probability": 1.0
+                },
+                {
+                    "start": 46.46,
+                    "end": 46.94,
+                    "word": " speak",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 46.94,
+                    "end": 47.5,
+                    "word": " about",
+                    "probability": 1.0
+                },
+                {
+                    "start": 47.5,
+                    "end": 48.26,
+                    "word": " third",
+                    "probability": 0.984375
+                },
+                {
+                    "start": 48.26,
+                    "end": 48.76,
+                    "word": " people.",
+                    "probability": 0.9990234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 2326,
+            "start": 49.06,
+            "end": 52.88,
+            "text": " I mean, they speak about their family members, they speak about their neighbours or",
+            "tokens": [
+                51653,
+                286,
+                914,
+                11,
+                436,
+                1710,
+                466,
+                641,
+                1605,
+                2679,
+                11,
+                436,
+                1710,
+                466,
+                641,
+                35548,
+                420,
+                51841
+            ],
+            "avg_logprob": -0.11429398148148148,
+            "compression_ratio": 1.7799043062200957,
+            "no_speech_prob": 0.294921875,
+            "words": [
+                {
+                    "start": 49.06,
+                    "end": 49.24,
+                    "word": " I",
+                    "probability": 0.86474609375
+                },
+                {
+                    "start": 49.24,
+                    "end": 49.4,
+                    "word": " mean,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 49.42,
+                    "end": 49.52,
+                    "word": " they",
+                    "probability": 1.0
+                },
+                {
+                    "start": 49.52,
+                    "end": 49.72,
+                    "word": " speak",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 49.72,
+                    "end": 50.0,
+                    "word": " about",
+                    "probability": 1.0
+                },
+                {
+                    "start": 50.0,
+                    "end": 50.18,
+                    "word": " their",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 50.18,
+                    "end": 50.46,
+                    "word": " family",
+                    "probability": 1.0
+                },
+                {
+                    "start": 50.46,
+                    "end": 50.88,
+                    "word": " members,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 51.04,
+                    "end": 51.22,
+                    "word": " they",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 51.22,
+                    "end": 51.42,
+                    "word": " speak",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 51.42,
+                    "end": 51.76,
+                    "word": " about",
+                    "probability": 1.0
+                },
+                {
+                    "start": 51.76,
+                    "end": 52.1,
+                    "word": " their",
+                    "probability": 1.0
+                },
+                {
+                    "start": 52.1,
+                    "end": 52.48,
+                    "word": " neighbours",
+                    "probability": 0.76806640625
+                },
+                {
+                    "start": 52.48,
+                    "end": 52.88,
+                    "word": " or",
+                    "probability": 0.57080078125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 8,
+            "seek": 5326,
+            "start": 53.26,
+            "end": 60.02,
+            "text": " or whoever who haven't consented to sharing their private information in an interview.",
+            "tokens": [
+                50381,
+                420,
+                11387,
+                567,
+                2378,
+                380,
+                1014,
+                6003,
+                281,
+                5414,
+                641,
+                4551,
+                1589,
+                294,
+                364,
+                4049,
+                13,
+                50705
+            ],
+            "avg_logprob": -0.35978618107343974,
+            "compression_ratio": 1.162162162162162,
+            "no_speech_prob": 0.376708984375,
+            "words": [
+                {
+                    "start": 53.26,
+                    "end": 53.8,
+                    "word": " or",
+                    "probability": 0.65576171875
+                },
+                {
+                    "start": 53.8,
+                    "end": 54.3,
+                    "word": " whoever",
+                    "probability": 0.96875
+                },
+                {
+                    "start": 54.3,
+                    "end": 55.54,
+                    "word": " who",
+                    "probability": 0.74755859375
+                },
+                {
+                    "start": 55.54,
+                    "end": 56.0,
+                    "word": " haven't",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 56.0,
+                    "end": 56.54,
+                    "word": " consented",
+                    "probability": 0.995361328125
+                },
+                {
+                    "start": 56.54,
+                    "end": 56.84,
+                    "word": " to",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 56.84,
+                    "end": 57.6,
+                    "word": " sharing",
+                    "probability": 0.65966796875
+                },
+                {
+                    "start": 57.6,
+                    "end": 58.18,
+                    "word": " their",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 58.18,
+                    "end": 58.52,
+                    "word": " private",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 58.52,
+                    "end": 59.14,
+                    "word": " information",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 59.14,
+                    "end": 59.5,
+                    "word": " in",
+                    "probability": 0.86767578125
+                },
+                {
+                    "start": 59.5,
+                    "end": 59.8,
+                    "word": " an",
+                    "probability": 0.98388671875
+                },
+                {
+                    "start": 59.8,
+                    "end": 60.02,
+                    "word": " interview.",
+                    "probability": 0.767578125
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " Yes, yes, that would be great. Yeah. Yeah, because otherwise we have to do it manually. So far we've been doing it manually. Yeah, yeah. And does the data that you're working with contain sensitive information usually? It does, usually. Because, well, not usually, but sometimes. Because if it's semi-structured interviews or naturally occurring conversations, people do tend to speak about their illnesses and whatever. Not always, but sometimes. We don't ask about them, but they do mention things about their health. And what concerns me most is that they speak about third people. I mean, they speak about their family members, they speak about their neighbours or or whoever who haven't consented to sharing their private information in an interview."
+}

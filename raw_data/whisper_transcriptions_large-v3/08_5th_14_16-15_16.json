@@ -1,0 +1,753 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.16,
+            "end": 23.82,
+            "text": " Yeah, I mean, I do have quite a lot already that I recorded during these four years, but I would say somewhere between, well, not that much, two and five hours, something like that.",
+            "tokens": [
+                50365,
+                865,
+                11,
+                286,
+                914,
+                11,
+                286,
+                360,
+                362,
+                1596,
+                257,
+                688,
+                1217,
+                300,
+                286,
+                8287,
+                1830,
+                613,
+                1451,
+                924,
+                11,
+                457,
+                286,
+                576,
+                584,
+                4079,
+                1296,
+                11,
+                731,
+                11,
+                406,
+                300,
+                709,
+                11,
+                732,
+                293,
+                1732,
+                2496,
+                11,
+                746,
+                411,
+                300,
+                13,
+                51565
+            ],
+            "avg_logprob": -0.24898097890874613,
+            "compression_ratio": 1.3507462686567164,
+            "no_speech_prob": 0.3271484375,
+            "words": [
+                {
+                    "start": 0.16,
+                    "end": 1.32,
+                    "word": " Yeah,",
+                    "probability": 0.5654296875
+                },
+                {
+                    "start": 1.32,
+                    "end": 1.46,
+                    "word": " I",
+                    "probability": 0.98193359375
+                },
+                {
+                    "start": 1.46,
+                    "end": 1.8,
+                    "word": " mean,",
+                    "probability": 0.83740234375
+                },
+                {
+                    "start": 1.8,
+                    "end": 1.9,
+                    "word": " I",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 1.9,
+                    "end": 2.26,
+                    "word": " do",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 2.26,
+                    "end": 2.48,
+                    "word": " have",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 2.48,
+                    "end": 2.92,
+                    "word": " quite",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 2.92,
+                    "end": 3.16,
+                    "word": " a",
+                    "probability": 0.75
+                },
+                {
+                    "start": 3.16,
+                    "end": 4.54,
+                    "word": " lot",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 4.54,
+                    "end": 5.14,
+                    "word": " already",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 5.14,
+                    "end": 5.82,
+                    "word": " that",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 5.82,
+                    "end": 6.0,
+                    "word": " I",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 6.0,
+                    "end": 7.38,
+                    "word": " recorded",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 7.38,
+                    "end": 8.04,
+                    "word": " during",
+                    "probability": 0.490966796875
+                },
+                {
+                    "start": 8.04,
+                    "end": 10.1,
+                    "word": " these",
+                    "probability": 0.95654296875
+                },
+                {
+                    "start": 10.1,
+                    "end": 10.46,
+                    "word": " four",
+                    "probability": 0.97216796875
+                },
+                {
+                    "start": 10.46,
+                    "end": 10.88,
+                    "word": " years,",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 11.12,
+                    "end": 11.6,
+                    "word": " but",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 11.6,
+                    "end": 12.32,
+                    "word": " I",
+                    "probability": 0.96044921875
+                },
+                {
+                    "start": 12.32,
+                    "end": 14.82,
+                    "word": " would",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 14.82,
+                    "end": 15.12,
+                    "word": " say",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 15.12,
+                    "end": 17.6,
+                    "word": " somewhere",
+                    "probability": 0.97216796875
+                },
+                {
+                    "start": 17.6,
+                    "end": 18.28,
+                    "word": " between,",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 18.74,
+                    "end": 19.64,
+                    "word": " well,",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 19.76,
+                    "end": 19.98,
+                    "word": " not",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 19.98,
+                    "end": 20.54,
+                    "word": " that",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 20.54,
+                    "end": 20.92,
+                    "word": " much,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 21.14,
+                    "end": 21.94,
+                    "word": " two",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 21.94,
+                    "end": 22.18,
+                    "word": " and",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 22.18,
+                    "end": 22.38,
+                    "word": " five",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 22.38,
+                    "end": 22.88,
+                    "word": " hours,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 23.16,
+                    "end": 23.42,
+                    "word": " something",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 23.42,
+                    "end": 23.64,
+                    "word": " like",
+                    "probability": 1.0
+                },
+                {
+                    "start": 23.64,
+                    "end": 23.82,
+                    "word": " that.",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 2366,
+            "start": 23.82,
+            "end": 30.92,
+            "text": " Okay. And do you work with speech data on a week-to-week basis?",
+            "tokens": [
+                50365,
+                1033,
+                13,
+                400,
+                360,
+                291,
+                589,
+                365,
+                6218,
+                1412,
+                322,
+                257,
+                1243,
+                12,
+                1353,
+                12,
+                23188,
+                5143,
+                30,
+                50765
+            ],
+            "avg_logprob": -0.1591796816792339,
+            "compression_ratio": 1.5286624203821657,
+            "no_speech_prob": 0.6103515625,
+            "words": [
+                {
+                    "start": 23.82,
+                    "end": 24.58,
+                    "word": " Okay.",
+                    "probability": 0.5498046875
+                },
+                {
+                    "start": 25.78,
+                    "end": 26.52,
+                    "word": " And",
+                    "probability": 0.85595703125
+                },
+                {
+                    "start": 26.52,
+                    "end": 27.1,
+                    "word": " do",
+                    "probability": 0.93115234375
+                },
+                {
+                    "start": 27.1,
+                    "end": 27.6,
+                    "word": " you",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 27.6,
+                    "end": 27.96,
+                    "word": " work",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 27.96,
+                    "end": 28.22,
+                    "word": " with",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 28.22,
+                    "end": 28.54,
+                    "word": " speech",
+                    "probability": 0.9755859375
+                },
+                {
+                    "start": 28.54,
+                    "end": 29.02,
+                    "word": " data",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 29.02,
+                    "end": 29.92,
+                    "word": " on",
+                    "probability": 0.9775390625
+                },
+                {
+                    "start": 29.92,
+                    "end": 30.04,
+                    "word": " a",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 30.04,
+                    "end": 30.28,
+                    "word": " week",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 30.28,
+                    "end": 30.42,
+                    "word": "-to",
+                    "probability": 0.8671875
+                },
+                {
+                    "start": 30.42,
+                    "end": 30.56,
+                    "word": "-week",
+                    "probability": 0.991943359375
+                },
+                {
+                    "start": 30.56,
+                    "end": 30.92,
+                    "word": " basis?",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 2366,
+            "start": 32.94,
+            "end": 44.74,
+            "text": " Currently, I'm not working with speech data, but during my dissertation, I did almost on a weekly basis.",
+            "tokens": [
+                50765,
+                19964,
+                11,
+                286,
+                478,
+                406,
+                1364,
+                365,
+                6218,
+                1412,
+                11,
+                457,
+                1830,
+                452,
+                39555,
+                11,
+                286,
+                630,
+                1920,
+                322,
+                257,
+                12460,
+                5143,
+                13,
+                51415
+            ],
+            "avg_logprob": -0.1591796816792339,
+            "compression_ratio": 1.5286624203821657,
+            "no_speech_prob": 0.6103515625,
+            "words": [
+                {
+                    "start": 32.94,
+                    "end": 33.68,
+                    "word": " Currently,",
+                    "probability": 0.9736328125
+                },
+                {
+                    "start": 33.68,
+                    "end": 34.42,
+                    "word": " I'm",
+                    "probability": 0.984619140625
+                },
+                {
+                    "start": 34.42,
+                    "end": 34.72,
+                    "word": " not",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 34.72,
+                    "end": 35.94,
+                    "word": " working",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 35.94,
+                    "end": 36.3,
+                    "word": " with",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 36.3,
+                    "end": 36.52,
+                    "word": " speech",
+                    "probability": 0.978515625
+                },
+                {
+                    "start": 36.52,
+                    "end": 36.8,
+                    "word": " data,",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 36.92,
+                    "end": 37.08,
+                    "word": " but",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 37.08,
+                    "end": 41.24,
+                    "word": " during",
+                    "probability": 0.78125
+                },
+                {
+                    "start": 41.24,
+                    "end": 42.08,
+                    "word": " my",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 42.08,
+                    "end": 42.44,
+                    "word": " dissertation,",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 42.72,
+                    "end": 42.94,
+                    "word": " I",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 42.94,
+                    "end": 43.38,
+                    "word": " did",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 43.38,
+                    "end": 43.84,
+                    "word": " almost",
+                    "probability": 0.95703125
+                },
+                {
+                    "start": 43.84,
+                    "end": 44.08,
+                    "word": " on",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 44.08,
+                    "end": 44.16,
+                    "word": " a",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 44.16,
+                    "end": 44.36,
+                    "word": " weekly",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 44.36,
+                    "end": 44.74,
+                    "word": " basis.",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2366,
+            "start": 46.0,
+            "end": 53.8,
+            "text": " I think in future projects, I would like to work more with speech data.",
+            "tokens": [
+                51415,
+                286,
+                519,
+                294,
+                2027,
+                4455,
+                11,
+                286,
+                576,
+                411,
+                281,
+                589,
+                544,
+                365,
+                6218,
+                1412,
+                13,
+                51865
+            ],
+            "avg_logprob": -0.1591796816792339,
+            "compression_ratio": 1.5286624203821657,
+            "no_speech_prob": 0.6103515625,
+            "words": [
+                {
+                    "start": 46.0,
+                    "end": 46.74,
+                    "word": " I",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 46.74,
+                    "end": 47.14,
+                    "word": " think",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 47.14,
+                    "end": 47.4,
+                    "word": " in",
+                    "probability": 0.9794921875
+                },
+                {
+                    "start": 47.4,
+                    "end": 47.88,
+                    "word": " future",
+                    "probability": 0.9658203125
+                },
+                {
+                    "start": 47.88,
+                    "end": 48.46,
+                    "word": " projects,",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 48.52,
+                    "end": 48.7,
+                    "word": " I",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 48.7,
+                    "end": 48.86,
+                    "word": " would",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 48.86,
+                    "end": 49.58,
+                    "word": " like",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 49.58,
+                    "end": 49.96,
+                    "word": " to",
+                    "probability": 1.0
+                },
+                {
+                    "start": 49.96,
+                    "end": 52.52,
+                    "word": " work",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 52.52,
+                    "end": 52.9,
+                    "word": " more",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 52.9,
+                    "end": 53.38,
+                    "word": " with",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 53.38,
+                    "end": 53.8,
+                    "word": " speech",
+                    "probability": 0.07427978515625
+                },
+                {
+                    "start": 53.8,
+                    "end": 53.8,
+                    "word": " data.",
+                    "probability": 0.70068359375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 5366,
+            "start": 53.82,
+            "end": 59.64,
+            "text": " With speech data, but currently I'm doing mostly corpus searches, corpus...",
+            "tokens": [
+                50365,
+                2022,
+                6218,
+                1412,
+                11,
+                457,
+                4362,
+                286,
+                478,
+                884,
+                5240,
+                1181,
+                31624,
+                26701,
+                11,
+                1181,
+                31624,
+                485,
+                50665
+            ],
+            "avg_logprob": -0.29296873658895495,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.413330078125,
+            "words": [
+                {
+                    "start": 53.82,
+                    "end": 54.78,
+                    "word": " With",
+                    "probability": 0.024383544921875
+                },
+                {
+                    "start": 54.78,
+                    "end": 55.02,
+                    "word": " speech",
+                    "probability": 0.94921875
+                },
+                {
+                    "start": 55.02,
+                    "end": 55.3,
+                    "word": " data,",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 55.42,
+                    "end": 55.56,
+                    "word": " but",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 55.56,
+                    "end": 56.0,
+                    "word": " currently",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 56.0,
+                    "end": 56.5,
+                    "word": " I'm",
+                    "probability": 0.927978515625
+                },
+                {
+                    "start": 56.5,
+                    "end": 56.72,
+                    "word": " doing",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 56.72,
+                    "end": 57.12,
+                    "word": " mostly",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 57.12,
+                    "end": 57.68,
+                    "word": " corpus",
+                    "probability": 0.845947265625
+                },
+                {
+                    "start": 57.68,
+                    "end": 58.88,
+                    "word": " searches,",
+                    "probability": 0.9443359375
+                },
+                {
+                    "start": 59.08,
+                    "end": 59.64,
+                    "word": " corpus...",
+                    "probability": 0.6767578125
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " Yeah, I mean, I do have quite a lot already that I recorded during these four years, but I would say somewhere between, well, not that much, two and five hours, something like that. Okay. And do you work with speech data on a week-to-week basis? Currently, I'm not working with speech data, but during my dissertation, I did almost on a weekly basis. I think in future projects, I would like to work more with speech data. With speech data, but currently I'm doing mostly corpus searches, corpus..."
+}

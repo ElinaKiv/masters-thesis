@@ -1,0 +1,691 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.73,
+            "end": 5.69,
+            "text": " So you're not familiar with programming or command line tools?",
+            "tokens": [
+                50365,
+                407,
+                291,
+                434,
+                406,
+                4963,
+                365,
+                9410,
+                420,
+                5622,
+                1622,
+                3873,
+                30,
+                50665
+            ],
+            "avg_logprob": -0.1918269230769231,
+            "compression_ratio": 1.467032967032967,
+            "no_speech_prob": 0.07818603515625,
+            "words": [
+                {
+                    "start": 0.73,
+                    "end": 1.57,
+                    "word": " So",
+                    "probability": 0.89404296875
+                },
+                {
+                    "start": 1.57,
+                    "end": 1.89,
+                    "word": " you're",
+                    "probability": 0.941162109375
+                },
+                {
+                    "start": 1.89,
+                    "end": 2.11,
+                    "word": " not",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 2.11,
+                    "end": 2.71,
+                    "word": " familiar",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 2.71,
+                    "end": 3.25,
+                    "word": " with",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 3.25,
+                    "end": 4.15,
+                    "word": " programming",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 4.15,
+                    "end": 4.61,
+                    "word": " or",
+                    "probability": 0.923828125
+                },
+                {
+                    "start": 4.61,
+                    "end": 5.09,
+                    "word": " command",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 5.09,
+                    "end": 5.41,
+                    "word": " line",
+                    "probability": 0.9140625
+                },
+                {
+                    "start": 5.41,
+                    "end": 5.69,
+                    "word": " tools?",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.55,
+            "end": 18.91,
+            "text": " I have very basic skills. I took a few classes on that, but it's still very basic.",
+            "tokens": [
+                50665,
+                286,
+                362,
+                588,
+                3875,
+                3942,
+                13,
+                286,
+                1890,
+                257,
+                1326,
+                5359,
+                322,
+                300,
+                11,
+                457,
+                309,
+                311,
+                920,
+                588,
+                3875,
+                13,
+                51365
+            ],
+            "avg_logprob": -0.1918269230769231,
+            "compression_ratio": 1.467032967032967,
+            "no_speech_prob": 0.07818603515625,
+            "words": [
+                {
+                    "start": 6.55,
+                    "end": 7.31,
+                    "word": " I",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 7.31,
+                    "end": 7.87,
+                    "word": " have",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 7.87,
+                    "end": 8.15,
+                    "word": " very",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 8.15,
+                    "end": 8.61,
+                    "word": " basic",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 8.61,
+                    "end": 12.43,
+                    "word": " skills.",
+                    "probability": 0.94482421875
+                },
+                {
+                    "start": 12.79,
+                    "end": 13.37,
+                    "word": " I",
+                    "probability": 0.91748046875
+                },
+                {
+                    "start": 13.37,
+                    "end": 14.09,
+                    "word": " took",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 14.09,
+                    "end": 14.37,
+                    "word": " a",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 14.37,
+                    "end": 14.53,
+                    "word": " few",
+                    "probability": 1.0
+                },
+                {
+                    "start": 14.53,
+                    "end": 15.45,
+                    "word": " classes",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 15.45,
+                    "end": 15.97,
+                    "word": " on",
+                    "probability": 0.6962890625
+                },
+                {
+                    "start": 15.97,
+                    "end": 16.81,
+                    "word": " that,",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 16.91,
+                    "end": 17.09,
+                    "word": " but",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 17.09,
+                    "end": 18.09,
+                    "word": " it's",
+                    "probability": 0.761474609375
+                },
+                {
+                    "start": 18.09,
+                    "end": 18.23,
+                    "word": " still",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 18.23,
+                    "end": 18.37,
+                    "word": " very",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 18.37,
+                    "end": 18.91,
+                    "word": " basic.",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 20.49,
+            "end": 28.45,
+            "text": " Would you say that the people that you're working with have similar technical capabilities as you, or is it more diverse?",
+            "tokens": [
+                51365,
+                6068,
+                291,
+                584,
+                300,
+                264,
+                561,
+                300,
+                291,
+                434,
+                1364,
+                365,
+                362,
+                2531,
+                6191,
+                10862,
+                382,
+                291,
+                11,
+                420,
+                307,
+                309,
+                544,
+                9521,
+                30,
+                51815
+            ],
+            "avg_logprob": -0.1918269230769231,
+            "compression_ratio": 1.467032967032967,
+            "no_speech_prob": 0.07818603515625,
+            "words": [
+                {
+                    "start": 20.49,
+                    "end": 21.25,
+                    "word": " Would",
+                    "probability": 0.97412109375
+                },
+                {
+                    "start": 21.25,
+                    "end": 21.59,
+                    "word": " you",
+                    "probability": 1.0
+                },
+                {
+                    "start": 21.59,
+                    "end": 21.97,
+                    "word": " say",
+                    "probability": 1.0
+                },
+                {
+                    "start": 21.97,
+                    "end": 22.25,
+                    "word": " that",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 22.25,
+                    "end": 22.45,
+                    "word": " the",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 22.45,
+                    "end": 23.15,
+                    "word": " people",
+                    "probability": 1.0
+                },
+                {
+                    "start": 23.15,
+                    "end": 23.41,
+                    "word": " that",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 23.41,
+                    "end": 23.63,
+                    "word": " you're",
+                    "probability": 0.999755859375
+                },
+                {
+                    "start": 23.63,
+                    "end": 23.95,
+                    "word": " working",
+                    "probability": 1.0
+                },
+                {
+                    "start": 23.95,
+                    "end": 24.27,
+                    "word": " with",
+                    "probability": 1.0
+                },
+                {
+                    "start": 24.27,
+                    "end": 24.55,
+                    "word": " have",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 24.55,
+                    "end": 25.15,
+                    "word": " similar",
+                    "probability": 1.0
+                },
+                {
+                    "start": 25.15,
+                    "end": 25.61,
+                    "word": " technical",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 25.61,
+                    "end": 26.39,
+                    "word": " capabilities",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 26.39,
+                    "end": 26.77,
+                    "word": " as",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 26.77,
+                    "end": 26.93,
+                    "word": " you,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 26.99,
+                    "end": 27.19,
+                    "word": " or",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 27.19,
+                    "end": 27.79,
+                    "word": " is",
+                    "probability": 1.0
+                },
+                {
+                    "start": 27.79,
+                    "end": 27.91,
+                    "word": " it",
+                    "probability": 1.0
+                },
+                {
+                    "start": 27.91,
+                    "end": 28.07,
+                    "word": " more",
+                    "probability": 1.0
+                },
+                {
+                    "start": 28.07,
+                    "end": 28.45,
+                    "word": " diverse?",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2772,
+            "start": 31.57,
+            "end": 41.49,
+            "text": " We have people on all sides of the spectrum, I would say.",
+            "tokens": [
+                50365,
+                492,
+                362,
+                561,
+                322,
+                439,
+                4881,
+                295,
+                264,
+                11143,
+                11,
+                286,
+                576,
+                584,
+                13,
+                51065
+            ],
+            "avg_logprob": -0.1796875035292224,
+            "compression_ratio": 1.256198347107438,
+            "no_speech_prob": 0.2978515625,
+            "words": [
+                {
+                    "start": 31.57,
+                    "end": 32.37,
+                    "word": " We",
+                    "probability": 0.57373046875
+                },
+                {
+                    "start": 32.37,
+                    "end": 32.73,
+                    "word": " have",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 32.73,
+                    "end": 34.03,
+                    "word": " people",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 34.03,
+                    "end": 34.45,
+                    "word": " on",
+                    "probability": 0.89697265625
+                },
+                {
+                    "start": 34.45,
+                    "end": 37.47,
+                    "word": " all",
+                    "probability": 0.921875
+                },
+                {
+                    "start": 37.47,
+                    "end": 39.69,
+                    "word": " sides",
+                    "probability": 0.95166015625
+                },
+                {
+                    "start": 39.69,
+                    "end": 39.99,
+                    "word": " of",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 39.99,
+                    "end": 40.09,
+                    "word": " the",
+                    "probability": 0.951171875
+                },
+                {
+                    "start": 40.09,
+                    "end": 40.61,
+                    "word": " spectrum,",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 40.81,
+                    "end": 40.95,
+                    "word": " I",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 40.95,
+                    "end": 41.09,
+                    "word": " would",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 41.09,
+                    "end": 41.49,
+                    "word": " say.",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2772,
+            "start": 42.29,
+            "end": 56.55,
+            "text": " Some people refuse to use any technological tools, while others do programming with R, Python,",
+            "tokens": [
+                51065,
+                2188,
+                561,
+                16791,
+                281,
+                764,
+                604,
+                18439,
+                3873,
+                11,
+                1339,
+                2357,
+                360,
+                9410,
+                365,
+                497,
+                11,
+                15329,
+                11,
+                51815
+            ],
+            "avg_logprob": -0.1796875035292224,
+            "compression_ratio": 1.256198347107438,
+            "no_speech_prob": 0.2978515625,
+            "words": [
+                {
+                    "start": 42.29,
+                    "end": 42.69,
+                    "word": " Some",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 42.69,
+                    "end": 43.05,
+                    "word": " people",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 43.05,
+                    "end": 43.81,
+                    "word": " refuse",
+                    "probability": 0.96142578125
+                },
+                {
+                    "start": 43.81,
+                    "end": 44.13,
+                    "word": " to",
+                    "probability": 1.0
+                },
+                {
+                    "start": 44.13,
+                    "end": 44.35,
+                    "word": " use",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 44.35,
+                    "end": 44.67,
+                    "word": " any",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 44.67,
+                    "end": 45.91,
+                    "word": " technological",
+                    "probability": 0.92626953125
+                },
+                {
+                    "start": 45.91,
+                    "end": 46.87,
+                    "word": " tools,",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 47.07,
+                    "end": 47.47,
+                    "word": " while",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 47.47,
+                    "end": 47.91,
+                    "word": " others",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 47.91,
+                    "end": 49.33,
+                    "word": " do",
+                    "probability": 0.68408203125
+                },
+                {
+                    "start": 49.33,
+                    "end": 53.99,
+                    "word": " programming",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 53.99,
+                    "end": 55.81,
+                    "word": " with",
+                    "probability": 0.9814453125
+                },
+                {
+                    "start": 55.81,
+                    "end": 56.23,
+                    "word": " R,",
+                    "probability": 0.482666015625
+                },
+                {
+                    "start": 56.27,
+                    "end": 56.55,
+                    "word": " Python,",
+                    "probability": 0.99560546875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 5582,
+            "start": 58.49,
+            "end": 60.01,
+            "text": " I would say it's pretty similar.",
+            "tokens": [
+                50365,
+                286,
+                576,
+                584,
+                309,
+                311,
+                1238,
+                2531,
+                13,
+                50565
+            ],
+            "avg_logprob": -0.4310968518257141,
+            "compression_ratio": 0.8,
+            "no_speech_prob": 0.480224609375,
+            "words": [
+                {
+                    "start": 58.49,
+                    "end": 58.93,
+                    "word": " I",
+                    "probability": 0.338134765625
+                },
+                {
+                    "start": 58.93,
+                    "end": 59.37,
+                    "word": " would",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 59.37,
+                    "end": 59.55,
+                    "word": " say",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 59.55,
+                    "end": 59.71,
+                    "word": " it's",
+                    "probability": 0.9111328125
+                },
+                {
+                    "start": 59.71,
+                    "end": 59.97,
+                    "word": " pretty",
+                    "probability": 0.64013671875
+                },
+                {
+                    "start": 59.97,
+                    "end": 60.01,
+                    "word": " similar.",
+                    "probability": 0.01338958740234375
+                }
+            ],
+            "temperature": 0.2
+        }
+    ],
+    "language": "en",
+    "text": " So you're not familiar with programming or command line tools? I have very basic skills. I took a few classes on that, but it's still very basic. Would you say that the people that you're working with have similar technical capabilities as you, or is it more diverse? We have people on all sides of the spectrum, I would say. Some people refuse to use any technological tools, while others do programming with R, Python, I would say it's pretty similar."
+}

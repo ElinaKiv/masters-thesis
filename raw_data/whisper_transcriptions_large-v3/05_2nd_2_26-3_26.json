@@ -1,0 +1,1046 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.64,
+            "end": 10.64,
+            "text": " Okay, so in the future you might need or have a more specific need for speech-to-text tools?",
+            "tokens": [
+                50365,
+                1033,
+                11,
+                370,
+                294,
+                264,
+                2027,
+                291,
+                1062,
+                643,
+                420,
+                362,
+                257,
+                544,
+                2685,
+                643,
+                337,
+                6218,
+                12,
+                1353,
+                12,
+                25111,
+                3873,
+                30,
+                50901
+            ],
+            "avg_logprob": -0.2642257364828195,
+            "compression_ratio": 1.4597701149425288,
+            "no_speech_prob": 0.340576171875,
+            "words": [
+                {
+                    "start": 3.64,
+                    "end": 4.42,
+                    "word": " Okay,",
+                    "probability": 0.00594329833984375
+                },
+                {
+                    "start": 4.42,
+                    "end": 5.2,
+                    "word": " so",
+                    "probability": 0.96630859375
+                },
+                {
+                    "start": 5.2,
+                    "end": 5.66,
+                    "word": " in",
+                    "probability": 0.98193359375
+                },
+                {
+                    "start": 5.66,
+                    "end": 5.8,
+                    "word": " the",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 5.8,
+                    "end": 6.22,
+                    "word": " future",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 6.22,
+                    "end": 6.48,
+                    "word": " you",
+                    "probability": 0.7236328125
+                },
+                {
+                    "start": 6.48,
+                    "end": 6.72,
+                    "word": " might",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 6.72,
+                    "end": 7.1,
+                    "word": " need",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 7.1,
+                    "end": 7.4,
+                    "word": " or",
+                    "probability": 0.85693359375
+                },
+                {
+                    "start": 7.4,
+                    "end": 7.7,
+                    "word": " have",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 7.7,
+                    "end": 7.92,
+                    "word": " a",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 7.92,
+                    "end": 8.38,
+                    "word": " more",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 8.38,
+                    "end": 8.76,
+                    "word": " specific",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 8.76,
+                    "end": 9.16,
+                    "word": " need",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 9.16,
+                    "end": 9.52,
+                    "word": " for",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 9.52,
+                    "end": 9.92,
+                    "word": " speech",
+                    "probability": 0.98046875
+                },
+                {
+                    "start": 9.92,
+                    "end": 10.14,
+                    "word": "-to",
+                    "probability": 0.917236328125
+                },
+                {
+                    "start": 10.14,
+                    "end": 10.28,
+                    "word": "-text",
+                    "probability": 0.999267578125
+                },
+                {
+                    "start": 10.28,
+                    "end": 10.64,
+                    "word": " tools?",
+                    "probability": 0.99658203125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 13.06,
+            "end": 22.72,
+            "text": " Yes, yes. Or I will definitely need at least text-based software which is made for",
+            "tokens": [
+                50961,
+                1079,
+                11,
+                2086,
+                13,
+                1610,
+                286,
+                486,
+                2138,
+                643,
+                412,
+                1935,
+                2487,
+                12,
+                6032,
+                4722,
+                597,
+                307,
+                1027,
+                337,
+                51505
+            ],
+            "avg_logprob": -0.2642257364828195,
+            "compression_ratio": 1.4597701149425288,
+            "no_speech_prob": 0.340576171875,
+            "words": [
+                {
+                    "start": 13.06,
+                    "end": 13.84,
+                    "word": " Yes,",
+                    "probability": 0.76220703125
+                },
+                {
+                    "start": 13.84,
+                    "end": 14.62,
+                    "word": " yes.",
+                    "probability": 0.83251953125
+                },
+                {
+                    "start": 15.36,
+                    "end": 16.14,
+                    "word": " Or",
+                    "probability": 0.427490234375
+                },
+                {
+                    "start": 16.14,
+                    "end": 16.88,
+                    "word": " I",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 16.88,
+                    "end": 17.62,
+                    "word": " will",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 17.62,
+                    "end": 18.02,
+                    "word": " definitely",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 18.02,
+                    "end": 18.54,
+                    "word": " need",
+                    "probability": 1.0
+                },
+                {
+                    "start": 18.54,
+                    "end": 19.12,
+                    "word": " at",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 19.12,
+                    "end": 20.38,
+                    "word": " least",
+                    "probability": 1.0
+                },
+                {
+                    "start": 20.38,
+                    "end": 20.78,
+                    "word": " text",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 20.78,
+                    "end": 21.06,
+                    "word": "-based",
+                    "probability": 0.996337890625
+                },
+                {
+                    "start": 21.06,
+                    "end": 21.5,
+                    "word": " software",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 21.5,
+                    "end": 21.82,
+                    "word": " which",
+                    "probability": 0.65234375
+                },
+                {
+                    "start": 21.82,
+                    "end": 22.0,
+                    "word": " is",
+                    "probability": 1.0
+                },
+                {
+                    "start": 22.0,
+                    "end": 22.36,
+                    "word": " made",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 22.36,
+                    "end": 22.72,
+                    "word": " for",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 22.72,
+            "end": 28.86,
+            "text": " transcribing interviews, as in software that arranges it into lines and so on.",
+            "tokens": [
+                51505,
+                1145,
+                39541,
+                12318,
+                11,
+                382,
+                294,
+                4722,
+                300,
+                5539,
+                10350,
+                309,
+                666,
+                3876,
+                293,
+                370,
+                322,
+                13,
+                51813
+            ],
+            "avg_logprob": -0.2642257364828195,
+            "compression_ratio": 1.4597701149425288,
+            "no_speech_prob": 0.340576171875,
+            "words": [
+                {
+                    "start": 22.72,
+                    "end": 23.46,
+                    "word": " transcribing",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 23.46,
+                    "end": 23.74,
+                    "word": " interviews,",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 23.98,
+                    "end": 24.22,
+                    "word": " as",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 24.22,
+                    "end": 24.38,
+                    "word": " in",
+                    "probability": 1.0
+                },
+                {
+                    "start": 24.38,
+                    "end": 25.16,
+                    "word": " software",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 25.16,
+                    "end": 25.54,
+                    "word": " that",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 25.54,
+                    "end": 26.18,
+                    "word": " arranges",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 26.18,
+                    "end": 26.42,
+                    "word": " it",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 26.42,
+                    "end": 26.96,
+                    "word": " into",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 26.96,
+                    "end": 27.68,
+                    "word": " lines",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 27.68,
+                    "end": 28.22,
+                    "word": " and",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 28.22,
+                    "end": 28.54,
+                    "word": " so",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 28.54,
+                    "end": 28.86,
+                    "word": " on.",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2886,
+            "start": 28.86,
+            "end": 36.68,
+            "text": " I don't know if I absolutely need speech-to-text software, but I see a potential use for it.",
+            "tokens": [
+                50413,
+                286,
+                500,
+                380,
+                458,
+                498,
+                286,
+                3122,
+                643,
+                6218,
+                12,
+                1353,
+                12,
+                25111,
+                4722,
+                11,
+                457,
+                286,
+                536,
+                257,
+                3995,
+                764,
+                337,
+                309,
+                13,
+                50753
+            ],
+            "avg_logprob": -0.10959002566993784,
+            "compression_ratio": 1.5702479338842976,
+            "no_speech_prob": 0.019683837890625,
+            "words": [
+                {
+                    "start": 28.86,
+                    "end": 29.64,
+                    "word": " I",
+                    "probability": 0.96923828125
+                },
+                {
+                    "start": 29.64,
+                    "end": 30.14,
+                    "word": " don't",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 30.14,
+                    "end": 30.26,
+                    "word": " know",
+                    "probability": 1.0
+                },
+                {
+                    "start": 30.26,
+                    "end": 30.42,
+                    "word": " if",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 30.42,
+                    "end": 30.6,
+                    "word": " I",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 30.6,
+                    "end": 31.28,
+                    "word": " absolutely",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 31.28,
+                    "end": 31.84,
+                    "word": " need",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 31.84,
+                    "end": 32.34,
+                    "word": " speech",
+                    "probability": 0.98583984375
+                },
+                {
+                    "start": 32.34,
+                    "end": 32.54,
+                    "word": "-to",
+                    "probability": 0.9443359375
+                },
+                {
+                    "start": 32.54,
+                    "end": 32.76,
+                    "word": "-text",
+                    "probability": 0.999755859375
+                },
+                {
+                    "start": 32.76,
+                    "end": 33.46,
+                    "word": " software,",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 33.76,
+                    "end": 33.98,
+                    "word": " but",
+                    "probability": 1.0
+                },
+                {
+                    "start": 33.98,
+                    "end": 34.44,
+                    "word": " I",
+                    "probability": 1.0
+                },
+                {
+                    "start": 34.44,
+                    "end": 34.78,
+                    "word": " see",
+                    "probability": 1.0
+                },
+                {
+                    "start": 34.78,
+                    "end": 34.94,
+                    "word": " a",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 34.94,
+                    "end": 35.5,
+                    "word": " potential",
+                    "probability": 1.0
+                },
+                {
+                    "start": 35.5,
+                    "end": 36.06,
+                    "word": " use",
+                    "probability": 1.0
+                },
+                {
+                    "start": 36.06,
+                    "end": 36.34,
+                    "word": " for",
+                    "probability": 1.0
+                },
+                {
+                    "start": 36.34,
+                    "end": 36.68,
+                    "word": " it.",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2886,
+            "start": 37.22,
+            "end": 44.2,
+            "text": " Okay, yeah. So you hadn't experimented with Whisper, the speech-to-text tool?",
+            "tokens": [
+                50789,
+                1033,
+                11,
+                1338,
+                13,
+                407,
+                291,
+                8782,
+                380,
+                5120,
+                292,
+                365,
+                41132,
+                610,
+                11,
+                264,
+                6218,
+                12,
+                1353,
+                12,
+                25111,
+                2290,
+                30,
+                51157
+            ],
+            "avg_logprob": -0.10959002566993784,
+            "compression_ratio": 1.5702479338842976,
+            "no_speech_prob": 0.019683837890625,
+            "words": [
+                {
+                    "start": 37.22,
+                    "end": 37.68,
+                    "word": " Okay,",
+                    "probability": 0.958984375
+                },
+                {
+                    "start": 37.76,
+                    "end": 38.04,
+                    "word": " yeah.",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 38.46,
+                    "end": 39.06,
+                    "word": " So",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 39.06,
+                    "end": 39.42,
+                    "word": " you",
+                    "probability": 0.9306640625
+                },
+                {
+                    "start": 39.42,
+                    "end": 39.96,
+                    "word": " hadn't",
+                    "probability": 0.994873046875
+                },
+                {
+                    "start": 39.96,
+                    "end": 42.06,
+                    "word": " experimented",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 42.06,
+                    "end": 42.26,
+                    "word": " with",
+                    "probability": 1.0
+                },
+                {
+                    "start": 42.26,
+                    "end": 42.84,
+                    "word": " Whisper,",
+                    "probability": 0.925537109375
+                },
+                {
+                    "start": 42.92,
+                    "end": 43.32,
+                    "word": " the",
+                    "probability": 1.0
+                },
+                {
+                    "start": 43.32,
+                    "end": 43.68,
+                    "word": " speech",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 43.68,
+                    "end": 43.82,
+                    "word": "-to",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 43.82,
+                    "end": 43.96,
+                    "word": "-text",
+                    "probability": 1.0
+                },
+                {
+                    "start": 43.96,
+                    "end": 44.2,
+                    "word": " tool?",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2886,
+            "start": 44.68,
+            "end": 46.04,
+            "text": " No, no, never heard of it.",
+            "tokens": [
+                51157,
+                883,
+                11,
+                572,
+                11,
+                1128,
+                2198,
+                295,
+                309,
+                13,
+                51225
+            ],
+            "avg_logprob": -0.10959002566993784,
+            "compression_ratio": 1.5702479338842976,
+            "no_speech_prob": 0.019683837890625,
+            "words": [
+                {
+                    "start": 44.68,
+                    "end": 45.0,
+                    "word": " No,",
+                    "probability": 0.94140625
+                },
+                {
+                    "start": 45.02,
+                    "end": 45.28,
+                    "word": " no,",
+                    "probability": 0.97998046875
+                },
+                {
+                    "start": 45.32,
+                    "end": 45.54,
+                    "word": " never",
+                    "probability": 1.0
+                },
+                {
+                    "start": 45.54,
+                    "end": 45.78,
+                    "word": " heard",
+                    "probability": 1.0
+                },
+                {
+                    "start": 45.78,
+                    "end": 45.92,
+                    "word": " of",
+                    "probability": 1.0
+                },
+                {
+                    "start": 45.92,
+                    "end": 46.04,
+                    "word": " it.",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 2886,
+            "start": 46.38,
+            "end": 53.4,
+            "text": " Okay. Whisper is a speech-to-text tool offered by OpenAI. It's completely open source and it",
+            "tokens": [
+                51257,
+                1033,
+                13,
+                41132,
+                610,
+                307,
+                257,
+                6218,
+                12,
+                1353,
+                12,
+                25111,
+                2290,
+                8059,
+                538,
+                7238,
+                48698,
+                13,
+                467,
+                311,
+                2584,
+                1269,
+                4009,
+                293,
+                309,
+                51589
+            ],
+            "avg_logprob": -0.10959002566993784,
+            "compression_ratio": 1.5702479338842976,
+            "no_speech_prob": 0.019683837890625,
+            "words": [
+                {
+                    "start": 46.38,
+                    "end": 46.98,
+                    "word": " Okay.",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 47.16,
+                    "end": 47.76,
+                    "word": " Whisper",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 47.76,
+                    "end": 47.96,
+                    "word": " is",
+                    "probability": 1.0
+                },
+                {
+                    "start": 47.96,
+                    "end": 48.12,
+                    "word": " a",
+                    "probability": 1.0
+                },
+                {
+                    "start": 48.12,
+                    "end": 48.66,
+                    "word": " speech",
+                    "probability": 1.0
+                },
+                {
+                    "start": 48.66,
+                    "end": 48.82,
+                    "word": "-to",
+                    "probability": 1.0
+                },
+                {
+                    "start": 48.82,
+                    "end": 48.98,
+                    "word": "-text",
+                    "probability": 1.0
+                },
+                {
+                    "start": 48.98,
+                    "end": 49.3,
+                    "word": " tool",
+                    "probability": 1.0
+                },
+                {
+                    "start": 49.3,
+                    "end": 49.96,
+                    "word": " offered",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 49.96,
+                    "end": 50.34,
+                    "word": " by",
+                    "probability": 1.0
+                },
+                {
+                    "start": 50.34,
+                    "end": 50.96,
+                    "word": " OpenAI.",
+                    "probability": 0.995849609375
+                },
+                {
+                    "start": 51.14,
+                    "end": 51.56,
+                    "word": " It's",
+                    "probability": 1.0
+                },
+                {
+                    "start": 51.56,
+                    "end": 51.86,
+                    "word": " completely",
+                    "probability": 0.97607421875
+                },
+                {
+                    "start": 51.86,
+                    "end": 52.22,
+                    "word": " open",
+                    "probability": 1.0
+                },
+                {
+                    "start": 52.22,
+                    "end": 52.56,
+                    "word": " source",
+                    "probability": 0.96630859375
+                },
+                {
+                    "start": 52.56,
+                    "end": 53.18,
+                    "word": " and",
+                    "probability": 0.447509765625
+                },
+                {
+                    "start": 53.18,
+                    "end": 53.4,
+                    "word": " it",
+                    "probability": 0.9990234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 8,
+            "seek": 2886,
+            "start": 53.4,
+            "end": 57.98,
+            "text": " offers different sized language models. This is the tool that we are working with at CSC.",
+            "tokens": [
+                51589,
+                7736,
+                819,
+                20004,
+                2856,
+                5245,
+                13,
+                639,
+                307,
+                264,
+                2290,
+                300,
+                321,
+                366,
+                1364,
+                365,
+                412,
+                9460,
+                34,
+                13,
+                51825
+            ],
+            "avg_logprob": -0.10959002566993784,
+            "compression_ratio": 1.5702479338842976,
+            "no_speech_prob": 0.019683837890625,
+            "words": [
+                {
+                    "start": 53.4,
+                    "end": 53.58,
+                    "word": " offers",
+                    "probability": 1.0
+                },
+                {
+                    "start": 53.58,
+                    "end": 53.92,
+                    "word": " different",
+                    "probability": 1.0
+                },
+                {
+                    "start": 53.92,
+                    "end": 54.28,
+                    "word": " sized",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 54.28,
+                    "end": 54.76,
+                    "word": " language",
+                    "probability": 1.0
+                },
+                {
+                    "start": 54.76,
+                    "end": 55.18,
+                    "word": " models.",
+                    "probability": 1.0
+                },
+                {
+                    "start": 55.28,
+                    "end": 55.48,
+                    "word": " This",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 55.48,
+                    "end": 55.62,
+                    "word": " is",
+                    "probability": 1.0
+                },
+                {
+                    "start": 55.62,
+                    "end": 55.7,
+                    "word": " the",
+                    "probability": 0.90380859375
+                },
+                {
+                    "start": 55.7,
+                    "end": 55.98,
+                    "word": " tool",
+                    "probability": 1.0
+                },
+                {
+                    "start": 55.98,
+                    "end": 56.14,
+                    "word": " that",
+                    "probability": 1.0
+                },
+                {
+                    "start": 56.14,
+                    "end": 56.26,
+                    "word": " we",
+                    "probability": 1.0
+                },
+                {
+                    "start": 56.26,
+                    "end": 56.36,
+                    "word": " are",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 56.36,
+                    "end": 56.66,
+                    "word": " working",
+                    "probability": 1.0
+                },
+                {
+                    "start": 56.66,
+                    "end": 57.0,
+                    "word": " with",
+                    "probability": 1.0
+                },
+                {
+                    "start": 57.0,
+                    "end": 57.56,
+                    "word": " at",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 57.56,
+                    "end": 57.98,
+                    "word": " CSC.",
+                    "probability": 0.87939453125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 9,
+            "seek": 5886,
+            "start": 58.86,
+            "end": 59.36,
+            "text": " Hmm, okay.",
+            "tokens": [
+                50365,
+                8239,
+                11,
+                1392,
+                13,
+                50413
+            ],
+            "avg_logprob": -0.5858808415276664,
+            "compression_ratio": 0.5555555555555556,
+            "no_speech_prob": 0.1788330078125,
+            "words": [
+                {
+                    "start": 58.86,
+                    "end": 59.02,
+                    "word": " Hmm,",
+                    "probability": 0.51953125
+                },
+                {
+                    "start": 59.08,
+                    "end": 59.36,
+                    "word": " okay.",
+                    "probability": 0.7412109375
+                }
+            ],
+            "temperature": 0.6000000000000001
+        }
+    ],
+    "language": "en",
+    "text": " Okay, so in the future you might need or have a more specific need for speech-to-text tools? Yes, yes. Or I will definitely need at least text-based software which is made for transcribing interviews, as in software that arranges it into lines and so on. I don't know if I absolutely need speech-to-text software, but I see a potential use for it. Okay, yeah. So you hadn't experimented with Whisper, the speech-to-text tool? No, no, never heard of it. Okay. Whisper is a speech-to-text tool offered by OpenAI. It's completely open source and it offers different sized language models. This is the tool that we are working with at CSC. Hmm, okay."
+}

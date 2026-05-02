@@ -1,0 +1,769 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 29.84,
+            "text": " ...use. Yeah. Even with sort of different options. Maybe then... so that's a practical thing. Then the other thing is probably still the unfamiliarity with what a speech recognition tool is. And then what is done with it. And then especially if... because something or someone is either",
+            "tokens": [
+                50365,
+                1097,
+                438,
+                13,
+                865,
+                13,
+                2754,
+                365,
+                1333,
+                295,
+                819,
+                3956,
+                13,
+                2704,
+                550,
+                485,
+                370,
+                300,
+                311,
+                257,
+                8496,
+                551,
+                13,
+                1396,
+                264,
+                661,
+                551,
+                307,
+                1391,
+                920,
+                264,
+                29415,
+                507,
+                365,
+                437,
+                257,
+                6218,
+                11150,
+                2290,
+                307,
+                13,
+                400,
+                550,
+                437,
+                307,
+                1096,
+                365,
+                309,
+                13,
+                400,
+                550,
+                2318,
+                498,
+                485,
+                570,
+                746,
+                420,
+                1580,
+                307,
+                2139,
+                51864
+            ],
+            "avg_logprob": -0.26016865930860006,
+            "compression_ratio": 1.5543478260869565,
+            "no_speech_prob": 0.01464080810546875,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.28,
+                    "word": " ...use.",
+                    "probability": 0.36356449127197266
+                },
+                {
+                    "start": 0.7,
+                    "end": 1.38,
+                    "word": " Yeah.",
+                    "probability": 0.302978515625
+                },
+                {
+                    "start": 1.48,
+                    "end": 2.14,
+                    "word": " Even",
+                    "probability": 0.93994140625
+                },
+                {
+                    "start": 2.14,
+                    "end": 2.46,
+                    "word": " with",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 2.46,
+                    "end": 2.66,
+                    "word": " sort",
+                    "probability": 0.8330078125
+                },
+                {
+                    "start": 2.66,
+                    "end": 2.76,
+                    "word": " of",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 2.76,
+                    "end": 3.0,
+                    "word": " different",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 3.0,
+                    "end": 3.42,
+                    "word": " options.",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 4.5,
+                    "end": 5.18,
+                    "word": " Maybe",
+                    "probability": 0.85546875
+                },
+                {
+                    "start": 5.18,
+                    "end": 5.88,
+                    "word": " then...",
+                    "probability": 0.607666015625
+                },
+                {
+                    "start": 5.88,
+                    "end": 6.34,
+                    "word": " so",
+                    "probability": 0.36083984375
+                },
+                {
+                    "start": 6.34,
+                    "end": 6.92,
+                    "word": " that's",
+                    "probability": 0.92138671875
+                },
+                {
+                    "start": 6.92,
+                    "end": 7.02,
+                    "word": " a",
+                    "probability": 0.95703125
+                },
+                {
+                    "start": 7.02,
+                    "end": 7.42,
+                    "word": " practical",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 7.42,
+                    "end": 7.72,
+                    "word": " thing.",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 7.8,
+                    "end": 7.9,
+                    "word": " Then",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 7.9,
+                    "end": 8.04,
+                    "word": " the",
+                    "probability": 0.95703125
+                },
+                {
+                    "start": 8.04,
+                    "end": 8.28,
+                    "word": " other",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 8.28,
+                    "end": 8.54,
+                    "word": " thing",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 8.54,
+                    "end": 9.0,
+                    "word": " is",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 9.0,
+                    "end": 12.1,
+                    "word": " probably",
+                    "probability": 0.775390625
+                },
+                {
+                    "start": 12.1,
+                    "end": 12.68,
+                    "word": " still",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 12.68,
+                    "end": 13.02,
+                    "word": " the",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 13.02,
+                    "end": 14.32,
+                    "word": " unfamiliarity",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 14.32,
+                    "end": 14.66,
+                    "word": " with",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 14.66,
+                    "end": 15.04,
+                    "word": " what",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 15.04,
+                    "end": 15.24,
+                    "word": " a",
+                    "probability": 0.7333984375
+                },
+                {
+                    "start": 15.24,
+                    "end": 15.48,
+                    "word": " speech",
+                    "probability": 0.95849609375
+                },
+                {
+                    "start": 15.48,
+                    "end": 15.82,
+                    "word": " recognition",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 15.82,
+                    "end": 16.36,
+                    "word": " tool",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 16.36,
+                    "end": 16.8,
+                    "word": " is.",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 17.8,
+                    "end": 18.48,
+                    "word": " And",
+                    "probability": 0.8857421875
+                },
+                {
+                    "start": 18.48,
+                    "end": 19.34,
+                    "word": " then",
+                    "probability": 0.88427734375
+                },
+                {
+                    "start": 19.34,
+                    "end": 22.64,
+                    "word": " what",
+                    "probability": 0.79150390625
+                },
+                {
+                    "start": 22.64,
+                    "end": 23.02,
+                    "word": " is",
+                    "probability": 0.9814453125
+                },
+                {
+                    "start": 23.02,
+                    "end": 23.32,
+                    "word": " done",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 23.32,
+                    "end": 23.6,
+                    "word": " with",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 23.6,
+                    "end": 23.78,
+                    "word": " it.",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 23.84,
+                    "end": 24.0,
+                    "word": " And",
+                    "probability": 0.94091796875
+                },
+                {
+                    "start": 24.0,
+                    "end": 24.18,
+                    "word": " then",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 24.18,
+                    "end": 24.6,
+                    "word": " especially",
+                    "probability": 0.9169921875
+                },
+                {
+                    "start": 24.6,
+                    "end": 25.36,
+                    "word": " if...",
+                    "probability": 0.8271484375
+                },
+                {
+                    "start": 25.36,
+                    "end": 25.58,
+                    "word": " because",
+                    "probability": 0.75341796875
+                },
+                {
+                    "start": 25.58,
+                    "end": 27.0,
+                    "word": " something",
+                    "probability": 0.83251953125
+                },
+                {
+                    "start": 27.0,
+                    "end": 27.7,
+                    "word": " or",
+                    "probability": 0.9658203125
+                },
+                {
+                    "start": 27.7,
+                    "end": 28.24,
+                    "word": " someone",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 28.24,
+                    "end": 29.48,
+                    "word": " is",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 29.48,
+                    "end": 29.84,
+                    "word": " either",
+                    "probability": 0.998046875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 2984,
+            "start": 29.84,
+            "end": 40.68,
+            "text": " recording your talk or somebody's talk is stored somewhere so that the system",
+            "tokens": [
+                50365,
+                6613,
+                428,
+                751,
+                420,
+                2618,
+                311,
+                751,
+                307,
+                12187,
+                4079,
+                370,
+                300,
+                264,
+                1185,
+                50927
+            ],
+            "avg_logprob": -0.1384626076157604,
+            "compression_ratio": 1.4901960784313726,
+            "no_speech_prob": 0.076171875,
+            "words": [
+                {
+                    "start": 29.84,
+                    "end": 30.3,
+                    "word": " recording",
+                    "probability": 0.9091796875
+                },
+                {
+                    "start": 30.3,
+                    "end": 32.0,
+                    "word": " your",
+                    "probability": 0.9384765625
+                },
+                {
+                    "start": 32.0,
+                    "end": 32.42,
+                    "word": " talk",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 32.42,
+                    "end": 34.1,
+                    "word": " or",
+                    "probability": 0.60107421875
+                },
+                {
+                    "start": 34.1,
+                    "end": 35.98,
+                    "word": " somebody's",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 35.98,
+                    "end": 36.28,
+                    "word": " talk",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 36.28,
+                    "end": 37.22,
+                    "word": " is",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 37.22,
+                    "end": 37.92,
+                    "word": " stored",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 37.92,
+                    "end": 38.46,
+                    "word": " somewhere",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 38.46,
+                    "end": 39.82,
+                    "word": " so",
+                    "probability": 0.744140625
+                },
+                {
+                    "start": 39.82,
+                    "end": 40.12,
+                    "word": " that",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 40.12,
+                    "end": 40.3,
+                    "word": " the",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 40.3,
+                    "end": 40.68,
+                    "word": " system",
+                    "probability": 0.9990234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 2984,
+            "start": 40.68,
+            "end": 48.16,
+            "text": " can then transform the talk into text. And this is what people are probably",
+            "tokens": [
+                50927,
+                393,
+                550,
+                4088,
+                264,
+                751,
+                666,
+                2487,
+                13,
+                400,
+                341,
+                307,
+                437,
+                561,
+                366,
+                1391,
+                51283
+            ],
+            "avg_logprob": -0.1384626076157604,
+            "compression_ratio": 1.4901960784313726,
+            "no_speech_prob": 0.076171875,
+            "words": [
+                {
+                    "start": 40.68,
+                    "end": 41.98,
+                    "word": " can",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 41.98,
+                    "end": 42.36,
+                    "word": " then",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 42.36,
+                    "end": 43.94,
+                    "word": " transform",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 43.94,
+                    "end": 44.44,
+                    "word": " the",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 44.44,
+                    "end": 44.74,
+                    "word": " talk",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 44.74,
+                    "end": 45.12,
+                    "word": " into",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 45.12,
+                    "end": 45.54,
+                    "word": " text.",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 45.76,
+                    "end": 46.28,
+                    "word": " And",
+                    "probability": 0.8837890625
+                },
+                {
+                    "start": 46.28,
+                    "end": 46.56,
+                    "word": " this",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 46.56,
+                    "end": 46.72,
+                    "word": " is",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 46.72,
+                    "end": 47.0,
+                    "word": " what",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 47.0,
+                    "end": 47.42,
+                    "word": " people",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 47.42,
+                    "end": 47.8,
+                    "word": " are",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 47.8,
+                    "end": 48.16,
+                    "word": " probably",
+                    "probability": 0.99560546875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2984,
+            "start": 48.16,
+            "end": 56.7,
+            "text": " curious about. So where does their talk go? Where is it stored? And so on.",
+            "tokens": [
+                51283,
+                6369,
+                466,
+                13,
+                407,
+                689,
+                775,
+                641,
+                751,
+                352,
+                30,
+                2305,
+                307,
+                309,
+                12187,
+                30,
+                400,
+                370,
+                322,
+                13,
+                51791
+            ],
+            "avg_logprob": -0.1384626076157604,
+            "compression_ratio": 1.4901960784313726,
+            "no_speech_prob": 0.076171875,
+            "words": [
+                {
+                    "start": 48.16,
+                    "end": 48.68,
+                    "word": " curious",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 48.68,
+                    "end": 49.16,
+                    "word": " about.",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 49.56,
+                    "end": 50.4,
+                    "word": " So",
+                    "probability": 0.93994140625
+                },
+                {
+                    "start": 50.4,
+                    "end": 50.64,
+                    "word": " where",
+                    "probability": 0.86865234375
+                },
+                {
+                    "start": 50.64,
+                    "end": 51.1,
+                    "word": " does",
+                    "probability": 0.84765625
+                },
+                {
+                    "start": 51.1,
+                    "end": 51.44,
+                    "word": " their",
+                    "probability": 0.90380859375
+                },
+                {
+                    "start": 51.44,
+                    "end": 52.36,
+                    "word": " talk",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 52.36,
+                    "end": 52.82,
+                    "word": " go?",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 53.1,
+                    "end": 53.54,
+                    "word": " Where",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 53.54,
+                    "end": 53.76,
+                    "word": " is",
+                    "probability": 0.9794921875
+                },
+                {
+                    "start": 53.76,
+                    "end": 53.86,
+                    "word": " it",
+                    "probability": 0.93603515625
+                },
+                {
+                    "start": 53.86,
+                    "end": 54.36,
+                    "word": " stored?",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 54.92,
+                    "end": 55.76,
+                    "word": " And",
+                    "probability": 0.939453125
+                },
+                {
+                    "start": 55.76,
+                    "end": 56.44,
+                    "word": " so",
+                    "probability": 0.9111328125
+                },
+                {
+                    "start": 56.44,
+                    "end": 56.7,
+                    "word": " on.",
+                    "probability": 0.9775390625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 5670,
+            "start": 59.1,
+            "end": 60.0,
+            "text": " Let's say, for example,",
+            "tokens": [
+                50365,
+                961,
+                311,
+                584,
+                11,
+                337,
+                1365,
+                11,
+                50532
+            ],
+            "avg_logprob": -0.39062501192092897,
+            "compression_ratio": 0.7419354838709677,
+            "no_speech_prob": 0.5146484375,
+            "words": [
+                {
+                    "start": 59.1,
+                    "end": 59.46,
+                    "word": " Let's",
+                    "probability": 0.83447265625
+                },
+                {
+                    "start": 59.46,
+                    "end": 59.66,
+                    "word": " say,",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 59.68,
+                    "end": 59.86,
+                    "word": " for",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 59.86,
+                    "end": 60.0,
+                    "word": " example,",
+                    "probability": 0.8525390625
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " ...use. Yeah. Even with sort of different options. Maybe then... so that's a practical thing. Then the other thing is probably still the unfamiliarity with what a speech recognition tool is. And then what is done with it. And then especially if... because something or someone is either recording your talk or somebody's talk is stored somewhere so that the system can then transform the talk into text. And this is what people are probably curious about. So where does their talk go? Where is it stored? And so on. Let's say, for example,"
+}

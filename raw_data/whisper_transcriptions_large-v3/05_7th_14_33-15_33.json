@@ -1,0 +1,1012 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 15.36,
+            "text": " Yeah but that is all for my questions. Would you have anything else that you would like to add about speech-to-text tools that we haven't discussed yet? Anything that comes to mind?",
+            "tokens": [
+                50365,
+                865,
+                457,
+                300,
+                307,
+                439,
+                337,
+                452,
+                1651,
+                13,
+                6068,
+                291,
+                362,
+                1340,
+                1646,
+                300,
+                291,
+                576,
+                411,
+                281,
+                909,
+                466,
+                6218,
+                12,
+                1353,
+                12,
+                25111,
+                3873,
+                300,
+                321,
+                2378,
+                380,
+                7152,
+                1939,
+                30,
+                11998,
+                300,
+                1487,
+                281,
+                1575,
+                30,
+                51153
+            ],
+            "avg_logprob": -0.20223722132769498,
+            "compression_ratio": 1.371212121212121,
+            "no_speech_prob": 0.3515625,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.28,
+                    "word": " Yeah",
+                    "probability": 0.61669921875
+                },
+                {
+                    "start": 0.28,
+                    "end": 0.44,
+                    "word": " but",
+                    "probability": 0.10235595703125
+                },
+                {
+                    "start": 0.44,
+                    "end": 0.62,
+                    "word": " that",
+                    "probability": 0.98046875
+                },
+                {
+                    "start": 0.62,
+                    "end": 0.88,
+                    "word": " is",
+                    "probability": 0.9765625
+                },
+                {
+                    "start": 0.88,
+                    "end": 1.42,
+                    "word": " all",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 1.42,
+                    "end": 1.76,
+                    "word": " for",
+                    "probability": 0.974609375
+                },
+                {
+                    "start": 1.76,
+                    "end": 2.0,
+                    "word": " my",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 2.0,
+                    "end": 2.76,
+                    "word": " questions.",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 3.96,
+                    "end": 4.6,
+                    "word": " Would",
+                    "probability": 0.6474609375
+                },
+                {
+                    "start": 4.6,
+                    "end": 5.34,
+                    "word": " you",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 5.34,
+                    "end": 5.72,
+                    "word": " have",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 5.72,
+                    "end": 5.98,
+                    "word": " anything",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 5.98,
+                    "end": 6.44,
+                    "word": " else",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 6.44,
+                    "end": 7.02,
+                    "word": " that",
+                    "probability": 0.81005859375
+                },
+                {
+                    "start": 7.02,
+                    "end": 7.3,
+                    "word": " you",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 7.3,
+                    "end": 7.48,
+                    "word": " would",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 7.48,
+                    "end": 7.68,
+                    "word": " like",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 7.68,
+                    "end": 7.84,
+                    "word": " to",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 7.84,
+                    "end": 8.04,
+                    "word": " add",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 8.04,
+                    "end": 8.4,
+                    "word": " about",
+                    "probability": 0.97216796875
+                },
+                {
+                    "start": 8.4,
+                    "end": 9.2,
+                    "word": " speech",
+                    "probability": 0.9443359375
+                },
+                {
+                    "start": 9.2,
+                    "end": 10.04,
+                    "word": "-to",
+                    "probability": 0.818603515625
+                },
+                {
+                    "start": 10.04,
+                    "end": 10.22,
+                    "word": "-text",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 10.22,
+                    "end": 10.54,
+                    "word": " tools",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 10.54,
+                    "end": 10.82,
+                    "word": " that",
+                    "probability": 0.97412109375
+                },
+                {
+                    "start": 10.82,
+                    "end": 11.02,
+                    "word": " we",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 11.02,
+                    "end": 11.56,
+                    "word": " haven't",
+                    "probability": 0.997802734375
+                },
+                {
+                    "start": 11.56,
+                    "end": 12.06,
+                    "word": " discussed",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 12.06,
+                    "end": 12.44,
+                    "word": " yet?",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 13.7,
+                    "end": 14.34,
+                    "word": " Anything",
+                    "probability": 0.77783203125
+                },
+                {
+                    "start": 14.34,
+                    "end": 14.64,
+                    "word": " that",
+                    "probability": 0.98583984375
+                },
+                {
+                    "start": 14.64,
+                    "end": 14.94,
+                    "word": " comes",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 14.94,
+                    "end": 15.16,
+                    "word": " to",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 15.16,
+                    "end": 15.36,
+                    "word": " mind?",
+                    "probability": 0.99658203125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 1536,
+            "start": 15.36,
+            "end": 30.78,
+            "text": " Yeah, I actually came to think of a question. Are you specifically interviewing linguists, people who research in linguistics or any researchers doing research in anything?",
+            "tokens": [
+                50365,
+                865,
+                11,
+                286,
+                767,
+                1361,
+                281,
+                519,
+                295,
+                257,
+                1168,
+                13,
+                2014,
+                291,
+                4682,
+                26524,
+                21766,
+                1751,
+                11,
+                561,
+                567,
+                2132,
+                294,
+                21766,
+                6006,
+                420,
+                604,
+                10309,
+                884,
+                2132,
+                294,
+                1340,
+                30,
+                51141
+            ],
+            "avg_logprob": -0.18075771037846394,
+            "compression_ratio": 1.7401960784313726,
+            "no_speech_prob": 0.32080078125,
+            "words": [
+                {
+                    "start": 15.36,
+                    "end": 16.04,
+                    "word": " Yeah,",
+                    "probability": 0.70361328125
+                },
+                {
+                    "start": 16.1,
+                    "end": 16.22,
+                    "word": " I",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 16.22,
+                    "end": 16.54,
+                    "word": " actually",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 16.54,
+                    "end": 16.92,
+                    "word": " came",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 16.92,
+                    "end": 17.22,
+                    "word": " to",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 17.22,
+                    "end": 17.4,
+                    "word": " think",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 17.4,
+                    "end": 17.5,
+                    "word": " of",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 17.5,
+                    "end": 17.58,
+                    "word": " a",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 17.58,
+                    "end": 17.96,
+                    "word": " question.",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 18.2,
+                    "end": 18.62,
+                    "word": " Are",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 18.62,
+                    "end": 18.84,
+                    "word": " you",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 18.84,
+                    "end": 19.64,
+                    "word": " specifically",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 19.64,
+                    "end": 20.42,
+                    "word": " interviewing",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 20.42,
+                    "end": 22.26,
+                    "word": " linguists,",
+                    "probability": 0.997314453125
+                },
+                {
+                    "start": 22.32,
+                    "end": 22.5,
+                    "word": " people",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 22.5,
+                    "end": 23.0,
+                    "word": " who",
+                    "probability": 0.97265625
+                },
+                {
+                    "start": 23.0,
+                    "end": 23.9,
+                    "word": " research",
+                    "probability": 0.6748046875
+                },
+                {
+                    "start": 23.9,
+                    "end": 24.36,
+                    "word": " in",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 24.36,
+                    "end": 24.88,
+                    "word": " linguistics",
+                    "probability": 0.999755859375
+                },
+                {
+                    "start": 24.88,
+                    "end": 25.34,
+                    "word": " or",
+                    "probability": 0.48486328125
+                },
+                {
+                    "start": 25.34,
+                    "end": 26.48,
+                    "word": " any",
+                    "probability": 0.93994140625
+                },
+                {
+                    "start": 26.48,
+                    "end": 27.52,
+                    "word": " researchers",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 27.52,
+                    "end": 28.14,
+                    "word": " doing",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 28.14,
+                    "end": 30.12,
+                    "word": " research",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 30.12,
+                    "end": 30.46,
+                    "word": " in",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 30.46,
+                    "end": 30.78,
+                    "word": " anything?",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 1536,
+            "start": 31.99,
+            "end": 38.48,
+            "text": " We are not only focusing on linguists but it happens most of the people who answered to our",
+            "tokens": [
+                51205,
+                492,
+                366,
+                406,
+                787,
+                8416,
+                322,
+                21766,
+                1751,
+                457,
+                309,
+                2314,
+                881,
+                295,
+                264,
+                561,
+                567,
+                10103,
+                281,
+                527,
+                51525
+            ],
+            "avg_logprob": -0.18075771037846394,
+            "compression_ratio": 1.7401960784313726,
+            "no_speech_prob": 0.32080078125,
+            "words": [
+                {
+                    "start": 31.99,
+                    "end": 32.38,
+                    "word": " We",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 32.38,
+                    "end": 32.48,
+                    "word": " are",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 32.48,
+                    "end": 32.72,
+                    "word": " not",
+                    "probability": 1.0
+                },
+                {
+                    "start": 32.72,
+                    "end": 33.0,
+                    "word": " only",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 33.0,
+                    "end": 33.44,
+                    "word": " focusing",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 33.44,
+                    "end": 33.76,
+                    "word": " on",
+                    "probability": 1.0
+                },
+                {
+                    "start": 33.76,
+                    "end": 34.62,
+                    "word": " linguists",
+                    "probability": 0.999755859375
+                },
+                {
+                    "start": 34.62,
+                    "end": 35.04,
+                    "word": " but",
+                    "probability": 0.053497314453125
+                },
+                {
+                    "start": 35.04,
+                    "end": 35.14,
+                    "word": " it",
+                    "probability": 0.6884765625
+                },
+                {
+                    "start": 35.14,
+                    "end": 35.6,
+                    "word": " happens",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 35.6,
+                    "end": 36.36,
+                    "word": " most",
+                    "probability": 0.88525390625
+                },
+                {
+                    "start": 36.36,
+                    "end": 36.62,
+                    "word": " of",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 36.62,
+                    "end": 36.72,
+                    "word": " the",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 36.72,
+                    "end": 37.08,
+                    "word": " people",
+                    "probability": 1.0
+                },
+                {
+                    "start": 37.08,
+                    "end": 37.36,
+                    "word": " who",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 37.36,
+                    "end": 37.82,
+                    "word": " answered",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 37.82,
+                    "end": 38.24,
+                    "word": " to",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 38.24,
+                    "end": 38.48,
+                    "word": " our",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 1536,
+            "start": 38.48,
+            "end": 44.62,
+            "text": " questionnaire were linguists or people dealing with languages and I chose to interview the",
+            "tokens": [
+                51525,
+                44702,
+                645,
+                21766,
+                1751,
+                420,
+                561,
+                6260,
+                365,
+                8650,
+                293,
+                286,
+                5111,
+                281,
+                4049,
+                264,
+                51825
+            ],
+            "avg_logprob": -0.18075771037846394,
+            "compression_ratio": 1.7401960784313726,
+            "no_speech_prob": 0.32080078125,
+            "words": [
+                {
+                    "start": 38.48,
+                    "end": 38.96,
+                    "word": " questionnaire",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 38.96,
+                    "end": 39.4,
+                    "word": " were",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 39.4,
+                    "end": 40.08,
+                    "word": " linguists",
+                    "probability": 0.998779296875
+                },
+                {
+                    "start": 40.08,
+                    "end": 40.3,
+                    "word": " or",
+                    "probability": 0.9775390625
+                },
+                {
+                    "start": 40.3,
+                    "end": 40.64,
+                    "word": " people",
+                    "probability": 1.0
+                },
+                {
+                    "start": 40.64,
+                    "end": 41.02,
+                    "word": " dealing",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 41.02,
+                    "end": 41.3,
+                    "word": " with",
+                    "probability": 1.0
+                },
+                {
+                    "start": 41.3,
+                    "end": 41.74,
+                    "word": " languages",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 41.74,
+                    "end": 42.74,
+                    "word": " and",
+                    "probability": 0.6875
+                },
+                {
+                    "start": 42.74,
+                    "end": 43.22,
+                    "word": " I",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 43.22,
+                    "end": 43.66,
+                    "word": " chose",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 43.66,
+                    "end": 43.86,
+                    "word": " to",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 43.86,
+                    "end": 44.22,
+                    "word": " interview",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 44.22,
+                    "end": 44.62,
+                    "word": " the",
+                    "probability": 0.9501953125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 4536,
+            "start": 45.36,
+            "end": 48.94,
+            "text": " people who are linguists or otherwise dealing with languages since",
+            "tokens": [
+                50365,
+                561,
+                567,
+                366,
+                21766,
+                1751,
+                420,
+                5911,
+                6260,
+                365,
+                8650,
+                1670,
+                50569
+            ],
+            "avg_logprob": -0.1486150585114956,
+            "compression_ratio": 1.4603174603174602,
+            "no_speech_prob": 0.2415771484375,
+            "words": [
+                {
+                    "start": 45.36,
+                    "end": 45.94,
+                    "word": " people",
+                    "probability": 0.472412109375
+                },
+                {
+                    "start": 45.94,
+                    "end": 46.26,
+                    "word": " who",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 46.26,
+                    "end": 46.44,
+                    "word": " are",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 46.44,
+                    "end": 47.12,
+                    "word": " linguists",
+                    "probability": 0.984375
+                },
+                {
+                    "start": 47.12,
+                    "end": 47.34,
+                    "word": " or",
+                    "probability": 0.9375
+                },
+                {
+                    "start": 47.34,
+                    "end": 47.74,
+                    "word": " otherwise",
+                    "probability": 0.93017578125
+                },
+                {
+                    "start": 47.74,
+                    "end": 48.02,
+                    "word": " dealing",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 48.02,
+                    "end": 48.22,
+                    "word": " with",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 48.22,
+                    "end": 48.56,
+                    "word": " languages",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 48.56,
+                    "end": 48.94,
+                    "word": " since",
+                    "probability": 0.443603515625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 4536,
+            "start": 48.94,
+            "end": 52.98,
+            "text": " I'm also studying linguistics and my thesis will be in the",
+            "tokens": [
+                50569,
+                286,
+                478,
+                611,
+                7601,
+                21766,
+                6006,
+                293,
+                452,
+                22288,
+                486,
+                312,
+                294,
+                264,
+                50769
+            ],
+            "avg_logprob": -0.1486150585114956,
+            "compression_ratio": 1.4603174603174602,
+            "no_speech_prob": 0.2415771484375,
+            "words": [
+                {
+                    "start": 48.94,
+                    "end": 49.82,
+                    "word": " I'm",
+                    "probability": 0.919677734375
+                },
+                {
+                    "start": 49.82,
+                    "end": 49.96,
+                    "word": " also",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 49.96,
+                    "end": 50.34,
+                    "word": " studying",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 50.34,
+                    "end": 50.94,
+                    "word": " linguistics",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 50.94,
+                    "end": 51.36,
+                    "word": " and",
+                    "probability": 0.9150390625
+                },
+                {
+                    "start": 51.36,
+                    "end": 51.64,
+                    "word": " my",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 51.64,
+                    "end": 52.12,
+                    "word": " thesis",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 52.12,
+                    "end": 52.38,
+                    "word": " will",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 52.38,
+                    "end": 52.62,
+                    "word": " be",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 52.62,
+                    "end": 52.84,
+                    "word": " in",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 52.84,
+                    "end": 52.98,
+                    "word": " the",
+                    "probability": 0.9970703125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 4536,
+            "start": 52.98,
+            "end": 57.84,
+            "text": " area of linguistics but we are focusing on others as well.",
+            "tokens": [
+                50769,
+                1859,
+                295,
+                21766,
+                6006,
+                457,
+                321,
+                366,
+                8416,
+                322,
+                2357,
+                382,
+                731,
+                13,
+                51097
+            ],
+            "avg_logprob": -0.1486150585114956,
+            "compression_ratio": 1.4603174603174602,
+            "no_speech_prob": 0.2415771484375,
+            "words": [
+                {
+                    "start": 52.98,
+                    "end": 53.76,
+                    "word": " area",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 53.76,
+                    "end": 53.94,
+                    "word": " of",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 53.94,
+                    "end": 54.5,
+                    "word": " linguistics",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 54.5,
+                    "end": 54.82,
+                    "word": " but",
+                    "probability": 0.669921875
+                },
+                {
+                    "start": 54.82,
+                    "end": 55.22,
+                    "word": " we",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 55.22,
+                    "end": 55.52,
+                    "word": " are",
+                    "probability": 0.681640625
+                },
+                {
+                    "start": 55.52,
+                    "end": 56.4,
+                    "word": " focusing",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 56.4,
+                    "end": 56.72,
+                    "word": " on",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 56.72,
+                    "end": 57.08,
+                    "word": " others",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 57.08,
+                    "end": 57.58,
+                    "word": " as",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 57.58,
+                    "end": 57.84,
+                    "word": " well.",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " Yeah but that is all for my questions. Would you have anything else that you would like to add about speech-to-text tools that we haven't discussed yet? Anything that comes to mind? Yeah, I actually came to think of a question. Are you specifically interviewing linguists, people who research in linguistics or any researchers doing research in anything? We are not only focusing on linguists but it happens most of the people who answered to our questionnaire were linguists or people dealing with languages and I chose to interview the people who are linguists or otherwise dealing with languages since I'm also studying linguistics and my thesis will be in the area of linguistics but we are focusing on others as well."
+}

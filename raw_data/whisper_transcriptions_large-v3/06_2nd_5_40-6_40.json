@@ -1,0 +1,1299 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.8,
+            "text": " Flumsy just didn't capture that, so they failed in kind of going word by word.",
+            "tokens": [
+                50365,
+                3235,
+                449,
+                3187,
+                445,
+                994,
+                380,
+                7983,
+                300,
+                11,
+                370,
+                436,
+                7612,
+                294,
+                733,
+                295,
+                516,
+                1349,
+                538,
+                1349,
+                13,
+                50657
+            ],
+            "avg_logprob": -0.14096840233593197,
+            "compression_ratio": 1.5294117647058822,
+            "no_speech_prob": 0.375244140625,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.42,
+                    "word": " Flumsy",
+                    "probability": 0.615234375
+                },
+                {
+                    "start": 0.42,
+                    "end": 0.76,
+                    "word": " just",
+                    "probability": 0.9404296875
+                },
+                {
+                    "start": 0.76,
+                    "end": 1.28,
+                    "word": " didn't",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 1.28,
+                    "end": 2.1,
+                    "word": " capture",
+                    "probability": 0.904296875
+                },
+                {
+                    "start": 2.1,
+                    "end": 2.62,
+                    "word": " that,",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 2.72,
+                    "end": 2.86,
+                    "word": " so",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 2.86,
+                    "end": 3.06,
+                    "word": " they",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 3.06,
+                    "end": 3.58,
+                    "word": " failed",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 3.58,
+                    "end": 4.02,
+                    "word": " in",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 4.02,
+                    "end": 4.5,
+                    "word": " kind",
+                    "probability": 0.76806640625
+                },
+                {
+                    "start": 4.5,
+                    "end": 4.62,
+                    "word": " of",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 4.62,
+                    "end": 4.8,
+                    "word": " going",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 4.8,
+                    "end": 5.14,
+                    "word": " word",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 5.14,
+                    "end": 5.38,
+                    "word": " by",
+                    "probability": 0.970703125
+                },
+                {
+                    "start": 5.38,
+                    "end": 5.8,
+                    "word": " word.",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.78,
+            "end": 12.7,
+            "text": " Okay, yeah. That is actually very interesting, because the tool we're working with, Whisper,",
+            "tokens": [
+                50721,
+                1033,
+                11,
+                1338,
+                13,
+                663,
+                307,
+                767,
+                588,
+                1880,
+                11,
+                570,
+                264,
+                2290,
+                321,
+                434,
+                1364,
+                365,
+                11,
+                41132,
+                610,
+                11,
+                51005
+            ],
+            "avg_logprob": -0.14096840233593197,
+            "compression_ratio": 1.5294117647058822,
+            "no_speech_prob": 0.375244140625,
+            "words": [
+                {
+                    "start": 6.78,
+                    "end": 7.34,
+                    "word": " Okay,",
+                    "probability": 0.87890625
+                },
+                {
+                    "start": 7.46,
+                    "end": 7.76,
+                    "word": " yeah.",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 8.16,
+                    "end": 8.72,
+                    "word": " That",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 8.72,
+                    "end": 8.84,
+                    "word": " is",
+                    "probability": 1.0
+                },
+                {
+                    "start": 8.84,
+                    "end": 9.06,
+                    "word": " actually",
+                    "probability": 1.0
+                },
+                {
+                    "start": 9.06,
+                    "end": 9.26,
+                    "word": " very",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 9.26,
+                    "end": 9.78,
+                    "word": " interesting,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 9.86,
+                    "end": 10.64,
+                    "word": " because",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 10.64,
+                    "end": 10.88,
+                    "word": " the",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 10.88,
+                    "end": 11.58,
+                    "word": " tool",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 11.58,
+                    "end": 11.78,
+                    "word": " we're",
+                    "probability": 0.994384765625
+                },
+                {
+                    "start": 11.78,
+                    "end": 12.04,
+                    "word": " working",
+                    "probability": 1.0
+                },
+                {
+                    "start": 12.04,
+                    "end": 12.28,
+                    "word": " with,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 12.36,
+                    "end": 12.7,
+                    "word": " Whisper,",
+                    "probability": 0.9765625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 13.36,
+            "end": 19.86,
+            "text": " has many different sizes of language models, and one of the largest sizes has a problem with",
+            "tokens": [
+                51037,
+                575,
+                867,
+                819,
+                11602,
+                295,
+                2856,
+                5245,
+                11,
+                293,
+                472,
+                295,
+                264,
+                6443,
+                11602,
+                575,
+                257,
+                1154,
+                365,
+                51361
+            ],
+            "avg_logprob": -0.14096840233593197,
+            "compression_ratio": 1.5294117647058822,
+            "no_speech_prob": 0.375244140625,
+            "words": [
+                {
+                    "start": 13.36,
+                    "end": 13.64,
+                    "word": " has",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 13.64,
+                    "end": 13.98,
+                    "word": " many",
+                    "probability": 1.0
+                },
+                {
+                    "start": 13.98,
+                    "end": 14.3,
+                    "word": " different",
+                    "probability": 1.0
+                },
+                {
+                    "start": 14.3,
+                    "end": 14.9,
+                    "word": " sizes",
+                    "probability": 1.0
+                },
+                {
+                    "start": 14.9,
+                    "end": 15.36,
+                    "word": " of",
+                    "probability": 1.0
+                },
+                {
+                    "start": 15.36,
+                    "end": 15.7,
+                    "word": " language",
+                    "probability": 1.0
+                },
+                {
+                    "start": 15.7,
+                    "end": 16.06,
+                    "word": " models,",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 16.3,
+                    "end": 17.08,
+                    "word": " and",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 17.08,
+                    "end": 17.52,
+                    "word": " one",
+                    "probability": 1.0
+                },
+                {
+                    "start": 17.52,
+                    "end": 17.64,
+                    "word": " of",
+                    "probability": 1.0
+                },
+                {
+                    "start": 17.64,
+                    "end": 17.74,
+                    "word": " the",
+                    "probability": 1.0
+                },
+                {
+                    "start": 17.74,
+                    "end": 18.16,
+                    "word": " largest",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 18.16,
+                    "end": 18.54,
+                    "word": " sizes",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 18.54,
+                    "end": 19.0,
+                    "word": " has",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 19.0,
+                    "end": 19.14,
+                    "word": " a",
+                    "probability": 1.0
+                },
+                {
+                    "start": 19.14,
+                    "end": 19.48,
+                    "word": " problem",
+                    "probability": 1.0
+                },
+                {
+                    "start": 19.48,
+                    "end": 19.86,
+                    "word": " with",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 20.46,
+            "end": 25.42,
+            "text": " hallucinations. So the thing that you mentioned, that if the speech is a bit unclear, it might come",
+            "tokens": [
+                51361,
+                35212,
+                10325,
+                13,
+                407,
+                264,
+                551,
+                300,
+                291,
+                2835,
+                11,
+                300,
+                498,
+                264,
+                6218,
+                307,
+                257,
+                857,
+                25636,
+                11,
+                309,
+                1062,
+                808,
+                51637
+            ],
+            "avg_logprob": -0.14096840233593197,
+            "compression_ratio": 1.5294117647058822,
+            "no_speech_prob": 0.375244140625,
+            "words": [
+                {
+                    "start": 20.46,
+                    "end": 21.02,
+                    "word": " hallucinations.",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 21.34,
+                    "end": 21.9,
+                    "word": " So",
+                    "probability": 0.74462890625
+                },
+                {
+                    "start": 21.9,
+                    "end": 22.04,
+                    "word": " the",
+                    "probability": 0.95166015625
+                },
+                {
+                    "start": 22.04,
+                    "end": 22.2,
+                    "word": " thing",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 22.2,
+                    "end": 22.28,
+                    "word": " that",
+                    "probability": 0.90478515625
+                },
+                {
+                    "start": 22.28,
+                    "end": 22.38,
+                    "word": " you",
+                    "probability": 1.0
+                },
+                {
+                    "start": 22.38,
+                    "end": 22.72,
+                    "word": " mentioned,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 22.8,
+                    "end": 23.02,
+                    "word": " that",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 23.02,
+                    "end": 23.6,
+                    "word": " if",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 23.6,
+                    "end": 23.82,
+                    "word": " the",
+                    "probability": 1.0
+                },
+                {
+                    "start": 23.82,
+                    "end": 24.1,
+                    "word": " speech",
+                    "probability": 1.0
+                },
+                {
+                    "start": 24.1,
+                    "end": 24.26,
+                    "word": " is",
+                    "probability": 1.0
+                },
+                {
+                    "start": 24.26,
+                    "end": 24.36,
+                    "word": " a",
+                    "probability": 1.0
+                },
+                {
+                    "start": 24.36,
+                    "end": 24.46,
+                    "word": " bit",
+                    "probability": 1.0
+                },
+                {
+                    "start": 24.46,
+                    "end": 24.76,
+                    "word": " unclear,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 24.88,
+                    "end": 25.04,
+                    "word": " it",
+                    "probability": 1.0
+                },
+                {
+                    "start": 25.04,
+                    "end": 25.2,
+                    "word": " might",
+                    "probability": 1.0
+                },
+                {
+                    "start": 25.2,
+                    "end": 25.42,
+                    "word": " come",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2542,
+            "start": 25.42,
+            "end": 31.0,
+            "text": " up with words that weren't actually there. Right, yeah. And also, my other profession",
+            "tokens": [
+                50365,
+                493,
+                365,
+                2283,
+                300,
+                4999,
+                380,
+                767,
+                456,
+                13,
+                1779,
+                11,
+                1338,
+                13,
+                400,
+                611,
+                11,
+                452,
+                661,
+                7032,
+                50649
+            ],
+            "avg_logprob": -0.12691627063278882,
+            "compression_ratio": 1.628787878787879,
+            "no_speech_prob": 0.1922607421875,
+            "words": [
+                {
+                    "start": 25.42,
+                    "end": 25.58,
+                    "word": " up",
+                    "probability": 0.60693359375
+                },
+                {
+                    "start": 25.58,
+                    "end": 25.78,
+                    "word": " with",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 25.78,
+                    "end": 26.08,
+                    "word": " words",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 26.08,
+                    "end": 26.32,
+                    "word": " that",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 26.32,
+                    "end": 26.52,
+                    "word": " weren't",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 26.52,
+                    "end": 26.88,
+                    "word": " actually",
+                    "probability": 0.9892578125
+                },
+                {
+                    "start": 26.88,
+                    "end": 27.18,
+                    "word": " there.",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 27.52,
+                    "end": 28.04,
+                    "word": " Right,",
+                    "probability": 0.74267578125
+                },
+                {
+                    "start": 28.24,
+                    "end": 28.58,
+                    "word": " yeah.",
+                    "probability": 0.92529296875
+                },
+                {
+                    "start": 28.88,
+                    "end": 29.4,
+                    "word": " And",
+                    "probability": 0.8427734375
+                },
+                {
+                    "start": 29.4,
+                    "end": 29.52,
+                    "word": " also,",
+                    "probability": 0.57958984375
+                },
+                {
+                    "start": 29.76,
+                    "end": 30.36,
+                    "word": " my",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 30.36,
+                    "end": 30.62,
+                    "word": " other",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 30.62,
+                    "end": 31.0,
+                    "word": " profession",
+                    "probability": 0.99853515625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2542,
+            "start": 31.0,
+            "end": 36.54,
+            "text": " is a speech language pathologist, so I work with people who have speech problems, and different...",
+            "tokens": [
+                50649,
+                307,
+                257,
+                6218,
+                2856,
+                3100,
+                9201,
+                11,
+                370,
+                286,
+                589,
+                365,
+                561,
+                567,
+                362,
+                6218,
+                2740,
+                11,
+                293,
+                819,
+                485,
+                50909
+            ],
+            "avg_logprob": -0.12691627063278882,
+            "compression_ratio": 1.628787878787879,
+            "no_speech_prob": 0.1922607421875,
+            "words": [
+                {
+                    "start": 31.0,
+                    "end": 31.26,
+                    "word": " is",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 31.26,
+                    "end": 31.38,
+                    "word": " a",
+                    "probability": 0.98291015625
+                },
+                {
+                    "start": 31.38,
+                    "end": 31.58,
+                    "word": " speech",
+                    "probability": 0.9716796875
+                },
+                {
+                    "start": 31.58,
+                    "end": 31.78,
+                    "word": " language",
+                    "probability": 0.796875
+                },
+                {
+                    "start": 31.78,
+                    "end": 32.44,
+                    "word": " pathologist,",
+                    "probability": 0.994873046875
+                },
+                {
+                    "start": 32.6,
+                    "end": 32.76,
+                    "word": " so",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 32.76,
+                    "end": 32.88,
+                    "word": " I",
+                    "probability": 0.98583984375
+                },
+                {
+                    "start": 32.88,
+                    "end": 33.08,
+                    "word": " work",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 33.08,
+                    "end": 33.24,
+                    "word": " with",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 33.24,
+                    "end": 33.54,
+                    "word": " people",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 33.54,
+                    "end": 33.76,
+                    "word": " who",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 33.76,
+                    "end": 34.1,
+                    "word": " have",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 34.1,
+                    "end": 34.78,
+                    "word": " speech",
+                    "probability": 0.8974609375
+                },
+                {
+                    "start": 34.78,
+                    "end": 35.48,
+                    "word": " problems,",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 35.66,
+                    "end": 35.88,
+                    "word": " and",
+                    "probability": 0.59326171875
+                },
+                {
+                    "start": 35.88,
+                    "end": 36.54,
+                    "word": " different...",
+                    "probability": 0.189697265625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 2542,
+            "start": 36.54,
+            "end": 44.68,
+            "text": " their output is not perfect. So some of the... while it's very tempting to find a tool that",
+            "tokens": [
+                50985,
+                641,
+                5598,
+                307,
+                406,
+                2176,
+                13,
+                407,
+                512,
+                295,
+                264,
+                485,
+                1339,
+                309,
+                311,
+                588,
+                37900,
+                281,
+                915,
+                257,
+                2290,
+                300,
+                51325
+            ],
+            "avg_logprob": -0.12691627063278882,
+            "compression_ratio": 1.628787878787879,
+            "no_speech_prob": 0.1922607421875,
+            "words": [
+                {
+                    "start": 36.54,
+                    "end": 37.38,
+                    "word": " their",
+                    "probability": 0.68798828125
+                },
+                {
+                    "start": 37.38,
+                    "end": 38.36,
+                    "word": " output",
+                    "probability": 0.96337890625
+                },
+                {
+                    "start": 38.36,
+                    "end": 38.68,
+                    "word": " is",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 38.68,
+                    "end": 38.86,
+                    "word": " not",
+                    "probability": 1.0
+                },
+                {
+                    "start": 38.86,
+                    "end": 39.26,
+                    "word": " perfect.",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 39.68,
+                    "end": 40.02,
+                    "word": " So",
+                    "probability": 0.86181640625
+                },
+                {
+                    "start": 40.02,
+                    "end": 40.86,
+                    "word": " some",
+                    "probability": 0.513671875
+                },
+                {
+                    "start": 40.86,
+                    "end": 41.02,
+                    "word": " of",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 41.02,
+                    "end": 41.46,
+                    "word": " the...",
+                    "probability": 0.754638671875
+                },
+                {
+                    "start": 41.46,
+                    "end": 42.4,
+                    "word": " while",
+                    "probability": 0.69384765625
+                },
+                {
+                    "start": 42.4,
+                    "end": 42.72,
+                    "word": " it's",
+                    "probability": 0.996337890625
+                },
+                {
+                    "start": 42.72,
+                    "end": 42.98,
+                    "word": " very",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 42.98,
+                    "end": 43.46,
+                    "word": " tempting",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 43.46,
+                    "end": 43.76,
+                    "word": " to",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 43.76,
+                    "end": 44.0,
+                    "word": " find",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 44.0,
+                    "end": 44.14,
+                    "word": " a",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 44.14,
+                    "end": 44.42,
+                    "word": " tool",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 44.42,
+                    "end": 44.68,
+                    "word": " that",
+                    "probability": 0.99462890625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 8,
+            "seek": 2542,
+            "start": 44.68,
+            "end": 49.42,
+            "text": " you could just talk to, and it would write it for you, very often when the output,",
+            "tokens": [
+                51353,
+                291,
+                727,
+                445,
+                751,
+                281,
+                11,
+                293,
+                309,
+                576,
+                2464,
+                309,
+                337,
+                291,
+                11,
+                588,
+                2049,
+                562,
+                264,
+                5598,
+                11,
+                51577
+            ],
+            "avg_logprob": -0.12691627063278882,
+            "compression_ratio": 1.628787878787879,
+            "no_speech_prob": 0.1922607421875,
+            "words": [
+                {
+                    "start": 44.68,
+                    "end": 44.94,
+                    "word": " you",
+                    "probability": 0.73681640625
+                },
+                {
+                    "start": 44.94,
+                    "end": 45.38,
+                    "word": " could",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 45.38,
+                    "end": 45.6,
+                    "word": " just",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 45.6,
+                    "end": 45.92,
+                    "word": " talk",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 45.92,
+                    "end": 46.04,
+                    "word": " to,",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 46.08,
+                    "end": 46.18,
+                    "word": " and",
+                    "probability": 0.93701171875
+                },
+                {
+                    "start": 46.18,
+                    "end": 46.22,
+                    "word": " it",
+                    "probability": 0.96044921875
+                },
+                {
+                    "start": 46.22,
+                    "end": 46.34,
+                    "word": " would",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 46.34,
+                    "end": 46.56,
+                    "word": " write",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 46.56,
+                    "end": 46.68,
+                    "word": " it",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 46.68,
+                    "end": 46.86,
+                    "word": " for",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 46.86,
+                    "end": 47.12,
+                    "word": " you,",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 47.28,
+                    "end": 48.2,
+                    "word": " very",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 48.2,
+                    "end": 48.54,
+                    "word": " often",
+                    "probability": 1.0
+                },
+                {
+                    "start": 48.54,
+                    "end": 48.78,
+                    "word": " when",
+                    "probability": 0.82177734375
+                },
+                {
+                    "start": 48.78,
+                    "end": 48.96,
+                    "word": " the",
+                    "probability": 0.97412109375
+                },
+                {
+                    "start": 48.96,
+                    "end": 49.42,
+                    "word": " output,",
+                    "probability": 0.9365234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 9,
+            "seek": 2542,
+            "start": 49.64,
+            "end": 54.76,
+            "text": " when the person who is speaking, the speech itself is unclear, it just",
+            "tokens": [
+                51577,
+                562,
+                264,
+                954,
+                567,
+                307,
+                4124,
+                11,
+                264,
+                6218,
+                2564,
+                307,
+                25636,
+                11,
+                309,
+                445,
+                51833
+            ],
+            "avg_logprob": -0.12691627063278882,
+            "compression_ratio": 1.628787878787879,
+            "no_speech_prob": 0.1922607421875,
+            "words": [
+                {
+                    "start": 49.64,
+                    "end": 49.84,
+                    "word": " when",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 49.84,
+                    "end": 49.94,
+                    "word": " the",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 49.94,
+                    "end": 50.28,
+                    "word": " person",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 50.28,
+                    "end": 50.56,
+                    "word": " who",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 50.56,
+                    "end": 50.7,
+                    "word": " is",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 50.7,
+                    "end": 51.04,
+                    "word": " speaking,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 51.18,
+                    "end": 51.42,
+                    "word": " the",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 51.42,
+                    "end": 51.84,
+                    "word": " speech",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 51.84,
+                    "end": 52.42,
+                    "word": " itself",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 52.42,
+                    "end": 52.74,
+                    "word": " is",
+                    "probability": 0.88037109375
+                },
+                {
+                    "start": 52.74,
+                    "end": 53.18,
+                    "word": " unclear,",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 53.44,
+                    "end": 54.52,
+                    "word": " it",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 54.52,
+                    "end": 54.76,
+                    "word": " just",
+                    "probability": 0.95849609375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 10,
+            "seek": 5542,
+            "start": 55.42,
+            "end": 59.56,
+            "text": " it just... it's not a good solution, because sometimes the model is just...",
+            "tokens": [
+                50389,
+                309,
+                445,
+                485,
+                309,
+                311,
+                406,
+                257,
+                665,
+                3827,
+                11,
+                570,
+                2171,
+                264,
+                2316,
+                307,
+                445,
+                485,
+                50601
+            ],
+            "avg_logprob": -0.38007811903953553,
+            "compression_ratio": 1.0869565217391304,
+            "no_speech_prob": 0.1334228515625,
+            "words": [
+                {
+                    "start": 55.42,
+                    "end": 55.74,
+                    "word": " it",
+                    "probability": 0.50927734375
+                },
+                {
+                    "start": 55.74,
+                    "end": 56.3,
+                    "word": " just...",
+                    "probability": 0.3911857604980469
+                },
+                {
+                    "start": 56.3,
+                    "end": 56.42,
+                    "word": " it's",
+                    "probability": 0.91259765625
+                },
+                {
+                    "start": 56.42,
+                    "end": 56.58,
+                    "word": " not",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 56.58,
+                    "end": 56.66,
+                    "word": " a",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 56.66,
+                    "end": 56.8,
+                    "word": " good",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 56.8,
+                    "end": 57.42,
+                    "word": " solution,",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 57.64,
+                    "end": 57.84,
+                    "word": " because",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 57.84,
+                    "end": 58.18,
+                    "word": " sometimes",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 58.18,
+                    "end": 58.48,
+                    "word": " the",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 58.48,
+                    "end": 58.78,
+                    "word": " model",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 58.78,
+                    "end": 59.06,
+                    "word": " is",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 59.06,
+                    "end": 59.56,
+                    "word": " just...",
+                    "probability": 0.830322265625
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " Flumsy just didn't capture that, so they failed in kind of going word by word. Okay, yeah. That is actually very interesting, because the tool we're working with, Whisper, has many different sizes of language models, and one of the largest sizes has a problem with hallucinations. So the thing that you mentioned, that if the speech is a bit unclear, it might come up with words that weren't actually there. Right, yeah. And also, my other profession is a speech language pathologist, so I work with people who have speech problems, and different... their output is not perfect. So some of the... while it's very tempting to find a tool that you could just talk to, and it would write it for you, very often when the output, when the person who is speaking, the speech itself is unclear, it just it just... it's not a good solution, because sometimes the model is just..."
+}

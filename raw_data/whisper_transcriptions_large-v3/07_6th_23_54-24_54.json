@@ -1,0 +1,907 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 14.71,
+            "text": " I've learned to use WSPR in the University of Aarhus server. I need to sort of go back to the instructions and check how it works again. So I'm able to do that.",
+            "tokens": [
+                50365,
+                286,
+                600,
+                3264,
+                281,
+                764,
+                343,
+                50,
+                15958,
+                294,
+                264,
+                3535,
+                295,
+                316,
+                289,
+                10846,
+                7154,
+                13,
+                286,
+                643,
+                281,
+                1333,
+                295,
+                352,
+                646,
+                281,
+                264,
+                9415,
+                293,
+                1520,
+                577,
+                309,
+                1985,
+                797,
+                13,
+                407,
+                286,
+                478,
+                1075,
+                281,
+                360,
+                300,
+                13,
+                51065
+            ],
+            "avg_logprob": -0.21939211675565537,
+            "compression_ratio": 1.4731182795698925,
+            "no_speech_prob": 0.14111328125,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 1.1,
+                    "word": " I've",
+                    "probability": 0.870849609375
+                },
+                {
+                    "start": 2.85,
+                    "end": 5.05,
+                    "word": " learned",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 5.05,
+                    "end": 5.29,
+                    "word": " to",
+                    "probability": 1.0
+                },
+                {
+                    "start": 5.29,
+                    "end": 5.55,
+                    "word": " use",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 5.55,
+                    "end": 5.99,
+                    "word": " WSPR",
+                    "probability": 0.5917154947916666
+                },
+                {
+                    "start": 5.99,
+                    "end": 6.59,
+                    "word": " in",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 6.59,
+                    "end": 7.05,
+                    "word": " the",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 7.05,
+                    "end": 7.41,
+                    "word": " University",
+                    "probability": 0.98046875
+                },
+                {
+                    "start": 7.41,
+                    "end": 7.63,
+                    "word": " of",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 7.63,
+                    "end": 7.87,
+                    "word": " Aarhus",
+                    "probability": 0.61505126953125
+                },
+                {
+                    "start": 7.87,
+                    "end": 8.27,
+                    "word": " server.",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 8.93,
+                    "end": 9.51,
+                    "word": " I",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 9.51,
+                    "end": 9.71,
+                    "word": " need",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 9.71,
+                    "end": 9.95,
+                    "word": " to",
+                    "probability": 1.0
+                },
+                {
+                    "start": 9.95,
+                    "end": 10.07,
+                    "word": " sort",
+                    "probability": 0.85693359375
+                },
+                {
+                    "start": 10.07,
+                    "end": 10.17,
+                    "word": " of",
+                    "probability": 1.0
+                },
+                {
+                    "start": 10.17,
+                    "end": 10.35,
+                    "word": " go",
+                    "probability": 1.0
+                },
+                {
+                    "start": 10.35,
+                    "end": 10.53,
+                    "word": " back",
+                    "probability": 1.0
+                },
+                {
+                    "start": 10.53,
+                    "end": 10.71,
+                    "word": " to",
+                    "probability": 1.0
+                },
+                {
+                    "start": 10.71,
+                    "end": 10.77,
+                    "word": " the",
+                    "probability": 1.0
+                },
+                {
+                    "start": 10.77,
+                    "end": 11.25,
+                    "word": " instructions",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 11.25,
+                    "end": 11.63,
+                    "word": " and",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 11.63,
+                    "end": 12.03,
+                    "word": " check",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 12.03,
+                    "end": 12.29,
+                    "word": " how",
+                    "probability": 1.0
+                },
+                {
+                    "start": 12.29,
+                    "end": 12.43,
+                    "word": " it",
+                    "probability": 1.0
+                },
+                {
+                    "start": 12.43,
+                    "end": 12.77,
+                    "word": " works",
+                    "probability": 1.0
+                },
+                {
+                    "start": 12.77,
+                    "end": 12.97,
+                    "word": " again.",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 13.13,
+                    "end": 13.69,
+                    "word": " So",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 13.69,
+                    "end": 13.91,
+                    "word": " I'm",
+                    "probability": 0.9462890625
+                },
+                {
+                    "start": 13.91,
+                    "end": 14.13,
+                    "word": " able",
+                    "probability": 1.0
+                },
+                {
+                    "start": 14.13,
+                    "end": 14.33,
+                    "word": " to",
+                    "probability": 1.0
+                },
+                {
+                    "start": 14.33,
+                    "end": 14.49,
+                    "word": " do",
+                    "probability": 1.0
+                },
+                {
+                    "start": 14.49,
+                    "end": 14.71,
+                    "word": " that.",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 17.61,
+            "end": 30.67,
+            "text": " I consider myself handy with computers, so I can use computers, apps, software. I'm not able to program anything.",
+            "tokens": [
+                51065,
+                286,
+                1949,
+                2059,
+                13239,
+                365,
+                10807,
+                11,
+                370,
+                286,
+                393,
+                764,
+                10807,
+                11,
+                7733,
+                11,
+                4722,
+                13,
+                286,
+                478,
+                406,
+                1075,
+                281,
+                1461,
+                1340,
+                13,
+                51815
+            ],
+            "avg_logprob": -0.21939211675565537,
+            "compression_ratio": 1.4731182795698925,
+            "no_speech_prob": 0.14111328125,
+            "words": [
+                {
+                    "start": 17.61,
+                    "end": 18.19,
+                    "word": " I",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 18.19,
+                    "end": 18.77,
+                    "word": " consider",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 18.77,
+                    "end": 19.19,
+                    "word": " myself",
+                    "probability": 1.0
+                },
+                {
+                    "start": 19.19,
+                    "end": 19.71,
+                    "word": " handy",
+                    "probability": 0.828125
+                },
+                {
+                    "start": 19.71,
+                    "end": 19.93,
+                    "word": " with",
+                    "probability": 1.0
+                },
+                {
+                    "start": 19.93,
+                    "end": 20.35,
+                    "word": " computers,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 20.57,
+                    "end": 21.49,
+                    "word": " so",
+                    "probability": 1.0
+                },
+                {
+                    "start": 21.49,
+                    "end": 21.61,
+                    "word": " I",
+                    "probability": 1.0
+                },
+                {
+                    "start": 21.61,
+                    "end": 21.79,
+                    "word": " can",
+                    "probability": 1.0
+                },
+                {
+                    "start": 21.79,
+                    "end": 22.07,
+                    "word": " use",
+                    "probability": 1.0
+                },
+                {
+                    "start": 22.07,
+                    "end": 22.93,
+                    "word": " computers,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 23.23,
+                    "end": 23.65,
+                    "word": " apps,",
+                    "probability": 0.974609375
+                },
+                {
+                    "start": 23.73,
+                    "end": 24.19,
+                    "word": " software.",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 25.05,
+                    "end": 25.63,
+                    "word": " I'm",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 25.63,
+                    "end": 25.97,
+                    "word": " not",
+                    "probability": 1.0
+                },
+                {
+                    "start": 25.97,
+                    "end": 26.41,
+                    "word": " able",
+                    "probability": 1.0
+                },
+                {
+                    "start": 26.41,
+                    "end": 26.89,
+                    "word": " to",
+                    "probability": 1.0
+                },
+                {
+                    "start": 26.89,
+                    "end": 30.17,
+                    "word": " program",
+                    "probability": 0.97998046875
+                },
+                {
+                    "start": 30.17,
+                    "end": 30.67,
+                    "word": " anything.",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 2892,
+            "start": 30.67,
+            "end": 41.33,
+            "text": " I don't know Python or any other programming languages. So I don't know if that answers the question.",
+            "tokens": [
+                50365,
+                286,
+                500,
+                380,
+                458,
+                15329,
+                420,
+                604,
+                661,
+                9410,
+                8650,
+                13,
+                407,
+                286,
+                500,
+                380,
+                458,
+                498,
+                300,
+                6338,
+                264,
+                1168,
+                13,
+                50915
+            ],
+            "avg_logprob": -0.12932855374104268,
+            "compression_ratio": 1.4623115577889447,
+            "no_speech_prob": 0.5146484375,
+            "words": [
+                {
+                    "start": 30.67,
+                    "end": 31.13,
+                    "word": " I",
+                    "probability": 0.202880859375
+                },
+                {
+                    "start": 31.13,
+                    "end": 32.27,
+                    "word": " don't",
+                    "probability": 0.989013671875
+                },
+                {
+                    "start": 32.27,
+                    "end": 32.49,
+                    "word": " know",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 32.49,
+                    "end": 32.91,
+                    "word": " Python",
+                    "probability": 0.96044921875
+                },
+                {
+                    "start": 32.91,
+                    "end": 33.45,
+                    "word": " or",
+                    "probability": 0.9794921875
+                },
+                {
+                    "start": 33.45,
+                    "end": 33.69,
+                    "word": " any",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 33.69,
+                    "end": 33.85,
+                    "word": " other",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 33.85,
+                    "end": 34.27,
+                    "word": " programming",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 34.27,
+                    "end": 34.73,
+                    "word": " languages.",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 35.65,
+                    "end": 36.25,
+                    "word": " So",
+                    "probability": 0.4716796875
+                },
+                {
+                    "start": 36.25,
+                    "end": 37.07,
+                    "word": " I",
+                    "probability": 0.63671875
+                },
+                {
+                    "start": 37.07,
+                    "end": 39.77,
+                    "word": " don't",
+                    "probability": 0.998291015625
+                },
+                {
+                    "start": 39.77,
+                    "end": 39.87,
+                    "word": " know",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 39.87,
+                    "end": 39.99,
+                    "word": " if",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 39.99,
+                    "end": 40.15,
+                    "word": " that",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 40.15,
+                    "end": 40.77,
+                    "word": " answers",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 40.77,
+                    "end": 40.97,
+                    "word": " the",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 40.97,
+                    "end": 41.33,
+                    "word": " question.",
+                    "probability": 0.9990234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2892,
+            "start": 41.77,
+            "end": 52.01,
+            "text": " Yes, it does. Would you say that the same goes for the people you're working with? Or is your group maybe a bit more diverse in their technical capabilities?",
+            "tokens": [
+                50915,
+                1079,
+                11,
+                309,
+                775,
+                13,
+                6068,
+                291,
+                584,
+                300,
+                264,
+                912,
+                1709,
+                337,
+                264,
+                561,
+                291,
+                434,
+                1364,
+                365,
+                30,
+                1610,
+                307,
+                428,
+                1594,
+                1310,
+                257,
+                857,
+                544,
+                9521,
+                294,
+                641,
+                6191,
+                10862,
+                30,
+                51465
+            ],
+            "avg_logprob": -0.12932855374104268,
+            "compression_ratio": 1.4623115577889447,
+            "no_speech_prob": 0.5146484375,
+            "words": [
+                {
+                    "start": 41.77,
+                    "end": 42.37,
+                    "word": " Yes,",
+                    "probability": 0.6748046875
+                },
+                {
+                    "start": 42.45,
+                    "end": 42.59,
+                    "word": " it",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 42.59,
+                    "end": 42.77,
+                    "word": " does.",
+                    "probability": 1.0
+                },
+                {
+                    "start": 43.67,
+                    "end": 44.27,
+                    "word": " Would",
+                    "probability": 0.75537109375
+                },
+                {
+                    "start": 44.27,
+                    "end": 44.79,
+                    "word": " you",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 44.79,
+                    "end": 45.03,
+                    "word": " say",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 45.03,
+                    "end": 45.17,
+                    "word": " that",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 45.17,
+                    "end": 45.29,
+                    "word": " the",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 45.29,
+                    "end": 45.79,
+                    "word": " same",
+                    "probability": 1.0
+                },
+                {
+                    "start": 45.79,
+                    "end": 46.07,
+                    "word": " goes",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 46.07,
+                    "end": 46.39,
+                    "word": " for",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 46.39,
+                    "end": 46.51,
+                    "word": " the",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 46.51,
+                    "end": 46.87,
+                    "word": " people",
+                    "probability": 1.0
+                },
+                {
+                    "start": 46.87,
+                    "end": 47.23,
+                    "word": " you're",
+                    "probability": 0.97509765625
+                },
+                {
+                    "start": 47.23,
+                    "end": 47.55,
+                    "word": " working",
+                    "probability": 1.0
+                },
+                {
+                    "start": 47.55,
+                    "end": 47.89,
+                    "word": " with?",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 48.05,
+                    "end": 48.33,
+                    "word": " Or",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 48.33,
+                    "end": 48.95,
+                    "word": " is",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 48.95,
+                    "end": 49.11,
+                    "word": " your",
+                    "probability": 1.0
+                },
+                {
+                    "start": 49.11,
+                    "end": 49.47,
+                    "word": " group",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 49.47,
+                    "end": 49.71,
+                    "word": " maybe",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 49.71,
+                    "end": 49.85,
+                    "word": " a",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 49.85,
+                    "end": 49.99,
+                    "word": " bit",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 49.99,
+                    "end": 50.17,
+                    "word": " more",
+                    "probability": 1.0
+                },
+                {
+                    "start": 50.17,
+                    "end": 50.55,
+                    "word": " diverse",
+                    "probability": 1.0
+                },
+                {
+                    "start": 50.55,
+                    "end": 50.83,
+                    "word": " in",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 50.83,
+                    "end": 50.99,
+                    "word": " their",
+                    "probability": 1.0
+                },
+                {
+                    "start": 50.99,
+                    "end": 51.39,
+                    "word": " technical",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 51.39,
+                    "end": 52.01,
+                    "word": " capabilities?",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2892,
+            "start": 52.61,
+            "end": 54.53,
+            "text": " It's diverse, I would say, yes.",
+            "tokens": [
+                51465,
+                467,
+                311,
+                9521,
+                11,
+                286,
+                576,
+                584,
+                11,
+                2086,
+                13,
+                51765
+            ],
+            "avg_logprob": -0.12932855374104268,
+            "compression_ratio": 1.4623115577889447,
+            "no_speech_prob": 0.5146484375,
+            "words": [
+                {
+                    "start": 52.61,
+                    "end": 53.21,
+                    "word": " It's",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 53.21,
+                    "end": 53.53,
+                    "word": " diverse,",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 53.77,
+                    "end": 53.93,
+                    "word": " I",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 53.93,
+                    "end": 54.01,
+                    "word": " would",
+                    "probability": 1.0
+                },
+                {
+                    "start": 54.01,
+                    "end": 54.25,
+                    "word": " say,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 54.31,
+                    "end": 54.53,
+                    "word": " yes.",
+                    "probability": 0.9990234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 5278,
+            "start": 54.53,
+            "end": 60.01,
+            "text": " So there are probably people...",
+            "tokens": [
+                50365,
+                407,
+                456,
+                366,
+                1391,
+                561,
+                485,
+                50615
+            ],
+            "avg_logprob": -0.3170138888888889,
+            "compression_ratio": 1.303448275862069,
+            "no_speech_prob": 0.310546875,
+            "words": [
+                {
+                    "start": 54.53,
+                    "end": 54.75,
+                    "word": " So",
+                    "probability": 0.39453125
+                },
+                {
+                    "start": 54.75,
+                    "end": 56.55,
+                    "word": " there",
+                    "probability": 0.63623046875
+                },
+                {
+                    "start": 56.55,
+                    "end": 59.13,
+                    "word": " are",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 59.13,
+                    "end": 59.45,
+                    "word": " probably",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 59.45,
+                    "end": 60.01,
+                    "word": " people...",
+                    "probability": 0.654541015625
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " I've learned to use WSPR in the University of Aarhus server. I need to sort of go back to the instructions and check how it works again. So I'm able to do that. I consider myself handy with computers, so I can use computers, apps, software. I'm not able to program anything. I don't know Python or any other programming languages. So I don't know if that answers the question. Yes, it does. Would you say that the same goes for the people you're working with? Or is your group maybe a bit more diverse in their technical capabilities? It's diverse, I would say, yes. So there are probably people..."
+}

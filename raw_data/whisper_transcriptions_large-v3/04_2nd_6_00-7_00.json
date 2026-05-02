@@ -1,0 +1,1262 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 22.9,
+            "text": " Like, I have good experience with these other tools. Could we... let's look into those. And we said, yeah, yeah, that's cool. We needed security. So, actually, another part of this project I've been working in, which is this DECA consortium. You can look it up, decaresearch.fi, I think.",
+            "tokens": [
+                50365,
+                1743,
+                11,
+                286,
+                362,
+                665,
+                1752,
+                365,
+                613,
+                661,
+                3873,
+                13,
+                7497,
+                321,
+                485,
+                718,
+                311,
+                574,
+                666,
+                729,
+                13,
+                400,
+                321,
+                848,
+                11,
+                1338,
+                11,
+                1338,
+                11,
+                300,
+                311,
+                1627,
+                13,
+                492,
+                2978,
+                3825,
+                13,
+                407,
+                11,
+                767,
+                11,
+                1071,
+                644,
+                295,
+                341,
+                1716,
+                286,
+                600,
+                668,
+                1364,
+                294,
+                11,
+                597,
+                307,
+                341,
+                413,
+                8140,
+                32,
+                38343,
+                2197,
+                13,
+                509,
+                393,
+                574,
+                309,
+                493,
+                11,
+                979,
+                543,
+                405,
+                1178,
+                13,
+                13325,
+                11,
+                286,
+                519,
+                13,
+                51517
+            ],
+            "avg_logprob": -0.20238095220355762,
+            "compression_ratio": 1.3886255924170616,
+            "no_speech_prob": 0.787109375,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.22,
+                    "word": " Like,",
+                    "probability": 0.55419921875
+                },
+                {
+                    "start": 0.3,
+                    "end": 0.84,
+                    "word": " I",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 0.84,
+                    "end": 1.1,
+                    "word": " have",
+                    "probability": 1.0
+                },
+                {
+                    "start": 1.1,
+                    "end": 1.32,
+                    "word": " good",
+                    "probability": 1.0
+                },
+                {
+                    "start": 1.32,
+                    "end": 1.78,
+                    "word": " experience",
+                    "probability": 1.0
+                },
+                {
+                    "start": 1.78,
+                    "end": 2.04,
+                    "word": " with",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 2.04,
+                    "end": 2.22,
+                    "word": " these",
+                    "probability": 1.0
+                },
+                {
+                    "start": 2.22,
+                    "end": 2.42,
+                    "word": " other",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 2.42,
+                    "end": 2.88,
+                    "word": " tools.",
+                    "probability": 1.0
+                },
+                {
+                    "start": 3.5,
+                    "end": 3.98,
+                    "word": " Could",
+                    "probability": 0.68017578125
+                },
+                {
+                    "start": 3.98,
+                    "end": 4.26,
+                    "word": " we...",
+                    "probability": 0.5167694091796875
+                },
+                {
+                    "start": 4.26,
+                    "end": 4.52,
+                    "word": " let's",
+                    "probability": 0.55853271484375
+                },
+                {
+                    "start": 4.52,
+                    "end": 4.66,
+                    "word": " look",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 4.66,
+                    "end": 4.9,
+                    "word": " into",
+                    "probability": 1.0
+                },
+                {
+                    "start": 4.9,
+                    "end": 5.24,
+                    "word": " those.",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 5.36,
+                    "end": 5.5,
+                    "word": " And",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 5.5,
+                    "end": 5.54,
+                    "word": " we",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 5.54,
+                    "end": 5.72,
+                    "word": " said,",
+                    "probability": 0.9873046875
+                },
+                {
+                    "start": 5.82,
+                    "end": 5.98,
+                    "word": " yeah,",
+                    "probability": 0.9609375
+                },
+                {
+                    "start": 6.0,
+                    "end": 6.12,
+                    "word": " yeah,",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 6.14,
+                    "end": 6.36,
+                    "word": " that's",
+                    "probability": 0.999755859375
+                },
+                {
+                    "start": 6.36,
+                    "end": 6.58,
+                    "word": " cool.",
+                    "probability": 1.0
+                },
+                {
+                    "start": 6.98,
+                    "end": 7.46,
+                    "word": " We",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 7.46,
+                    "end": 7.78,
+                    "word": " needed",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 7.78,
+                    "end": 8.44,
+                    "word": " security.",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 9.46,
+                    "end": 9.94,
+                    "word": " So,",
+                    "probability": 0.890625
+                },
+                {
+                    "start": 9.94,
+                    "end": 11.42,
+                    "word": " actually,",
+                    "probability": 0.93603515625
+                },
+                {
+                    "start": 11.7,
+                    "end": 13.72,
+                    "word": " another",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 13.72,
+                    "end": 14.18,
+                    "word": " part",
+                    "probability": 1.0
+                },
+                {
+                    "start": 14.18,
+                    "end": 14.38,
+                    "word": " of",
+                    "probability": 1.0
+                },
+                {
+                    "start": 14.38,
+                    "end": 14.56,
+                    "word": " this",
+                    "probability": 1.0
+                },
+                {
+                    "start": 14.56,
+                    "end": 15.24,
+                    "word": " project",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 15.24,
+                    "end": 15.78,
+                    "word": " I've",
+                    "probability": 0.997802734375
+                },
+                {
+                    "start": 15.78,
+                    "end": 15.92,
+                    "word": " been",
+                    "probability": 1.0
+                },
+                {
+                    "start": 15.92,
+                    "end": 16.24,
+                    "word": " working",
+                    "probability": 1.0
+                },
+                {
+                    "start": 16.24,
+                    "end": 16.52,
+                    "word": " in,",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 16.58,
+                    "end": 16.82,
+                    "word": " which",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 16.82,
+                    "end": 17.0,
+                    "word": " is",
+                    "probability": 1.0
+                },
+                {
+                    "start": 17.0,
+                    "end": 17.24,
+                    "word": " this",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 17.24,
+                    "end": 17.66,
+                    "word": " DECA",
+                    "probability": 0.9700520833333334
+                },
+                {
+                    "start": 17.66,
+                    "end": 18.84,
+                    "word": " consortium.",
+                    "probability": 0.9697265625
+                },
+                {
+                    "start": 19.16,
+                    "end": 19.64,
+                    "word": " You",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 19.64,
+                    "end": 19.8,
+                    "word": " can",
+                    "probability": 1.0
+                },
+                {
+                    "start": 19.8,
+                    "end": 20.0,
+                    "word": " look",
+                    "probability": 1.0
+                },
+                {
+                    "start": 20.0,
+                    "end": 20.14,
+                    "word": " it",
+                    "probability": 1.0
+                },
+                {
+                    "start": 20.14,
+                    "end": 20.4,
+                    "word": " up,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 20.5,
+                    "end": 21.44,
+                    "word": " decaresearch",
+                    "probability": 0.939208984375
+                },
+                {
+                    "start": 21.44,
+                    "end": 22.22,
+                    "word": ".fi,",
+                    "probability": 0.902099609375
+                },
+                {
+                    "start": 22.4,
+                    "end": 22.66,
+                    "word": " I",
+                    "probability": 1.0
+                },
+                {
+                    "start": 22.66,
+                    "end": 22.9,
+                    "word": " think.",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 23.36,
+            "end": 23.84,
+            "text": " Okay.",
+            "tokens": [
+                51552,
+                1033,
+                13,
+                51559
+            ],
+            "avg_logprob": -0.20238095220355762,
+            "compression_ratio": 1.3886255924170616,
+            "no_speech_prob": 0.787109375,
+            "words": [
+                {
+                    "start": 23.36,
+                    "end": 23.84,
+                    "word": " Okay.",
+                    "probability": 0.77197265625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 2384,
+            "start": 23.84,
+            "end": 36.26,
+            "text": " Uh, in our work package, there were two of us working with journalists, my colleague and I, and then our other colleagues were working with people who have recently moved to Finland.",
+            "tokens": [
+                50365,
+                4019,
+                11,
+                294,
+                527,
+                589,
+                7372,
+                11,
+                456,
+                645,
+                732,
+                295,
+                505,
+                1364,
+                365,
+                19535,
+                11,
+                452,
+                13532,
+                293,
+                286,
+                11,
+                293,
+                550,
+                527,
+                661,
+                7734,
+                645,
+                1364,
+                365,
+                561,
+                567,
+                362,
+                3938,
+                4259,
+                281,
+                24869,
+                13,
+                50989
+            ],
+            "avg_logprob": -0.1157894746253365,
+            "compression_ratio": 1.6528925619834711,
+            "no_speech_prob": 0.274658203125,
+            "words": [
+                {
+                    "start": 23.84,
+                    "end": 24.34,
+                    "word": " Uh,",
+                    "probability": 0.0184478759765625
+                },
+                {
+                    "start": 24.62,
+                    "end": 26.48,
+                    "word": " in",
+                    "probability": 0.98046875
+                },
+                {
+                    "start": 26.48,
+                    "end": 26.72,
+                    "word": " our",
+                    "probability": 1.0
+                },
+                {
+                    "start": 26.72,
+                    "end": 27.04,
+                    "word": " work",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 27.04,
+                    "end": 27.48,
+                    "word": " package,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 27.56,
+                    "end": 28.02,
+                    "word": " there",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 28.02,
+                    "end": 28.18,
+                    "word": " were",
+                    "probability": 1.0
+                },
+                {
+                    "start": 28.18,
+                    "end": 28.38,
+                    "word": " two",
+                    "probability": 1.0
+                },
+                {
+                    "start": 28.38,
+                    "end": 28.48,
+                    "word": " of",
+                    "probability": 1.0
+                },
+                {
+                    "start": 28.48,
+                    "end": 28.7,
+                    "word": " us",
+                    "probability": 1.0
+                },
+                {
+                    "start": 28.7,
+                    "end": 28.92,
+                    "word": " working",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 28.92,
+                    "end": 29.18,
+                    "word": " with",
+                    "probability": 1.0
+                },
+                {
+                    "start": 29.18,
+                    "end": 29.66,
+                    "word": " journalists,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 29.86,
+                    "end": 30.1,
+                    "word": " my",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 30.1,
+                    "end": 30.46,
+                    "word": " colleague",
+                    "probability": 1.0
+                },
+                {
+                    "start": 30.46,
+                    "end": 30.64,
+                    "word": " and",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 30.64,
+                    "end": 30.76,
+                    "word": " I,",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 30.82,
+                    "end": 30.98,
+                    "word": " and",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 30.98,
+                    "end": 31.2,
+                    "word": " then",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 31.2,
+                    "end": 32.08,
+                    "word": " our",
+                    "probability": 0.9814453125
+                },
+                {
+                    "start": 32.08,
+                    "end": 32.54,
+                    "word": " other",
+                    "probability": 1.0
+                },
+                {
+                    "start": 32.54,
+                    "end": 33.02,
+                    "word": " colleagues",
+                    "probability": 1.0
+                },
+                {
+                    "start": 33.02,
+                    "end": 33.26,
+                    "word": " were",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 33.26,
+                    "end": 33.58,
+                    "word": " working",
+                    "probability": 1.0
+                },
+                {
+                    "start": 33.58,
+                    "end": 33.92,
+                    "word": " with",
+                    "probability": 1.0
+                },
+                {
+                    "start": 33.92,
+                    "end": 34.28,
+                    "word": " people",
+                    "probability": 1.0
+                },
+                {
+                    "start": 34.28,
+                    "end": 34.54,
+                    "word": " who",
+                    "probability": 1.0
+                },
+                {
+                    "start": 34.54,
+                    "end": 34.82,
+                    "word": " have",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 34.82,
+                    "end": 35.32,
+                    "word": " recently",
+                    "probability": 1.0
+                },
+                {
+                    "start": 35.32,
+                    "end": 35.72,
+                    "word": " moved",
+                    "probability": 1.0
+                },
+                {
+                    "start": 35.72,
+                    "end": 35.96,
+                    "word": " to",
+                    "probability": 1.0
+                },
+                {
+                    "start": 35.96,
+                    "end": 36.26,
+                    "word": " Finland.",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2384,
+            "start": 36.84,
+            "end": 48.92,
+            "text": " So, so that part of the project, I think, required most of the security because these are people in vulnerable positions. So, not so much ours, but anyway, we paid a lot of attention to security.",
+            "tokens": [
+                51018,
+                407,
+                11,
+                370,
+                300,
+                644,
+                295,
+                264,
+                1716,
+                11,
+                286,
+                519,
+                11,
+                4739,
+                881,
+                295,
+                264,
+                3825,
+                570,
+                613,
+                366,
+                561,
+                294,
+                10955,
+                8432,
+                13,
+                407,
+                11,
+                406,
+                370,
+                709,
+                11896,
+                11,
+                457,
+                4033,
+                11,
+                321,
+                4835,
+                257,
+                688,
+                295,
+                3202,
+                281,
+                3825,
+                13,
+                51635
+            ],
+            "avg_logprob": -0.1157894746253365,
+            "compression_ratio": 1.6528925619834711,
+            "no_speech_prob": 0.274658203125,
+            "words": [
+                {
+                    "start": 36.84,
+                    "end": 37.36,
+                    "word": " So,",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 37.4,
+                    "end": 37.84,
+                    "word": " so",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 37.84,
+                    "end": 38.14,
+                    "word": " that",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 38.14,
+                    "end": 38.44,
+                    "word": " part",
+                    "probability": 1.0
+                },
+                {
+                    "start": 38.44,
+                    "end": 38.58,
+                    "word": " of",
+                    "probability": 1.0
+                },
+                {
+                    "start": 38.58,
+                    "end": 38.64,
+                    "word": " the",
+                    "probability": 1.0
+                },
+                {
+                    "start": 38.64,
+                    "end": 39.06,
+                    "word": " project,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 39.08,
+                    "end": 39.42,
+                    "word": " I",
+                    "probability": 1.0
+                },
+                {
+                    "start": 39.42,
+                    "end": 39.62,
+                    "word": " think,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 39.64,
+                    "end": 40.08,
+                    "word": " required",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 40.08,
+                    "end": 40.7,
+                    "word": " most",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 40.7,
+                    "end": 40.96,
+                    "word": " of",
+                    "probability": 1.0
+                },
+                {
+                    "start": 40.96,
+                    "end": 41.08,
+                    "word": " the",
+                    "probability": 1.0
+                },
+                {
+                    "start": 41.08,
+                    "end": 41.4,
+                    "word": " security",
+                    "probability": 1.0
+                },
+                {
+                    "start": 41.4,
+                    "end": 41.86,
+                    "word": " because",
+                    "probability": 0.82470703125
+                },
+                {
+                    "start": 41.86,
+                    "end": 42.12,
+                    "word": " these",
+                    "probability": 1.0
+                },
+                {
+                    "start": 42.12,
+                    "end": 42.24,
+                    "word": " are",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 42.24,
+                    "end": 42.54,
+                    "word": " people",
+                    "probability": 1.0
+                },
+                {
+                    "start": 42.54,
+                    "end": 42.74,
+                    "word": " in",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 42.74,
+                    "end": 43.02,
+                    "word": " vulnerable",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 43.02,
+                    "end": 44.42,
+                    "word": " positions.",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 44.58,
+                    "end": 45.1,
+                    "word": " So,",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 45.1,
+                    "end": 45.94,
+                    "word": " not",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 45.94,
+                    "end": 46.16,
+                    "word": " so",
+                    "probability": 1.0
+                },
+                {
+                    "start": 46.16,
+                    "end": 46.36,
+                    "word": " much",
+                    "probability": 1.0
+                },
+                {
+                    "start": 46.36,
+                    "end": 46.56,
+                    "word": " ours,",
+                    "probability": 0.97265625
+                },
+                {
+                    "start": 46.62,
+                    "end": 46.72,
+                    "word": " but",
+                    "probability": 1.0
+                },
+                {
+                    "start": 46.72,
+                    "end": 46.96,
+                    "word": " anyway,",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 47.06,
+                    "end": 47.18,
+                    "word": " we",
+                    "probability": 1.0
+                },
+                {
+                    "start": 47.18,
+                    "end": 47.4,
+                    "word": " paid",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 47.4,
+                    "end": 47.54,
+                    "word": " a",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 47.54,
+                    "end": 47.68,
+                    "word": " lot",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 47.68,
+                    "end": 47.78,
+                    "word": " of",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 47.78,
+                    "end": 48.08,
+                    "word": " attention",
+                    "probability": 1.0
+                },
+                {
+                    "start": 48.08,
+                    "end": 48.58,
+                    "word": " to",
+                    "probability": 1.0
+                },
+                {
+                    "start": 48.58,
+                    "end": 48.92,
+                    "word": " security.",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2384,
+            "start": 50.34,
+            "end": 53.1,
+            "text": " So, uh, we started...",
+            "tokens": [
+                51667,
+                407,
+                11,
+                2232,
+                11,
+                321,
+                1409,
+                485,
+                51835
+            ],
+            "avg_logprob": -0.1157894746253365,
+            "compression_ratio": 1.6528925619834711,
+            "no_speech_prob": 0.274658203125,
+            "words": [
+                {
+                    "start": 50.34,
+                    "end": 50.86,
+                    "word": " So,",
+                    "probability": 0.97705078125
+                },
+                {
+                    "start": 50.86,
+                    "end": 51.38,
+                    "word": " uh,",
+                    "probability": 0.92724609375
+                },
+                {
+                    "start": 51.6,
+                    "end": 52.54,
+                    "word": " we",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 52.54,
+                    "end": 53.1,
+                    "word": " started...",
+                    "probability": 0.5032691955566406
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 5384,
+            "start": 53.84,
+            "end": 54.58,
+            "text": " What did we start with?",
+            "tokens": [
+                50365,
+                708,
+                630,
+                321,
+                722,
+                365,
+                30,
+                50410
+            ],
+            "avg_logprob": -0.22078804671764374,
+            "compression_ratio": 1.191304347826087,
+            "no_speech_prob": 0.042724609375,
+            "words": [
+                {
+                    "start": 53.84,
+                    "end": 53.92,
+                    "word": " What",
+                    "probability": 0.66552734375
+                },
+                {
+                    "start": 53.92,
+                    "end": 53.96,
+                    "word": " did",
+                    "probability": 0.90576171875
+                },
+                {
+                    "start": 53.96,
+                    "end": 54.1,
+                    "word": " we",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 54.1,
+                    "end": 54.42,
+                    "word": " start",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 54.42,
+                    "end": 54.58,
+                    "word": " with?",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 5384,
+            "start": 54.62,
+            "end": 55.26,
+            "text": " I can't remember.",
+            "tokens": [
+                50410,
+                286,
+                393,
+                380,
+                1604,
+                13,
+                50453
+            ],
+            "avg_logprob": -0.22078804671764374,
+            "compression_ratio": 1.191304347826087,
+            "no_speech_prob": 0.042724609375,
+            "words": [
+                {
+                    "start": 54.62,
+                    "end": 54.7,
+                    "word": " I",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 54.7,
+                    "end": 54.92,
+                    "word": " can't",
+                    "probability": 0.999755859375
+                },
+                {
+                    "start": 54.92,
+                    "end": 55.26,
+                    "word": " remember.",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 8,
+            "seek": 5384,
+            "start": 55.46,
+            "end": 58.76,
+            "text": " Looking into tools anyway, and we, we said, okay, it should be secure.",
+            "tokens": [
+                50455,
+                11053,
+                666,
+                3873,
+                4033,
+                11,
+                293,
+                321,
+                11,
+                321,
+                848,
+                11,
+                1392,
+                11,
+                309,
+                820,
+                312,
+                7144,
+                13,
+                50623
+            ],
+            "avg_logprob": -0.22078804671764374,
+            "compression_ratio": 1.191304347826087,
+            "no_speech_prob": 0.042724609375,
+            "words": [
+                {
+                    "start": 55.46,
+                    "end": 55.74,
+                    "word": " Looking",
+                    "probability": 0.984375
+                },
+                {
+                    "start": 55.74,
+                    "end": 56.04,
+                    "word": " into",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 56.04,
+                    "end": 56.44,
+                    "word": " tools",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 56.44,
+                    "end": 56.74,
+                    "word": " anyway,",
+                    "probability": 0.97216796875
+                },
+                {
+                    "start": 56.82,
+                    "end": 56.92,
+                    "word": " and",
+                    "probability": 0.90673828125
+                },
+                {
+                    "start": 56.92,
+                    "end": 57.04,
+                    "word": " we,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 57.06,
+                    "end": 57.44,
+                    "word": " we",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 57.44,
+                    "end": 57.66,
+                    "word": " said,",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 57.7,
+                    "end": 57.88,
+                    "word": " okay,",
+                    "probability": 0.91552734375
+                },
+                {
+                    "start": 57.96,
+                    "end": 58.14,
+                    "word": " it",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 58.14,
+                    "end": 58.32,
+                    "word": " should",
+                    "probability": 0.94677734375
+                },
+                {
+                    "start": 58.32,
+                    "end": 58.46,
+                    "word": " be",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 58.46,
+                    "end": 58.76,
+                    "word": " secure.",
+                    "probability": 0.98828125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 9,
+            "seek": 5384,
+            "start": 58.88,
+            "end": 59.9,
+            "text": " So let's look to see it.",
+            "tokens": [
+                50623,
+                407,
+                718,
+                311,
+                574,
+                281,
+                536,
+                309,
+                13,
+                50677
+            ],
+            "avg_logprob": -0.22078804671764374,
+            "compression_ratio": 1.191304347826087,
+            "no_speech_prob": 0.042724609375,
+            "words": [
+                {
+                    "start": 58.88,
+                    "end": 59.02,
+                    "word": " So",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 59.02,
+                    "end": 59.32,
+                    "word": " let's",
+                    "probability": 0.989013671875
+                },
+                {
+                    "start": 59.32,
+                    "end": 59.46,
+                    "word": " look",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 59.46,
+                    "end": 59.58,
+                    "word": " to",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 59.58,
+                    "end": 59.82,
+                    "word": " see",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 59.82,
+                    "end": 59.9,
+                    "word": " it.",
+                    "probability": 0.984375
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " Like, I have good experience with these other tools. Could we... let's look into those. And we said, yeah, yeah, that's cool. We needed security. So, actually, another part of this project I've been working in, which is this DECA consortium. You can look it up, decaresearch.fi, I think. Okay. Uh, in our work package, there were two of us working with journalists, my colleague and I, and then our other colleagues were working with people who have recently moved to Finland. So, so that part of the project, I think, required most of the security because these are people in vulnerable positions. So, not so much ours, but anyway, we paid a lot of attention to security. So, uh, we started... What did we start with? I can't remember. Looking into tools anyway, and we, we said, okay, it should be secure. So let's look to see it."
+}
