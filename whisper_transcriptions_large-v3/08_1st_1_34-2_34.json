@@ -1,0 +1,810 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.02,
+            "end": 18.7,
+            "text": " ...interviews with the native speakers, which I had to transcribe manually, so that's why I'm interested in this project or this opportunity with Whisper.",
+            "tokens": [
+                50365,
+                1097,
+                5106,
+                1759,
+                82,
+                365,
+                264,
+                8470,
+                9518,
+                11,
+                597,
+                286,
+                632,
+                281,
+                1145,
+                8056,
+                16945,
+                11,
+                370,
+                300,
+                311,
+                983,
+                286,
+                478,
+                3102,
+                294,
+                341,
+                1716,
+                420,
+                341,
+                2650,
+                365,
+                41132,
+                610,
+                13,
+                51315
+            ],
+            "avg_logprob": -0.30010775605152396,
+            "compression_ratio": 1.4733333333333334,
+            "no_speech_prob": 0.37841796875,
+            "words": [
+                {
+                    "start": 1.02,
+                    "end": 1.86,
+                    "word": " ...interviews",
+                    "probability": 0.6625137329101562
+                },
+                {
+                    "start": 1.86,
+                    "end": 2.08,
+                    "word": " with",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 2.08,
+                    "end": 2.22,
+                    "word": " the",
+                    "probability": 0.9541015625
+                },
+                {
+                    "start": 2.22,
+                    "end": 2.44,
+                    "word": " native",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 2.44,
+                    "end": 2.96,
+                    "word": " speakers,",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 3.2,
+                    "end": 5.54,
+                    "word": " which",
+                    "probability": 0.8271484375
+                },
+                {
+                    "start": 5.54,
+                    "end": 8.48,
+                    "word": " I",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 8.48,
+                    "end": 8.62,
+                    "word": " had",
+                    "probability": 0.9560546875
+                },
+                {
+                    "start": 8.62,
+                    "end": 8.88,
+                    "word": " to",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 8.88,
+                    "end": 9.82,
+                    "word": " transcribe",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 9.82,
+                    "end": 10.54,
+                    "word": " manually,",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 10.84,
+                    "end": 10.98,
+                    "word": " so",
+                    "probability": 0.978515625
+                },
+                {
+                    "start": 10.98,
+                    "end": 11.32,
+                    "word": " that's",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 11.32,
+                    "end": 11.44,
+                    "word": " why",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 11.44,
+                    "end": 11.76,
+                    "word": " I'm",
+                    "probability": 0.986572265625
+                },
+                {
+                    "start": 11.76,
+                    "end": 12.3,
+                    "word": " interested",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 12.3,
+                    "end": 12.62,
+                    "word": " in",
+                    "probability": 0.798828125
+                },
+                {
+                    "start": 12.62,
+                    "end": 13.9,
+                    "word": " this",
+                    "probability": 0.896484375
+                },
+                {
+                    "start": 13.9,
+                    "end": 15.54,
+                    "word": " project",
+                    "probability": 0.97509765625
+                },
+                {
+                    "start": 15.54,
+                    "end": 16.0,
+                    "word": " or",
+                    "probability": 0.60986328125
+                },
+                {
+                    "start": 16.0,
+                    "end": 16.42,
+                    "word": " this",
+                    "probability": 0.92236328125
+                },
+                {
+                    "start": 16.42,
+                    "end": 17.58,
+                    "word": " opportunity",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 17.58,
+                    "end": 18.08,
+                    "word": " with",
+                    "probability": 0.9169921875
+                },
+                {
+                    "start": 18.08,
+                    "end": 18.7,
+                    "word": " Whisper.",
+                    "probability": 0.8212890625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 19.94,
+            "end": 21.8,
+            "text": " That's great that you're interested.",
+            "tokens": [
+                51315,
+                663,
+                311,
+                869,
+                300,
+                291,
+                434,
+                3102,
+                13,
+                51515
+            ],
+            "avg_logprob": -0.30010775605152396,
+            "compression_ratio": 1.4733333333333334,
+            "no_speech_prob": 0.37841796875,
+            "words": [
+                {
+                    "start": 19.94,
+                    "end": 20.78,
+                    "word": " That's",
+                    "probability": 0.832763671875
+                },
+                {
+                    "start": 20.78,
+                    "end": 21.02,
+                    "word": " great",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 21.02,
+                    "end": 21.2,
+                    "word": " that",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 21.2,
+                    "end": 21.38,
+                    "word": " you're",
+                    "probability": 0.9404296875
+                },
+                {
+                    "start": 21.38,
+                    "end": 21.8,
+                    "word": " interested.",
+                    "probability": 0.9990234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 22.52,
+            "end": 24.94,
+            "text": " Yeah, so that's basically it.",
+            "tokens": [
+                51515,
+                865,
+                11,
+                370,
+                300,
+                311,
+                1936,
+                309,
+                13,
+                51665
+            ],
+            "avg_logprob": -0.30010775605152396,
+            "compression_ratio": 1.4733333333333334,
+            "no_speech_prob": 0.37841796875,
+            "words": [
+                {
+                    "start": 22.52,
+                    "end": 23.36,
+                    "word": " Yeah,",
+                    "probability": 0.947265625
+                },
+                {
+                    "start": 23.42,
+                    "end": 23.88,
+                    "word": " so",
+                    "probability": 0.65771484375
+                },
+                {
+                    "start": 23.88,
+                    "end": 24.46,
+                    "word": " that's",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 24.46,
+                    "end": 24.78,
+                    "word": " basically",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 24.78,
+                    "end": 24.94,
+                    "word": " it.",
+                    "probability": 0.41552734375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2494,
+            "start": 24.94,
+            "end": 30.8,
+            "text": " Could you still list all of the languages that you're working with?",
+            "tokens": [
+                50365,
+                7497,
+                291,
+                920,
+                1329,
+                439,
+                295,
+                264,
+                8650,
+                300,
+                291,
+                434,
+                1364,
+                365,
+                30,
+                50665
+            ],
+            "avg_logprob": -0.21489726353998054,
+            "compression_ratio": 1.360248447204969,
+            "no_speech_prob": 0.73779296875,
+            "words": [
+                {
+                    "start": 24.94,
+                    "end": 26.62,
+                    "word": " Could",
+                    "probability": 0.86474609375
+                },
+                {
+                    "start": 26.62,
+                    "end": 26.88,
+                    "word": " you",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 26.88,
+                    "end": 27.22,
+                    "word": " still",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 27.22,
+                    "end": 28.08,
+                    "word": " list",
+                    "probability": 0.939453125
+                },
+                {
+                    "start": 28.08,
+                    "end": 28.62,
+                    "word": " all",
+                    "probability": 0.95751953125
+                },
+                {
+                    "start": 28.62,
+                    "end": 28.8,
+                    "word": " of",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 28.8,
+                    "end": 28.96,
+                    "word": " the",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 28.96,
+                    "end": 29.56,
+                    "word": " languages",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 29.56,
+                    "end": 29.94,
+                    "word": " that",
+                    "probability": 0.9599609375
+                },
+                {
+                    "start": 29.94,
+                    "end": 30.16,
+                    "word": " you're",
+                    "probability": 0.96337890625
+                },
+                {
+                    "start": 30.16,
+                    "end": 30.46,
+                    "word": " working",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 30.46,
+                    "end": 30.8,
+                    "word": " with?",
+                    "probability": 0.99755859375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2494,
+            "start": 31.76,
+            "end": 41.98,
+            "text": " Yeah, so my dissertation was about SGAW-KAREN, so S-G-A-W-KAREN.",
+            "tokens": [
+                50665,
+                865,
+                11,
+                370,
+                452,
+                39555,
+                390,
+                466,
+                318,
+                12570,
+                54,
+                12,
+                42,
+                1899,
+                2195,
+                11,
+                370,
+                318,
+                12,
+                38,
+                12,
+                32,
+                12,
+                54,
+                12,
+                42,
+                1899,
+                2195,
+                13,
+                51215
+            ],
+            "avg_logprob": -0.21489726353998054,
+            "compression_ratio": 1.360248447204969,
+            "no_speech_prob": 0.73779296875,
+            "words": [
+                {
+                    "start": 31.76,
+                    "end": 32.52,
+                    "word": " Yeah,",
+                    "probability": 0.71630859375
+                },
+                {
+                    "start": 32.56,
+                    "end": 32.7,
+                    "word": " so",
+                    "probability": 0.984375
+                },
+                {
+                    "start": 32.7,
+                    "end": 33.64,
+                    "word": " my",
+                    "probability": 0.9345703125
+                },
+                {
+                    "start": 33.64,
+                    "end": 34.44,
+                    "word": " dissertation",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 34.44,
+                    "end": 35.0,
+                    "word": " was",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 35.0,
+                    "end": 35.66,
+                    "word": " about",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 35.66,
+                    "end": 36.34,
+                    "word": " SGAW",
+                    "probability": 0.8614908854166666
+                },
+                {
+                    "start": 36.34,
+                    "end": 36.98,
+                    "word": "-KAREN,",
+                    "probability": 0.458282470703125
+                },
+                {
+                    "start": 37.12,
+                    "end": 37.42,
+                    "word": " so",
+                    "probability": 0.60986328125
+                },
+                {
+                    "start": 37.42,
+                    "end": 37.76,
+                    "word": " S",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 37.76,
+                    "end": 38.14,
+                    "word": "-G",
+                    "probability": 0.972900390625
+                },
+                {
+                    "start": 38.14,
+                    "end": 38.56,
+                    "word": "-A",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 38.56,
+                    "end": 38.88,
+                    "word": "-W",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 38.88,
+                    "end": 41.98,
+                    "word": "-KAREN.",
+                    "probability": 0.864501953125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2494,
+            "start": 43.56,
+            "end": 49.48,
+            "text": " It's a Karenic language, one of the Karenic languages.",
+            "tokens": [
+                51215,
+                467,
+                311,
+                257,
+                14834,
+                299,
+                2856,
+                11,
+                472,
+                295,
+                264,
+                14834,
+                299,
+                8650,
+                13,
+                51615
+            ],
+            "avg_logprob": -0.21489726353998054,
+            "compression_ratio": 1.360248447204969,
+            "no_speech_prob": 0.73779296875,
+            "words": [
+                {
+                    "start": 43.56,
+                    "end": 44.4,
+                    "word": " It's",
+                    "probability": 0.983154296875
+                },
+                {
+                    "start": 44.4,
+                    "end": 44.56,
+                    "word": " a",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 44.56,
+                    "end": 46.24,
+                    "word": " Karenic",
+                    "probability": 0.965087890625
+                },
+                {
+                    "start": 46.24,
+                    "end": 46.8,
+                    "word": " language,",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 47.08,
+                    "end": 48.16,
+                    "word": " one",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 48.16,
+                    "end": 48.34,
+                    "word": " of",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 48.34,
+                    "end": 48.8,
+                    "word": " the",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 48.8,
+                    "end": 49.16,
+                    "word": " Karenic",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 49.16,
+                    "end": 49.48,
+                    "word": " languages.",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 2494,
+            "start": 51.14,
+            "end": 54.22,
+            "text": " Currently we're in a project...",
+            "tokens": [
+                51615,
+                19964,
+                321,
+                434,
+                294,
+                257,
+                1716,
+                485,
+                51815
+            ],
+            "avg_logprob": -0.21489726353998054,
+            "compression_ratio": 1.360248447204969,
+            "no_speech_prob": 0.73779296875,
+            "words": [
+                {
+                    "start": 51.14,
+                    "end": 51.98,
+                    "word": " Currently",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 51.98,
+                    "end": 52.48,
+                    "word": " we're",
+                    "probability": 0.69873046875
+                },
+                {
+                    "start": 52.48,
+                    "end": 52.7,
+                    "word": " in",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 52.7,
+                    "end": 53.14,
+                    "word": " a",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 53.14,
+                    "end": 54.22,
+                    "word": " project...",
+                    "probability": 0.5206146240234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 8,
+            "seek": 5422,
+            "start": 55.62,
+            "end": 58.68,
+            "text": " where I study Thai, Burmese...",
+            "tokens": [
+                50365,
+                689,
+                286,
+                2979,
+                19254,
+                11,
+                7031,
+                76,
+                1130,
+                485,
+                50665
+            ],
+            "avg_logprob": -0.3719068585020123,
+            "compression_ratio": 1.45,
+            "no_speech_prob": 0.2318115234375,
+            "words": [
+                {
+                    "start": 55.62,
+                    "end": 56.34,
+                    "word": " where",
+                    "probability": 0.7158203125
+                },
+                {
+                    "start": 56.34,
+                    "end": 56.88,
+                    "word": " I",
+                    "probability": 0.85205078125
+                },
+                {
+                    "start": 56.88,
+                    "end": 57.2,
+                    "word": " study",
+                    "probability": 0.54248046875
+                },
+                {
+                    "start": 57.2,
+                    "end": 57.56,
+                    "word": " Thai,",
+                    "probability": 0.97607421875
+                },
+                {
+                    "start": 57.82,
+                    "end": 58.68,
+                    "word": " Burmese...",
+                    "probability": 0.777313232421875
+                }
+            ],
+            "temperature": 0.4
+        },
+        {
+            "id": 9,
+            "seek": 5422,
+            "start": 58.68,
+            "end": 59.58,
+            "text": " ...",
+            "tokens": [
+                50665,
+                1097,
+                50865
+            ],
+            "avg_logprob": -0.3719068585020123,
+            "compression_ratio": 1.45,
+            "no_speech_prob": 0.2318115234375,
+            "words": [
+                {
+                    "start": 58.68,
+                    "end": 59.58,
+                    "word": " ...",
+                    "probability": 0.14111328125
+                }
+            ],
+            "temperature": 0.4
+        },
+        {
+            "id": 10,
+            "seek": 5422,
+            "start": 59.58,
+            "end": 59.8,
+            "text": " ...",
+            "tokens": [
+                50865,
+                1097,
+                51215
+            ],
+            "avg_logprob": -0.3719068585020123,
+            "compression_ratio": 1.45,
+            "no_speech_prob": 0.2318115234375,
+            "words": [
+                {
+                    "start": 59.58,
+                    "end": 59.8,
+                    "word": " ...",
+                    "probability": 0.08551025390625
+                }
+            ],
+            "temperature": 0.4
+        },
+        {
+            "id": 11,
+            "seek": 5422,
+            "start": 59.8,
+            "end": 60.02,
+            "text": " ...",
+            "tokens": [
+                51215,
+                1097,
+                51415
+            ],
+            "avg_logprob": -0.3719068585020123,
+            "compression_ratio": 1.45,
+            "no_speech_prob": 0.2318115234375,
+            "words": [
+                {
+                    "start": 59.8,
+                    "end": 60.02,
+                    "word": " ...",
+                    "probability": 0.9892578125
+                }
+            ],
+            "temperature": 0.4
+        }
+    ],
+    "language": "en",
+    "text": " ...interviews with the native speakers, which I had to transcribe manually, so that's why I'm interested in this project or this opportunity with Whisper. That's great that you're interested. Yeah, so that's basically it. Could you still list all of the languages that you're working with? Yeah, so my dissertation was about SGAW-KAREN, so S-G-A-W-KAREN. It's a Karenic language, one of the Karenic languages. Currently we're in a project... where I study Thai, Burmese... ... ... ..."
+}

@@ -1,0 +1,925 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.04,
+            "end": 25.32,
+            "text": " Sensitive information is a very minor problem because we have their consent and they're doing it consensually, but of course if they start talking about their children, which they often do, or their elderly parents or whoever, and tell about their health issues, then that's a bit of a concern.",
+            "tokens": [
+                50365,
+                318,
+                34465,
+                1589,
+                307,
+                257,
+                588,
+                6696,
+                1154,
+                570,
+                321,
+                362,
+                641,
+                14546,
+                293,
+                436,
+                434,
+                884,
+                309,
+                1014,
+                694,
+                671,
+                11,
+                457,
+                295,
+                1164,
+                498,
+                436,
+                722,
+                1417,
+                466,
+                641,
+                2227,
+                11,
+                597,
+                436,
+                2049,
+                360,
+                11,
+                420,
+                641,
+                19682,
+                3152,
+                420,
+                11387,
+                11,
+                293,
+                980,
+                466,
+                641,
+                1585,
+                2663,
+                11,
+                550,
+                300,
+                311,
+                257,
+                857,
+                295,
+                257,
+                3136,
+                13,
+                51665
+            ],
+            "avg_logprob": -0.21682692307692308,
+            "compression_ratio": 1.572192513368984,
+            "no_speech_prob": 0.0809326171875,
+            "words": [
+                {
+                    "start": 1.04,
+                    "end": 1.56,
+                    "word": " Sensitive",
+                    "probability": 0.5113296508789062
+                },
+                {
+                    "start": 1.56,
+                    "end": 2.08,
+                    "word": " information",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 2.08,
+                    "end": 2.64,
+                    "word": " is",
+                    "probability": 0.84716796875
+                },
+                {
+                    "start": 2.64,
+                    "end": 2.86,
+                    "word": " a",
+                    "probability": 0.64208984375
+                },
+                {
+                    "start": 2.86,
+                    "end": 3.94,
+                    "word": " very",
+                    "probability": 0.97900390625
+                },
+                {
+                    "start": 3.94,
+                    "end": 4.22,
+                    "word": " minor",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 4.22,
+                    "end": 4.48,
+                    "word": " problem",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 4.48,
+                    "end": 4.78,
+                    "word": " because",
+                    "probability": 0.8271484375
+                },
+                {
+                    "start": 4.78,
+                    "end": 4.96,
+                    "word": " we",
+                    "probability": 0.96923828125
+                },
+                {
+                    "start": 4.96,
+                    "end": 5.1,
+                    "word": " have",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 5.1,
+                    "end": 5.26,
+                    "word": " their",
+                    "probability": 0.9501953125
+                },
+                {
+                    "start": 5.26,
+                    "end": 5.58,
+                    "word": " consent",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 5.58,
+                    "end": 6.3,
+                    "word": " and",
+                    "probability": 0.822265625
+                },
+                {
+                    "start": 6.3,
+                    "end": 6.52,
+                    "word": " they're",
+                    "probability": 0.969482421875
+                },
+                {
+                    "start": 6.52,
+                    "end": 6.74,
+                    "word": " doing",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 6.74,
+                    "end": 6.98,
+                    "word": " it",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 6.98,
+                    "end": 7.88,
+                    "word": " consensually,",
+                    "probability": 0.9593098958333334
+                },
+                {
+                    "start": 8.02,
+                    "end": 8.12,
+                    "word": " but",
+                    "probability": 0.9677734375
+                },
+                {
+                    "start": 8.12,
+                    "end": 9.0,
+                    "word": " of",
+                    "probability": 0.3076171875
+                },
+                {
+                    "start": 9.0,
+                    "end": 12.24,
+                    "word": " course",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 12.24,
+                    "end": 12.48,
+                    "word": " if",
+                    "probability": 0.56005859375
+                },
+                {
+                    "start": 12.48,
+                    "end": 12.6,
+                    "word": " they",
+                    "probability": 0.97509765625
+                },
+                {
+                    "start": 12.6,
+                    "end": 14.04,
+                    "word": " start",
+                    "probability": 0.98046875
+                },
+                {
+                    "start": 14.04,
+                    "end": 14.44,
+                    "word": " talking",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 14.44,
+                    "end": 14.64,
+                    "word": " about",
+                    "probability": 0.96142578125
+                },
+                {
+                    "start": 14.64,
+                    "end": 15.0,
+                    "word": " their",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 15.0,
+                    "end": 15.38,
+                    "word": " children,",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 15.54,
+                    "end": 15.74,
+                    "word": " which",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 15.74,
+                    "end": 15.92,
+                    "word": " they",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 15.92,
+                    "end": 16.14,
+                    "word": " often",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 16.14,
+                    "end": 16.4,
+                    "word": " do,",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 16.46,
+                    "end": 16.64,
+                    "word": " or",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 16.64,
+                    "end": 16.82,
+                    "word": " their",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 16.82,
+                    "end": 17.18,
+                    "word": " elderly",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 17.18,
+                    "end": 17.66,
+                    "word": " parents",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 17.66,
+                    "end": 17.92,
+                    "word": " or",
+                    "probability": 0.89013671875
+                },
+                {
+                    "start": 17.92,
+                    "end": 18.22,
+                    "word": " whoever,",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 18.46,
+                    "end": 19.04,
+                    "word": " and",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 19.04,
+                    "end": 19.28,
+                    "word": " tell",
+                    "probability": 0.9580078125
+                },
+                {
+                    "start": 19.28,
+                    "end": 19.52,
+                    "word": " about",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 19.52,
+                    "end": 19.88,
+                    "word": " their",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 19.88,
+                    "end": 21.8,
+                    "word": " health",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 21.8,
+                    "end": 22.7,
+                    "word": " issues,",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 22.88,
+                    "end": 23.84,
+                    "word": " then",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 23.84,
+                    "end": 24.28,
+                    "word": " that's",
+                    "probability": 0.999267578125
+                },
+                {
+                    "start": 24.28,
+                    "end": 24.3,
+                    "word": " a",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 24.3,
+                    "end": 24.8,
+                    "word": " bit",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 24.8,
+                    "end": 24.9,
+                    "word": " of",
+                    "probability": 1.0
+                },
+                {
+                    "start": 24.9,
+                    "end": 24.98,
+                    "word": " a",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 24.98,
+                    "end": 25.32,
+                    "word": " concern.",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 2532,
+            "start": 25.32,
+            "end": 45.1,
+            "text": " Yes, definitely. Then I would like to ask you about the volume of data that you're working with. If you could estimate how much speech data do you have currently in your projects? In hours?",
+            "tokens": [
+                50365,
+                1079,
+                11,
+                2138,
+                13,
+                1396,
+                286,
+                576,
+                411,
+                281,
+                1029,
+                291,
+                466,
+                264,
+                5523,
+                295,
+                1412,
+                300,
+                291,
+                434,
+                1364,
+                365,
+                13,
+                759,
+                291,
+                727,
+                12539,
+                577,
+                709,
+                6218,
+                1412,
+                360,
+                291,
+                362,
+                4362,
+                294,
+                428,
+                4455,
+                30,
+                682,
+                2496,
+                30,
+                51365
+            ],
+            "avg_logprob": -0.15184295521332666,
+            "compression_ratio": 1.5388349514563107,
+            "no_speech_prob": 0.262939453125,
+            "words": [
+                {
+                    "start": 25.32,
+                    "end": 26.38,
+                    "word": " Yes,",
+                    "probability": 0.451416015625
+                },
+                {
+                    "start": 26.6,
+                    "end": 27.1,
+                    "word": " definitely.",
+                    "probability": 0.9873046875
+                },
+                {
+                    "start": 30.16,
+                    "end": 30.76,
+                    "word": " Then",
+                    "probability": 0.8271484375
+                },
+                {
+                    "start": 30.76,
+                    "end": 30.9,
+                    "word": " I",
+                    "probability": 0.96875
+                },
+                {
+                    "start": 30.9,
+                    "end": 31.02,
+                    "word": " would",
+                    "probability": 0.9775390625
+                },
+                {
+                    "start": 31.02,
+                    "end": 31.18,
+                    "word": " like",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 31.18,
+                    "end": 31.3,
+                    "word": " to",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 31.3,
+                    "end": 31.52,
+                    "word": " ask",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 31.52,
+                    "end": 31.64,
+                    "word": " you",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 31.64,
+                    "end": 31.86,
+                    "word": " about",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 31.86,
+                    "end": 32.22,
+                    "word": " the",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 32.22,
+                    "end": 32.66,
+                    "word": " volume",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 32.66,
+                    "end": 33.14,
+                    "word": " of",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 33.14,
+                    "end": 33.56,
+                    "word": " data",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 33.56,
+                    "end": 33.86,
+                    "word": " that",
+                    "probability": 0.96240234375
+                },
+                {
+                    "start": 33.86,
+                    "end": 34.06,
+                    "word": " you're",
+                    "probability": 0.960205078125
+                },
+                {
+                    "start": 34.06,
+                    "end": 34.38,
+                    "word": " working",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 34.38,
+                    "end": 34.72,
+                    "word": " with.",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 35.78,
+                    "end": 36.1,
+                    "word": " If",
+                    "probability": 0.96435546875
+                },
+                {
+                    "start": 36.1,
+                    "end": 36.24,
+                    "word": " you",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 36.24,
+                    "end": 36.44,
+                    "word": " could",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 36.44,
+                    "end": 37.28,
+                    "word": " estimate",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 37.28,
+                    "end": 38.2,
+                    "word": " how",
+                    "probability": 0.916015625
+                },
+                {
+                    "start": 38.2,
+                    "end": 38.56,
+                    "word": " much",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 38.56,
+                    "end": 39.08,
+                    "word": " speech",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 39.08,
+                    "end": 39.54,
+                    "word": " data",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 39.54,
+                    "end": 40.16,
+                    "word": " do",
+                    "probability": 0.96240234375
+                },
+                {
+                    "start": 40.16,
+                    "end": 40.28,
+                    "word": " you",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 40.28,
+                    "end": 40.58,
+                    "word": " have",
+                    "probability": 0.98046875
+                },
+                {
+                    "start": 40.58,
+                    "end": 41.14,
+                    "word": " currently",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 41.14,
+                    "end": 41.64,
+                    "word": " in",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 41.64,
+                    "end": 41.82,
+                    "word": " your",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 41.82,
+                    "end": 42.4,
+                    "word": " projects?",
+                    "probability": 0.9189453125
+                },
+                {
+                    "start": 43.96,
+                    "end": 44.56,
+                    "word": " In",
+                    "probability": 0.9677734375
+                },
+                {
+                    "start": 44.56,
+                    "end": 45.1,
+                    "word": " hours?",
+                    "probability": 0.90185546875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 2532,
+            "start": 45.42,
+            "end": 52.9,
+            "text": " In hours? Okay, yeah, I thought you wanted terabytes because I have that number somewhere, but I don't remember this.",
+            "tokens": [
+                51365,
+                682,
+                2496,
+                30,
+                1033,
+                11,
+                1338,
+                11,
+                286,
+                1194,
+                291,
+                1415,
+                1796,
+                24538,
+                570,
+                286,
+                362,
+                300,
+                1230,
+                4079,
+                11,
+                457,
+                286,
+                500,
+                380,
+                1604,
+                341,
+                13,
+                51815
+            ],
+            "avg_logprob": -0.15184295521332666,
+            "compression_ratio": 1.5388349514563107,
+            "no_speech_prob": 0.262939453125,
+            "words": [
+                {
+                    "start": 45.42,
+                    "end": 46.02,
+                    "word": " In",
+                    "probability": 0.87548828125
+                },
+                {
+                    "start": 46.02,
+                    "end": 46.32,
+                    "word": " hours?",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 46.42,
+                    "end": 46.66,
+                    "word": " Okay,",
+                    "probability": 0.8720703125
+                },
+                {
+                    "start": 46.76,
+                    "end": 46.92,
+                    "word": " yeah,",
+                    "probability": 0.943359375
+                },
+                {
+                    "start": 46.98,
+                    "end": 47.14,
+                    "word": " I",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 47.14,
+                    "end": 47.56,
+                    "word": " thought",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 47.56,
+                    "end": 47.7,
+                    "word": " you",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 47.7,
+                    "end": 47.94,
+                    "word": " wanted",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 47.94,
+                    "end": 48.64,
+                    "word": " terabytes",
+                    "probability": 0.999267578125
+                },
+                {
+                    "start": 48.64,
+                    "end": 48.94,
+                    "word": " because",
+                    "probability": 0.69921875
+                },
+                {
+                    "start": 48.94,
+                    "end": 49.3,
+                    "word": " I",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 49.3,
+                    "end": 49.58,
+                    "word": " have",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 49.58,
+                    "end": 49.72,
+                    "word": " that",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 49.72,
+                    "end": 49.98,
+                    "word": " number",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 49.98,
+                    "end": 50.4,
+                    "word": " somewhere,",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 50.5,
+                    "end": 50.7,
+                    "word": " but",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 50.7,
+                    "end": 51.64,
+                    "word": " I",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 51.64,
+                    "end": 52.34,
+                    "word": " don't",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 52.34,
+                    "end": 52.6,
+                    "word": " remember",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 52.6,
+                    "end": 52.9,
+                    "word": " this.",
+                    "probability": 0.98876953125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2532,
+            "start": 54.06,
+            "end": 54.8,
+            "text": " In hours?",
+            "tokens": [
+                51815,
+                682,
+                2496,
+                30,
+                51865
+            ],
+            "avg_logprob": -0.15184295521332666,
+            "compression_ratio": 1.5388349514563107,
+            "no_speech_prob": 0.262939453125,
+            "words": [
+                {
+                    "start": 54.06,
+                    "end": 54.36,
+                    "word": " In",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 54.36,
+                    "end": 54.8,
+                    "word": " hours?",
+                    "probability": 0.9970703125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 5532,
+            "start": 55.32,
+            "end": 57.22,
+            "text": " You have the University of Oulu Kikosa collection,",
+            "tokens": [
+                50415,
+                509,
+                362,
+                264,
+                3535,
+                295,
+                422,
+                12845,
+                591,
+                1035,
+                6447,
+                5765,
+                11,
+                50665
+            ],
+            "avg_logprob": -0.6792000343925074,
+            "compression_ratio": 0.875,
+            "no_speech_prob": 0.159423828125,
+            "words": [
+                {
+                    "start": 55.32,
+                    "end": 55.32,
+                    "word": " You",
+                    "probability": 0.16552734375
+                },
+                {
+                    "start": 55.42,
+                    "end": 55.32,
+                    "word": " have",
+                    "probability": 0.95458984375
+                },
+                {
+                    "start": 55.44,
+                    "end": 55.5,
+                    "word": " the",
+                    "probability": 0.953125
+                },
+                {
+                    "start": 55.5,
+                    "end": 55.84,
+                    "word": " University",
+                    "probability": 0.8857421875
+                },
+                {
+                    "start": 55.84,
+                    "end": 56.2,
+                    "word": " of",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 56.2,
+                    "end": 56.46,
+                    "word": " Oulu",
+                    "probability": 0.730712890625
+                },
+                {
+                    "start": 56.46,
+                    "end": 56.86,
+                    "word": " Kikosa",
+                    "probability": 0.8932291666666666
+                },
+                {
+                    "start": 56.86,
+                    "end": 57.22,
+                    "word": " collection,",
+                    "probability": 0.78076171875
+                }
+            ],
+            "temperature": 0.8
+        }
+    ],
+    "language": "en",
+    "text": " Sensitive information is a very minor problem because we have their consent and they're doing it consensually, but of course if they start talking about their children, which they often do, or their elderly parents or whoever, and tell about their health issues, then that's a bit of a concern. Yes, definitely. Then I would like to ask you about the volume of data that you're working with. If you could estimate how much speech data do you have currently in your projects? In hours? In hours? Okay, yeah, I thought you wanted terabytes because I have that number somewhere, but I don't remember this. In hours? You have the University of Oulu Kikosa collection,"
+}

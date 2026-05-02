@@ -1,0 +1,768 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.76,
+            "end": 15.16,
+            "text": " Then I have just a couple of final questions left.",
+            "tokens": [
+                50365,
+                1396,
+                286,
+                362,
+                445,
+                257,
+                1916,
+                295,
+                2572,
+                1651,
+                1411,
+                13,
+                51129
+            ],
+            "avg_logprob": -0.24395161098049534,
+            "compression_ratio": 1.2314814814814814,
+            "no_speech_prob": 0.039642333984375,
+            "words": [
+                {
+                    "start": 8.76,
+                    "end": 9.8,
+                    "word": " Then",
+                    "probability": 0.0032749176025390625
+                },
+                {
+                    "start": 9.8,
+                    "end": 9.94,
+                    "word": " I",
+                    "probability": 0.4189453125
+                },
+                {
+                    "start": 9.94,
+                    "end": 12.1,
+                    "word": " have",
+                    "probability": 0.96630859375
+                },
+                {
+                    "start": 12.1,
+                    "end": 12.38,
+                    "word": " just",
+                    "probability": 0.9462890625
+                },
+                {
+                    "start": 12.38,
+                    "end": 12.58,
+                    "word": " a",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 12.58,
+                    "end": 13.06,
+                    "word": " couple",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 13.06,
+                    "end": 13.2,
+                    "word": " of",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 13.2,
+                    "end": 13.52,
+                    "word": " final",
+                    "probability": 0.9873046875
+                },
+                {
+                    "start": 13.52,
+                    "end": 14.04,
+                    "word": " questions",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 14.04,
+                    "end": 15.16,
+                    "word": " left.",
+                    "probability": 0.93115234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 16.26,
+            "end": 24.4,
+            "text": " As we're discussing these technical capabilities, one concern that our project has",
+            "tokens": [
+                51193,
+                1018,
+                321,
+                434,
+                10850,
+                613,
+                6191,
+                10862,
+                11,
+                472,
+                3136,
+                300,
+                527,
+                1716,
+                575,
+                51593
+            ],
+            "avg_logprob": -0.24395161098049534,
+            "compression_ratio": 1.2314814814814814,
+            "no_speech_prob": 0.039642333984375,
+            "words": [
+                {
+                    "start": 16.26,
+                    "end": 16.78,
+                    "word": " As",
+                    "probability": 0.97265625
+                },
+                {
+                    "start": 16.78,
+                    "end": 16.98,
+                    "word": " we're",
+                    "probability": 0.910888671875
+                },
+                {
+                    "start": 16.98,
+                    "end": 17.5,
+                    "word": " discussing",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 17.5,
+                    "end": 17.9,
+                    "word": " these",
+                    "probability": 0.9794921875
+                },
+                {
+                    "start": 17.9,
+                    "end": 18.62,
+                    "word": " technical",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 18.62,
+                    "end": 19.4,
+                    "word": " capabilities,",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 19.98,
+                    "end": 21.0,
+                    "word": " one",
+                    "probability": 0.9453125
+                },
+                {
+                    "start": 21.0,
+                    "end": 21.54,
+                    "word": " concern",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 21.54,
+                    "end": 21.98,
+                    "word": " that",
+                    "probability": 0.96875
+                },
+                {
+                    "start": 21.98,
+                    "end": 22.48,
+                    "word": " our",
+                    "probability": 0.92333984375
+                },
+                {
+                    "start": 22.48,
+                    "end": 23.84,
+                    "word": " project",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 23.84,
+                    "end": 24.4,
+                    "word": " has",
+                    "probability": 0.99560546875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 2440,
+            "start": 24.4,
+            "end": 32.22,
+            "text": " is that the speech recognition tools may still seem a bit unapproachable for researchers.",
+            "tokens": [
+                50365,
+                307,
+                300,
+                264,
+                6218,
+                11150,
+                3873,
+                815,
+                920,
+                1643,
+                257,
+                857,
+                517,
+                35821,
+                608,
+                712,
+                337,
+                10309,
+                13,
+                50777
+            ],
+            "avg_logprob": -0.15592893509015646,
+            "compression_ratio": 1.6683673469387754,
+            "no_speech_prob": 0.6748046875,
+            "words": [
+                {
+                    "start": 24.4,
+                    "end": 25.22,
+                    "word": " is",
+                    "probability": 0.716796875
+                },
+                {
+                    "start": 25.22,
+                    "end": 25.68,
+                    "word": " that",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 25.68,
+                    "end": 26.22,
+                    "word": " the",
+                    "probability": 0.91796875
+                },
+                {
+                    "start": 26.22,
+                    "end": 27.4,
+                    "word": " speech",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 27.4,
+                    "end": 27.8,
+                    "word": " recognition",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 27.8,
+                    "end": 28.44,
+                    "word": " tools",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 28.44,
+                    "end": 29.14,
+                    "word": " may",
+                    "probability": 0.9755859375
+                },
+                {
+                    "start": 29.14,
+                    "end": 29.42,
+                    "word": " still",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 29.42,
+                    "end": 29.9,
+                    "word": " seem",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 29.9,
+                    "end": 30.06,
+                    "word": " a",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 30.06,
+                    "end": 30.24,
+                    "word": " bit",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 30.24,
+                    "end": 31.4,
+                    "word": " unapproachable",
+                    "probability": 0.9981689453125
+                },
+                {
+                    "start": 31.4,
+                    "end": 31.74,
+                    "word": " for",
+                    "probability": 0.97265625
+                },
+                {
+                    "start": 31.74,
+                    "end": 32.22,
+                    "word": " researchers.",
+                    "probability": 0.9912109375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2440,
+            "start": 33.84,
+            "end": 37.5,
+            "text": " Perhaps due to the technical capabilities people have.",
+            "tokens": [
+                50845,
+                10517,
+                3462,
+                281,
+                264,
+                6191,
+                10862,
+                561,
+                362,
+                13,
+                51025
+            ],
+            "avg_logprob": -0.15592893509015646,
+            "compression_ratio": 1.6683673469387754,
+            "no_speech_prob": 0.6748046875,
+            "words": [
+                {
+                    "start": 33.84,
+                    "end": 34.24,
+                    "word": " Perhaps",
+                    "probability": 0.83935546875
+                },
+                {
+                    "start": 34.24,
+                    "end": 34.6,
+                    "word": " due",
+                    "probability": 0.98388671875
+                },
+                {
+                    "start": 34.6,
+                    "end": 34.88,
+                    "word": " to",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 34.88,
+                    "end": 34.94,
+                    "word": " the",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 34.94,
+                    "end": 36.1,
+                    "word": " technical",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 36.1,
+                    "end": 36.64,
+                    "word": " capabilities",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 36.64,
+                    "end": 37.16,
+                    "word": " people",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 37.16,
+                    "end": 37.5,
+                    "word": " have.",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2440,
+            "start": 38.0,
+            "end": 44.88,
+            "text": " But can you think of anything that you think would lower the threshold for researchers",
+            "tokens": [
+                51061,
+                583,
+                393,
+                291,
+                519,
+                295,
+                1340,
+                300,
+                291,
+                519,
+                576,
+                3126,
+                264,
+                14678,
+                337,
+                10309,
+                51413
+            ],
+            "avg_logprob": -0.15592893509015646,
+            "compression_ratio": 1.6683673469387754,
+            "no_speech_prob": 0.6748046875,
+            "words": [
+                {
+                    "start": 38.0,
+                    "end": 38.54,
+                    "word": " But",
+                    "probability": 0.93212890625
+                },
+                {
+                    "start": 38.54,
+                    "end": 40.0,
+                    "word": " can",
+                    "probability": 0.9765625
+                },
+                {
+                    "start": 40.0,
+                    "end": 40.16,
+                    "word": " you",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 40.16,
+                    "end": 40.44,
+                    "word": " think",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 40.44,
+                    "end": 40.58,
+                    "word": " of",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 40.58,
+                    "end": 40.88,
+                    "word": " anything",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 40.88,
+                    "end": 41.32,
+                    "word": " that",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 41.32,
+                    "end": 41.68,
+                    "word": " you",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 41.68,
+                    "end": 42.04,
+                    "word": " think",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 42.04,
+                    "end": 42.4,
+                    "word": " would",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 42.4,
+                    "end": 42.76,
+                    "word": " lower",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 42.76,
+                    "end": 43.0,
+                    "word": " the",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 43.0,
+                    "end": 43.44,
+                    "word": " threshold",
+                    "probability": 1.0
+                },
+                {
+                    "start": 43.44,
+                    "end": 44.06,
+                    "word": " for",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 44.06,
+                    "end": 44.88,
+                    "word": " researchers",
+                    "probability": 0.9990234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2440,
+            "start": 44.88,
+            "end": 50.16,
+            "text": " like you to use speech recognition tools or try using them?",
+            "tokens": [
+                51413,
+                411,
+                291,
+                281,
+                764,
+                6218,
+                11150,
+                3873,
+                420,
+                853,
+                1228,
+                552,
+                30,
+                51653
+            ],
+            "avg_logprob": -0.15592893509015646,
+            "compression_ratio": 1.6683673469387754,
+            "no_speech_prob": 0.6748046875,
+            "words": [
+                {
+                    "start": 44.88,
+                    "end": 45.6,
+                    "word": " like",
+                    "probability": 0.98388671875
+                },
+                {
+                    "start": 45.6,
+                    "end": 45.86,
+                    "word": " you",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 45.86,
+                    "end": 46.2,
+                    "word": " to",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 46.2,
+                    "end": 46.7,
+                    "word": " use",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 46.7,
+                    "end": 47.66,
+                    "word": " speech",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 47.66,
+                    "end": 48.08,
+                    "word": " recognition",
+                    "probability": 1.0
+                },
+                {
+                    "start": 48.08,
+                    "end": 48.66,
+                    "word": " tools",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 48.66,
+                    "end": 48.98,
+                    "word": " or",
+                    "probability": 0.97021484375
+                },
+                {
+                    "start": 48.98,
+                    "end": 49.54,
+                    "word": " try",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 49.54,
+                    "end": 49.82,
+                    "word": " using",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 49.82,
+                    "end": 50.16,
+                    "word": " them?",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 2440,
+            "start": 51.1,
+            "end": 53.68,
+            "text": " Right. Would you say that there are",
+            "tokens": [
+                51709,
+                1779,
+                13,
+                6068,
+                291,
+                584,
+                300,
+                456,
+                366,
+                51821
+            ],
+            "avg_logprob": -0.15592893509015646,
+            "compression_ratio": 1.6683673469387754,
+            "no_speech_prob": 0.6748046875,
+            "words": [
+                {
+                    "start": 51.1,
+                    "end": 51.5,
+                    "word": " Right.",
+                    "probability": 0.9599609375
+                },
+                {
+                    "start": 51.64,
+                    "end": 52.4,
+                    "word": " Would",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 52.4,
+                    "end": 52.6,
+                    "word": " you",
+                    "probability": 1.0
+                },
+                {
+                    "start": 52.6,
+                    "end": 52.92,
+                    "word": " say",
+                    "probability": 1.0
+                },
+                {
+                    "start": 52.92,
+                    "end": 53.24,
+                    "word": " that",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 53.24,
+                    "end": 53.48,
+                    "word": " there",
+                    "probability": 0.576171875
+                },
+                {
+                    "start": 53.48,
+                    "end": 53.68,
+                    "word": " are",
+                    "probability": 0.78076171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 8,
+            "seek": 5440,
+            "start": 54.4,
+            "end": 59.84,
+            "text": " that people are in maybe a little bit intimidated by like",
+            "tokens": [
+                50369,
+                300,
+                561,
+                366,
+                294,
+                1310,
+                257,
+                707,
+                857,
+                40234,
+                538,
+                411,
+                50645
+            ],
+            "avg_logprob": -0.47712055700165884,
+            "compression_ratio": 1.0,
+            "no_speech_prob": 0.324462890625,
+            "words": [
+                {
+                    "start": 54.4,
+                    "end": 54.66,
+                    "word": " that",
+                    "probability": 0.8564453125
+                },
+                {
+                    "start": 54.66,
+                    "end": 55.12,
+                    "word": " people",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 55.12,
+                    "end": 55.78,
+                    "word": " are",
+                    "probability": 0.953125
+                },
+                {
+                    "start": 55.78,
+                    "end": 55.94,
+                    "word": " in",
+                    "probability": 0.2281494140625
+                },
+                {
+                    "start": 55.94,
+                    "end": 56.42,
+                    "word": " maybe",
+                    "probability": 0.84814453125
+                },
+                {
+                    "start": 56.42,
+                    "end": 56.72,
+                    "word": " a",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 56.72,
+                    "end": 56.86,
+                    "word": " little",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 56.86,
+                    "end": 57.02,
+                    "word": " bit",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 57.02,
+                    "end": 57.56,
+                    "word": " intimidated",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 57.56,
+                    "end": 59.08,
+                    "word": " by",
+                    "probability": 0.8486328125
+                },
+                {
+                    "start": 59.08,
+                    "end": 59.84,
+                    "word": " like",
+                    "probability": 0.443359375
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " Then I have just a couple of final questions left. As we're discussing these technical capabilities, one concern that our project has is that the speech recognition tools may still seem a bit unapproachable for researchers. Perhaps due to the technical capabilities people have. But can you think of anything that you think would lower the threshold for researchers like you to use speech recognition tools or try using them? Right. Would you say that there are that people are in maybe a little bit intimidated by like"
+}

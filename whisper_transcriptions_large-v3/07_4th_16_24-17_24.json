@@ -1,0 +1,859 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 10.44,
+            "text": " Are the transcriptions more verbatim, so exactly word-for-word transcriptions, or is a summary ever sufficient for your work?",
+            "tokens": [
+                50365,
+                2014,
+                264,
+                24444,
+                626,
+                544,
+                9595,
+                267,
+                332,
+                11,
+                370,
+                2293,
+                1349,
+                12,
+                2994,
+                12,
+                7462,
+                24444,
+                626,
+                11,
+                420,
+                307,
+                257,
+                12691,
+                1562,
+                11563,
+                337,
+                428,
+                589,
+                30,
+                50965
+            ],
+            "avg_logprob": -0.3041834533214569,
+            "compression_ratio": 1.5345911949685536,
+            "no_speech_prob": 0.10797119140625,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.6,
+                    "word": " Are",
+                    "probability": 0.00649261474609375
+                },
+                {
+                    "start": 0.6,
+                    "end": 1.46,
+                    "word": " the",
+                    "probability": 0.1767578125
+                },
+                {
+                    "start": 1.46,
+                    "end": 1.46,
+                    "word": " transcriptions",
+                    "probability": 0.864501953125
+                },
+                {
+                    "start": 1.56,
+                    "end": 1.46,
+                    "word": " more",
+                    "probability": 0.7763671875
+                },
+                {
+                    "start": 1.66,
+                    "end": 2.6,
+                    "word": " verbatim,",
+                    "probability": 0.9793294270833334
+                },
+                {
+                    "start": 2.6,
+                    "end": 2.96,
+                    "word": " so",
+                    "probability": 0.6328125
+                },
+                {
+                    "start": 2.96,
+                    "end": 3.64,
+                    "word": " exactly",
+                    "probability": 0.94091796875
+                },
+                {
+                    "start": 3.64,
+                    "end": 4.06,
+                    "word": " word",
+                    "probability": 0.958984375
+                },
+                {
+                    "start": 4.06,
+                    "end": 4.24,
+                    "word": "-for",
+                    "probability": 0.7276611328125
+                },
+                {
+                    "start": 4.24,
+                    "end": 4.48,
+                    "word": "-word",
+                    "probability": 0.997802734375
+                },
+                {
+                    "start": 4.48,
+                    "end": 5.52,
+                    "word": " transcriptions,",
+                    "probability": 0.791015625
+                },
+                {
+                    "start": 5.54,
+                    "end": 6.18,
+                    "word": " or",
+                    "probability": 0.8642578125
+                },
+                {
+                    "start": 6.18,
+                    "end": 6.5,
+                    "word": " is",
+                    "probability": 0.9638671875
+                },
+                {
+                    "start": 6.5,
+                    "end": 6.86,
+                    "word": " a",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 6.86,
+                    "end": 7.6,
+                    "word": " summary",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 7.6,
+                    "end": 8.06,
+                    "word": " ever",
+                    "probability": 0.9765625
+                },
+                {
+                    "start": 8.06,
+                    "end": 9.32,
+                    "word": " sufficient",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 9.32,
+                    "end": 9.96,
+                    "word": " for",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 9.96,
+                    "end": 10.14,
+                    "word": " your",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 10.14,
+                    "end": 10.44,
+                    "word": " work?",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.6,
+            "end": 18.86,
+            "text": " We definitely need sort of a very... we work with very detailed transcriptions.",
+            "tokens": [
+                50965,
+                492,
+                2138,
+                643,
+                1333,
+                295,
+                257,
+                588,
+                485,
+                321,
+                589,
+                365,
+                588,
+                9942,
+                24444,
+                626,
+                13,
+                51315
+            ],
+            "avg_logprob": -0.3041834533214569,
+            "compression_ratio": 1.5345911949685536,
+            "no_speech_prob": 0.10797119140625,
+            "words": [
+                {
+                    "start": 11.6,
+                    "end": 12.46,
+                    "word": " We",
+                    "probability": 0.89208984375
+                },
+                {
+                    "start": 12.46,
+                    "end": 12.84,
+                    "word": " definitely",
+                    "probability": 0.64111328125
+                },
+                {
+                    "start": 12.84,
+                    "end": 13.3,
+                    "word": " need",
+                    "probability": 0.90283203125
+                },
+                {
+                    "start": 13.3,
+                    "end": 13.56,
+                    "word": " sort",
+                    "probability": 0.53662109375
+                },
+                {
+                    "start": 13.56,
+                    "end": 13.66,
+                    "word": " of",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 13.66,
+                    "end": 13.78,
+                    "word": " a",
+                    "probability": 0.908203125
+                },
+                {
+                    "start": 13.78,
+                    "end": 14.54,
+                    "word": " very...",
+                    "probability": 0.738037109375
+                },
+                {
+                    "start": 14.54,
+                    "end": 14.92,
+                    "word": " we",
+                    "probability": 0.30615234375
+                },
+                {
+                    "start": 14.92,
+                    "end": 15.26,
+                    "word": " work",
+                    "probability": 0.484130859375
+                },
+                {
+                    "start": 15.26,
+                    "end": 17.08,
+                    "word": " with",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 17.08,
+                    "end": 17.4,
+                    "word": " very",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 17.4,
+                    "end": 17.94,
+                    "word": " detailed",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 17.94,
+                    "end": 18.86,
+                    "word": " transcriptions.",
+                    "probability": 0.99560546875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 18.88,
+            "end": 22.22,
+            "text": " So we need as much detail as possible.",
+            "tokens": [
+                51315,
+                407,
+                321,
+                643,
+                382,
+                709,
+                2607,
+                382,
+                1944,
+                13,
+                51515
+            ],
+            "avg_logprob": -0.3041834533214569,
+            "compression_ratio": 1.5345911949685536,
+            "no_speech_prob": 0.10797119140625,
+            "words": [
+                {
+                    "start": 18.88,
+                    "end": 19.74,
+                    "word": " So",
+                    "probability": 0.56201171875
+                },
+                {
+                    "start": 19.74,
+                    "end": 19.98,
+                    "word": " we",
+                    "probability": 0.8955078125
+                },
+                {
+                    "start": 19.98,
+                    "end": 20.28,
+                    "word": " need",
+                    "probability": 0.9130859375
+                },
+                {
+                    "start": 20.28,
+                    "end": 20.7,
+                    "word": " as",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 20.7,
+                    "end": 21.0,
+                    "word": " much",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 21.0,
+                    "end": 21.48,
+                    "word": " detail",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 21.48,
+                    "end": 21.78,
+                    "word": " as",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 21.78,
+                    "end": 22.22,
+                    "word": " possible.",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2222,
+            "start": 22.22,
+            "end": 41.9,
+            "text": " And it has to be... the transcriptions for our purposes need to represent the talk as... what's the word?",
+            "tokens": [
+                50365,
+                400,
+                309,
+                575,
+                281,
+                312,
+                485,
+                264,
+                24444,
+                626,
+                337,
+                527,
+                9932,
+                643,
+                281,
+                2906,
+                264,
+                751,
+                382,
+                485,
+                437,
+                311,
+                264,
+                1349,
+                30,
+                51365
+            ],
+            "avg_logprob": -0.170673074057469,
+            "compression_ratio": 1.5546218487394958,
+            "no_speech_prob": 0.6787109375,
+            "words": [
+                {
+                    "start": 22.22,
+                    "end": 22.62,
+                    "word": " And",
+                    "probability": 0.277587890625
+                },
+                {
+                    "start": 22.62,
+                    "end": 24.16,
+                    "word": " it",
+                    "probability": 0.61083984375
+                },
+                {
+                    "start": 24.16,
+                    "end": 26.42,
+                    "word": " has",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 26.42,
+                    "end": 26.66,
+                    "word": " to",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 26.66,
+                    "end": 26.98,
+                    "word": " be...",
+                    "probability": 0.56207275390625
+                },
+                {
+                    "start": 26.98,
+                    "end": 27.46,
+                    "word": " the",
+                    "probability": 0.16064453125
+                },
+                {
+                    "start": 27.46,
+                    "end": 29.02,
+                    "word": " transcriptions",
+                    "probability": 0.996337890625
+                },
+                {
+                    "start": 29.02,
+                    "end": 29.68,
+                    "word": " for",
+                    "probability": 0.64111328125
+                },
+                {
+                    "start": 29.68,
+                    "end": 30.68,
+                    "word": " our",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 30.68,
+                    "end": 31.2,
+                    "word": " purposes",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 31.2,
+                    "end": 32.06,
+                    "word": " need",
+                    "probability": 0.86376953125
+                },
+                {
+                    "start": 32.06,
+                    "end": 32.66,
+                    "word": " to",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 32.66,
+                    "end": 35.22,
+                    "word": " represent",
+                    "probability": 0.96875
+                },
+                {
+                    "start": 35.22,
+                    "end": 36.06,
+                    "word": " the",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 36.06,
+                    "end": 36.54,
+                    "word": " talk",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 36.54,
+                    "end": 39.34,
+                    "word": " as...",
+                    "probability": 0.808349609375
+                },
+                {
+                    "start": 39.34,
+                    "end": 41.44,
+                    "word": " what's",
+                    "probability": 0.8134765625
+                },
+                {
+                    "start": 41.44,
+                    "end": 41.58,
+                    "word": " the",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 41.58,
+                    "end": 41.9,
+                    "word": " word?",
+                    "probability": 0.9990234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2222,
+            "start": 42.08,
+            "end": 47.98,
+            "text": " As... I've lost the word now.",
+            "tokens": [
+                51365,
+                1018,
+                485,
+                286,
+                600,
+                2731,
+                264,
+                1349,
+                586,
+                13,
+                51715
+            ],
+            "avg_logprob": -0.170673074057469,
+            "compression_ratio": 1.5546218487394958,
+            "no_speech_prob": 0.6787109375,
+            "words": [
+                {
+                    "start": 42.08,
+                    "end": 42.88,
+                    "word": " As...",
+                    "probability": 0.772705078125
+                },
+                {
+                    "start": 42.88,
+                    "end": 46.86,
+                    "word": " I've",
+                    "probability": 0.82275390625
+                },
+                {
+                    "start": 46.86,
+                    "end": 47.08,
+                    "word": " lost",
+                    "probability": 0.970703125
+                },
+                {
+                    "start": 47.08,
+                    "end": 47.56,
+                    "word": " the",
+                    "probability": 0.9501953125
+                },
+                {
+                    "start": 47.56,
+                    "end": 47.74,
+                    "word": " word",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 47.74,
+                    "end": 47.98,
+                    "word": " now.",
+                    "probability": 0.9853515625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2222,
+            "start": 48.8,
+            "end": 52.1,
+            "text": " But it has to be sort of represent the talk as...",
+            "tokens": [
+                51715,
+                583,
+                309,
+                575,
+                281,
+                312,
+                1333,
+                295,
+                2906,
+                264,
+                751,
+                382,
+                485,
+                51865
+            ],
+            "avg_logprob": -0.170673074057469,
+            "compression_ratio": 1.5546218487394958,
+            "no_speech_prob": 0.6787109375,
+            "words": [
+                {
+                    "start": 48.8,
+                    "end": 49.24,
+                    "word": " But",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 49.24,
+                    "end": 49.38,
+                    "word": " it",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 49.38,
+                    "end": 49.52,
+                    "word": " has",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 49.52,
+                    "end": 49.64,
+                    "word": " to",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 49.64,
+                    "end": 49.78,
+                    "word": " be",
+                    "probability": 0.89111328125
+                },
+                {
+                    "start": 49.78,
+                    "end": 50.0,
+                    "word": " sort",
+                    "probability": 0.77294921875
+                },
+                {
+                    "start": 50.0,
+                    "end": 50.12,
+                    "word": " of",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 50.12,
+                    "end": 50.44,
+                    "word": " represent",
+                    "probability": 0.8828125
+                },
+                {
+                    "start": 50.44,
+                    "end": 50.8,
+                    "word": " the",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 50.8,
+                    "end": 51.06,
+                    "word": " talk",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 51.06,
+                    "end": 52.1,
+                    "word": " as...",
+                    "probability": 0.853515625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 5222,
+            "start": 52.64,
+            "end": 53.92,
+            "text": " As closely as possible?",
+            "tokens": [
+                50365,
+                1018,
+                8185,
+                382,
+                1944,
+                30,
+                50465
+            ],
+            "avg_logprob": -0.2714843759313226,
+            "compression_ratio": 1.2619047619047619,
+            "no_speech_prob": 0.197265625,
+            "words": [
+                {
+                    "start": 52.64,
+                    "end": 53.12,
+                    "word": " As",
+                    "probability": 0.48876953125
+                },
+                {
+                    "start": 53.12,
+                    "end": 53.48,
+                    "word": " closely",
+                    "probability": 0.966796875
+                },
+                {
+                    "start": 53.48,
+                    "end": 53.68,
+                    "word": " as",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 53.68,
+                    "end": 53.92,
+                    "word": " possible?",
+                    "probability": 0.99365234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 8,
+            "seek": 5222,
+            "start": 54.16,
+            "end": 56.62,
+            "text": " Yes, as closely as possible.",
+            "tokens": [
+                50465,
+                1079,
+                11,
+                382,
+                8185,
+                382,
+                1944,
+                13,
+                50615
+            ],
+            "avg_logprob": -0.2714843759313226,
+            "compression_ratio": 1.2619047619047619,
+            "no_speech_prob": 0.197265625,
+            "words": [
+                {
+                    "start": 54.16,
+                    "end": 54.46,
+                    "word": " Yes,",
+                    "probability": 0.61083984375
+                },
+                {
+                    "start": 54.58,
+                    "end": 54.8,
+                    "word": " as",
+                    "probability": 0.57568359375
+                },
+                {
+                    "start": 54.8,
+                    "end": 56.0,
+                    "word": " closely",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 56.0,
+                    "end": 56.34,
+                    "word": " as",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 56.34,
+                    "end": 56.62,
+                    "word": " possible.",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 9,
+            "seek": 5222,
+            "start": 57.42,
+            "end": 60.02,
+            "text": " So that's because that's what we do when we manage...",
+            "tokens": [
+                50615,
+                407,
+                300,
+                311,
+                570,
+                300,
+                311,
+                437,
+                321,
+                360,
+                562,
+                321,
+                3067,
+                485,
+                50765
+            ],
+            "avg_logprob": -0.2714843759313226,
+            "compression_ratio": 1.2619047619047619,
+            "no_speech_prob": 0.197265625,
+            "words": [
+                {
+                    "start": 57.42,
+                    "end": 57.9,
+                    "word": " So",
+                    "probability": 0.72412109375
+                },
+                {
+                    "start": 57.9,
+                    "end": 58.22,
+                    "word": " that's",
+                    "probability": 0.980224609375
+                },
+                {
+                    "start": 58.22,
+                    "end": 58.34,
+                    "word": " because",
+                    "probability": 0.521484375
+                },
+                {
+                    "start": 58.34,
+                    "end": 58.8,
+                    "word": " that's",
+                    "probability": 0.982421875
+                },
+                {
+                    "start": 58.8,
+                    "end": 59.02,
+                    "word": " what",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 59.02,
+                    "end": 59.18,
+                    "word": " we",
+                    "probability": 1.0
+                },
+                {
+                    "start": 59.18,
+                    "end": 59.4,
+                    "word": " do",
+                    "probability": 1.0
+                },
+                {
+                    "start": 59.4,
+                    "end": 59.54,
+                    "word": " when",
+                    "probability": 0.9208984375
+                },
+                {
+                    "start": 59.54,
+                    "end": 59.7,
+                    "word": " we",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 59.7,
+                    "end": 60.02,
+                    "word": " manage...",
+                    "probability": 0.37982177734375
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " Are the transcriptions more verbatim, so exactly word-for-word transcriptions, or is a summary ever sufficient for your work? We definitely need sort of a very... we work with very detailed transcriptions. So we need as much detail as possible. And it has to be... the transcriptions for our purposes need to represent the talk as... what's the word? As... I've lost the word now. But it has to be sort of represent the talk as... As closely as possible? Yes, as closely as possible. So that's because that's what we do when we manage..."
+}

@@ -1,0 +1,1017 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.62,
+            "text": " Trust the text. But I think there's one thing that's especially important for me specifically",
+            "tokens": [
+                50365,
+                11580,
+                264,
+                2487,
+                13,
+                583,
+                286,
+                519,
+                456,
+                311,
+                472,
+                551,
+                300,
+                311,
+                2318,
+                1021,
+                337,
+                385,
+                4682,
+                50761
+            ],
+            "avg_logprob": -0.16532939330146118,
+            "compression_ratio": 1.7040816326530612,
+            "no_speech_prob": 0.818359375,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.28,
+                    "word": " Trust",
+                    "probability": 0.05023193359375
+                },
+                {
+                    "start": 0.28,
+                    "end": 1.04,
+                    "word": " the",
+                    "probability": 0.97021484375
+                },
+                {
+                    "start": 1.04,
+                    "end": 2.26,
+                    "word": " text.",
+                    "probability": 0.90869140625
+                },
+                {
+                    "start": 2.8,
+                    "end": 3.48,
+                    "word": " But",
+                    "probability": 0.33154296875
+                },
+                {
+                    "start": 3.48,
+                    "end": 4.76,
+                    "word": " I",
+                    "probability": 0.96826171875
+                },
+                {
+                    "start": 4.76,
+                    "end": 5.02,
+                    "word": " think",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 5.02,
+                    "end": 5.24,
+                    "word": " there's",
+                    "probability": 0.97802734375
+                },
+                {
+                    "start": 5.24,
+                    "end": 5.4,
+                    "word": " one",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 5.4,
+                    "end": 5.66,
+                    "word": " thing",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 5.66,
+                    "end": 5.88,
+                    "word": " that's",
+                    "probability": 0.9443359375
+                },
+                {
+                    "start": 5.88,
+                    "end": 6.22,
+                    "word": " especially",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 6.22,
+                    "end": 6.62,
+                    "word": " important",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 6.62,
+                    "end": 7.02,
+                    "word": " for",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 7.02,
+                    "end": 7.18,
+                    "word": " me",
+                    "probability": 1.0
+                },
+                {
+                    "start": 7.18,
+                    "end": 7.62,
+                    "word": " specifically",
+                    "probability": 0.9248046875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.38,
+            "end": 13.98,
+            "text": " when it comes to the language models, or I mean the speech-to-text software,",
+            "tokens": [
+                50793,
+                562,
+                309,
+                1487,
+                281,
+                264,
+                2856,
+                5245,
+                11,
+                420,
+                286,
+                914,
+                264,
+                6218,
+                12,
+                1353,
+                12,
+                25111,
+                4722,
+                11,
+                51077
+            ],
+            "avg_logprob": -0.16532939330146118,
+            "compression_ratio": 1.7040816326530612,
+            "no_speech_prob": 0.818359375,
+            "words": [
+                {
+                    "start": 8.38,
+                    "end": 8.72,
+                    "word": " when",
+                    "probability": 0.73828125
+                },
+                {
+                    "start": 8.72,
+                    "end": 8.86,
+                    "word": " it",
+                    "probability": 1.0
+                },
+                {
+                    "start": 8.86,
+                    "end": 9.04,
+                    "word": " comes",
+                    "probability": 1.0
+                },
+                {
+                    "start": 9.04,
+                    "end": 9.28,
+                    "word": " to",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 9.28,
+                    "end": 9.78,
+                    "word": " the",
+                    "probability": 0.97900390625
+                },
+                {
+                    "start": 9.78,
+                    "end": 10.5,
+                    "word": " language",
+                    "probability": 0.966796875
+                },
+                {
+                    "start": 10.5,
+                    "end": 10.84,
+                    "word": " models,",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 11.12,
+                    "end": 11.42,
+                    "word": " or",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 11.42,
+                    "end": 11.62,
+                    "word": " I",
+                    "probability": 0.982421875
+                },
+                {
+                    "start": 11.62,
+                    "end": 11.8,
+                    "word": " mean",
+                    "probability": 1.0
+                },
+                {
+                    "start": 11.8,
+                    "end": 12.02,
+                    "word": " the",
+                    "probability": 0.89599609375
+                },
+                {
+                    "start": 12.02,
+                    "end": 13.34,
+                    "word": " speech",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 13.34,
+                    "end": 13.52,
+                    "word": "-to",
+                    "probability": 0.91064453125
+                },
+                {
+                    "start": 13.52,
+                    "end": 13.66,
+                    "word": "-text",
+                    "probability": 0.999755859375
+                },
+                {
+                    "start": 13.66,
+                    "end": 13.98,
+                    "word": " software,",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 14.32,
+            "end": 21.08,
+            "text": " and that's a problem with the Swedish language. Because I specifically research",
+            "tokens": [
+                51105,
+                293,
+                300,
+                311,
+                257,
+                1154,
+                365,
+                264,
+                23523,
+                2856,
+                13,
+                1436,
+                286,
+                4682,
+                2132,
+                51429
+            ],
+            "avg_logprob": -0.16532939330146118,
+            "compression_ratio": 1.7040816326530612,
+            "no_speech_prob": 0.818359375,
+            "words": [
+                {
+                    "start": 14.32,
+                    "end": 14.98,
+                    "word": " and",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 14.98,
+                    "end": 15.66,
+                    "word": " that's",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 15.66,
+                    "end": 15.74,
+                    "word": " a",
+                    "probability": 0.92431640625
+                },
+                {
+                    "start": 15.74,
+                    "end": 16.02,
+                    "word": " problem",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 16.02,
+                    "end": 16.22,
+                    "word": " with",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 16.22,
+                    "end": 16.34,
+                    "word": " the",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 16.34,
+                    "end": 16.7,
+                    "word": " Swedish",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 16.7,
+                    "end": 17.26,
+                    "word": " language.",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 17.58,
+                    "end": 18.26,
+                    "word": " Because",
+                    "probability": 0.9365234375
+                },
+                {
+                    "start": 18.26,
+                    "end": 19.32,
+                    "word": " I",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 19.32,
+                    "end": 20.08,
+                    "word": " specifically",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 20.08,
+                    "end": 21.08,
+                    "word": " research",
+                    "probability": 0.9970703125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 21.82,
+            "end": 28.44,
+            "text": " Finland Swedish and varieties of Finland Swedish, and all Finland Swedish varieties",
+            "tokens": [
+                51477,
+                24869,
+                23523,
+                293,
+                22092,
+                295,
+                24869,
+                23523,
+                11,
+                293,
+                439,
+                24869,
+                23523,
+                22092,
+                51821
+            ],
+            "avg_logprob": -0.16532939330146118,
+            "compression_ratio": 1.7040816326530612,
+            "no_speech_prob": 0.818359375,
+            "words": [
+                {
+                    "start": 21.82,
+                    "end": 22.5,
+                    "word": " Finland",
+                    "probability": 0.94970703125
+                },
+                {
+                    "start": 22.5,
+                    "end": 22.96,
+                    "word": " Swedish",
+                    "probability": 0.87158203125
+                },
+                {
+                    "start": 22.96,
+                    "end": 24.46,
+                    "word": " and",
+                    "probability": 0.89697265625
+                },
+                {
+                    "start": 24.46,
+                    "end": 24.92,
+                    "word": " varieties",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 24.92,
+                    "end": 25.26,
+                    "word": " of",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 25.26,
+                    "end": 25.48,
+                    "word": " Finland",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 25.48,
+                    "end": 25.84,
+                    "word": " Swedish,",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 26.08,
+                    "end": 26.54,
+                    "word": " and",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 26.54,
+                    "end": 27.08,
+                    "word": " all",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 27.08,
+                    "end": 27.58,
+                    "word": " Finland",
+                    "probability": 0.9775390625
+                },
+                {
+                    "start": 27.58,
+                    "end": 27.88,
+                    "word": " Swedish",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 27.88,
+                    "end": 28.44,
+                    "word": " varieties",
+                    "probability": 0.9970703125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2844,
+            "start": 28.44,
+            "end": 35.22,
+            "text": " are quite phonetically different from the Swedish spoken in Sweden. And in my experience,",
+            "tokens": [
+                50365,
+                366,
+                1596,
+                30754,
+                22652,
+                819,
+                490,
+                264,
+                23523,
+                10759,
+                294,
+                17727,
+                13,
+                400,
+                294,
+                452,
+                1752,
+                11,
+                50713
+            ],
+            "avg_logprob": -0.11718750210369334,
+            "compression_ratio": 1.5798319327731092,
+            "no_speech_prob": 0.6005859375,
+            "words": [
+                {
+                    "start": 28.44,
+                    "end": 29.04,
+                    "word": " are",
+                    "probability": 0.286865234375
+                },
+                {
+                    "start": 29.04,
+                    "end": 29.84,
+                    "word": " quite",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 29.84,
+                    "end": 30.56,
+                    "word": " phonetically",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 30.56,
+                    "end": 31.02,
+                    "word": " different",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 31.02,
+                    "end": 31.82,
+                    "word": " from",
+                    "probability": 0.9521484375
+                },
+                {
+                    "start": 31.82,
+                    "end": 32.16,
+                    "word": " the",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 32.16,
+                    "end": 32.48,
+                    "word": " Swedish",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 32.48,
+                    "end": 32.76,
+                    "word": " spoken",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 32.76,
+                    "end": 33.06,
+                    "word": " in",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 33.06,
+                    "end": 33.52,
+                    "word": " Sweden.",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 33.7,
+                    "end": 34.34,
+                    "word": " And",
+                    "probability": 0.83935546875
+                },
+                {
+                    "start": 34.34,
+                    "end": 34.46,
+                    "word": " in",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 34.46,
+                    "end": 34.64,
+                    "word": " my",
+                    "probability": 1.0
+                },
+                {
+                    "start": 34.64,
+                    "end": 35.22,
+                    "word": " experience,",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2844,
+            "start": 36.36,
+            "end": 44.74,
+            "text": " speech-to-text working in Swedish is problematic because they're all calibrated to Sweden Swedish.",
+            "tokens": [
+                50781,
+                6218,
+                12,
+                1353,
+                12,
+                25111,
+                1364,
+                294,
+                23523,
+                307,
+                19011,
+                570,
+                436,
+                434,
+                439,
+                21583,
+                5468,
+                281,
+                17727,
+                23523,
+                13,
+                51201
+            ],
+            "avg_logprob": -0.11718750210369334,
+            "compression_ratio": 1.5798319327731092,
+            "no_speech_prob": 0.6005859375,
+            "words": [
+                {
+                    "start": 36.36,
+                    "end": 37.02,
+                    "word": " speech",
+                    "probability": 0.9794921875
+                },
+                {
+                    "start": 37.02,
+                    "end": 37.68,
+                    "word": "-to",
+                    "probability": 0.6143798828125
+                },
+                {
+                    "start": 37.68,
+                    "end": 37.94,
+                    "word": "-text",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 37.94,
+                    "end": 39.52,
+                    "word": " working",
+                    "probability": 0.93212890625
+                },
+                {
+                    "start": 39.52,
+                    "end": 39.82,
+                    "word": " in",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 39.82,
+                    "end": 40.26,
+                    "word": " Swedish",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 40.26,
+                    "end": 40.74,
+                    "word": " is",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 40.74,
+                    "end": 41.26,
+                    "word": " problematic",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 41.26,
+                    "end": 41.98,
+                    "word": " because",
+                    "probability": 0.88916015625
+                },
+                {
+                    "start": 41.98,
+                    "end": 42.4,
+                    "word": " they're",
+                    "probability": 0.982666015625
+                },
+                {
+                    "start": 42.4,
+                    "end": 42.68,
+                    "word": " all",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 42.68,
+                    "end": 43.4,
+                    "word": " calibrated",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 43.4,
+                    "end": 43.96,
+                    "word": " to",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 43.96,
+                    "end": 44.42,
+                    "word": " Sweden",
+                    "probability": 0.89599609375
+                },
+                {
+                    "start": 44.42,
+                    "end": 44.74,
+                    "word": " Swedish.",
+                    "probability": 0.340087890625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 2844,
+            "start": 45.38,
+            "end": 51.8,
+            "text": " So they misrecognize many pronunciations in Finland Swedish. So for me personally and for",
+            "tokens": [
+                51233,
+                407,
+                436,
+                3346,
+                13867,
+                2912,
+                1125,
+                867,
+                7569,
+                11228,
+                763,
+                294,
+                24869,
+                23523,
+                13,
+                407,
+                337,
+                385,
+                5665,
+                293,
+                337,
+                51533
+            ],
+            "avg_logprob": -0.11718750210369334,
+            "compression_ratio": 1.5798319327731092,
+            "no_speech_prob": 0.6005859375,
+            "words": [
+                {
+                    "start": 45.38,
+                    "end": 46.04,
+                    "word": " So",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 46.04,
+                    "end": 46.32,
+                    "word": " they",
+                    "probability": 0.92724609375
+                },
+                {
+                    "start": 46.32,
+                    "end": 47.36,
+                    "word": " misrecognize",
+                    "probability": 0.9886474609375
+                },
+                {
+                    "start": 47.36,
+                    "end": 48.16,
+                    "word": " many",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 48.16,
+                    "end": 49.04,
+                    "word": " pronunciations",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 49.04,
+                    "end": 49.3,
+                    "word": " in",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 49.3,
+                    "end": 49.58,
+                    "word": " Finland",
+                    "probability": 0.83251953125
+                },
+                {
+                    "start": 49.58,
+                    "end": 49.86,
+                    "word": " Swedish.",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 50.26,
+                    "end": 50.66,
+                    "word": " So",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 50.66,
+                    "end": 50.78,
+                    "word": " for",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 50.78,
+                    "end": 50.94,
+                    "word": " me",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 50.94,
+                    "end": 51.42,
+                    "word": " personally",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 51.42,
+                    "end": 51.7,
+                    "word": " and",
+                    "probability": 0.845703125
+                },
+                {
+                    "start": 51.7,
+                    "end": 51.8,
+                    "word": " for",
+                    "probability": 0.982421875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 8,
+            "seek": 2844,
+            "start": 51.8,
+            "end": 57.74,
+            "text": " my research it will be very important to have a language model that can also handle the more rare",
+            "tokens": [
+                51533,
+                452,
+                2132,
+                309,
+                486,
+                312,
+                588,
+                1021,
+                281,
+                362,
+                257,
+                2856,
+                2316,
+                300,
+                393,
+                611,
+                4813,
+                264,
+                544,
+                5892,
+                51829
+            ],
+            "avg_logprob": -0.11718750210369334,
+            "compression_ratio": 1.5798319327731092,
+            "no_speech_prob": 0.6005859375,
+            "words": [
+                {
+                    "start": 51.8,
+                    "end": 52.0,
+                    "word": " my",
+                    "probability": 1.0
+                },
+                {
+                    "start": 52.0,
+                    "end": 52.4,
+                    "word": " research",
+                    "probability": 1.0
+                },
+                {
+                    "start": 52.4,
+                    "end": 52.66,
+                    "word": " it",
+                    "probability": 0.051788330078125
+                },
+                {
+                    "start": 52.66,
+                    "end": 52.76,
+                    "word": " will",
+                    "probability": 0.57958984375
+                },
+                {
+                    "start": 52.76,
+                    "end": 52.94,
+                    "word": " be",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 52.94,
+                    "end": 53.18,
+                    "word": " very",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 53.18,
+                    "end": 53.72,
+                    "word": " important",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 53.72,
+                    "end": 53.94,
+                    "word": " to",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 53.94,
+                    "end": 54.04,
+                    "word": " have",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 54.04,
+                    "end": 54.12,
+                    "word": " a",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 54.12,
+                    "end": 54.38,
+                    "word": " language",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 54.38,
+                    "end": 54.68,
+                    "word": " model",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 54.68,
+                    "end": 54.94,
+                    "word": " that",
+                    "probability": 0.90576171875
+                },
+                {
+                    "start": 54.94,
+                    "end": 55.08,
+                    "word": " can",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 55.08,
+                    "end": 55.4,
+                    "word": " also",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 55.4,
+                    "end": 56.04,
+                    "word": " handle",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 56.04,
+                    "end": 57.06,
+                    "word": " the",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 57.06,
+                    "end": 57.28,
+                    "word": " more",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 57.28,
+                    "end": 57.74,
+                    "word": " rare",
+                    "probability": 0.998046875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 9,
+            "seek": 5844,
+            "start": 58.64,
+            "end": 59.68,
+            "text": " varieties of Swedish.",
+            "tokens": [
+                50373,
+                22092,
+                295,
+                23523,
+                13,
+                50433
+            ],
+            "avg_logprob": -0.5541056053979057,
+            "compression_ratio": 0.7241379310344828,
+            "no_speech_prob": 0.2237548828125,
+            "words": [
+                {
+                    "start": 58.64,
+                    "end": 59.16,
+                    "word": " varieties",
+                    "probability": 0.456787109375
+                },
+                {
+                    "start": 59.16,
+                    "end": 59.38,
+                    "word": " of",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 59.38,
+                    "end": 59.68,
+                    "word": " Swedish.",
+                    "probability": 0.95166015625
+                }
+            ],
+            "temperature": 0.2
+        }
+    ],
+    "language": "en",
+    "text": " Trust the text. But I think there's one thing that's especially important for me specifically when it comes to the language models, or I mean the speech-to-text software, and that's a problem with the Swedish language. Because I specifically research Finland Swedish and varieties of Finland Swedish, and all Finland Swedish varieties are quite phonetically different from the Swedish spoken in Sweden. And in my experience, speech-to-text working in Swedish is problematic because they're all calibrated to Sweden Swedish. So they misrecognize many pronunciations in Finland Swedish. So for me personally and for my research it will be very important to have a language model that can also handle the more rare varieties of Swedish."
+}
