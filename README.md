@@ -18,7 +18,7 @@ The Python script "match_whisper_to_gold.py" compares the two transcriptions wor
 
 ## Final Whisper and gold standard trancriptions
 
-The word mismatches are further categorized manually to produce the JSON-files in the folder "final_whisper_and_gold_trancriptions".
+The word mismatches are further categorized manually to produce the JSON-files in the folder "final_whisper_and_gold_trancriptions". This is the main dataset produced and analyzed in the thesis.
 
 ## Analyzing Whisper transcription errors
 
