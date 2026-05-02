@@ -1,0 +1,933 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.54,
+            "text": " Do you remember encountering any technical difficulties?",
+            "tokens": [
+                50364,
+                1144,
+                291,
+                1604,
+                8593,
+                278,
+                604,
+                6191,
+                14399,
+                30,
+                50714
+            ],
+            "avg_logprob": -0.20671875,
+            "compression_ratio": 1.5486111111111112,
+            "no_speech_prob": 0.435302734375,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.9,
+                    "word": " Do",
+                    "probability": 0.74853515625
+                },
+                {
+                    "start": 0.9,
+                    "end": 1.52,
+                    "word": " you",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 1.52,
+                    "end": 2.34,
+                    "word": " remember",
+                    "probability": 0.9873046875
+                },
+                {
+                    "start": 2.34,
+                    "end": 3.66,
+                    "word": " encountering",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 3.66,
+                    "end": 4.1,
+                    "word": " any",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 4.1,
+                    "end": 4.94,
+                    "word": " technical",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 4.94,
+                    "end": 6.54,
+                    "word": " difficulties?",
+                    "probability": 0.994140625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 13.02,
+            "end": 19.98,
+            "text": " Like with the software crashing or something like that, not to do with the quality of the product?",
+            "tokens": [
+                51014,
+                1743,
+                365,
+                264,
+                4722,
+                26900,
+                420,
+                746,
+                411,
+                300,
+                11,
+                406,
+                281,
+                360,
+                365,
+                264,
+                3125,
+                295,
+                264,
+                1674,
+                30,
+                51364
+            ],
+            "avg_logprob": -0.20671875,
+            "compression_ratio": 1.5486111111111112,
+            "no_speech_prob": 0.435302734375,
+            "words": [
+                {
+                    "start": 13.02,
+                    "end": 13.84,
+                    "word": " Like",
+                    "probability": 0.6044921875
+                },
+                {
+                    "start": 13.84,
+                    "end": 14.24,
+                    "word": " with",
+                    "probability": 0.7841796875
+                },
+                {
+                    "start": 14.24,
+                    "end": 14.42,
+                    "word": " the",
+                    "probability": 0.97607421875
+                },
+                {
+                    "start": 14.42,
+                    "end": 15.04,
+                    "word": " software",
+                    "probability": 0.94287109375
+                },
+                {
+                    "start": 15.04,
+                    "end": 15.66,
+                    "word": " crashing",
+                    "probability": 0.9892578125
+                },
+                {
+                    "start": 15.66,
+                    "end": 16.16,
+                    "word": " or",
+                    "probability": 0.75
+                },
+                {
+                    "start": 16.16,
+                    "end": 16.54,
+                    "word": " something",
+                    "probability": 0.97021484375
+                },
+                {
+                    "start": 16.54,
+                    "end": 17.32,
+                    "word": " like",
+                    "probability": 0.96044921875
+                },
+                {
+                    "start": 17.32,
+                    "end": 17.78,
+                    "word": " that,",
+                    "probability": 0.90966796875
+                },
+                {
+                    "start": 17.82,
+                    "end": 18.02,
+                    "word": " not",
+                    "probability": 0.94580078125
+                },
+                {
+                    "start": 18.02,
+                    "end": 18.24,
+                    "word": " to",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 18.24,
+                    "end": 18.34,
+                    "word": " do",
+                    "probability": 0.947265625
+                },
+                {
+                    "start": 18.34,
+                    "end": 18.8,
+                    "word": " with",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 18.8,
+                    "end": 18.86,
+                    "word": " the",
+                    "probability": 0.90625
+                },
+                {
+                    "start": 18.86,
+                    "end": 19.22,
+                    "word": " quality",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 19.22,
+                    "end": 19.44,
+                    "word": " of",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 19.44,
+                    "end": 19.66,
+                    "word": " the",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 19.66,
+                    "end": 19.98,
+                    "word": " product?",
+                    "probability": 0.99169921875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 20.56,
+            "end": 24.29,
+            "text": " Yes, anything that you can remember that you had difficulties with.",
+            "tokens": [
+                51364,
+                1079,
+                11,
+                1340,
+                300,
+                291,
+                393,
+                1604,
+                300,
+                291,
+                632,
+                14399,
+                365,
+                13,
+                51564
+            ],
+            "avg_logprob": -0.20671875,
+            "compression_ratio": 1.5486111111111112,
+            "no_speech_prob": 0.435302734375,
+            "words": [
+                {
+                    "start": 20.56,
+                    "end": 20.82,
+                    "word": " Yes,",
+                    "probability": 0.9033203125
+                },
+                {
+                    "start": 20.82,
+                    "end": 21.18,
+                    "word": " anything",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 21.18,
+                    "end": 21.38,
+                    "word": " that",
+                    "probability": 0.95068359375
+                },
+                {
+                    "start": 21.38,
+                    "end": 21.48,
+                    "word": " you",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 21.48,
+                    "end": 21.7,
+                    "word": " can",
+                    "probability": 0.9814453125
+                },
+                {
+                    "start": 21.7,
+                    "end": 22.16,
+                    "word": " remember",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 22.16,
+                    "end": 22.62,
+                    "word": " that",
+                    "probability": 0.95263671875
+                },
+                {
+                    "start": 22.62,
+                    "end": 22.96,
+                    "word": " you",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 22.96,
+                    "end": 23.24,
+                    "word": " had",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 23.24,
+                    "end": 23.84,
+                    "word": " difficulties",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 23.84,
+                    "end": 24.29,
+                    "word": " with.",
+                    "probability": 0.990234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2429,
+            "start": 25.21,
+            "end": 33.57,
+            "text": " Maybe the software was very slow, maybe it didn't transcribe the entire audio that you had, anything like that?",
+            "tokens": [
+                50364,
+                2704,
+                264,
+                4722,
+                390,
+                588,
+                2964,
+                11,
+                1310,
+                309,
+                994,
+                380,
+                1145,
+                8056,
+                264,
+                2302,
+                6278,
+                300,
+                291,
+                632,
+                11,
+                1340,
+                411,
+                300,
+                30,
+                50814
+            ],
+            "avg_logprob": -0.1730034770237075,
+            "compression_ratio": 1.5733333333333333,
+            "no_speech_prob": 0.09393310546875,
+            "words": [
+                {
+                    "start": 25.21,
+                    "end": 25.83,
+                    "word": " Maybe",
+                    "probability": 0.12371826171875
+                },
+                {
+                    "start": 25.83,
+                    "end": 26.45,
+                    "word": " the",
+                    "probability": 0.9501953125
+                },
+                {
+                    "start": 26.45,
+                    "end": 26.71,
+                    "word": " software",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 26.71,
+                    "end": 26.97,
+                    "word": " was",
+                    "probability": 0.9814453125
+                },
+                {
+                    "start": 26.97,
+                    "end": 27.41,
+                    "word": " very",
+                    "probability": 0.9453125
+                },
+                {
+                    "start": 27.41,
+                    "end": 28.03,
+                    "word": " slow,",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 28.61,
+                    "end": 28.81,
+                    "word": " maybe",
+                    "probability": 0.92529296875
+                },
+                {
+                    "start": 28.81,
+                    "end": 29.71,
+                    "word": " it",
+                    "probability": 0.890625
+                },
+                {
+                    "start": 29.71,
+                    "end": 30.17,
+                    "word": " didn't",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 30.17,
+                    "end": 30.81,
+                    "word": " transcribe",
+                    "probability": 0.985107421875
+                },
+                {
+                    "start": 30.81,
+                    "end": 31.09,
+                    "word": " the",
+                    "probability": 0.962890625
+                },
+                {
+                    "start": 31.09,
+                    "end": 31.49,
+                    "word": " entire",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 31.49,
+                    "end": 31.87,
+                    "word": " audio",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 31.87,
+                    "end": 32.05,
+                    "word": " that",
+                    "probability": 0.89794921875
+                },
+                {
+                    "start": 32.05,
+                    "end": 32.23,
+                    "word": " you",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 32.23,
+                    "end": 32.45,
+                    "word": " had,",
+                    "probability": 0.9873046875
+                },
+                {
+                    "start": 32.47,
+                    "end": 32.77,
+                    "word": " anything",
+                    "probability": 0.97705078125
+                },
+                {
+                    "start": 32.77,
+                    "end": 33.03,
+                    "word": " like",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 33.03,
+                    "end": 33.57,
+                    "word": " that?",
+                    "probability": 0.99853515625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2429,
+            "start": 34.71,
+            "end": 39.59,
+            "text": " Yeah, well, it is slow. It is slow and it does heat up my computer.",
+            "tokens": [
+                50814,
+                865,
+                11,
+                731,
+                11,
+                309,
+                307,
+                2964,
+                13,
+                467,
+                307,
+                2964,
+                293,
+                309,
+                775,
+                3738,
+                493,
+                452,
+                3820,
+                13,
+                51114
+            ],
+            "avg_logprob": -0.1730034770237075,
+            "compression_ratio": 1.5733333333333333,
+            "no_speech_prob": 0.09393310546875,
+            "words": [
+                {
+                    "start": 34.71,
+                    "end": 35.21,
+                    "word": " Yeah,",
+                    "probability": 0.68701171875
+                },
+                {
+                    "start": 35.25,
+                    "end": 35.41,
+                    "word": " well,",
+                    "probability": 0.89697265625
+                },
+                {
+                    "start": 35.43,
+                    "end": 35.53,
+                    "word": " it",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 35.53,
+                    "end": 35.79,
+                    "word": " is",
+                    "probability": 0.95654296875
+                },
+                {
+                    "start": 35.79,
+                    "end": 36.11,
+                    "word": " slow.",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 36.47,
+                    "end": 36.61,
+                    "word": " It",
+                    "probability": 0.94189453125
+                },
+                {
+                    "start": 36.61,
+                    "end": 36.81,
+                    "word": " is",
+                    "probability": 0.5712890625
+                },
+                {
+                    "start": 36.81,
+                    "end": 37.03,
+                    "word": " slow",
+                    "probability": 0.95556640625
+                },
+                {
+                    "start": 37.03,
+                    "end": 37.45,
+                    "word": " and",
+                    "probability": 0.8203125
+                },
+                {
+                    "start": 37.45,
+                    "end": 37.99,
+                    "word": " it",
+                    "probability": 0.97265625
+                },
+                {
+                    "start": 37.99,
+                    "end": 38.39,
+                    "word": " does",
+                    "probability": 0.98046875
+                },
+                {
+                    "start": 38.39,
+                    "end": 38.63,
+                    "word": " heat",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 38.63,
+                    "end": 38.83,
+                    "word": " up",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 38.83,
+                    "end": 39.01,
+                    "word": " my",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 39.01,
+                    "end": 39.59,
+                    "word": " computer.",
+                    "probability": 0.9990234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2429,
+            "start": 40.17,
+            "end": 54.27,
+            "text": " So that's something because I always had it in the background. My interviews were around one hour, so it really took, I'd guess, four hours for the large model to transcribe.",
+            "tokens": [
+                51114,
+                407,
+                300,
+                311,
+                746,
+                570,
+                286,
+                1009,
+                632,
+                309,
+                294,
+                264,
+                3678,
+                13,
+                1222,
+                12318,
+                645,
+                926,
+                472,
+                1773,
+                11,
+                370,
+                309,
+                534,
+                1890,
+                11,
+                286,
+                1116,
+                2041,
+                11,
+                1451,
+                2496,
+                337,
+                264,
+                2416,
+                2316,
+                281,
+                1145,
+                8056,
+                13,
+                51814
+            ],
+            "avg_logprob": -0.1730034770237075,
+            "compression_ratio": 1.5733333333333333,
+            "no_speech_prob": 0.09393310546875,
+            "words": [
+                {
+                    "start": 40.17,
+                    "end": 40.17,
+                    "word": " So",
+                    "probability": 0.6962890625
+                },
+                {
+                    "start": 40.27,
+                    "end": 41.07,
+                    "word": " that's",
+                    "probability": 0.8984375
+                },
+                {
+                    "start": 41.07,
+                    "end": 41.31,
+                    "word": " something",
+                    "probability": 0.84814453125
+                },
+                {
+                    "start": 41.31,
+                    "end": 41.57,
+                    "word": " because",
+                    "probability": 0.7529296875
+                },
+                {
+                    "start": 41.57,
+                    "end": 41.79,
+                    "word": " I",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 41.79,
+                    "end": 42.13,
+                    "word": " always",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 42.13,
+                    "end": 42.27,
+                    "word": " had",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 42.27,
+                    "end": 42.47,
+                    "word": " it",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 42.47,
+                    "end": 42.55,
+                    "word": " in",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 42.55,
+                    "end": 42.75,
+                    "word": " the",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 42.75,
+                    "end": 43.13,
+                    "word": " background.",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 44.35,
+                    "end": 44.75,
+                    "word": " My",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 44.75,
+                    "end": 45.25,
+                    "word": " interviews",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 45.25,
+                    "end": 45.65,
+                    "word": " were",
+                    "probability": 0.9736328125
+                },
+                {
+                    "start": 45.65,
+                    "end": 46.07,
+                    "word": " around",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 46.07,
+                    "end": 46.63,
+                    "word": " one",
+                    "probability": 0.9208984375
+                },
+                {
+                    "start": 46.63,
+                    "end": 47.05,
+                    "word": " hour,",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 47.05,
+                    "end": 47.33,
+                    "word": " so",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 47.33,
+                    "end": 47.49,
+                    "word": " it",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 47.49,
+                    "end": 47.93,
+                    "word": " really",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 47.93,
+                    "end": 48.63,
+                    "word": " took,",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 49.17,
+                    "end": 50.29,
+                    "word": " I'd",
+                    "probability": 0.921630859375
+                },
+                {
+                    "start": 50.29,
+                    "end": 50.51,
+                    "word": " guess,",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 50.71,
+                    "end": 51.01,
+                    "word": " four",
+                    "probability": 0.94775390625
+                },
+                {
+                    "start": 51.01,
+                    "end": 51.47,
+                    "word": " hours",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 51.47,
+                    "end": 51.77,
+                    "word": " for",
+                    "probability": 0.98388671875
+                },
+                {
+                    "start": 51.77,
+                    "end": 51.99,
+                    "word": " the",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 51.99,
+                    "end": 52.85,
+                    "word": " large",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 52.85,
+                    "end": 53.77,
+                    "word": " model",
+                    "probability": 0.94140625
+                },
+                {
+                    "start": 53.77,
+                    "end": 54.05,
+                    "word": " to",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 54.05,
+                    "end": 54.27,
+                    "word": " transcribe.",
+                    "probability": 0.996337890625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 5427,
+            "start": 54.27,
+            "end": 59.91,
+            "text": " So it was really slow and it did slow my computer.",
+            "tokens": [
+                50364,
+                407,
+                309,
+                390,
+                534,
+                2964,
+                293,
+                309,
+                630,
+                2964,
+                452,
+                3820,
+                13,
+                50614
+            ],
+            "avg_logprob": -0.09700521032015483,
+            "compression_ratio": 0.9803921568627451,
+            "no_speech_prob": 0.1904296875,
+            "words": [
+                {
+                    "start": 54.27,
+                    "end": 54.69,
+                    "word": " So",
+                    "probability": 0.2025146484375
+                },
+                {
+                    "start": 54.69,
+                    "end": 54.85,
+                    "word": " it",
+                    "probability": 0.88525390625
+                },
+                {
+                    "start": 54.85,
+                    "end": 55.09,
+                    "word": " was",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 55.09,
+                    "end": 55.45,
+                    "word": " really",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 55.45,
+                    "end": 55.71,
+                    "word": " slow",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 55.71,
+                    "end": 56.01,
+                    "word": " and",
+                    "probability": 0.6640625
+                },
+                {
+                    "start": 56.01,
+                    "end": 56.97,
+                    "word": " it",
+                    "probability": 0.97802734375
+                },
+                {
+                    "start": 56.97,
+                    "end": 57.63,
+                    "word": " did",
+                    "probability": 0.70458984375
+                },
+                {
+                    "start": 57.63,
+                    "end": 58.93,
+                    "word": " slow",
+                    "probability": 0.98583984375
+                },
+                {
+                    "start": 58.93,
+                    "end": 59.37,
+                    "word": " my",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 59.37,
+                    "end": 59.91,
+                    "word": " computer.",
+                    "probability": 0.9833984375
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " Do you remember encountering any technical difficulties? Like with the software crashing or something like that, not to do with the quality of the product? Yes, anything that you can remember that you had difficulties with. Maybe the software was very slow, maybe it didn't transcribe the entire audio that you had, anything like that? Yeah, well, it is slow. It is slow and it does heat up my computer. So that's something because I always had it in the background. My interviews were around one hour, so it really took, I'd guess, four hours for the large model to transcribe. So it was really slow and it did slow my computer."
+}

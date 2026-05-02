@@ -1,0 +1,1069 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.82,
+            "text": " Like, as long as you just leave it be, it worked, but yeah, it was slow.",
+            "tokens": [
+                50364,
+                1743,
+                11,
+                382,
+                938,
+                382,
+                291,
+                445,
+                1856,
+                309,
+                312,
+                11,
+                309,
+                2732,
+                11,
+                457,
+                1338,
+                11,
+                309,
+                390,
+                2964,
+                13,
+                50640
+            ],
+            "avg_logprob": -0.26974586995093375,
+            "compression_ratio": 1.5610859728506787,
+            "no_speech_prob": 0.810546875,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.7,
+                    "word": " Like,",
+                    "probability": 0.051727294921875
+                },
+                {
+                    "start": 1.08,
+                    "end": 1.22,
+                    "word": " as",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 1.22,
+                    "end": 1.38,
+                    "word": " long",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 1.38,
+                    "end": 1.5,
+                    "word": " as",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 1.5,
+                    "end": 1.62,
+                    "word": " you",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 1.62,
+                    "end": 1.9,
+                    "word": " just",
+                    "probability": 0.974609375
+                },
+                {
+                    "start": 1.9,
+                    "end": 2.02,
+                    "word": " leave",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 2.02,
+                    "end": 2.24,
+                    "word": " it",
+                    "probability": 0.97802734375
+                },
+                {
+                    "start": 2.24,
+                    "end": 2.44,
+                    "word": " be,",
+                    "probability": 0.92333984375
+                },
+                {
+                    "start": 2.78,
+                    "end": 3.0,
+                    "word": " it",
+                    "probability": 0.9892578125
+                },
+                {
+                    "start": 3.0,
+                    "end": 3.38,
+                    "word": " worked,",
+                    "probability": 0.8701171875
+                },
+                {
+                    "start": 3.4,
+                    "end": 3.68,
+                    "word": " but",
+                    "probability": 0.98583984375
+                },
+                {
+                    "start": 3.68,
+                    "end": 3.9,
+                    "word": " yeah,",
+                    "probability": 0.8193359375
+                },
+                {
+                    "start": 3.96,
+                    "end": 4.0,
+                    "word": " it",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 4.0,
+                    "end": 4.32,
+                    "word": " was",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 4.32,
+                    "end": 4.82,
+                    "word": " slow.",
+                    "probability": 0.97021484375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.82,
+            "end": 15.76,
+            "text": " Okay, yeah. And do you remember from your audio, maybe you happen to have different dialects or slang,",
+            "tokens": [
+                50640,
+                1033,
+                11,
+                1338,
+                13,
+                400,
+                360,
+                291,
+                1604,
+                490,
+                428,
+                6278,
+                11,
+                1310,
+                291,
+                1051,
+                281,
+                362,
+                819,
+                24652,
+                82,
+                420,
+                42517,
+                11,
+                51148
+            ],
+            "avg_logprob": -0.26974586995093375,
+            "compression_ratio": 1.5610859728506787,
+            "no_speech_prob": 0.810546875,
+            "words": [
+                {
+                    "start": 5.82,
+                    "end": 6.02,
+                    "word": " Okay,",
+                    "probability": 0.478759765625
+                },
+                {
+                    "start": 6.18,
+                    "end": 6.7,
+                    "word": " yeah.",
+                    "probability": 0.896484375
+                },
+                {
+                    "start": 8.44,
+                    "end": 8.72,
+                    "word": " And",
+                    "probability": 0.75537109375
+                },
+                {
+                    "start": 8.72,
+                    "end": 8.94,
+                    "word": " do",
+                    "probability": 0.94287109375
+                },
+                {
+                    "start": 8.94,
+                    "end": 9.08,
+                    "word": " you",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 9.08,
+                    "end": 9.68,
+                    "word": " remember",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 9.68,
+                    "end": 11.1,
+                    "word": " from",
+                    "probability": 0.650390625
+                },
+                {
+                    "start": 11.1,
+                    "end": 11.48,
+                    "word": " your",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 11.48,
+                    "end": 12.04,
+                    "word": " audio,",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 12.36,
+                    "end": 12.6,
+                    "word": " maybe",
+                    "probability": 0.9892578125
+                },
+                {
+                    "start": 12.6,
+                    "end": 12.8,
+                    "word": " you",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 12.8,
+                    "end": 13.02,
+                    "word": " happen",
+                    "probability": 0.459228515625
+                },
+                {
+                    "start": 13.02,
+                    "end": 13.26,
+                    "word": " to",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 13.26,
+                    "end": 13.56,
+                    "word": " have",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 13.56,
+                    "end": 14.14,
+                    "word": " different",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 14.14,
+                    "end": 15.02,
+                    "word": " dialects",
+                    "probability": 0.993896484375
+                },
+                {
+                    "start": 15.02,
+                    "end": 15.4,
+                    "word": " or",
+                    "probability": 0.705078125
+                },
+                {
+                    "start": 15.4,
+                    "end": 15.76,
+                    "word": " slang,",
+                    "probability": 0.986328125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 15.96,
+            "end": 21.88,
+            "text": " or otherwise the speech might have been a bit unclear. So do you remember that the tool had any issues with that?",
+            "tokens": [
+                51148,
+                420,
+                5911,
+                264,
+                6218,
+                1062,
+                362,
+                668,
+                257,
+                857,
+                25636,
+                13,
+                407,
+                360,
+                291,
+                1604,
+                300,
+                264,
+                2290,
+                632,
+                604,
+                2663,
+                365,
+                300,
+                30,
+                51500
+            ],
+            "avg_logprob": -0.26974586995093375,
+            "compression_ratio": 1.5610859728506787,
+            "no_speech_prob": 0.810546875,
+            "words": [
+                {
+                    "start": 15.96,
+                    "end": 16.12,
+                    "word": " or",
+                    "probability": 0.97998046875
+                },
+                {
+                    "start": 16.12,
+                    "end": 16.46,
+                    "word": " otherwise",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 16.46,
+                    "end": 16.78,
+                    "word": " the",
+                    "probability": 0.80810546875
+                },
+                {
+                    "start": 16.78,
+                    "end": 17.06,
+                    "word": " speech",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 17.06,
+                    "end": 17.36,
+                    "word": " might",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 17.36,
+                    "end": 17.5,
+                    "word": " have",
+                    "probability": 0.7880859375
+                },
+                {
+                    "start": 17.5,
+                    "end": 17.62,
+                    "word": " been",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 17.62,
+                    "end": 17.72,
+                    "word": " a",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 17.72,
+                    "end": 17.88,
+                    "word": " bit",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 17.88,
+                    "end": 18.3,
+                    "word": " unclear.",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 18.82,
+                    "end": 19.04,
+                    "word": " So",
+                    "probability": 0.947265625
+                },
+                {
+                    "start": 19.04,
+                    "end": 19.22,
+                    "word": " do",
+                    "probability": 0.857421875
+                },
+                {
+                    "start": 19.22,
+                    "end": 19.36,
+                    "word": " you",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 19.36,
+                    "end": 19.66,
+                    "word": " remember",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 19.66,
+                    "end": 19.86,
+                    "word": " that",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 19.86,
+                    "end": 20.16,
+                    "word": " the",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 20.16,
+                    "end": 20.38,
+                    "word": " tool",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 20.38,
+                    "end": 20.78,
+                    "word": " had",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 20.78,
+                    "end": 21.04,
+                    "word": " any",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 21.04,
+                    "end": 21.38,
+                    "word": " issues",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 21.38,
+                    "end": 21.64,
+                    "word": " with",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 21.64,
+                    "end": 21.88,
+                    "word": " that?",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 22.92,
+            "end": 27.62,
+            "text": " Yeah, absolutely. That's very good that you asked that,",
+            "tokens": [
+                51500,
+                865,
+                11,
+                3122,
+                13,
+                663,
+                311,
+                588,
+                665,
+                300,
+                291,
+                2351,
+                300,
+                11,
+                51736
+            ],
+            "avg_logprob": -0.26974586995093375,
+            "compression_ratio": 1.5610859728506787,
+            "no_speech_prob": 0.810546875,
+            "words": [
+                {
+                    "start": 22.92,
+                    "end": 23.32,
+                    "word": " Yeah,",
+                    "probability": 0.90673828125
+                },
+                {
+                    "start": 23.38,
+                    "end": 23.76,
+                    "word": " absolutely.",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 25.0,
+                    "end": 25.56,
+                    "word": " That's",
+                    "probability": 0.692626953125
+                },
+                {
+                    "start": 25.56,
+                    "end": 25.88,
+                    "word": " very",
+                    "probability": 0.94287109375
+                },
+                {
+                    "start": 25.88,
+                    "end": 26.02,
+                    "word": " good",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 26.02,
+                    "end": 26.24,
+                    "word": " that",
+                    "probability": 0.96875
+                },
+                {
+                    "start": 26.24,
+                    "end": 26.52,
+                    "word": " you",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 26.52,
+                    "end": 27.3,
+                    "word": " asked",
+                    "probability": 0.8505859375
+                },
+                {
+                    "start": 27.3,
+                    "end": 27.62,
+                    "word": " that,",
+                    "probability": 0.9873046875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2762,
+            "start": 27.62,
+            "end": 34.44,
+            "text": " because I had several interviewees of which one person spoke really fast.",
+            "tokens": [
+                50364,
+                570,
+                286,
+                632,
+                2940,
+                728,
+                12702,
+                826,
+                279,
+                295,
+                597,
+                472,
+                954,
+                7179,
+                534,
+                2370,
+                13,
+                50712
+            ],
+            "avg_logprob": -0.20568427340737705,
+            "compression_ratio": 1.5625,
+            "no_speech_prob": 0.12060546875,
+            "words": [
+                {
+                    "start": 27.62,
+                    "end": 27.9,
+                    "word": " because",
+                    "probability": 0.78369140625
+                },
+                {
+                    "start": 27.9,
+                    "end": 28.14,
+                    "word": " I",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 28.14,
+                    "end": 29.2,
+                    "word": " had",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 29.2,
+                    "end": 29.84,
+                    "word": " several",
+                    "probability": 0.9033203125
+                },
+                {
+                    "start": 29.84,
+                    "end": 30.62,
+                    "word": " interviewees",
+                    "probability": 0.9246826171875
+                },
+                {
+                    "start": 30.62,
+                    "end": 31.06,
+                    "word": " of",
+                    "probability": 0.81005859375
+                },
+                {
+                    "start": 31.06,
+                    "end": 31.76,
+                    "word": " which",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 31.76,
+                    "end": 32.28,
+                    "word": " one",
+                    "probability": 0.96044921875
+                },
+                {
+                    "start": 32.28,
+                    "end": 32.8,
+                    "word": " person",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 32.8,
+                    "end": 33.26,
+                    "word": " spoke",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 33.26,
+                    "end": 33.78,
+                    "word": " really",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 33.78,
+                    "end": 34.44,
+                    "word": " fast.",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2762,
+            "start": 35.32,
+            "end": 40.78,
+            "text": " I had no problem understanding them when I was doing the interview in the room,",
+            "tokens": [
+                50712,
+                286,
+                632,
+                572,
+                1154,
+                3701,
+                552,
+                562,
+                286,
+                390,
+                884,
+                264,
+                4049,
+                294,
+                264,
+                1808,
+                11,
+                51024
+            ],
+            "avg_logprob": -0.20568427340737705,
+            "compression_ratio": 1.5625,
+            "no_speech_prob": 0.12060546875,
+            "words": [
+                {
+                    "start": 35.32,
+                    "end": 35.54,
+                    "word": " I",
+                    "probability": 0.68212890625
+                },
+                {
+                    "start": 35.54,
+                    "end": 36.02,
+                    "word": " had",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 36.02,
+                    "end": 36.46,
+                    "word": " no",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 36.46,
+                    "end": 36.92,
+                    "word": " problem",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 36.92,
+                    "end": 37.46,
+                    "word": " understanding",
+                    "probability": 0.95947265625
+                },
+                {
+                    "start": 37.46,
+                    "end": 37.84,
+                    "word": " them",
+                    "probability": 0.978515625
+                },
+                {
+                    "start": 37.84,
+                    "end": 39.16,
+                    "word": " when",
+                    "probability": 0.7900390625
+                },
+                {
+                    "start": 39.16,
+                    "end": 39.36,
+                    "word": " I",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 39.36,
+                    "end": 39.52,
+                    "word": " was",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 39.52,
+                    "end": 39.66,
+                    "word": " doing",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 39.66,
+                    "end": 39.92,
+                    "word": " the",
+                    "probability": 0.98388671875
+                },
+                {
+                    "start": 39.92,
+                    "end": 40.22,
+                    "word": " interview",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 40.22,
+                    "end": 40.42,
+                    "word": " in",
+                    "probability": 0.974609375
+                },
+                {
+                    "start": 40.42,
+                    "end": 40.6,
+                    "word": " the",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 40.6,
+                    "end": 40.78,
+                    "word": " room,",
+                    "probability": 0.998046875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 2762,
+            "start": 40.94,
+            "end": 49.74,
+            "text": " but then later on Whisper really struggled with understanding that and it made a lot of mistakes",
+            "tokens": [
+                51024,
+                457,
+                550,
+                1780,
+                322,
+                41132,
+                610,
+                534,
+                19023,
+                365,
+                3701,
+                300,
+                293,
+                309,
+                1027,
+                257,
+                688,
+                295,
+                8038,
+                51472
+            ],
+            "avg_logprob": -0.20568427340737705,
+            "compression_ratio": 1.5625,
+            "no_speech_prob": 0.12060546875,
+            "words": [
+                {
+                    "start": 40.94,
+                    "end": 41.34,
+                    "word": " but",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 41.34,
+                    "end": 42.0,
+                    "word": " then",
+                    "probability": 0.9365234375
+                },
+                {
+                    "start": 42.0,
+                    "end": 42.34,
+                    "word": " later",
+                    "probability": 0.97998046875
+                },
+                {
+                    "start": 42.34,
+                    "end": 43.12,
+                    "word": " on",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 43.12,
+                    "end": 43.52,
+                    "word": " Whisper",
+                    "probability": 0.72314453125
+                },
+                {
+                    "start": 43.52,
+                    "end": 43.98,
+                    "word": " really",
+                    "probability": 0.97119140625
+                },
+                {
+                    "start": 43.98,
+                    "end": 44.52,
+                    "word": " struggled",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 44.52,
+                    "end": 45.86,
+                    "word": " with",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 45.86,
+                    "end": 46.82,
+                    "word": " understanding",
+                    "probability": 0.97900390625
+                },
+                {
+                    "start": 46.82,
+                    "end": 48.08,
+                    "word": " that",
+                    "probability": 0.96337890625
+                },
+                {
+                    "start": 48.08,
+                    "end": 48.3,
+                    "word": " and",
+                    "probability": 0.525390625
+                },
+                {
+                    "start": 48.3,
+                    "end": 48.48,
+                    "word": " it",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 48.48,
+                    "end": 48.66,
+                    "word": " made",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 48.66,
+                    "end": 48.86,
+                    "word": " a",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 48.86,
+                    "end": 49.02,
+                    "word": " lot",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 49.02,
+                    "end": 49.34,
+                    "word": " of",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 49.34,
+                    "end": 49.74,
+                    "word": " mistakes",
+                    "probability": 0.99658203125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 8,
+            "seek": 4974,
+            "start": 49.74,
+            "end": 59.84,
+            "text": " and just left a lot of words out. So I had to spend quite a lot of time editing that.",
+            "tokens": [
+                50368,
+                293,
+                445,
+                1411,
+                257,
+                688,
+                295,
+                2283,
+                484,
+                13,
+                407,
+                286,
+                632,
+                281,
+                3496,
+                1596,
+                257,
+                688,
+                295,
+                565,
+                10000,
+                300,
+                13,
+                50872
+            ],
+            "avg_logprob": -0.19046875476837158,
+            "compression_ratio": 1.1333333333333333,
+            "no_speech_prob": 0.70849609375,
+            "words": [
+                {
+                    "start": 49.74,
+                    "end": 50.24,
+                    "word": " and",
+                    "probability": 0.90185546875
+                },
+                {
+                    "start": 50.24,
+                    "end": 51.04,
+                    "word": " just",
+                    "probability": 0.94482421875
+                },
+                {
+                    "start": 51.04,
+                    "end": 52.48,
+                    "word": " left",
+                    "probability": 0.94384765625
+                },
+                {
+                    "start": 52.48,
+                    "end": 52.72,
+                    "word": " a",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 52.72,
+                    "end": 52.9,
+                    "word": " lot",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 52.9,
+                    "end": 53.2,
+                    "word": " of",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 53.2,
+                    "end": 53.44,
+                    "word": " words",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 53.44,
+                    "end": 54.04,
+                    "word": " out.",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 55.02,
+                    "end": 55.04,
+                    "word": " So",
+                    "probability": 0.82568359375
+                },
+                {
+                    "start": 55.04,
+                    "end": 56.96,
+                    "word": " I",
+                    "probability": 0.435546875
+                },
+                {
+                    "start": 56.96,
+                    "end": 57.16,
+                    "word": " had",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 57.16,
+                    "end": 57.34,
+                    "word": " to",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 57.34,
+                    "end": 57.48,
+                    "word": " spend",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 57.48,
+                    "end": 57.76,
+                    "word": " quite",
+                    "probability": 0.9736328125
+                },
+                {
+                    "start": 57.76,
+                    "end": 57.88,
+                    "word": " a",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 57.88,
+                    "end": 58.08,
+                    "word": " lot",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 58.08,
+                    "end": 58.26,
+                    "word": " of",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 58.26,
+                    "end": 58.84,
+                    "word": " time",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 58.84,
+                    "end": 59.4,
+                    "word": " editing",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 59.4,
+                    "end": 59.84,
+                    "word": " that.",
+                    "probability": 0.98681640625
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " Like, as long as you just leave it be, it worked, but yeah, it was slow. Okay, yeah. And do you remember from your audio, maybe you happen to have different dialects or slang, or otherwise the speech might have been a bit unclear. So do you remember that the tool had any issues with that? Yeah, absolutely. That's very good that you asked that, because I had several interviewees of which one person spoke really fast. I had no problem understanding them when I was doing the interview in the room, but then later on Whisper really struggled with understanding that and it made a lot of mistakes and just left a lot of words out. So I had to spend quite a lot of time editing that."
+}

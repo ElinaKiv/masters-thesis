@@ -1,0 +1,1110 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.32,
+            "text": " Yes, now we have the recording on and we can start with the interview.",
+            "tokens": [
+                50364,
+                1079,
+                11,
+                586,
+                321,
+                362,
+                264,
+                6613,
+                322,
+                293,
+                321,
+                393,
+                722,
+                365,
+                264,
+                4049,
+                13,
+                50614
+            ],
+            "avg_logprob": -0.17684658633714373,
+            "compression_ratio": 1.6396396396396395,
+            "no_speech_prob": 0.308837890625,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.86,
+                    "word": " Yes,",
+                    "probability": 0.470703125
+                },
+                {
+                    "start": 0.88,
+                    "end": 1.22,
+                    "word": " now",
+                    "probability": 0.95361328125
+                },
+                {
+                    "start": 1.22,
+                    "end": 1.36,
+                    "word": " we",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 1.36,
+                    "end": 1.58,
+                    "word": " have",
+                    "probability": 0.9873046875
+                },
+                {
+                    "start": 1.58,
+                    "end": 1.84,
+                    "word": " the",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 1.84,
+                    "end": 2.12,
+                    "word": " recording",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 2.12,
+                    "end": 2.4,
+                    "word": " on",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 2.4,
+                    "end": 2.52,
+                    "word": " and",
+                    "probability": 0.8017578125
+                },
+                {
+                    "start": 2.52,
+                    "end": 2.66,
+                    "word": " we",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 2.66,
+                    "end": 2.92,
+                    "word": " can",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 2.92,
+                    "end": 3.3,
+                    "word": " start",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 3.3,
+                    "end": 3.6,
+                    "word": " with",
+                    "probability": 0.82373046875
+                },
+                {
+                    "start": 3.6,
+                    "end": 3.76,
+                    "word": " the",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 3.76,
+                    "end": 4.32,
+                    "word": " interview.",
+                    "probability": 0.99755859375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.22,
+            "end": 12.9,
+            "text": " First I would like to ask you about your research area. So what is your research area with just your own words?",
+            "tokens": [
+                50614,
+                2386,
+                286,
+                576,
+                411,
+                281,
+                1029,
+                291,
+                466,
+                428,
+                2132,
+                1859,
+                13,
+                407,
+                437,
+                307,
+                428,
+                2132,
+                1859,
+                365,
+                445,
+                428,
+                1065,
+                2283,
+                30,
+                51014
+            ],
+            "avg_logprob": -0.17684658633714373,
+            "compression_ratio": 1.6396396396396395,
+            "no_speech_prob": 0.308837890625,
+            "words": [
+                {
+                    "start": 5.22,
+                    "end": 5.82,
+                    "word": " First",
+                    "probability": 0.4140625
+                },
+                {
+                    "start": 5.82,
+                    "end": 6.02,
+                    "word": " I",
+                    "probability": 0.55615234375
+                },
+                {
+                    "start": 6.02,
+                    "end": 6.32,
+                    "word": " would",
+                    "probability": 0.95849609375
+                },
+                {
+                    "start": 6.32,
+                    "end": 6.5,
+                    "word": " like",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 6.5,
+                    "end": 6.7,
+                    "word": " to",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 6.7,
+                    "end": 6.94,
+                    "word": " ask",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 6.94,
+                    "end": 7.1,
+                    "word": " you",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 7.1,
+                    "end": 7.52,
+                    "word": " about",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 7.52,
+                    "end": 8.22,
+                    "word": " your",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 8.22,
+                    "end": 8.92,
+                    "word": " research",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 8.92,
+                    "end": 9.44,
+                    "word": " area.",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 9.92,
+                    "end": 10.06,
+                    "word": " So",
+                    "probability": 0.6025390625
+                },
+                {
+                    "start": 10.06,
+                    "end": 10.36,
+                    "word": " what",
+                    "probability": 0.81005859375
+                },
+                {
+                    "start": 10.36,
+                    "end": 10.58,
+                    "word": " is",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 10.58,
+                    "end": 10.86,
+                    "word": " your",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 10.86,
+                    "end": 11.28,
+                    "word": " research",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 11.28,
+                    "end": 11.56,
+                    "word": " area",
+                    "probability": 0.95068359375
+                },
+                {
+                    "start": 11.56,
+                    "end": 11.9,
+                    "word": " with",
+                    "probability": 0.529296875
+                },
+                {
+                    "start": 11.9,
+                    "end": 12.06,
+                    "word": " just",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 12.06,
+                    "end": 12.28,
+                    "word": " your",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 12.28,
+                    "end": 12.5,
+                    "word": " own",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 12.5,
+                    "end": 12.9,
+                    "word": " words?",
+                    "probability": 0.99853515625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 14.22,
+            "end": 26.74,
+            "text": " Yeah, so I'm conducting my research in Finnish language. So it is in linguistic studies, translational studies, also a little bit in accessibility studies. But yeah, I'm a linguist.",
+            "tokens": [
+                51014,
+                865,
+                11,
+                370,
+                286,
+                478,
+                21749,
+                452,
+                2132,
+                294,
+                38429,
+                2856,
+                13,
+                407,
+                309,
+                307,
+                294,
+                43002,
+                5313,
+                11,
+                5105,
+                1478,
+                5313,
+                11,
+                611,
+                257,
+                707,
+                857,
+                294,
+                15002,
+                5313,
+                13,
+                583,
+                1338,
+                11,
+                286,
+                478,
+                257,
+                21766,
+                468,
+                13,
+                51714
+            ],
+            "avg_logprob": -0.17684658633714373,
+            "compression_ratio": 1.6396396396396395,
+            "no_speech_prob": 0.308837890625,
+            "words": [
+                {
+                    "start": 14.22,
+                    "end": 14.42,
+                    "word": " Yeah,",
+                    "probability": 0.404296875
+                },
+                {
+                    "start": 14.44,
+                    "end": 14.9,
+                    "word": " so",
+                    "probability": 0.90771484375
+                },
+                {
+                    "start": 14.9,
+                    "end": 15.94,
+                    "word": " I'm",
+                    "probability": 0.9560546875
+                },
+                {
+                    "start": 15.94,
+                    "end": 16.34,
+                    "word": " conducting",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 16.34,
+                    "end": 16.64,
+                    "word": " my",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 16.64,
+                    "end": 16.96,
+                    "word": " research",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 16.96,
+                    "end": 17.2,
+                    "word": " in",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 17.2,
+                    "end": 17.4,
+                    "word": " Finnish",
+                    "probability": 0.939453125
+                },
+                {
+                    "start": 17.4,
+                    "end": 17.9,
+                    "word": " language.",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 18.22,
+                    "end": 18.66,
+                    "word": " So",
+                    "probability": 0.9345703125
+                },
+                {
+                    "start": 18.66,
+                    "end": 18.8,
+                    "word": " it",
+                    "probability": 0.94677734375
+                },
+                {
+                    "start": 18.8,
+                    "end": 19.12,
+                    "word": " is",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 19.12,
+                    "end": 19.36,
+                    "word": " in",
+                    "probability": 0.9658203125
+                },
+                {
+                    "start": 19.36,
+                    "end": 19.74,
+                    "word": " linguistic",
+                    "probability": 0.3525390625
+                },
+                {
+                    "start": 19.74,
+                    "end": 20.14,
+                    "word": " studies,",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 20.34,
+                    "end": 20.8,
+                    "word": " translational",
+                    "probability": 0.8720703125
+                },
+                {
+                    "start": 20.8,
+                    "end": 21.26,
+                    "word": " studies,",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 21.52,
+                    "end": 22.22,
+                    "word": " also",
+                    "probability": 0.958984375
+                },
+                {
+                    "start": 22.22,
+                    "end": 22.56,
+                    "word": " a",
+                    "probability": 0.97900390625
+                },
+                {
+                    "start": 22.56,
+                    "end": 22.9,
+                    "word": " little",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 22.9,
+                    "end": 23.08,
+                    "word": " bit",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 23.08,
+                    "end": 23.38,
+                    "word": " in",
+                    "probability": 0.9599609375
+                },
+                {
+                    "start": 23.38,
+                    "end": 23.88,
+                    "word": " accessibility",
+                    "probability": 0.94091796875
+                },
+                {
+                    "start": 23.88,
+                    "end": 24.32,
+                    "word": " studies.",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 24.72,
+                    "end": 25.12,
+                    "word": " But",
+                    "probability": 0.9306640625
+                },
+                {
+                    "start": 25.12,
+                    "end": 25.54,
+                    "word": " yeah,",
+                    "probability": 0.783203125
+                },
+                {
+                    "start": 25.54,
+                    "end": 25.82,
+                    "word": " I'm",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 25.82,
+                    "end": 26.04,
+                    "word": " a",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 26.04,
+                    "end": 26.74,
+                    "word": " linguist.",
+                    "probability": 0.98974609375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2674,
+            "start": 26.74,
+            "end": 31.18,
+            "text": " Okay, great. And what languages are present in your data?",
+            "tokens": [
+                50364,
+                1033,
+                11,
+                869,
+                13,
+                400,
+                437,
+                8650,
+                366,
+                1974,
+                294,
+                428,
+                1412,
+                30,
+                50614
+            ],
+            "avg_logprob": -0.1629595630309161,
+            "compression_ratio": 1.6280487804878048,
+            "no_speech_prob": 0.02294921875,
+            "words": [
+                {
+                    "start": 26.74,
+                    "end": 27.3,
+                    "word": " Okay,",
+                    "probability": 0.449462890625
+                },
+                {
+                    "start": 27.32,
+                    "end": 27.8,
+                    "word": " great.",
+                    "probability": 0.95556640625
+                },
+                {
+                    "start": 28.46,
+                    "end": 28.74,
+                    "word": " And",
+                    "probability": 0.68017578125
+                },
+                {
+                    "start": 28.74,
+                    "end": 29.16,
+                    "word": " what",
+                    "probability": 0.96533203125
+                },
+                {
+                    "start": 29.16,
+                    "end": 29.76,
+                    "word": " languages",
+                    "probability": 0.98583984375
+                },
+                {
+                    "start": 29.76,
+                    "end": 30.16,
+                    "word": " are",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 30.16,
+                    "end": 30.52,
+                    "word": " present",
+                    "probability": 0.9814453125
+                },
+                {
+                    "start": 30.52,
+                    "end": 30.7,
+                    "word": " in",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 30.7,
+                    "end": 30.86,
+                    "word": " your",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 30.86,
+                    "end": 31.18,
+                    "word": " data?",
+                    "probability": 0.99853515625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2674,
+            "start": 32.16,
+            "end": 32.58,
+            "text": " Finnish.",
+            "tokens": [
+                50614,
+                38429,
+                13,
+                50664
+            ],
+            "avg_logprob": -0.1629595630309161,
+            "compression_ratio": 1.6280487804878048,
+            "no_speech_prob": 0.02294921875,
+            "words": [
+                {
+                    "start": 32.16,
+                    "end": 32.58,
+                    "word": " Finnish.",
+                    "probability": 0.93408203125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2674,
+            "start": 33.38,
+            "end": 34.78,
+            "text": " Finnish, only Finnish, okay.",
+            "tokens": [
+                50664,
+                38429,
+                11,
+                787,
+                38429,
+                11,
+                1392,
+                13,
+                50764
+            ],
+            "avg_logprob": -0.1629595630309161,
+            "compression_ratio": 1.6280487804878048,
+            "no_speech_prob": 0.02294921875,
+            "words": [
+                {
+                    "start": 33.38,
+                    "end": 33.58,
+                    "word": " Finnish,",
+                    "probability": 0.79150390625
+                },
+                {
+                    "start": 33.72,
+                    "end": 33.98,
+                    "word": " only",
+                    "probability": 0.96630859375
+                },
+                {
+                    "start": 33.98,
+                    "end": 34.24,
+                    "word": " Finnish,",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 34.34,
+                    "end": 34.78,
+                    "word": " okay.",
+                    "probability": 0.96630859375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 2674,
+            "start": 34.94,
+            "end": 35.36,
+            "text": " Yeah.",
+            "tokens": [
+                50764,
+                865,
+                13,
+                50814
+            ],
+            "avg_logprob": -0.1629595630309161,
+            "compression_ratio": 1.6280487804878048,
+            "no_speech_prob": 0.02294921875,
+            "words": [
+                {
+                    "start": 34.94,
+                    "end": 35.36,
+                    "word": " Yeah.",
+                    "probability": 0.60546875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 8,
+            "seek": 2674,
+            "start": 36.52,
+            "end": 41.08,
+            "text": " Do you ever need to transcribe data in any other languages than Finnish?",
+            "tokens": [
+                50814,
+                1144,
+                291,
+                1562,
+                643,
+                281,
+                1145,
+                8056,
+                1412,
+                294,
+                604,
+                661,
+                8650,
+                813,
+                38429,
+                30,
+                51114
+            ],
+            "avg_logprob": -0.1629595630309161,
+            "compression_ratio": 1.6280487804878048,
+            "no_speech_prob": 0.02294921875,
+            "words": [
+                {
+                    "start": 36.52,
+                    "end": 36.82,
+                    "word": " Do",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 36.82,
+                    "end": 37.0,
+                    "word": " you",
+                    "probability": 1.0
+                },
+                {
+                    "start": 37.0,
+                    "end": 37.3,
+                    "word": " ever",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 37.3,
+                    "end": 37.64,
+                    "word": " need",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 37.64,
+                    "end": 38.04,
+                    "word": " to",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 38.04,
+                    "end": 38.74,
+                    "word": " transcribe",
+                    "probability": 0.993896484375
+                },
+                {
+                    "start": 38.74,
+                    "end": 39.22,
+                    "word": " data",
+                    "probability": 0.9541015625
+                },
+                {
+                    "start": 39.22,
+                    "end": 39.56,
+                    "word": " in",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 39.56,
+                    "end": 39.78,
+                    "word": " any",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 39.78,
+                    "end": 39.98,
+                    "word": " other",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 39.98,
+                    "end": 40.46,
+                    "word": " languages",
+                    "probability": 0.970703125
+                },
+                {
+                    "start": 40.46,
+                    "end": 40.72,
+                    "word": " than",
+                    "probability": 0.9619140625
+                },
+                {
+                    "start": 40.72,
+                    "end": 41.08,
+                    "word": " Finnish?",
+                    "probability": 0.9951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 9,
+            "seek": 2674,
+            "start": 43.34,
+            "end": 44.12,
+            "text": " Not really, no.",
+            "tokens": [
+                51114,
+                1726,
+                534,
+                11,
+                572,
+                13,
+                51214
+            ],
+            "avg_logprob": -0.1629595630309161,
+            "compression_ratio": 1.6280487804878048,
+            "no_speech_prob": 0.02294921875,
+            "words": [
+                {
+                    "start": 43.34,
+                    "end": 43.34,
+                    "word": " Not",
+                    "probability": 0.7587890625
+                },
+                {
+                    "start": 43.44,
+                    "end": 43.76,
+                    "word": " really,",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 43.9,
+                    "end": 44.12,
+                    "word": " no.",
+                    "probability": 0.98779296875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 10,
+            "seek": 2674,
+            "start": 45.38,
+            "end": 46.92,
+            "text": " Okay, so only Finnish.",
+            "tokens": [
+                51214,
+                1033,
+                11,
+                370,
+                787,
+                38429,
+                13,
+                51364
+            ],
+            "avg_logprob": -0.1629595630309161,
+            "compression_ratio": 1.6280487804878048,
+            "no_speech_prob": 0.02294921875,
+            "words": [
+                {
+                    "start": 45.38,
+                    "end": 45.84,
+                    "word": " Okay,",
+                    "probability": 0.446044921875
+                },
+                {
+                    "start": 46.26,
+                    "end": 46.44,
+                    "word": " so",
+                    "probability": 0.873046875
+                },
+                {
+                    "start": 46.44,
+                    "end": 46.9,
+                    "word": " only",
+                    "probability": 0.493408203125
+                },
+                {
+                    "start": 46.9,
+                    "end": 46.92,
+                    "word": " Finnish.",
+                    "probability": 0.83447265625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 11,
+            "seek": 2674,
+            "start": 47.14,
+            "end": 51.92,
+            "text": " Yeah, at the moment it's only in Finnish, yeah.",
+            "tokens": [
+                51364,
+                865,
+                11,
+                412,
+                264,
+                1623,
+                309,
+                311,
+                787,
+                294,
+                38429,
+                11,
+                1338,
+                13,
+                51614
+            ],
+            "avg_logprob": -0.1629595630309161,
+            "compression_ratio": 1.6280487804878048,
+            "no_speech_prob": 0.02294921875,
+            "words": [
+                {
+                    "start": 47.14,
+                    "end": 47.74,
+                    "word": " Yeah,",
+                    "probability": 0.76806640625
+                },
+                {
+                    "start": 49.6,
+                    "end": 49.78,
+                    "word": " at",
+                    "probability": 0.75927734375
+                },
+                {
+                    "start": 49.78,
+                    "end": 50.28,
+                    "word": " the",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 50.28,
+                    "end": 50.5,
+                    "word": " moment",
+                    "probability": 1.0
+                },
+                {
+                    "start": 50.5,
+                    "end": 50.72,
+                    "word": " it's",
+                    "probability": 0.9208984375
+                },
+                {
+                    "start": 50.72,
+                    "end": 50.98,
+                    "word": " only",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 50.98,
+                    "end": 51.16,
+                    "word": " in",
+                    "probability": 0.92822265625
+                },
+                {
+                    "start": 51.16,
+                    "end": 51.38,
+                    "word": " Finnish,",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 51.4,
+                    "end": 51.92,
+                    "word": " yeah.",
+                    "probability": 0.99365234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 12,
+            "seek": 2674,
+            "start": 52.44,
+            "end": 52.76,
+            "text": " Yeah.",
+            "tokens": [
+                51614,
+                865,
+                13,
+                51714
+            ],
+            "avg_logprob": -0.1629595630309161,
+            "compression_ratio": 1.6280487804878048,
+            "no_speech_prob": 0.02294921875,
+            "words": [
+                {
+                    "start": 52.44,
+                    "end": 52.76,
+                    "word": " Yeah.",
+                    "probability": 0.68994140625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 13,
+            "seek": 5276,
+            "start": 52.76,
+            "end": 60.02,
+            "text": " And have you ever experimented or used speech recognition tools?",
+            "tokens": [
+                50414,
+                400,
+                362,
+                291,
+                1562,
+                5120,
+                292,
+                420,
+                1143,
+                6218,
+                11150,
+                3873,
+                30,
+                50714
+            ],
+            "avg_logprob": -0.15729166467984518,
+            "compression_ratio": 0.9696969696969697,
+            "no_speech_prob": 0.20556640625,
+            "words": [
+                {
+                    "start": 52.76,
+                    "end": 54.18,
+                    "word": " And",
+                    "probability": 0.300537109375
+                },
+                {
+                    "start": 54.18,
+                    "end": 55.34,
+                    "word": " have",
+                    "probability": 0.86962890625
+                },
+                {
+                    "start": 55.34,
+                    "end": 55.62,
+                    "word": " you",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 55.62,
+                    "end": 56.26,
+                    "word": " ever",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 56.26,
+                    "end": 57.86,
+                    "word": " experimented",
+                    "probability": 0.981689453125
+                },
+                {
+                    "start": 57.86,
+                    "end": 58.04,
+                    "word": " or",
+                    "probability": 0.97314453125
+                },
+                {
+                    "start": 58.04,
+                    "end": 58.52,
+                    "word": " used",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 58.52,
+                    "end": 59.04,
+                    "word": " speech",
+                    "probability": 0.81201171875
+                },
+                {
+                    "start": 59.04,
+                    "end": 59.74,
+                    "word": " recognition",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 59.74,
+                    "end": 60.02,
+                    "word": " tools?",
+                    "probability": 0.8232421875
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " Yes, now we have the recording on and we can start with the interview. First I would like to ask you about your research area. So what is your research area with just your own words? Yeah, so I'm conducting my research in Finnish language. So it is in linguistic studies, translational studies, also a little bit in accessibility studies. But yeah, I'm a linguist. Okay, great. And what languages are present in your data? Finnish. Finnish, only Finnish, okay. Yeah. Do you ever need to transcribe data in any other languages than Finnish? Not really, no. Okay, so only Finnish. Yeah, at the moment it's only in Finnish, yeah. Yeah. And have you ever experimented or used speech recognition tools?"
+}

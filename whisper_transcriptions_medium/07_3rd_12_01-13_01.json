@@ -1,0 +1,938 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.72,
+            "end": 6.4,
+            "text": " Yeah, that was actually a question that I had, so I'm glad you",
+            "tokens": [
+                50364,
+                865,
+                11,
+                300,
+                390,
+                767,
+                257,
+                1168,
+                300,
+                286,
+                632,
+                11,
+                370,
+                286,
+                478,
+                5404,
+                291,
+                50664
+            ],
+            "avg_logprob": -0.2327302584522649,
+            "compression_ratio": 1.6342592592592593,
+            "no_speech_prob": 0.5419921875,
+            "words": [
+                {
+                    "start": 1.72,
+                    "end": 2.2,
+                    "word": " Yeah,",
+                    "probability": 0.00870513916015625
+                },
+                {
+                    "start": 3.74,
+                    "end": 3.8,
+                    "word": " that",
+                    "probability": 0.943359375
+                },
+                {
+                    "start": 3.8,
+                    "end": 4.0,
+                    "word": " was",
+                    "probability": 0.8857421875
+                },
+                {
+                    "start": 4.0,
+                    "end": 4.22,
+                    "word": " actually",
+                    "probability": 0.94482421875
+                },
+                {
+                    "start": 4.22,
+                    "end": 4.32,
+                    "word": " a",
+                    "probability": 0.304443359375
+                },
+                {
+                    "start": 4.32,
+                    "end": 4.66,
+                    "word": " question",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 4.66,
+                    "end": 4.84,
+                    "word": " that",
+                    "probability": 0.90673828125
+                },
+                {
+                    "start": 4.84,
+                    "end": 5.0,
+                    "word": " I",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 5.0,
+                    "end": 5.16,
+                    "word": " had,",
+                    "probability": 0.96435546875
+                },
+                {
+                    "start": 5.22,
+                    "end": 5.34,
+                    "word": " so",
+                    "probability": 0.92919921875
+                },
+                {
+                    "start": 5.34,
+                    "end": 5.58,
+                    "word": " I'm",
+                    "probability": 0.9755859375
+                },
+                {
+                    "start": 5.58,
+                    "end": 5.72,
+                    "word": " glad",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 5.72,
+                    "end": 6.4,
+                    "word": " you",
+                    "probability": 0.94775390625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.4,
+            "end": 7.52,
+            "text": " poured it up already.",
+            "tokens": [
+                50664,
+                23270,
+                309,
+                493,
+                1217,
+                13,
+                50764
+            ],
+            "avg_logprob": -0.2327302584522649,
+            "compression_ratio": 1.6342592592592593,
+            "no_speech_prob": 0.5419921875,
+            "words": [
+                {
+                    "start": 6.4,
+                    "end": 6.66,
+                    "word": " poured",
+                    "probability": 0.1317138671875
+                },
+                {
+                    "start": 6.66,
+                    "end": 6.82,
+                    "word": " it",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 6.82,
+                    "end": 7.02,
+                    "word": " up",
+                    "probability": 0.9677734375
+                },
+                {
+                    "start": 7.02,
+                    "end": 7.52,
+                    "word": " already.",
+                    "probability": 0.9716796875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 8.3,
+            "end": 15.08,
+            "text": " Yeah, and we don't need to sort of... we would need that to separate",
+            "tokens": [
+                50764,
+                865,
+                11,
+                293,
+                321,
+                500,
+                380,
+                643,
+                281,
+                1333,
+                295,
+                485,
+                321,
+                576,
+                643,
+                300,
+                281,
+                4994,
+                51114
+            ],
+            "avg_logprob": -0.2327302584522649,
+            "compression_ratio": 1.6342592592592593,
+            "no_speech_prob": 0.5419921875,
+            "words": [
+                {
+                    "start": 8.3,
+                    "end": 8.3,
+                    "word": " Yeah,",
+                    "probability": 0.56640625
+                },
+                {
+                    "start": 9.3,
+                    "end": 9.44,
+                    "word": " and",
+                    "probability": 0.71484375
+                },
+                {
+                    "start": 9.44,
+                    "end": 9.82,
+                    "word": " we",
+                    "probability": 0.94580078125
+                },
+                {
+                    "start": 9.82,
+                    "end": 10.06,
+                    "word": " don't",
+                    "probability": 0.82373046875
+                },
+                {
+                    "start": 10.06,
+                    "end": 10.3,
+                    "word": " need",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 10.3,
+                    "end": 10.54,
+                    "word": " to",
+                    "probability": 0.89892578125
+                },
+                {
+                    "start": 10.54,
+                    "end": 10.7,
+                    "word": " sort",
+                    "probability": 0.82861328125
+                },
+                {
+                    "start": 10.7,
+                    "end": 12.0,
+                    "word": " of...",
+                    "probability": 0.62353515625
+                },
+                {
+                    "start": 12.0,
+                    "end": 12.48,
+                    "word": " we",
+                    "probability": 0.252197265625
+                },
+                {
+                    "start": 12.48,
+                    "end": 13.18,
+                    "word": " would",
+                    "probability": 0.9658203125
+                },
+                {
+                    "start": 13.18,
+                    "end": 13.6,
+                    "word": " need",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 13.6,
+                    "end": 14.1,
+                    "word": " that",
+                    "probability": 0.96533203125
+                },
+                {
+                    "start": 14.1,
+                    "end": 14.58,
+                    "word": " to",
+                    "probability": 0.97998046875
+                },
+                {
+                    "start": 14.58,
+                    "end": 15.08,
+                    "word": " separate",
+                    "probability": 0.9951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 15.08,
+            "end": 20.02,
+            "text": " between the different speakers in the data that we have. So we don't",
+            "tokens": [
+                51114,
+                1296,
+                264,
+                819,
+                9518,
+                294,
+                264,
+                1412,
+                300,
+                321,
+                362,
+                13,
+                407,
+                321,
+                500,
+                380,
+                51364
+            ],
+            "avg_logprob": -0.2327302584522649,
+            "compression_ratio": 1.6342592592592593,
+            "no_speech_prob": 0.5419921875,
+            "words": [
+                {
+                    "start": 15.08,
+                    "end": 15.78,
+                    "word": " between",
+                    "probability": 0.978515625
+                },
+                {
+                    "start": 15.78,
+                    "end": 16.12,
+                    "word": " the",
+                    "probability": 0.98291015625
+                },
+                {
+                    "start": 16.12,
+                    "end": 16.48,
+                    "word": " different",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 16.48,
+                    "end": 17.18,
+                    "word": " speakers",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 17.18,
+                    "end": 17.62,
+                    "word": " in",
+                    "probability": 0.955078125
+                },
+                {
+                    "start": 17.62,
+                    "end": 17.82,
+                    "word": " the",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 17.82,
+                    "end": 18.02,
+                    "word": " data",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 18.02,
+                    "end": 18.26,
+                    "word": " that",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 18.26,
+                    "end": 18.54,
+                    "word": " we",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 18.54,
+                    "end": 18.84,
+                    "word": " have.",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 19.2,
+                    "end": 19.42,
+                    "word": " So",
+                    "probability": 0.97998046875
+                },
+                {
+                    "start": 19.42,
+                    "end": 19.68,
+                    "word": " we",
+                    "probability": 0.8212890625
+                },
+                {
+                    "start": 19.68,
+                    "end": 20.02,
+                    "word": " don't",
+                    "probability": 0.9833984375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 20.02,
+            "end": 24.44,
+            "text": " need sort of a system to recognize the identity of the speaker.",
+            "tokens": [
+                51364,
+                643,
+                1333,
+                295,
+                257,
+                1185,
+                281,
+                5521,
+                264,
+                6575,
+                295,
+                264,
+                8145,
+                13,
+                51614
+            ],
+            "avg_logprob": -0.2327302584522649,
+            "compression_ratio": 1.6342592592592593,
+            "no_speech_prob": 0.5419921875,
+            "words": [
+                {
+                    "start": 20.02,
+                    "end": 20.26,
+                    "word": " need",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 20.26,
+                    "end": 20.46,
+                    "word": " sort",
+                    "probability": 0.82421875
+                },
+                {
+                    "start": 20.46,
+                    "end": 20.6,
+                    "word": " of",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 20.6,
+                    "end": 20.66,
+                    "word": " a",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 20.66,
+                    "end": 20.94,
+                    "word": " system",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 20.94,
+                    "end": 21.24,
+                    "word": " to",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 21.24,
+                    "end": 22.24,
+                    "word": " recognize",
+                    "probability": 0.68701171875
+                },
+                {
+                    "start": 22.24,
+                    "end": 23.18,
+                    "word": " the",
+                    "probability": 0.9404296875
+                },
+                {
+                    "start": 23.18,
+                    "end": 23.72,
+                    "word": " identity",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 23.72,
+                    "end": 24.0,
+                    "word": " of",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 24.0,
+                    "end": 24.2,
+                    "word": " the",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 24.2,
+                    "end": 24.44,
+                    "word": " speaker.",
+                    "probability": 0.7197265625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 25.34,
+            "end": 28.6,
+            "text": " Let's put it this way, but just sort of make a distinction between",
+            "tokens": [
+                51614,
+                961,
+                311,
+                829,
+                309,
+                341,
+                636,
+                11,
+                457,
+                445,
+                1333,
+                295,
+                652,
+                257,
+                16844,
+                1296,
+                51764
+            ],
+            "avg_logprob": -0.2327302584522649,
+            "compression_ratio": 1.6342592592592593,
+            "no_speech_prob": 0.5419921875,
+            "words": [
+                {
+                    "start": 25.34,
+                    "end": 25.58,
+                    "word": " Let's",
+                    "probability": 0.987060546875
+                },
+                {
+                    "start": 25.58,
+                    "end": 25.72,
+                    "word": " put",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 25.72,
+                    "end": 25.88,
+                    "word": " it",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 25.88,
+                    "end": 26.1,
+                    "word": " this",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 26.1,
+                    "end": 26.22,
+                    "word": " way,",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 26.28,
+                    "end": 26.42,
+                    "word": " but",
+                    "probability": 0.98583984375
+                },
+                {
+                    "start": 26.42,
+                    "end": 26.64,
+                    "word": " just",
+                    "probability": 0.98291015625
+                },
+                {
+                    "start": 26.64,
+                    "end": 26.8,
+                    "word": " sort",
+                    "probability": 0.9658203125
+                },
+                {
+                    "start": 26.8,
+                    "end": 27.26,
+                    "word": " of",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 27.26,
+                    "end": 27.64,
+                    "word": " make",
+                    "probability": 0.83935546875
+                },
+                {
+                    "start": 27.64,
+                    "end": 27.84,
+                    "word": " a",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 27.84,
+                    "end": 28.16,
+                    "word": " distinction",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 28.16,
+                    "end": 28.6,
+                    "word": " between",
+                    "probability": 0.9951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 2860,
+            "start": 28.6,
+            "end": 42.52,
+            "text": " who's speaking now and so on. And then it's the...",
+            "tokens": [
+                50364,
+                567,
+                311,
+                4124,
+                586,
+                293,
+                370,
+                322,
+                13,
+                400,
+                550,
+                309,
+                311,
+                264,
+                485,
+                50764
+            ],
+            "avg_logprob": -0.20408162778737593,
+            "compression_ratio": 1.3893129770992367,
+            "no_speech_prob": 0.0169219970703125,
+            "words": [
+                {
+                    "start": 28.6,
+                    "end": 28.94,
+                    "word": " who's",
+                    "probability": 0.543212890625
+                },
+                {
+                    "start": 28.94,
+                    "end": 29.36,
+                    "word": " speaking",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 29.36,
+                    "end": 29.84,
+                    "word": " now",
+                    "probability": 0.9873046875
+                },
+                {
+                    "start": 29.84,
+                    "end": 30.58,
+                    "word": " and",
+                    "probability": 0.65283203125
+                },
+                {
+                    "start": 30.58,
+                    "end": 30.94,
+                    "word": " so",
+                    "probability": 0.85595703125
+                },
+                {
+                    "start": 30.94,
+                    "end": 31.54,
+                    "word": " on.",
+                    "probability": 0.93115234375
+                },
+                {
+                    "start": 33.66,
+                    "end": 33.66,
+                    "word": " And",
+                    "probability": 0.342529296875
+                },
+                {
+                    "start": 33.76,
+                    "end": 35.16,
+                    "word": " then",
+                    "probability": 0.6953125
+                },
+                {
+                    "start": 35.16,
+                    "end": 36.62,
+                    "word": " it's",
+                    "probability": 0.822509765625
+                },
+                {
+                    "start": 36.62,
+                    "end": 42.52,
+                    "word": " the...",
+                    "probability": 0.614501953125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 8,
+            "seek": 2860,
+            "start": 42.52,
+            "end": 49.9,
+            "text": " What would be really beneficial would be also if a speech recognition",
+            "tokens": [
+                51064,
+                708,
+                576,
+                312,
+                534,
+                14072,
+                576,
+                312,
+                611,
+                498,
+                257,
+                6218,
+                11150,
+                51414
+            ],
+            "avg_logprob": -0.20408162778737593,
+            "compression_ratio": 1.3893129770992367,
+            "no_speech_prob": 0.0169219970703125,
+            "words": [
+                {
+                    "start": 42.52,
+                    "end": 43.28,
+                    "word": " What",
+                    "probability": 0.464599609375
+                },
+                {
+                    "start": 43.28,
+                    "end": 43.52,
+                    "word": " would",
+                    "probability": 0.96337890625
+                },
+                {
+                    "start": 43.52,
+                    "end": 43.8,
+                    "word": " be",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 43.8,
+                    "end": 44.22,
+                    "word": " really",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 44.22,
+                    "end": 44.78,
+                    "word": " beneficial",
+                    "probability": 0.97607421875
+                },
+                {
+                    "start": 44.78,
+                    "end": 45.04,
+                    "word": " would",
+                    "probability": 0.9697265625
+                },
+                {
+                    "start": 45.04,
+                    "end": 45.84,
+                    "word": " be",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 45.84,
+                    "end": 46.36,
+                    "word": " also",
+                    "probability": 0.90185546875
+                },
+                {
+                    "start": 46.36,
+                    "end": 48.02,
+                    "word": " if",
+                    "probability": 0.9248046875
+                },
+                {
+                    "start": 48.02,
+                    "end": 48.88,
+                    "word": " a",
+                    "probability": 0.7109375
+                },
+                {
+                    "start": 48.88,
+                    "end": 49.34,
+                    "word": " speech",
+                    "probability": 0.96875
+                },
+                {
+                    "start": 49.34,
+                    "end": 49.9,
+                    "word": " recognition",
+                    "probability": 0.98681640625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 9,
+            "seek": 2860,
+            "start": 49.9,
+            "end": 57.56,
+            "text": " tool was able to indicate sort of silences in talk or pauses.",
+            "tokens": [
+                51414,
+                2290,
+                390,
+                1075,
+                281,
+                13330,
+                1333,
+                295,
+                3425,
+                2667,
+                294,
+                751,
+                420,
+                2502,
+                8355,
+                13,
+                51814
+            ],
+            "avg_logprob": -0.20408162778737593,
+            "compression_ratio": 1.3893129770992367,
+            "no_speech_prob": 0.0169219970703125,
+            "words": [
+                {
+                    "start": 49.9,
+                    "end": 50.32,
+                    "word": " tool",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 50.32,
+                    "end": 50.7,
+                    "word": " was",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 50.7,
+                    "end": 51.32,
+                    "word": " able",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 51.32,
+                    "end": 52.58,
+                    "word": " to",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 52.58,
+                    "end": 53.96,
+                    "word": " indicate",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 53.96,
+                    "end": 54.34,
+                    "word": " sort",
+                    "probability": 0.424560546875
+                },
+                {
+                    "start": 54.34,
+                    "end": 54.82,
+                    "word": " of",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 54.82,
+                    "end": 55.32,
+                    "word": " silences",
+                    "probability": 0.935302734375
+                },
+                {
+                    "start": 55.32,
+                    "end": 55.66,
+                    "word": " in",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 55.66,
+                    "end": 56.06,
+                    "word": " talk",
+                    "probability": 0.9775390625
+                },
+                {
+                    "start": 56.06,
+                    "end": 56.86,
+                    "word": " or",
+                    "probability": 0.81494140625
+                },
+                {
+                    "start": 56.86,
+                    "end": 57.56,
+                    "word": " pauses.",
+                    "probability": 0.5975341796875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 10,
+            "seek": 5756,
+            "start": 57.56,
+            "end": 59.32,
+            "text": " That would be...",
+            "tokens": [
+                50364,
+                663,
+                576,
+                312,
+                485,
+                50464
+            ],
+            "avg_logprob": -0.2746930718421936,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.106689453125,
+            "words": [
+                {
+                    "start": 57.56,
+                    "end": 58.16,
+                    "word": " That",
+                    "probability": 0.52880859375
+                },
+                {
+                    "start": 58.16,
+                    "end": 58.42,
+                    "word": " would",
+                    "probability": 0.8798828125
+                },
+                {
+                    "start": 58.42,
+                    "end": 59.32,
+                    "word": " be...",
+                    "probability": 0.6048583984375
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " Yeah, that was actually a question that I had, so I'm glad you poured it up already. Yeah, and we don't need to sort of... we would need that to separate between the different speakers in the data that we have. So we don't need sort of a system to recognize the identity of the speaker. Let's put it this way, but just sort of make a distinction between who's speaking now and so on. And then it's the... What would be really beneficial would be also if a speech recognition tool was able to indicate sort of silences in talk or pauses. That would be..."
+}

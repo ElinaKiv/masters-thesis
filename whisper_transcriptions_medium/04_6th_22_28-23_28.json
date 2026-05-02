@@ -1,0 +1,1077 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.76,
+            "end": 9.26,
+            "text": " And would you say that in your research group is it diverse or are everyone quite sufficient?",
+            "tokens": [
+                50364,
+                400,
+                576,
+                291,
+                584,
+                300,
+                294,
+                428,
+                2132,
+                1594,
+                307,
+                309,
+                9521,
+                420,
+                366,
+                1518,
+                1596,
+                11563,
+                30,
+                50864
+            ],
+            "avg_logprob": -0.15727305944476808,
+            "compression_ratio": 1.5707964601769913,
+            "no_speech_prob": 0.466064453125,
+            "words": [
+                {
+                    "start": 1.76,
+                    "end": 2.32,
+                    "word": " And",
+                    "probability": 0.2149658203125
+                },
+                {
+                    "start": 2.32,
+                    "end": 2.68,
+                    "word": " would",
+                    "probability": 0.92724609375
+                },
+                {
+                    "start": 2.68,
+                    "end": 2.84,
+                    "word": " you",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 2.84,
+                    "end": 3.04,
+                    "word": " say",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 3.04,
+                    "end": 3.64,
+                    "word": " that",
+                    "probability": 0.94970703125
+                },
+                {
+                    "start": 3.64,
+                    "end": 4.36,
+                    "word": " in",
+                    "probability": 0.8564453125
+                },
+                {
+                    "start": 4.36,
+                    "end": 4.94,
+                    "word": " your",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 4.94,
+                    "end": 5.38,
+                    "word": " research",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 5.38,
+                    "end": 5.62,
+                    "word": " group",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 5.62,
+                    "end": 5.82,
+                    "word": " is",
+                    "probability": 0.572265625
+                },
+                {
+                    "start": 5.82,
+                    "end": 6.4,
+                    "word": " it",
+                    "probability": 0.95947265625
+                },
+                {
+                    "start": 6.4,
+                    "end": 6.86,
+                    "word": " diverse",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 6.86,
+                    "end": 7.6,
+                    "word": " or",
+                    "probability": 0.6435546875
+                },
+                {
+                    "start": 7.6,
+                    "end": 7.98,
+                    "word": " are",
+                    "probability": 0.52587890625
+                },
+                {
+                    "start": 7.98,
+                    "end": 8.34,
+                    "word": " everyone",
+                    "probability": 0.974609375
+                },
+                {
+                    "start": 8.34,
+                    "end": 8.7,
+                    "word": " quite",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 8.7,
+                    "end": 9.26,
+                    "word": " sufficient?",
+                    "probability": 0.9853515625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 12.58,
+            "end": 22.26,
+            "text": " In my research group I'd say everyone is at least pretty much on the same level as I am. That's the lowest that we are.",
+            "tokens": [
+                50864,
+                682,
+                452,
+                2132,
+                1594,
+                286,
+                1116,
+                584,
+                1518,
+                307,
+                412,
+                1935,
+                1238,
+                709,
+                322,
+                264,
+                912,
+                1496,
+                382,
+                286,
+                669,
+                13,
+                663,
+                311,
+                264,
+                12437,
+                300,
+                321,
+                366,
+                13,
+                51414
+            ],
+            "avg_logprob": -0.15727305944476808,
+            "compression_ratio": 1.5707964601769913,
+            "no_speech_prob": 0.466064453125,
+            "words": [
+                {
+                    "start": 12.58,
+                    "end": 13.14,
+                    "word": " In",
+                    "probability": 0.837890625
+                },
+                {
+                    "start": 13.14,
+                    "end": 13.42,
+                    "word": " my",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 13.42,
+                    "end": 13.86,
+                    "word": " research",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 13.86,
+                    "end": 14.08,
+                    "word": " group",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 14.08,
+                    "end": 14.32,
+                    "word": " I'd",
+                    "probability": 0.77099609375
+                },
+                {
+                    "start": 14.32,
+                    "end": 14.48,
+                    "word": " say",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 14.48,
+                    "end": 14.9,
+                    "word": " everyone",
+                    "probability": 0.97412109375
+                },
+                {
+                    "start": 14.9,
+                    "end": 15.18,
+                    "word": " is",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 15.18,
+                    "end": 15.32,
+                    "word": " at",
+                    "probability": 0.951171875
+                },
+                {
+                    "start": 15.32,
+                    "end": 16.22,
+                    "word": " least",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 16.22,
+                    "end": 17.18,
+                    "word": " pretty",
+                    "probability": 0.87939453125
+                },
+                {
+                    "start": 17.18,
+                    "end": 17.36,
+                    "word": " much",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 17.36,
+                    "end": 17.52,
+                    "word": " on",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 17.52,
+                    "end": 17.66,
+                    "word": " the",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 17.66,
+                    "end": 17.84,
+                    "word": " same",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 17.84,
+                    "end": 18.06,
+                    "word": " level",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 18.06,
+                    "end": 18.32,
+                    "word": " as",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 18.32,
+                    "end": 18.52,
+                    "word": " I",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 18.52,
+                    "end": 18.92,
+                    "word": " am.",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 18.96,
+                    "end": 19.4,
+                    "word": " That's",
+                    "probability": 0.9892578125
+                },
+                {
+                    "start": 19.4,
+                    "end": 19.62,
+                    "word": " the",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 19.62,
+                    "end": 20.24,
+                    "word": " lowest",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 20.24,
+                    "end": 21.54,
+                    "word": " that",
+                    "probability": 0.892578125
+                },
+                {
+                    "start": 21.54,
+                    "end": 21.82,
+                    "word": " we",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 21.82,
+                    "end": 22.26,
+                    "word": " are.",
+                    "probability": 0.9990234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 23.0,
+            "end": 29.92,
+            "text": " Whereas in my group at the university, if I just look around at my colleagues teaching here, then I'm considered like really good with tools.",
+            "tokens": [
+                51414,
+                13813,
+                294,
+                452,
+                1594,
+                412,
+                264,
+                5454,
+                11,
+                498,
+                286,
+                445,
+                574,
+                926,
+                412,
+                452,
+                7734,
+                4571,
+                510,
+                11,
+                550,
+                286,
+                478,
+                4888,
+                411,
+                534,
+                665,
+                365,
+                3873,
+                13,
+                51814
+            ],
+            "avg_logprob": -0.15727305944476808,
+            "compression_ratio": 1.5707964601769913,
+            "no_speech_prob": 0.466064453125,
+            "words": [
+                {
+                    "start": 23.0,
+                    "end": 23.34,
+                    "word": " Whereas",
+                    "probability": 0.943359375
+                },
+                {
+                    "start": 23.34,
+                    "end": 24.04,
+                    "word": " in",
+                    "probability": 0.904296875
+                },
+                {
+                    "start": 24.04,
+                    "end": 24.24,
+                    "word": " my",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 24.24,
+                    "end": 24.4,
+                    "word": " group",
+                    "probability": 0.9599609375
+                },
+                {
+                    "start": 24.4,
+                    "end": 24.58,
+                    "word": " at",
+                    "probability": 0.93798828125
+                },
+                {
+                    "start": 24.58,
+                    "end": 24.7,
+                    "word": " the",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 24.7,
+                    "end": 25.14,
+                    "word": " university,",
+                    "probability": 0.77880859375
+                },
+                {
+                    "start": 25.2,
+                    "end": 25.32,
+                    "word": " if",
+                    "probability": 0.98291015625
+                },
+                {
+                    "start": 25.32,
+                    "end": 25.6,
+                    "word": " I",
+                    "probability": 0.96875
+                },
+                {
+                    "start": 25.6,
+                    "end": 25.78,
+                    "word": " just",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 25.78,
+                    "end": 25.96,
+                    "word": " look",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 25.96,
+                    "end": 26.16,
+                    "word": " around",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 26.16,
+                    "end": 26.26,
+                    "word": " at",
+                    "probability": 0.908203125
+                },
+                {
+                    "start": 26.26,
+                    "end": 26.56,
+                    "word": " my",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 26.56,
+                    "end": 26.8,
+                    "word": " colleagues",
+                    "probability": 0.93798828125
+                },
+                {
+                    "start": 26.8,
+                    "end": 27.16,
+                    "word": " teaching",
+                    "probability": 0.96142578125
+                },
+                {
+                    "start": 27.16,
+                    "end": 27.4,
+                    "word": " here,",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 27.46,
+                    "end": 27.56,
+                    "word": " then",
+                    "probability": 0.92236328125
+                },
+                {
+                    "start": 27.56,
+                    "end": 28.06,
+                    "word": " I'm",
+                    "probability": 0.9873046875
+                },
+                {
+                    "start": 28.06,
+                    "end": 28.42,
+                    "word": " considered",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 28.42,
+                    "end": 28.8,
+                    "word": " like",
+                    "probability": 0.65478515625
+                },
+                {
+                    "start": 28.8,
+                    "end": 28.98,
+                    "word": " really",
+                    "probability": 0.982421875
+                },
+                {
+                    "start": 28.98,
+                    "end": 29.24,
+                    "word": " good",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 29.24,
+                    "end": 29.52,
+                    "word": " with",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 29.52,
+                    "end": 29.92,
+                    "word": " tools.",
+                    "probability": 0.99658203125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2880,
+            "start": 31.14,
+            "end": 44.14,
+            "text": " But my research group is... yeah, people are pretty good with these things. And we had the one who figured out the... and he was good with Python and these kinds of things.",
+            "tokens": [
+                50364,
+                583,
+                452,
+                2132,
+                1594,
+                307,
+                485,
+                1338,
+                11,
+                561,
+                366,
+                1238,
+                665,
+                365,
+                613,
+                721,
+                13,
+                400,
+                321,
+                632,
+                264,
+                472,
+                567,
+                8932,
+                484,
+                264,
+                485,
+                293,
+                415,
+                390,
+                665,
+                365,
+                15329,
+                293,
+                613,
+                3685,
+                295,
+                721,
+                13,
+                51064
+            ],
+            "avg_logprob": -0.16550926514613776,
+            "compression_ratio": 1.6090909090909091,
+            "no_speech_prob": 0.00853729248046875,
+            "words": [
+                {
+                    "start": 31.14,
+                    "end": 31.78,
+                    "word": " But",
+                    "probability": 0.369384765625
+                },
+                {
+                    "start": 31.78,
+                    "end": 32.08,
+                    "word": " my",
+                    "probability": 0.97607421875
+                },
+                {
+                    "start": 32.08,
+                    "end": 32.46,
+                    "word": " research",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 32.46,
+                    "end": 32.78,
+                    "word": " group",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 32.78,
+                    "end": 34.82,
+                    "word": " is...",
+                    "probability": 0.590087890625
+                },
+                {
+                    "start": 34.82,
+                    "end": 34.82,
+                    "word": " yeah,",
+                    "probability": 0.252685546875
+                },
+                {
+                    "start": 35.66,
+                    "end": 35.78,
+                    "word": " people",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 35.78,
+                    "end": 36.52,
+                    "word": " are",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 36.52,
+                    "end": 36.68,
+                    "word": " pretty",
+                    "probability": 0.8486328125
+                },
+                {
+                    "start": 36.68,
+                    "end": 36.86,
+                    "word": " good",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 36.86,
+                    "end": 37.06,
+                    "word": " with",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 37.06,
+                    "end": 37.32,
+                    "word": " these",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 37.32,
+                    "end": 37.58,
+                    "word": " things.",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 37.74,
+                    "end": 37.84,
+                    "word": " And",
+                    "probability": 0.85205078125
+                },
+                {
+                    "start": 37.84,
+                    "end": 37.96,
+                    "word": " we",
+                    "probability": 0.9599609375
+                },
+                {
+                    "start": 37.96,
+                    "end": 38.66,
+                    "word": " had",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 38.66,
+                    "end": 39.14,
+                    "word": " the",
+                    "probability": 0.97607421875
+                },
+                {
+                    "start": 39.14,
+                    "end": 39.36,
+                    "word": " one",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 39.36,
+                    "end": 39.9,
+                    "word": " who",
+                    "probability": 0.97705078125
+                },
+                {
+                    "start": 39.9,
+                    "end": 40.2,
+                    "word": " figured",
+                    "probability": 0.92236328125
+                },
+                {
+                    "start": 40.2,
+                    "end": 40.58,
+                    "word": " out",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 40.58,
+                    "end": 40.9,
+                    "word": " the...",
+                    "probability": 0.517578125
+                },
+                {
+                    "start": 40.9,
+                    "end": 41.06,
+                    "word": " and",
+                    "probability": 0.66796875
+                },
+                {
+                    "start": 41.06,
+                    "end": 41.66,
+                    "word": " he",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 41.66,
+                    "end": 41.86,
+                    "word": " was",
+                    "probability": 0.95751953125
+                },
+                {
+                    "start": 41.86,
+                    "end": 42.06,
+                    "word": " good",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 42.06,
+                    "end": 42.26,
+                    "word": " with",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 42.26,
+                    "end": 42.72,
+                    "word": " Python",
+                    "probability": 0.9697265625
+                },
+                {
+                    "start": 42.72,
+                    "end": 43.12,
+                    "word": " and",
+                    "probability": 0.927734375
+                },
+                {
+                    "start": 43.12,
+                    "end": 43.44,
+                    "word": " these",
+                    "probability": 0.97607421875
+                },
+                {
+                    "start": 43.44,
+                    "end": 43.68,
+                    "word": " kinds",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 43.68,
+                    "end": 43.86,
+                    "word": " of",
+                    "probability": 1.0
+                },
+                {
+                    "start": 43.86,
+                    "end": 44.14,
+                    "word": " things.",
+                    "probability": 0.9990234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2880,
+            "start": 44.32,
+            "end": 49.62,
+            "text": " He figured out the process for us and put together tools when needed.",
+            "tokens": [
+                51064,
+                634,
+                8932,
+                484,
+                264,
+                1399,
+                337,
+                505,
+                293,
+                829,
+                1214,
+                3873,
+                562,
+                2978,
+                13,
+                51364
+            ],
+            "avg_logprob": -0.16550926514613776,
+            "compression_ratio": 1.6090909090909091,
+            "no_speech_prob": 0.00853729248046875,
+            "words": [
+                {
+                    "start": 44.32,
+                    "end": 44.66,
+                    "word": " He",
+                    "probability": 0.72119140625
+                },
+                {
+                    "start": 44.66,
+                    "end": 44.96,
+                    "word": " figured",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 44.96,
+                    "end": 45.18,
+                    "word": " out",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 45.18,
+                    "end": 45.42,
+                    "word": " the",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 45.42,
+                    "end": 45.9,
+                    "word": " process",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 45.9,
+                    "end": 46.2,
+                    "word": " for",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 46.2,
+                    "end": 46.58,
+                    "word": " us",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 46.58,
+                    "end": 46.82,
+                    "word": " and",
+                    "probability": 0.87841796875
+                },
+                {
+                    "start": 46.82,
+                    "end": 47.04,
+                    "word": " put",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 47.04,
+                    "end": 47.68,
+                    "word": " together",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 47.68,
+                    "end": 48.2,
+                    "word": " tools",
+                    "probability": 0.94287109375
+                },
+                {
+                    "start": 48.2,
+                    "end": 49.16,
+                    "word": " when",
+                    "probability": 0.94384765625
+                },
+                {
+                    "start": 49.16,
+                    "end": 49.62,
+                    "word": " needed.",
+                    "probability": 0.99365234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2880,
+            "start": 50.48,
+            "end": 59.02,
+            "text": " Yeah. You already mentioned that you're good with graphical user interfaces, but what about command line tools?",
+            "tokens": [
+                51364,
+                865,
+                13,
+                509,
+                1217,
+                2835,
+                300,
+                291,
+                434,
+                665,
+                365,
+                35942,
+                4195,
+                28416,
+                11,
+                457,
+                437,
+                466,
+                5622,
+                1622,
+                3873,
+                30,
+                51814
+            ],
+            "avg_logprob": -0.16550926514613776,
+            "compression_ratio": 1.6090909090909091,
+            "no_speech_prob": 0.00853729248046875,
+            "words": [
+                {
+                    "start": 50.48,
+                    "end": 50.86,
+                    "word": " Yeah.",
+                    "probability": 0.49755859375
+                },
+                {
+                    "start": 52.24,
+                    "end": 52.54,
+                    "word": " You",
+                    "probability": 0.974609375
+                },
+                {
+                    "start": 52.54,
+                    "end": 53.06,
+                    "word": " already",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 53.06,
+                    "end": 53.7,
+                    "word": " mentioned",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 53.7,
+                    "end": 54.02,
+                    "word": " that",
+                    "probability": 0.9892578125
+                },
+                {
+                    "start": 54.02,
+                    "end": 54.2,
+                    "word": " you're",
+                    "probability": 0.976318359375
+                },
+                {
+                    "start": 54.2,
+                    "end": 54.4,
+                    "word": " good",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 54.4,
+                    "end": 54.6,
+                    "word": " with",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 54.6,
+                    "end": 55.04,
+                    "word": " graphical",
+                    "probability": 0.97314453125
+                },
+                {
+                    "start": 55.04,
+                    "end": 55.46,
+                    "word": " user",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 55.46,
+                    "end": 56.02,
+                    "word": " interfaces,",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 56.02,
+                    "end": 56.98,
+                    "word": " but",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 56.98,
+                    "end": 57.26,
+                    "word": " what",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 57.26,
+                    "end": 57.76,
+                    "word": " about",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 57.76,
+                    "end": 58.24,
+                    "word": " command",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 58.24,
+                    "end": 58.58,
+                    "word": " line",
+                    "probability": 0.72705078125
+                },
+                {
+                    "start": 58.58,
+                    "end": 59.02,
+                    "word": " tools?",
+                    "probability": 0.99658203125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 5790,
+            "start": 59.02,
+            "end": 60.02,
+            "text": " So you're very...",
+            "tokens": [
+                50364,
+                407,
+                291,
+                434,
+                588,
+                485,
+                50414
+            ],
+            "avg_logprob": -0.4633788987994194,
+            "compression_ratio": 0.68,
+            "no_speech_prob": 0.833984375,
+            "words": [
+                {
+                    "start": 59.02,
+                    "end": 59.56,
+                    "word": " So",
+                    "probability": 0.5517578125
+                },
+                {
+                    "start": 59.56,
+                    "end": 60.02,
+                    "word": " you're",
+                    "probability": 0.525146484375
+                },
+                {
+                    "start": 60.02,
+                    "end": 60.02,
+                    "word": " very...",
+                    "probability": 0.41754150390625
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " And would you say that in your research group is it diverse or are everyone quite sufficient? In my research group I'd say everyone is at least pretty much on the same level as I am. That's the lowest that we are. Whereas in my group at the university, if I just look around at my colleagues teaching here, then I'm considered like really good with tools. But my research group is... yeah, people are pretty good with these things. And we had the one who figured out the... and he was good with Python and these kinds of things. He figured out the process for us and put together tools when needed. Yeah. You already mentioned that you're good with graphical user interfaces, but what about command line tools? So you're very..."
+}

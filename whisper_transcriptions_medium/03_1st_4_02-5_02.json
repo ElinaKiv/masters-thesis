@@ -1,0 +1,1167 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.36,
+            "text": " Finnish, English and Russian. But the mixed language interviews where there's a lot of",
+            "tokens": [
+                50364,
+                38429,
+                11,
+                3669,
+                293,
+                7220,
+                13,
+                583,
+                264,
+                7467,
+                2856,
+                12318,
+                689,
+                456,
+                311,
+                257,
+                688,
+                295,
+                50720
+            ],
+            "avg_logprob": -0.16100933668257175,
+            "compression_ratio": 1.5739910313901346,
+            "no_speech_prob": 0.75927734375,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.52,
+                    "word": " Finnish,",
+                    "probability": 0.6259765625
+                },
+                {
+                    "start": 0.64,
+                    "end": 0.98,
+                    "word": " English",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 0.98,
+                    "end": 1.28,
+                    "word": " and",
+                    "probability": 0.59912109375
+                },
+                {
+                    "start": 1.28,
+                    "end": 1.98,
+                    "word": " Russian.",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 3.92,
+                    "end": 4.26,
+                    "word": " But",
+                    "probability": 0.84716796875
+                },
+                {
+                    "start": 4.26,
+                    "end": 5.2,
+                    "word": " the",
+                    "probability": 0.8759765625
+                },
+                {
+                    "start": 5.2,
+                    "end": 5.52,
+                    "word": " mixed",
+                    "probability": 0.9873046875
+                },
+                {
+                    "start": 5.52,
+                    "end": 5.9,
+                    "word": " language",
+                    "probability": 0.89453125
+                },
+                {
+                    "start": 5.9,
+                    "end": 6.4,
+                    "word": " interviews",
+                    "probability": 0.98583984375
+                },
+                {
+                    "start": 6.4,
+                    "end": 6.64,
+                    "word": " where",
+                    "probability": 0.783203125
+                },
+                {
+                    "start": 6.64,
+                    "end": 6.88,
+                    "word": " there's",
+                    "probability": 0.9609375
+                },
+                {
+                    "start": 6.88,
+                    "end": 6.98,
+                    "word": " a",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 6.98,
+                    "end": 7.14,
+                    "word": " lot",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 7.14,
+                    "end": 7.36,
+                    "word": " of",
+                    "probability": 0.99609375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.36,
+            "end": 12.86,
+            "text": " code switching. It doesn't work, of course, because you have to sort of tell the tool which",
+            "tokens": [
+                50720,
+                3089,
+                16493,
+                13,
+                467,
+                1177,
+                380,
+                589,
+                11,
+                295,
+                1164,
+                11,
+                570,
+                291,
+                362,
+                281,
+                1333,
+                295,
+                980,
+                264,
+                2290,
+                597,
+                51000
+            ],
+            "avg_logprob": -0.16100933668257175,
+            "compression_ratio": 1.5739910313901346,
+            "no_speech_prob": 0.75927734375,
+            "words": [
+                {
+                    "start": 7.36,
+                    "end": 7.54,
+                    "word": " code",
+                    "probability": 0.92626953125
+                },
+                {
+                    "start": 7.54,
+                    "end": 7.96,
+                    "word": " switching.",
+                    "probability": 0.98046875
+                },
+                {
+                    "start": 8.26,
+                    "end": 8.26,
+                    "word": " It",
+                    "probability": 0.9794921875
+                },
+                {
+                    "start": 8.26,
+                    "end": 8.6,
+                    "word": " doesn't",
+                    "probability": 0.995361328125
+                },
+                {
+                    "start": 8.6,
+                    "end": 8.88,
+                    "word": " work,",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 8.88,
+                    "end": 9.1,
+                    "word": " of",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 9.1,
+                    "end": 9.26,
+                    "word": " course,",
+                    "probability": 1.0
+                },
+                {
+                    "start": 9.28,
+                    "end": 9.52,
+                    "word": " because",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 9.52,
+                    "end": 9.66,
+                    "word": " you",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 9.66,
+                    "end": 9.8,
+                    "word": " have",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 9.8,
+                    "end": 11.18,
+                    "word": " to",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 11.18,
+                    "end": 11.62,
+                    "word": " sort",
+                    "probability": 0.8515625
+                },
+                {
+                    "start": 11.62,
+                    "end": 11.84,
+                    "word": " of",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 11.84,
+                    "end": 12.06,
+                    "word": " tell",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 12.06,
+                    "end": 12.34,
+                    "word": " the",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 12.34,
+                    "end": 12.58,
+                    "word": " tool",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 12.58,
+                    "end": 12.86,
+                    "word": " which",
+                    "probability": 0.9375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 12.86,
+            "end": 18.62,
+            "text": " language it is and you cannot tell that it's in mixed English and Finnish, for example.",
+            "tokens": [
+                51000,
+                2856,
+                309,
+                307,
+                293,
+                291,
+                2644,
+                980,
+                300,
+                309,
+                311,
+                294,
+                7467,
+                3669,
+                293,
+                38429,
+                11,
+                337,
+                1365,
+                13,
+                51284
+            ],
+            "avg_logprob": -0.16100933668257175,
+            "compression_ratio": 1.5739910313901346,
+            "no_speech_prob": 0.75927734375,
+            "words": [
+                {
+                    "start": 12.86,
+                    "end": 13.2,
+                    "word": " language",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 13.2,
+                    "end": 13.44,
+                    "word": " it",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 13.44,
+                    "end": 13.64,
+                    "word": " is",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 13.64,
+                    "end": 13.8,
+                    "word": " and",
+                    "probability": 0.634765625
+                },
+                {
+                    "start": 13.8,
+                    "end": 14.0,
+                    "word": " you",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 14.0,
+                    "end": 14.18,
+                    "word": " cannot",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 14.18,
+                    "end": 14.66,
+                    "word": " tell",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 14.66,
+                    "end": 14.88,
+                    "word": " that",
+                    "probability": 0.79833984375
+                },
+                {
+                    "start": 14.88,
+                    "end": 15.22,
+                    "word": " it's",
+                    "probability": 0.984375
+                },
+                {
+                    "start": 15.22,
+                    "end": 15.76,
+                    "word": " in",
+                    "probability": 0.94091796875
+                },
+                {
+                    "start": 15.76,
+                    "end": 16.04,
+                    "word": " mixed",
+                    "probability": 0.9033203125
+                },
+                {
+                    "start": 16.04,
+                    "end": 17.48,
+                    "word": " English",
+                    "probability": 0.7861328125
+                },
+                {
+                    "start": 17.48,
+                    "end": 17.72,
+                    "word": " and",
+                    "probability": 0.95263671875
+                },
+                {
+                    "start": 17.72,
+                    "end": 17.96,
+                    "word": " Finnish,",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 17.96,
+                    "end": 18.22,
+                    "word": " for",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 18.22,
+                    "end": 18.62,
+                    "word": " example.",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 19.66,
+            "end": 27.1,
+            "text": " And also these tools don't know Ukrainian. Yeah. And what I'm a bit worried about is",
+            "tokens": [
+                51332,
+                400,
+                611,
+                613,
+                3873,
+                500,
+                380,
+                458,
+                24682,
+                13,
+                865,
+                13,
+                400,
+                437,
+                286,
+                478,
+                257,
+                857,
+                5804,
+                466,
+                307,
+                51704
+            ],
+            "avg_logprob": -0.16100933668257175,
+            "compression_ratio": 1.5739910313901346,
+            "no_speech_prob": 0.75927734375,
+            "words": [
+                {
+                    "start": 19.66,
+                    "end": 19.96,
+                    "word": " And",
+                    "probability": 0.95068359375
+                },
+                {
+                    "start": 19.96,
+                    "end": 20.34,
+                    "word": " also",
+                    "probability": 0.8671875
+                },
+                {
+                    "start": 20.34,
+                    "end": 20.62,
+                    "word": " these",
+                    "probability": 0.82421875
+                },
+                {
+                    "start": 20.62,
+                    "end": 20.86,
+                    "word": " tools",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 20.86,
+                    "end": 21.14,
+                    "word": " don't",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 21.14,
+                    "end": 21.34,
+                    "word": " know",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 21.34,
+                    "end": 21.88,
+                    "word": " Ukrainian.",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 22.86,
+                    "end": 23.18,
+                    "word": " Yeah.",
+                    "probability": 0.51416015625
+                },
+                {
+                    "start": 24.24,
+                    "end": 24.46,
+                    "word": " And",
+                    "probability": 0.951171875
+                },
+                {
+                    "start": 24.46,
+                    "end": 24.64,
+                    "word": " what",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 24.64,
+                    "end": 24.88,
+                    "word": " I'm",
+                    "probability": 0.995849609375
+                },
+                {
+                    "start": 24.88,
+                    "end": 25.0,
+                    "word": " a",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 25.0,
+                    "end": 25.32,
+                    "word": " bit",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 25.32,
+                    "end": 25.82,
+                    "word": " worried",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 25.82,
+                    "end": 26.36,
+                    "word": " about",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 26.36,
+                    "end": 27.1,
+                    "word": " is",
+                    "probability": 0.982421875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2710,
+            "start": 27.1,
+            "end": 34.4,
+            "text": " the security of these tools, although they have, well, they have told us that they're in EU and so",
+            "tokens": [
+                50380,
+                264,
+                3825,
+                295,
+                613,
+                3873,
+                11,
+                4878,
+                436,
+                362,
+                11,
+                731,
+                11,
+                436,
+                362,
+                1907,
+                505,
+                300,
+                436,
+                434,
+                294,
+                10887,
+                293,
+                370,
+                50720
+            ],
+            "avg_logprob": -0.13769531961191783,
+            "compression_ratio": 1.6587677725118484,
+            "no_speech_prob": 0.019927978515625,
+            "words": [
+                {
+                    "start": 27.1,
+                    "end": 27.6,
+                    "word": " the",
+                    "probability": 0.85107421875
+                },
+                {
+                    "start": 27.6,
+                    "end": 28.36,
+                    "word": " security",
+                    "probability": 0.8984375
+                },
+                {
+                    "start": 28.36,
+                    "end": 28.66,
+                    "word": " of",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 28.66,
+                    "end": 28.94,
+                    "word": " these",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 28.94,
+                    "end": 29.34,
+                    "word": " tools,",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 29.34,
+                    "end": 29.82,
+                    "word": " although",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 29.82,
+                    "end": 30.08,
+                    "word": " they",
+                    "probability": 0.96533203125
+                },
+                {
+                    "start": 30.08,
+                    "end": 30.56,
+                    "word": " have,",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 30.56,
+                    "end": 31.0,
+                    "word": " well,",
+                    "probability": 0.96630859375
+                },
+                {
+                    "start": 31.08,
+                    "end": 31.26,
+                    "word": " they",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 31.26,
+                    "end": 31.44,
+                    "word": " have",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 31.44,
+                    "end": 31.64,
+                    "word": " told",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 31.64,
+                    "end": 31.82,
+                    "word": " us",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 31.82,
+                    "end": 32.02,
+                    "word": " that",
+                    "probability": 0.9892578125
+                },
+                {
+                    "start": 32.02,
+                    "end": 32.48,
+                    "word": " they're",
+                    "probability": 0.970703125
+                },
+                {
+                    "start": 32.48,
+                    "end": 33.18,
+                    "word": " in",
+                    "probability": 0.62060546875
+                },
+                {
+                    "start": 33.18,
+                    "end": 33.94,
+                    "word": " EU",
+                    "probability": 0.80322265625
+                },
+                {
+                    "start": 33.94,
+                    "end": 34.16,
+                    "word": " and",
+                    "probability": 0.8642578125
+                },
+                {
+                    "start": 34.16,
+                    "end": 34.4,
+                    "word": " so",
+                    "probability": 0.99853515625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2710,
+            "start": 34.4,
+            "end": 41.64,
+            "text": " on, but still they're used on the browser and through links. So we also use these tools for",
+            "tokens": [
+                50720,
+                322,
+                11,
+                457,
+                920,
+                436,
+                434,
+                1143,
+                322,
+                264,
+                11185,
+                293,
+                807,
+                6123,
+                13,
+                407,
+                321,
+                611,
+                764,
+                613,
+                3873,
+                337,
+                51080
+            ],
+            "avg_logprob": -0.13769531961191783,
+            "compression_ratio": 1.6587677725118484,
+            "no_speech_prob": 0.019927978515625,
+            "words": [
+                {
+                    "start": 34.4,
+                    "end": 34.52,
+                    "word": " on,",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 34.6,
+                    "end": 34.76,
+                    "word": " but",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 34.76,
+                    "end": 35.0,
+                    "word": " still",
+                    "probability": 0.9462890625
+                },
+                {
+                    "start": 35.0,
+                    "end": 35.98,
+                    "word": " they're",
+                    "probability": 0.9580078125
+                },
+                {
+                    "start": 35.98,
+                    "end": 36.24,
+                    "word": " used",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 36.24,
+                    "end": 36.44,
+                    "word": " on",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 36.44,
+                    "end": 36.62,
+                    "word": " the",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 36.62,
+                    "end": 36.92,
+                    "word": " browser",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 36.92,
+                    "end": 37.68,
+                    "word": " and",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 37.68,
+                    "end": 37.94,
+                    "word": " through",
+                    "probability": 0.9814453125
+                },
+                {
+                    "start": 37.94,
+                    "end": 38.5,
+                    "word": " links.",
+                    "probability": 0.82177734375
+                },
+                {
+                    "start": 39.7,
+                    "end": 39.84,
+                    "word": " So",
+                    "probability": 0.9619140625
+                },
+                {
+                    "start": 39.84,
+                    "end": 40.26,
+                    "word": " we",
+                    "probability": 0.67822265625
+                },
+                {
+                    "start": 40.26,
+                    "end": 40.54,
+                    "word": " also",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 40.54,
+                    "end": 40.78,
+                    "word": " use",
+                    "probability": 0.974609375
+                },
+                {
+                    "start": 40.78,
+                    "end": 41.04,
+                    "word": " these",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 41.04,
+                    "end": 41.34,
+                    "word": " tools",
+                    "probability": 1.0
+                },
+                {
+                    "start": 41.34,
+                    "end": 41.64,
+                    "word": " for",
+                    "probability": 0.99853515625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 2710,
+            "start": 42.06,
+            "end": 49.06,
+            "text": " sharing the data with some of our researchers, for example, students who are using the data,",
+            "tokens": [
+                51112,
+                5414,
+                264,
+                1412,
+                365,
+                512,
+                295,
+                527,
+                10309,
+                11,
+                337,
+                1365,
+                11,
+                1731,
+                567,
+                366,
+                1228,
+                264,
+                1412,
+                11,
+                51448
+            ],
+            "avg_logprob": -0.13769531961191783,
+            "compression_ratio": 1.6587677725118484,
+            "no_speech_prob": 0.019927978515625,
+            "words": [
+                {
+                    "start": 42.06,
+                    "end": 42.62,
+                    "word": " sharing",
+                    "probability": 0.90771484375
+                },
+                {
+                    "start": 42.62,
+                    "end": 43.02,
+                    "word": " the",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 43.02,
+                    "end": 43.38,
+                    "word": " data",
+                    "probability": 1.0
+                },
+                {
+                    "start": 43.38,
+                    "end": 43.96,
+                    "word": " with",
+                    "probability": 0.97216796875
+                },
+                {
+                    "start": 43.96,
+                    "end": 44.48,
+                    "word": " some",
+                    "probability": 0.95068359375
+                },
+                {
+                    "start": 44.48,
+                    "end": 44.68,
+                    "word": " of",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 44.68,
+                    "end": 44.92,
+                    "word": " our",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 44.92,
+                    "end": 45.44,
+                    "word": " researchers,",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 46.62,
+                    "end": 46.86,
+                    "word": " for",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 46.86,
+                    "end": 47.3,
+                    "word": " example,",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 47.46,
+                    "end": 47.84,
+                    "word": " students",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 47.84,
+                    "end": 48.04,
+                    "word": " who",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 48.04,
+                    "end": 48.18,
+                    "word": " are",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 48.18,
+                    "end": 48.4,
+                    "word": " using",
+                    "probability": 1.0
+                },
+                {
+                    "start": 48.4,
+                    "end": 48.64,
+                    "word": " the",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 48.64,
+                    "end": 49.06,
+                    "word": " data,",
+                    "probability": 1.0
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 8,
+            "seek": 2710,
+            "start": 49.7,
+            "end": 55.22,
+            "text": " because we don't want them to give them access to all of our files",
+            "tokens": [
+                51504,
+                570,
+                321,
+                500,
+                380,
+                528,
+                552,
+                281,
+                976,
+                552,
+                2105,
+                281,
+                439,
+                295,
+                527,
+                7098,
+                51768
+            ],
+            "avg_logprob": -0.13769531961191783,
+            "compression_ratio": 1.6587677725118484,
+            "no_speech_prob": 0.019927978515625,
+            "words": [
+                {
+                    "start": 49.7,
+                    "end": 50.3,
+                    "word": " because",
+                    "probability": 0.9599609375
+                },
+                {
+                    "start": 50.3,
+                    "end": 50.48,
+                    "word": " we",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 50.48,
+                    "end": 50.86,
+                    "word": " don't",
+                    "probability": 0.998291015625
+                },
+                {
+                    "start": 50.86,
+                    "end": 51.08,
+                    "word": " want",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 51.08,
+                    "end": 51.54,
+                    "word": " them",
+                    "probability": 0.94384765625
+                },
+                {
+                    "start": 51.54,
+                    "end": 51.7,
+                    "word": " to",
+                    "probability": 0.77783203125
+                },
+                {
+                    "start": 51.7,
+                    "end": 51.9,
+                    "word": " give",
+                    "probability": 0.93359375
+                },
+                {
+                    "start": 51.9,
+                    "end": 52.14,
+                    "word": " them",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 52.14,
+                    "end": 52.5,
+                    "word": " access",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 52.5,
+                    "end": 53.22,
+                    "word": " to",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 53.22,
+                    "end": 54.22,
+                    "word": " all",
+                    "probability": 0.78759765625
+                },
+                {
+                    "start": 54.22,
+                    "end": 54.74,
+                    "word": " of",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 54.74,
+                    "end": 54.92,
+                    "word": " our",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 54.92,
+                    "end": 55.22,
+                    "word": " files",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 9,
+            "seek": 5522,
+            "start": 56.5,
+            "end": 58.88,
+            "text": " with the actual data, so we don't want to share.",
+            "tokens": [
+                50372,
+                365,
+                264,
+                3539,
+                1412,
+                11,
+                370,
+                321,
+                500,
+                380,
+                528,
+                281,
+                2073,
+                13,
+                50532
+            ],
+            "avg_logprob": -0.38305663503706455,
+            "compression_ratio": 0.8727272727272727,
+            "no_speech_prob": 0.0022144317626953125,
+            "words": [
+                {
+                    "start": 56.5,
+                    "end": 56.92,
+                    "word": " with",
+                    "probability": 0.50537109375
+                },
+                {
+                    "start": 56.92,
+                    "end": 57.22,
+                    "word": " the",
+                    "probability": 0.8525390625
+                },
+                {
+                    "start": 57.22,
+                    "end": 57.56,
+                    "word": " actual",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 57.56,
+                    "end": 57.82,
+                    "word": " data,",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 57.84,
+                    "end": 58.0,
+                    "word": " so",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 58.0,
+                    "end": 58.12,
+                    "word": " we",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 58.12,
+                    "end": 58.32,
+                    "word": " don't",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 58.32,
+                    "end": 58.46,
+                    "word": " want",
+                    "probability": 0.93701171875
+                },
+                {
+                    "start": 58.46,
+                    "end": 58.66,
+                    "word": " to",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 58.66,
+                    "end": 58.88,
+                    "word": " share.",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " Finnish, English and Russian. But the mixed language interviews where there's a lot of code switching. It doesn't work, of course, because you have to sort of tell the tool which language it is and you cannot tell that it's in mixed English and Finnish, for example. And also these tools don't know Ukrainian. Yeah. And what I'm a bit worried about is the security of these tools, although they have, well, they have told us that they're in EU and so on, but still they're used on the browser and through links. So we also use these tools for sharing the data with some of our researchers, for example, students who are using the data, because we don't want them to give them access to all of our files with the actual data, so we don't want to share."
+}

@@ -1,0 +1,865 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 22.14,
+            "text": " We phonetically, well, not phonetically, but word by word transcribe what people say in the interviews, but the AI tools, they tend to beautify the end product so that it doesn't follow what the people actually say.",
+            "tokens": [
+                50364,
+                492,
+                30754,
+                22652,
+                11,
+                731,
+                11,
+                406,
+                30754,
+                22652,
+                11,
+                457,
+                1349,
+                538,
+                1349,
+                1145,
+                8056,
+                437,
+                561,
+                584,
+                294,
+                264,
+                12318,
+                11,
+                457,
+                264,
+                7318,
+                3873,
+                11,
+                436,
+                3928,
+                281,
+                1869,
+                2505,
+                264,
+                917,
+                1674,
+                370,
+                300,
+                309,
+                1177,
+                380,
+                1524,
+                437,
+                264,
+                561,
+                767,
+                584,
+                13,
+                51464
+            ],
+            "avg_logprob": -0.22280649582927042,
+            "compression_ratio": 1.5034965034965035,
+            "no_speech_prob": 0.223876953125,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.78,
+                    "word": " We",
+                    "probability": 0.039520263671875
+                },
+                {
+                    "start": 0.78,
+                    "end": 1.76,
+                    "word": " phonetically,",
+                    "probability": 0.966552734375
+                },
+                {
+                    "start": 1.96,
+                    "end": 2.18,
+                    "word": " well,",
+                    "probability": 0.64111328125
+                },
+                {
+                    "start": 2.18,
+                    "end": 2.36,
+                    "word": " not",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 2.36,
+                    "end": 2.88,
+                    "word": " phonetically,",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 3.36,
+                    "end": 3.46,
+                    "word": " but",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 3.46,
+                    "end": 4.14,
+                    "word": " word",
+                    "probability": 0.9580078125
+                },
+                {
+                    "start": 4.14,
+                    "end": 4.4,
+                    "word": " by",
+                    "probability": 0.763671875
+                },
+                {
+                    "start": 4.4,
+                    "end": 4.8,
+                    "word": " word",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 4.8,
+                    "end": 5.96,
+                    "word": " transcribe",
+                    "probability": 0.88818359375
+                },
+                {
+                    "start": 5.96,
+                    "end": 6.46,
+                    "word": " what",
+                    "probability": 0.8994140625
+                },
+                {
+                    "start": 6.46,
+                    "end": 6.84,
+                    "word": " people",
+                    "probability": 0.9609375
+                },
+                {
+                    "start": 6.84,
+                    "end": 7.18,
+                    "word": " say",
+                    "probability": 0.89697265625
+                },
+                {
+                    "start": 7.18,
+                    "end": 7.5,
+                    "word": " in",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 7.5,
+                    "end": 7.76,
+                    "word": " the",
+                    "probability": 0.94580078125
+                },
+                {
+                    "start": 7.76,
+                    "end": 8.12,
+                    "word": " interviews,",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 8.36,
+                    "end": 8.5,
+                    "word": " but",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 8.5,
+                    "end": 10.76,
+                    "word": " the",
+                    "probability": 0.97802734375
+                },
+                {
+                    "start": 10.76,
+                    "end": 11.12,
+                    "word": " AI",
+                    "probability": 0.8798828125
+                },
+                {
+                    "start": 11.12,
+                    "end": 11.56,
+                    "word": " tools,",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 11.56,
+                    "end": 11.86,
+                    "word": " they",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 11.86,
+                    "end": 12.14,
+                    "word": " tend",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 12.14,
+                    "end": 13.26,
+                    "word": " to",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 13.26,
+                    "end": 13.96,
+                    "word": " beautify",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 13.96,
+                    "end": 14.88,
+                    "word": " the",
+                    "probability": 0.962890625
+                },
+                {
+                    "start": 14.88,
+                    "end": 15.08,
+                    "word": " end",
+                    "probability": 0.978515625
+                },
+                {
+                    "start": 15.08,
+                    "end": 15.5,
+                    "word": " product",
+                    "probability": 0.85400390625
+                },
+                {
+                    "start": 15.5,
+                    "end": 15.76,
+                    "word": " so",
+                    "probability": 0.80712890625
+                },
+                {
+                    "start": 15.76,
+                    "end": 15.94,
+                    "word": " that",
+                    "probability": 0.97900390625
+                },
+                {
+                    "start": 15.94,
+                    "end": 16.12,
+                    "word": " it",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 16.12,
+                    "end": 19.08,
+                    "word": " doesn't",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 19.08,
+                    "end": 20.3,
+                    "word": " follow",
+                    "probability": 0.346923828125
+                },
+                {
+                    "start": 20.3,
+                    "end": 20.72,
+                    "word": " what",
+                    "probability": 0.94970703125
+                },
+                {
+                    "start": 20.72,
+                    "end": 20.96,
+                    "word": " the",
+                    "probability": 0.97900390625
+                },
+                {
+                    "start": 20.96,
+                    "end": 21.12,
+                    "word": " people",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 21.12,
+                    "end": 21.7,
+                    "word": " actually",
+                    "probability": 0.8359375
+                },
+                {
+                    "start": 21.7,
+                    "end": 22.14,
+                    "word": " say.",
+                    "probability": 0.98681640625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 2214,
+            "start": 22.14,
+            "end": 44.14,
+            "text": " And a lot of... now I've been only talking about the interviews, but we also have some naturally occurring conversational data, which hasn't... actually, I haven't recently even tried, maybe the tools have become better, but I haven't...",
+            "tokens": [
+                50364,
+                400,
+                257,
+                688,
+                295,
+                485,
+                586,
+                286,
+                600,
+                668,
+                787,
+                1417,
+                466,
+                264,
+                12318,
+                11,
+                457,
+                321,
+                611,
+                362,
+                512,
+                8195,
+                18386,
+                2615,
+                1478,
+                1412,
+                11,
+                597,
+                6132,
+                380,
+                485,
+                767,
+                11,
+                286,
+                2378,
+                380,
+                3938,
+                754,
+                3031,
+                11,
+                1310,
+                264,
+                3873,
+                362,
+                1813,
+                1101,
+                11,
+                457,
+                286,
+                2378,
+                380,
+                485,
+                51464
+            ],
+            "avg_logprob": -0.17045453895222057,
+            "compression_ratio": 1.4720496894409938,
+            "no_speech_prob": 0.6513671875,
+            "words": [
+                {
+                    "start": 22.14,
+                    "end": 23.02,
+                    "word": " And",
+                    "probability": 0.456787109375
+                },
+                {
+                    "start": 23.02,
+                    "end": 23.14,
+                    "word": " a",
+                    "probability": 0.72607421875
+                },
+                {
+                    "start": 23.14,
+                    "end": 23.4,
+                    "word": " lot",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 23.4,
+                    "end": 24.34,
+                    "word": " of...",
+                    "probability": 0.544769287109375
+                },
+                {
+                    "start": 24.34,
+                    "end": 24.6,
+                    "word": " now",
+                    "probability": 0.1834716796875
+                },
+                {
+                    "start": 24.6,
+                    "end": 24.84,
+                    "word": " I've",
+                    "probability": 0.946533203125
+                },
+                {
+                    "start": 24.84,
+                    "end": 25.02,
+                    "word": " been",
+                    "probability": 0.9775390625
+                },
+                {
+                    "start": 25.02,
+                    "end": 25.44,
+                    "word": " only",
+                    "probability": 0.87890625
+                },
+                {
+                    "start": 25.44,
+                    "end": 25.78,
+                    "word": " talking",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 25.78,
+                    "end": 26.26,
+                    "word": " about",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 26.26,
+                    "end": 26.64,
+                    "word": " the",
+                    "probability": 0.92431640625
+                },
+                {
+                    "start": 26.64,
+                    "end": 27.02,
+                    "word": " interviews,",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 27.06,
+                    "end": 27.26,
+                    "word": " but",
+                    "probability": 0.9814453125
+                },
+                {
+                    "start": 27.26,
+                    "end": 27.44,
+                    "word": " we",
+                    "probability": 0.9443359375
+                },
+                {
+                    "start": 27.44,
+                    "end": 27.78,
+                    "word": " also",
+                    "probability": 0.84521484375
+                },
+                {
+                    "start": 27.78,
+                    "end": 28.12,
+                    "word": " have",
+                    "probability": 0.96533203125
+                },
+                {
+                    "start": 28.12,
+                    "end": 28.4,
+                    "word": " some",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 28.4,
+                    "end": 32.42,
+                    "word": " naturally",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 32.42,
+                    "end": 33.26,
+                    "word": " occurring",
+                    "probability": 0.92626953125
+                },
+                {
+                    "start": 33.26,
+                    "end": 34.6,
+                    "word": " conversational",
+                    "probability": 0.87646484375
+                },
+                {
+                    "start": 34.6,
+                    "end": 35.24,
+                    "word": " data,",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 36.68,
+                    "end": 36.78,
+                    "word": " which",
+                    "probability": 0.95556640625
+                },
+                {
+                    "start": 36.78,
+                    "end": 38.1,
+                    "word": " hasn't...",
+                    "probability": 0.9147135416666666
+                },
+                {
+                    "start": 38.1,
+                    "end": 38.8,
+                    "word": " actually,",
+                    "probability": 0.389892578125
+                },
+                {
+                    "start": 38.82,
+                    "end": 38.94,
+                    "word": " I",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 38.94,
+                    "end": 39.18,
+                    "word": " haven't",
+                    "probability": 0.998291015625
+                },
+                {
+                    "start": 39.18,
+                    "end": 40.0,
+                    "word": " recently",
+                    "probability": 0.9716796875
+                },
+                {
+                    "start": 40.0,
+                    "end": 40.32,
+                    "word": " even",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 40.32,
+                    "end": 40.6,
+                    "word": " tried,",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 40.98,
+                    "end": 41.2,
+                    "word": " maybe",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 41.2,
+                    "end": 41.4,
+                    "word": " the",
+                    "probability": 0.8427734375
+                },
+                {
+                    "start": 41.4,
+                    "end": 41.68,
+                    "word": " tools",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 41.68,
+                    "end": 42.5,
+                    "word": " have",
+                    "probability": 0.97900390625
+                },
+                {
+                    "start": 42.5,
+                    "end": 42.96,
+                    "word": " become",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 42.96,
+                    "end": 43.3,
+                    "word": " better,",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 43.36,
+                    "end": 43.58,
+                    "word": " but",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 43.58,
+                    "end": 43.72,
+                    "word": " I",
+                    "probability": 0.9462890625
+                },
+                {
+                    "start": 43.72,
+                    "end": 44.14,
+                    "word": " haven't...",
+                    "probability": 0.9143880208333334
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 4414,
+            "start": 44.74,
+            "end": 53.86,
+            "text": " Well, a couple of years ago when I last tried it, they couldn't manage with the conversations where there are multiple participants.",
+            "tokens": [
+                50364,
+                1042,
+                11,
+                257,
+                1916,
+                295,
+                924,
+                2057,
+                562,
+                286,
+                1036,
+                3031,
+                309,
+                11,
+                436,
+                2809,
+                380,
+                3067,
+                365,
+                264,
+                7315,
+                689,
+                456,
+                366,
+                3866,
+                10503,
+                13,
+                50864
+            ],
+            "avg_logprob": -0.16731770783662797,
+            "compression_ratio": 1.2222222222222223,
+            "no_speech_prob": 0.46630859375,
+            "words": [
+                {
+                    "start": 44.74,
+                    "end": 45.22,
+                    "word": " Well,",
+                    "probability": 0.486083984375
+                },
+                {
+                    "start": 45.7,
+                    "end": 45.74,
+                    "word": " a",
+                    "probability": 0.935546875
+                },
+                {
+                    "start": 45.74,
+                    "end": 45.96,
+                    "word": " couple",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 45.96,
+                    "end": 46.12,
+                    "word": " of",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 46.12,
+                    "end": 46.3,
+                    "word": " years",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 46.3,
+                    "end": 46.52,
+                    "word": " ago",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 46.52,
+                    "end": 46.72,
+                    "word": " when",
+                    "probability": 0.51513671875
+                },
+                {
+                    "start": 46.72,
+                    "end": 47.32,
+                    "word": " I",
+                    "probability": 0.98388671875
+                },
+                {
+                    "start": 47.32,
+                    "end": 47.56,
+                    "word": " last",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 47.56,
+                    "end": 47.8,
+                    "word": " tried",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 47.8,
+                    "end": 48.02,
+                    "word": " it,",
+                    "probability": 0.97265625
+                },
+                {
+                    "start": 48.24,
+                    "end": 48.38,
+                    "word": " they",
+                    "probability": 0.9873046875
+                },
+                {
+                    "start": 48.38,
+                    "end": 48.8,
+                    "word": " couldn't",
+                    "probability": 0.950927734375
+                },
+                {
+                    "start": 48.8,
+                    "end": 49.08,
+                    "word": " manage",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 49.08,
+                    "end": 50.9,
+                    "word": " with",
+                    "probability": 0.875
+                },
+                {
+                    "start": 50.9,
+                    "end": 51.08,
+                    "word": " the",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 51.08,
+                    "end": 51.62,
+                    "word": " conversations",
+                    "probability": 0.74560546875
+                },
+                {
+                    "start": 51.62,
+                    "end": 51.9,
+                    "word": " where",
+                    "probability": 0.8447265625
+                },
+                {
+                    "start": 51.9,
+                    "end": 52.1,
+                    "word": " there",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 52.1,
+                    "end": 52.26,
+                    "word": " are",
+                    "probability": 0.9599609375
+                },
+                {
+                    "start": 52.26,
+                    "end": 52.72,
+                    "word": " multiple",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 52.72,
+                    "end": 53.86,
+                    "word": " participants.",
+                    "probability": 0.99658203125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 5386,
+            "start": 53.86,
+            "end": 55.64,
+            "text": " Okay, interesting.",
+            "tokens": [
+                50364,
+                1033,
+                11,
+                1880,
+                13,
+                50464
+            ],
+            "avg_logprob": -0.3368055671453476,
+            "compression_ratio": 0.9402985074626866,
+            "no_speech_prob": 0.71630859375,
+            "words": [
+                {
+                    "start": 53.86,
+                    "end": 55.2,
+                    "word": " Okay,",
+                    "probability": 0.2744140625
+                },
+                {
+                    "start": 55.52,
+                    "end": 55.64,
+                    "word": " interesting.",
+                    "probability": 0.9765625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 5386,
+            "start": 56.48,
+            "end": 60.02,
+            "text": " Like in natural situations, like a family...",
+            "tokens": [
+                50464,
+                1743,
+                294,
+                3303,
+                6851,
+                11,
+                411,
+                257,
+                1605,
+                485,
+                50664
+            ],
+            "avg_logprob": -0.3368055671453476,
+            "compression_ratio": 0.9402985074626866,
+            "no_speech_prob": 0.71630859375,
+            "words": [
+                {
+                    "start": 56.48,
+                    "end": 56.48,
+                    "word": " Like",
+                    "probability": 0.74462890625
+                },
+                {
+                    "start": 56.48,
+                    "end": 57.32,
+                    "word": " in",
+                    "probability": 0.658203125
+                },
+                {
+                    "start": 57.32,
+                    "end": 57.86,
+                    "word": " natural",
+                    "probability": 0.70458984375
+                },
+                {
+                    "start": 57.86,
+                    "end": 58.72,
+                    "word": " situations,",
+                    "probability": 0.9755859375
+                },
+                {
+                    "start": 59.4,
+                    "end": 59.52,
+                    "word": " like",
+                    "probability": 0.94775390625
+                },
+                {
+                    "start": 59.52,
+                    "end": 59.62,
+                    "word": " a",
+                    "probability": 0.77392578125
+                },
+                {
+                    "start": 59.62,
+                    "end": 60.02,
+                    "word": " family...",
+                    "probability": 0.6099853515625
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " We phonetically, well, not phonetically, but word by word transcribe what people say in the interviews, but the AI tools, they tend to beautify the end product so that it doesn't follow what the people actually say. And a lot of... now I've been only talking about the interviews, but we also have some naturally occurring conversational data, which hasn't... actually, I haven't recently even tried, maybe the tools have become better, but I haven't... Well, a couple of years ago when I last tried it, they couldn't manage with the conversations where there are multiple participants. Okay, interesting. Like in natural situations, like a family..."
+}
