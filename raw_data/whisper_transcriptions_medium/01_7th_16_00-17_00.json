@@ -1,0 +1,1114 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 29.66,
+            "text": " What does this medium mean? So I think it is maybe like that kind of solution that there would be an option to just push a button to just transcribe with some auto settings, but then also an opportunity to change those yourself and like, customate and really like calibrate for the task at hand, but maybe also in that there could be a little more information",
+            "tokens": [
+                50364,
+                708,
+                775,
+                341,
+                6399,
+                914,
+                30,
+                407,
+                286,
+                519,
+                309,
+                307,
+                1310,
+                411,
+                300,
+                733,
+                295,
+                3827,
+                300,
+                456,
+                576,
+                312,
+                364,
+                3614,
+                281,
+                445,
+                2944,
+                257,
+                2960,
+                281,
+                445,
+                1145,
+                8056,
+                365,
+                512,
+                8399,
+                6257,
+                11,
+                457,
+                550,
+                611,
+                364,
+                2650,
+                281,
+                1319,
+                729,
+                1803,
+                293,
+                411,
+                11,
+                2375,
+                473,
+                293,
+                534,
+                411,
+                21583,
+                4404,
+                337,
+                264,
+                5633,
+                412,
+                1011,
+                11,
+                457,
+                1310,
+                611,
+                294,
+                300,
+                456,
+                727,
+                312,
+                257,
+                707,
+                544,
+                1589
+            ],
+            "avg_logprob": -0.21402138334355855,
+            "compression_ratio": 1.6775700934579438,
+            "no_speech_prob": 0.79638671875,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.0,
+                    "word": " What",
+                    "probability": 0.1207275390625
+                },
+                {
+                    "start": 0.1,
+                    "end": 0.24,
+                    "word": " does",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 0.24,
+                    "end": 0.52,
+                    "word": " this",
+                    "probability": 0.9521484375
+                },
+                {
+                    "start": 0.52,
+                    "end": 0.82,
+                    "word": " medium",
+                    "probability": 0.8017578125
+                },
+                {
+                    "start": 0.82,
+                    "end": 1.2,
+                    "word": " mean?",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 2.04,
+                    "end": 2.04,
+                    "word": " So",
+                    "probability": 0.319091796875
+                },
+                {
+                    "start": 2.04,
+                    "end": 2.34,
+                    "word": " I",
+                    "probability": 0.72021484375
+                },
+                {
+                    "start": 2.34,
+                    "end": 2.64,
+                    "word": " think",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 2.64,
+                    "end": 2.8,
+                    "word": " it",
+                    "probability": 0.57666015625
+                },
+                {
+                    "start": 2.8,
+                    "end": 4.76,
+                    "word": " is",
+                    "probability": 0.82373046875
+                },
+                {
+                    "start": 4.76,
+                    "end": 5.74,
+                    "word": " maybe",
+                    "probability": 0.69775390625
+                },
+                {
+                    "start": 5.74,
+                    "end": 6.62,
+                    "word": " like",
+                    "probability": 0.5849609375
+                },
+                {
+                    "start": 6.62,
+                    "end": 6.8,
+                    "word": " that",
+                    "probability": 0.943359375
+                },
+                {
+                    "start": 6.8,
+                    "end": 7.02,
+                    "word": " kind",
+                    "probability": 0.603515625
+                },
+                {
+                    "start": 7.02,
+                    "end": 7.16,
+                    "word": " of",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 7.16,
+                    "end": 7.44,
+                    "word": " solution",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 7.44,
+                    "end": 7.64,
+                    "word": " that",
+                    "probability": 0.86181640625
+                },
+                {
+                    "start": 7.64,
+                    "end": 7.8,
+                    "word": " there",
+                    "probability": 0.97802734375
+                },
+                {
+                    "start": 7.8,
+                    "end": 7.98,
+                    "word": " would",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 7.98,
+                    "end": 8.72,
+                    "word": " be",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 8.72,
+                    "end": 9.0,
+                    "word": " an",
+                    "probability": 0.982421875
+                },
+                {
+                    "start": 9.0,
+                    "end": 9.3,
+                    "word": " option",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 9.3,
+                    "end": 9.54,
+                    "word": " to",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 9.54,
+                    "end": 9.86,
+                    "word": " just",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 9.86,
+                    "end": 10.08,
+                    "word": " push",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 10.08,
+                    "end": 10.26,
+                    "word": " a",
+                    "probability": 0.97265625
+                },
+                {
+                    "start": 10.26,
+                    "end": 10.48,
+                    "word": " button",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 10.48,
+                    "end": 10.76,
+                    "word": " to",
+                    "probability": 0.66650390625
+                },
+                {
+                    "start": 10.76,
+                    "end": 11.14,
+                    "word": " just",
+                    "probability": 0.96337890625
+                },
+                {
+                    "start": 11.14,
+                    "end": 11.66,
+                    "word": " transcribe",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 11.66,
+                    "end": 11.96,
+                    "word": " with",
+                    "probability": 0.890625
+                },
+                {
+                    "start": 11.96,
+                    "end": 12.26,
+                    "word": " some",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 12.26,
+                    "end": 12.58,
+                    "word": " auto",
+                    "probability": 0.96484375
+                },
+                {
+                    "start": 12.58,
+                    "end": 13.16,
+                    "word": " settings,",
+                    "probability": 0.9462890625
+                },
+                {
+                    "start": 13.5,
+                    "end": 13.9,
+                    "word": " but",
+                    "probability": 0.97216796875
+                },
+                {
+                    "start": 13.9,
+                    "end": 14.22,
+                    "word": " then",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 14.22,
+                    "end": 14.9,
+                    "word": " also",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 14.9,
+                    "end": 15.7,
+                    "word": " an",
+                    "probability": 0.98193359375
+                },
+                {
+                    "start": 15.7,
+                    "end": 16.28,
+                    "word": " opportunity",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 16.28,
+                    "end": 17.04,
+                    "word": " to",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 17.04,
+                    "end": 17.98,
+                    "word": " change",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 17.98,
+                    "end": 18.44,
+                    "word": " those",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 18.44,
+                    "end": 19.12,
+                    "word": " yourself",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 19.12,
+                    "end": 19.56,
+                    "word": " and",
+                    "probability": 0.9296875
+                },
+                {
+                    "start": 19.56,
+                    "end": 20.38,
+                    "word": " like,",
+                    "probability": 0.91796875
+                },
+                {
+                    "start": 20.38,
+                    "end": 21.12,
+                    "word": " customate",
+                    "probability": 0.26324462890625
+                },
+                {
+                    "start": 21.12,
+                    "end": 21.5,
+                    "word": " and",
+                    "probability": 0.92333984375
+                },
+                {
+                    "start": 21.5,
+                    "end": 21.74,
+                    "word": " really",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 21.74,
+                    "end": 22.3,
+                    "word": " like",
+                    "probability": 0.79931640625
+                },
+                {
+                    "start": 22.3,
+                    "end": 22.72,
+                    "word": " calibrate",
+                    "probability": 0.983642578125
+                },
+                {
+                    "start": 22.72,
+                    "end": 22.94,
+                    "word": " for",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 22.94,
+                    "end": 23.2,
+                    "word": " the",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 23.2,
+                    "end": 23.62,
+                    "word": " task",
+                    "probability": 0.9765625
+                },
+                {
+                    "start": 23.62,
+                    "end": 24.0,
+                    "word": " at",
+                    "probability": 0.97265625
+                },
+                {
+                    "start": 24.0,
+                    "end": 24.28,
+                    "word": " hand,",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 24.46,
+                    "end": 24.76,
+                    "word": " but",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 24.76,
+                    "end": 25.08,
+                    "word": " maybe",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 25.08,
+                    "end": 25.42,
+                    "word": " also",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 25.42,
+                    "end": 25.62,
+                    "word": " in",
+                    "probability": 0.984375
+                },
+                {
+                    "start": 25.62,
+                    "end": 26.0,
+                    "word": " that",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 26.0,
+                    "end": 27.5,
+                    "word": " there",
+                    "probability": 0.505859375
+                },
+                {
+                    "start": 27.5,
+                    "end": 27.72,
+                    "word": " could",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 27.72,
+                    "end": 28.06,
+                    "word": " be",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 28.06,
+                    "end": 28.24,
+                    "word": " a",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 28.24,
+                    "end": 28.52,
+                    "word": " little",
+                    "probability": 1.0
+                },
+                {
+                    "start": 28.52,
+                    "end": 28.88,
+                    "word": " more",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 28.88,
+                    "end": 29.66,
+                    "word": " information",
+                    "probability": 0.99658203125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 2966,
+            "start": 29.66,
+            "end": 45.86,
+            "text": " for the user as in not just like, do you want to use the medium or large, but like, okay, if you want the medium is good for these and these and pros and cons on this, and then also on the large one. Okay, this takes more time, but it is more",
+            "tokens": [
+                50364,
+                337,
+                264,
+                4195,
+                382,
+                294,
+                406,
+                445,
+                411,
+                11,
+                360,
+                291,
+                528,
+                281,
+                764,
+                264,
+                6399,
+                420,
+                2416,
+                11,
+                457,
+                411,
+                11,
+                1392,
+                11,
+                498,
+                291,
+                528,
+                264,
+                6399,
+                307,
+                665,
+                337,
+                613,
+                293,
+                613,
+                293,
+                6267,
+                293,
+                1014,
+                322,
+                341,
+                11,
+                293,
+                550,
+                611,
+                322,
+                264,
+                2416,
+                472,
+                13,
+                1033,
+                11,
+                341,
+                2516,
+                544,
+                565,
+                11,
+                457,
+                309,
+                307,
+                544,
+                51174
+            ],
+            "avg_logprob": -0.15685096153846154,
+            "compression_ratio": 1.704225352112676,
+            "no_speech_prob": 0.0098419189453125,
+            "words": [
+                {
+                    "start": 29.66,
+                    "end": 30.04,
+                    "word": " for",
+                    "probability": 0.87548828125
+                },
+                {
+                    "start": 30.04,
+                    "end": 30.2,
+                    "word": " the",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 30.2,
+                    "end": 30.86,
+                    "word": " user",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 30.86,
+                    "end": 31.36,
+                    "word": " as",
+                    "probability": 0.476318359375
+                },
+                {
+                    "start": 31.36,
+                    "end": 31.8,
+                    "word": " in",
+                    "probability": 0.982421875
+                },
+                {
+                    "start": 31.8,
+                    "end": 32.14,
+                    "word": " not",
+                    "probability": 0.78515625
+                },
+                {
+                    "start": 32.14,
+                    "end": 32.5,
+                    "word": " just",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 32.5,
+                    "end": 32.7,
+                    "word": " like,",
+                    "probability": 0.71533203125
+                },
+                {
+                    "start": 32.84,
+                    "end": 32.84,
+                    "word": " do",
+                    "probability": 0.87744140625
+                },
+                {
+                    "start": 32.94,
+                    "end": 32.98,
+                    "word": " you",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 32.98,
+                    "end": 33.18,
+                    "word": " want",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 33.18,
+                    "end": 33.34,
+                    "word": " to",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 33.34,
+                    "end": 33.48,
+                    "word": " use",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 33.48,
+                    "end": 33.7,
+                    "word": " the",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 33.7,
+                    "end": 33.92,
+                    "word": " medium",
+                    "probability": 0.9609375
+                },
+                {
+                    "start": 33.92,
+                    "end": 34.28,
+                    "word": " or",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 34.28,
+                    "end": 34.6,
+                    "word": " large,",
+                    "probability": 0.7431640625
+                },
+                {
+                    "start": 34.9,
+                    "end": 34.9,
+                    "word": " but",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 35.0,
+                    "end": 35.28,
+                    "word": " like,",
+                    "probability": 0.9384765625
+                },
+                {
+                    "start": 35.42,
+                    "end": 35.6,
+                    "word": " okay,",
+                    "probability": 0.87646484375
+                },
+                {
+                    "start": 35.68,
+                    "end": 35.8,
+                    "word": " if",
+                    "probability": 0.97119140625
+                },
+                {
+                    "start": 35.8,
+                    "end": 36.1,
+                    "word": " you",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 36.1,
+                    "end": 36.32,
+                    "word": " want",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 36.32,
+                    "end": 36.62,
+                    "word": " the",
+                    "probability": 0.68798828125
+                },
+                {
+                    "start": 36.62,
+                    "end": 36.98,
+                    "word": " medium",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 36.98,
+                    "end": 37.3,
+                    "word": " is",
+                    "probability": 0.82177734375
+                },
+                {
+                    "start": 37.3,
+                    "end": 37.48,
+                    "word": " good",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 37.48,
+                    "end": 37.84,
+                    "word": " for",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 37.84,
+                    "end": 38.1,
+                    "word": " these",
+                    "probability": 0.80859375
+                },
+                {
+                    "start": 38.1,
+                    "end": 38.3,
+                    "word": " and",
+                    "probability": 0.919921875
+                },
+                {
+                    "start": 38.3,
+                    "end": 38.56,
+                    "word": " these",
+                    "probability": 0.93310546875
+                },
+                {
+                    "start": 38.56,
+                    "end": 39.06,
+                    "word": " and",
+                    "probability": 0.73486328125
+                },
+                {
+                    "start": 39.06,
+                    "end": 39.26,
+                    "word": " pros",
+                    "probability": 0.97509765625
+                },
+                {
+                    "start": 39.26,
+                    "end": 39.54,
+                    "word": " and",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 39.54,
+                    "end": 39.74,
+                    "word": " cons",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 39.74,
+                    "end": 39.96,
+                    "word": " on",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 39.96,
+                    "end": 40.32,
+                    "word": " this,",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 40.32,
+                    "end": 40.66,
+                    "word": " and",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 40.66,
+                    "end": 40.94,
+                    "word": " then",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 40.94,
+                    "end": 41.28,
+                    "word": " also",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 41.28,
+                    "end": 41.5,
+                    "word": " on",
+                    "probability": 0.83935546875
+                },
+                {
+                    "start": 41.5,
+                    "end": 41.68,
+                    "word": " the",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 41.68,
+                    "end": 41.92,
+                    "word": " large",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 41.92,
+                    "end": 42.1,
+                    "word": " one.",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 42.26,
+                    "end": 42.42,
+                    "word": " Okay,",
+                    "probability": 0.9521484375
+                },
+                {
+                    "start": 42.44,
+                    "end": 42.7,
+                    "word": " this",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 42.7,
+                    "end": 42.98,
+                    "word": " takes",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 42.98,
+                    "end": 43.3,
+                    "word": " more",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 43.3,
+                    "end": 43.68,
+                    "word": " time,",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 43.82,
+                    "end": 43.92,
+                    "word": " but",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 43.92,
+                    "end": 44.24,
+                    "word": " it",
+                    "probability": 0.95654296875
+                },
+                {
+                    "start": 44.24,
+                    "end": 45.12,
+                    "word": " is",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 45.12,
+                    "end": 45.86,
+                    "word": " more",
+                    "probability": 0.744140625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 4586,
+            "start": 48.04,
+            "end": 59.9,
+            "text": " Like if it is better quality or such, I feel that. Yeah, just like the names of the models don't necessarily mean anything. Yeah, convey all the information.",
+            "tokens": [
+                50414,
+                1743,
+                498,
+                309,
+                307,
+                1101,
+                3125,
+                420,
+                1270,
+                11,
+                286,
+                841,
+                300,
+                13,
+                865,
+                11,
+                445,
+                411,
+                264,
+                5288,
+                295,
+                264,
+                5245,
+                500,
+                380,
+                4725,
+                914,
+                1340,
+                13,
+                865,
+                11,
+                16965,
+                439,
+                264,
+                1589,
+                13,
+                51064
+            ],
+            "avg_logprob": -0.37150492950489644,
+            "compression_ratio": 1.2975206611570247,
+            "no_speech_prob": 0.65869140625,
+            "words": [
+                {
+                    "start": 48.04,
+                    "end": 48.66,
+                    "word": " Like",
+                    "probability": 0.265380859375
+                },
+                {
+                    "start": 48.66,
+                    "end": 49.0,
+                    "word": " if",
+                    "probability": 0.421875
+                },
+                {
+                    "start": 49.0,
+                    "end": 49.44,
+                    "word": " it",
+                    "probability": 0.85791015625
+                },
+                {
+                    "start": 49.44,
+                    "end": 49.64,
+                    "word": " is",
+                    "probability": 0.95166015625
+                },
+                {
+                    "start": 49.64,
+                    "end": 49.96,
+                    "word": " better",
+                    "probability": 0.96826171875
+                },
+                {
+                    "start": 49.96,
+                    "end": 50.44,
+                    "word": " quality",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 50.44,
+                    "end": 50.76,
+                    "word": " or",
+                    "probability": 0.9375
+                },
+                {
+                    "start": 50.76,
+                    "end": 51.0,
+                    "word": " such,",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 51.32,
+                    "end": 51.32,
+                    "word": " I",
+                    "probability": 0.97705078125
+                },
+                {
+                    "start": 51.42,
+                    "end": 51.62,
+                    "word": " feel",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 51.62,
+                    "end": 52.58,
+                    "word": " that.",
+                    "probability": 0.9296875
+                },
+                {
+                    "start": 52.58,
+                    "end": 53.02,
+                    "word": " Yeah,",
+                    "probability": 0.348388671875
+                },
+                {
+                    "start": 53.44,
+                    "end": 53.54,
+                    "word": " just",
+                    "probability": 0.76171875
+                },
+                {
+                    "start": 53.54,
+                    "end": 53.82,
+                    "word": " like",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 53.82,
+                    "end": 54.02,
+                    "word": " the",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 54.02,
+                    "end": 54.2,
+                    "word": " names",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 54.2,
+                    "end": 54.42,
+                    "word": " of",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 54.42,
+                    "end": 54.6,
+                    "word": " the",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 54.6,
+                    "end": 54.88,
+                    "word": " models",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 54.88,
+                    "end": 55.64,
+                    "word": " don't",
+                    "probability": 0.976806640625
+                },
+                {
+                    "start": 55.64,
+                    "end": 56.84,
+                    "word": " necessarily",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 56.84,
+                    "end": 57.24,
+                    "word": " mean",
+                    "probability": 0.455078125
+                },
+                {
+                    "start": 57.24,
+                    "end": 57.64,
+                    "word": " anything.",
+                    "probability": 0.8662109375
+                },
+                {
+                    "start": 58.36,
+                    "end": 58.58,
+                    "word": " Yeah,",
+                    "probability": 0.76123046875
+                },
+                {
+                    "start": 58.88,
+                    "end": 59.02,
+                    "word": " convey",
+                    "probability": 0.64404296875
+                },
+                {
+                    "start": 59.02,
+                    "end": 59.24,
+                    "word": " all",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 59.24,
+                    "end": 59.5,
+                    "word": " the",
+                    "probability": 0.98291015625
+                },
+                {
+                    "start": 59.5,
+                    "end": 59.9,
+                    "word": " information.",
+                    "probability": 0.998046875
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " What does this medium mean? So I think it is maybe like that kind of solution that there would be an option to just push a button to just transcribe with some auto settings, but then also an opportunity to change those yourself and like, customate and really like calibrate for the task at hand, but maybe also in that there could be a little more information for the user as in not just like, do you want to use the medium or large, but like, okay, if you want the medium is good for these and these and pros and cons on this, and then also on the large one. Okay, this takes more time, but it is more Like if it is better quality or such, I feel that. Yeah, just like the names of the models don't necessarily mean anything. Yeah, convey all the information."
+}

@@ -1,0 +1,719 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.7,
+            "end": 16.22,
+            "text": " Yes, especially when it comes to natural dialogue, or something related to",
+            "tokens": [
+                50364,
+                1079,
+                11,
+                2318,
+                562,
+                309,
+                1487,
+                281,
+                3303,
+                10221,
+                11,
+                420,
+                746,
+                4077,
+                281,
+                51156
+            ],
+            "avg_logprob": -0.2550223327818371,
+            "compression_ratio": 1.5,
+            "no_speech_prob": 0.62060546875,
+            "words": [
+                {
+                    "start": 1.7,
+                    "end": 2.66,
+                    "word": " Yes,",
+                    "probability": 0.00173187255859375
+                },
+                {
+                    "start": 6.04,
+                    "end": 6.54,
+                    "word": " especially",
+                    "probability": 0.9638671875
+                },
+                {
+                    "start": 6.54,
+                    "end": 6.86,
+                    "word": " when",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 6.86,
+                    "end": 7.06,
+                    "word": " it",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 7.06,
+                    "end": 7.58,
+                    "word": " comes",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 7.58,
+                    "end": 9.42,
+                    "word": " to",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 9.42,
+                    "end": 10.78,
+                    "word": " natural",
+                    "probability": 0.95556640625
+                },
+                {
+                    "start": 10.78,
+                    "end": 11.68,
+                    "word": " dialogue,",
+                    "probability": 0.951171875
+                },
+                {
+                    "start": 12.34,
+                    "end": 12.38,
+                    "word": " or",
+                    "probability": 0.8857421875
+                },
+                {
+                    "start": 12.38,
+                    "end": 12.8,
+                    "word": " something",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 12.8,
+                    "end": 15.74,
+                    "word": " related",
+                    "probability": 0.6591796875
+                },
+                {
+                    "start": 15.74,
+                    "end": 16.22,
+                    "word": " to",
+                    "probability": 0.99609375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 17.32,
+            "end": 27.1,
+            "text": " a natural dialogue, for example in the market, or among friends, or in some party, or in some",
+            "tokens": [
+                51240,
+                257,
+                3303,
+                10221,
+                11,
+                337,
+                1365,
+                294,
+                264,
+                2142,
+                11,
+                420,
+                3654,
+                1855,
+                11,
+                420,
+                294,
+                512,
+                3595,
+                11,
+                420,
+                294,
+                512,
+                51712
+            ],
+            "avg_logprob": -0.2550223327818371,
+            "compression_ratio": 1.5,
+            "no_speech_prob": 0.62060546875,
+            "words": [
+                {
+                    "start": 17.32,
+                    "end": 17.94,
+                    "word": " a",
+                    "probability": 0.68505859375
+                },
+                {
+                    "start": 17.94,
+                    "end": 18.34,
+                    "word": " natural",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 18.34,
+                    "end": 18.92,
+                    "word": " dialogue,",
+                    "probability": 0.90625
+                },
+                {
+                    "start": 19.4,
+                    "end": 19.66,
+                    "word": " for",
+                    "probability": 0.9541015625
+                },
+                {
+                    "start": 19.66,
+                    "end": 19.98,
+                    "word": " example",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 19.98,
+                    "end": 20.34,
+                    "word": " in",
+                    "probability": 0.5869140625
+                },
+                {
+                    "start": 20.34,
+                    "end": 20.58,
+                    "word": " the",
+                    "probability": 0.97705078125
+                },
+                {
+                    "start": 20.58,
+                    "end": 21.12,
+                    "word": " market,",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 21.7,
+                    "end": 21.7,
+                    "word": " or",
+                    "probability": 0.794921875
+                },
+                {
+                    "start": 21.8,
+                    "end": 23.72,
+                    "word": " among",
+                    "probability": 0.72314453125
+                },
+                {
+                    "start": 23.72,
+                    "end": 24.3,
+                    "word": " friends,",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 24.56,
+                    "end": 24.88,
+                    "word": " or",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 24.88,
+                    "end": 25.24,
+                    "word": " in",
+                    "probability": 0.96435546875
+                },
+                {
+                    "start": 25.24,
+                    "end": 25.62,
+                    "word": " some",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 25.62,
+                    "end": 26.14,
+                    "word": " party,",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 26.32,
+                    "end": 26.7,
+                    "word": " or",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 26.7,
+                    "end": 26.84,
+                    "word": " in",
+                    "probability": 0.351806640625
+                },
+                {
+                    "start": 26.84,
+                    "end": 27.1,
+                    "word": " some",
+                    "probability": 0.9697265625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 2710,
+            "start": 27.1,
+            "end": 36.3,
+            "text": " interview. So transcriptionism is something also useful that I use in teaching. I have a blog",
+            "tokens": [
+                50364,
+                4049,
+                13,
+                407,
+                35288,
+                1434,
+                307,
+                746,
+                611,
+                4420,
+                300,
+                286,
+                764,
+                294,
+                4571,
+                13,
+                286,
+                362,
+                257,
+                6968,
+                50812
+            ],
+            "avg_logprob": -0.17482069672131148,
+            "compression_ratio": 1.6176470588235294,
+            "no_speech_prob": 0.060089111328125,
+            "words": [
+                {
+                    "start": 27.1,
+                    "end": 27.72,
+                    "word": " interview.",
+                    "probability": 0.54296875
+                },
+                {
+                    "start": 28.68,
+                    "end": 28.9,
+                    "word": " So",
+                    "probability": 0.955078125
+                },
+                {
+                    "start": 28.9,
+                    "end": 30.2,
+                    "word": " transcriptionism",
+                    "probability": 0.7269287109375
+                },
+                {
+                    "start": 30.2,
+                    "end": 30.84,
+                    "word": " is",
+                    "probability": 0.96826171875
+                },
+                {
+                    "start": 30.84,
+                    "end": 31.3,
+                    "word": " something",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 31.3,
+                    "end": 31.74,
+                    "word": " also",
+                    "probability": 0.88427734375
+                },
+                {
+                    "start": 31.74,
+                    "end": 32.42,
+                    "word": " useful",
+                    "probability": 0.426513671875
+                },
+                {
+                    "start": 32.42,
+                    "end": 33.5,
+                    "word": " that",
+                    "probability": 0.9453125
+                },
+                {
+                    "start": 33.5,
+                    "end": 33.84,
+                    "word": " I",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 33.84,
+                    "end": 34.02,
+                    "word": " use",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 34.02,
+                    "end": 34.38,
+                    "word": " in",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 34.38,
+                    "end": 34.72,
+                    "word": " teaching.",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 35.1,
+                    "end": 35.1,
+                    "word": " I",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 35.2,
+                    "end": 35.68,
+                    "word": " have",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 35.68,
+                    "end": 35.94,
+                    "word": " a",
+                    "probability": 0.88671875
+                },
+                {
+                    "start": 35.94,
+                    "end": 36.3,
+                    "word": " blog",
+                    "probability": 0.96875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2710,
+            "start": 36.85,
+            "end": 48.04,
+            "text": " that is focusing on transcription or transcribing texts, news texts actually. So it helps the",
+            "tokens": [
+                50864,
+                300,
+                307,
+                8416,
+                322,
+                35288,
+                420,
+                1145,
+                39541,
+                15765,
+                11,
+                2583,
+                15765,
+                767,
+                13,
+                407,
+                309,
+                3665,
+                264,
+                51400
+            ],
+            "avg_logprob": -0.17482069672131148,
+            "compression_ratio": 1.6176470588235294,
+            "no_speech_prob": 0.060089111328125,
+            "words": [
+                {
+                    "start": 36.85,
+                    "end": 37.42,
+                    "word": " that",
+                    "probability": 0.9794921875
+                },
+                {
+                    "start": 37.42,
+                    "end": 38.04,
+                    "word": " is",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 38.04,
+                    "end": 38.54,
+                    "word": " focusing",
+                    "probability": 0.9521484375
+                },
+                {
+                    "start": 38.54,
+                    "end": 39.22,
+                    "word": " on",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 39.22,
+                    "end": 39.98,
+                    "word": " transcription",
+                    "probability": 0.97216796875
+                },
+                {
+                    "start": 39.98,
+                    "end": 40.64,
+                    "word": " or",
+                    "probability": 0.9306640625
+                },
+                {
+                    "start": 40.64,
+                    "end": 41.58,
+                    "word": " transcribing",
+                    "probability": 0.986083984375
+                },
+                {
+                    "start": 41.58,
+                    "end": 42.44,
+                    "word": " texts,",
+                    "probability": 0.771484375
+                },
+                {
+                    "start": 43.78,
+                    "end": 44.0,
+                    "word": " news",
+                    "probability": 0.7587890625
+                },
+                {
+                    "start": 44.0,
+                    "end": 44.48,
+                    "word": " texts",
+                    "probability": 0.955078125
+                },
+                {
+                    "start": 44.48,
+                    "end": 45.0,
+                    "word": " actually.",
+                    "probability": 0.440673828125
+                },
+                {
+                    "start": 45.7,
+                    "end": 46.48,
+                    "word": " So",
+                    "probability": 0.947265625
+                },
+                {
+                    "start": 46.48,
+                    "end": 47.3,
+                    "word": " it",
+                    "probability": 0.923828125
+                },
+                {
+                    "start": 47.3,
+                    "end": 47.68,
+                    "word": " helps",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 47.68,
+                    "end": 48.04,
+                    "word": " the",
+                    "probability": 0.9921875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2710,
+            "start": 48.04,
+            "end": 57.08,
+            "text": " students and the learners to achieve some level of proficiency in the sounds and in the",
+            "tokens": [
+                51400,
+                1731,
+                293,
+                264,
+                23655,
+                281,
+                4584,
+                512,
+                1496,
+                295,
+                1740,
+                42081,
+                294,
+                264,
+                3263,
+                293,
+                294,
+                264,
+                51832
+            ],
+            "avg_logprob": -0.17482069672131148,
+            "compression_ratio": 1.6176470588235294,
+            "no_speech_prob": 0.060089111328125,
+            "words": [
+                {
+                    "start": 48.04,
+                    "end": 48.42,
+                    "word": " students",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 48.42,
+                    "end": 48.74,
+                    "word": " and",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 48.74,
+                    "end": 48.94,
+                    "word": " the",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 48.94,
+                    "end": 49.34,
+                    "word": " learners",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 49.34,
+                    "end": 49.86,
+                    "word": " to",
+                    "probability": 0.8212890625
+                },
+                {
+                    "start": 49.86,
+                    "end": 50.54,
+                    "word": " achieve",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 50.54,
+                    "end": 50.98,
+                    "word": " some",
+                    "probability": 0.93994140625
+                },
+                {
+                    "start": 50.98,
+                    "end": 51.34,
+                    "word": " level",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 51.34,
+                    "end": 51.96,
+                    "word": " of",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 51.96,
+                    "end": 52.64,
+                    "word": " proficiency",
+                    "probability": 0.998291015625
+                },
+                {
+                    "start": 52.64,
+                    "end": 54.34,
+                    "word": " in",
+                    "probability": 0.9873046875
+                },
+                {
+                    "start": 54.34,
+                    "end": 54.92,
+                    "word": " the",
+                    "probability": 0.9130859375
+                },
+                {
+                    "start": 54.92,
+                    "end": 55.34,
+                    "word": " sounds",
+                    "probability": 0.90478515625
+                },
+                {
+                    "start": 55.34,
+                    "end": 55.94,
+                    "word": " and",
+                    "probability": 0.94189453125
+                },
+                {
+                    "start": 55.94,
+                    "end": 56.52,
+                    "word": " in",
+                    "probability": 0.97412109375
+                },
+                {
+                    "start": 56.52,
+                    "end": 57.08,
+                    "word": " the",
+                    "probability": 0.9921875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 5710,
+            "start": 57.1,
+            "end": 60.02,
+            "text": " articulation of the sounds and in reading skulls.",
+            "tokens": [
+                50376,
+                15228,
+                2776,
+                295,
+                264,
+                3263,
+                293,
+                294,
+                3760,
+                11743,
+                82,
+                13,
+                50512
+            ],
+            "avg_logprob": -0.5267857313156128,
+            "compression_ratio": 0.9074074074074074,
+            "no_speech_prob": 0.144287109375,
+            "words": [
+                {
+                    "start": 57.1,
+                    "end": 58.14,
+                    "word": " articulation",
+                    "probability": 0.915283203125
+                },
+                {
+                    "start": 58.14,
+                    "end": 58.36,
+                    "word": " of",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 58.36,
+                    "end": 58.54,
+                    "word": " the",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 58.54,
+                    "end": 58.78,
+                    "word": " sounds",
+                    "probability": 0.9619140625
+                },
+                {
+                    "start": 58.78,
+                    "end": 59.12,
+                    "word": " and",
+                    "probability": 0.85205078125
+                },
+                {
+                    "start": 59.12,
+                    "end": 59.3,
+                    "word": " in",
+                    "probability": 0.90869140625
+                },
+                {
+                    "start": 59.3,
+                    "end": 59.64,
+                    "word": " reading",
+                    "probability": 0.67138671875
+                },
+                {
+                    "start": 59.64,
+                    "end": 60.02,
+                    "word": " skulls.",
+                    "probability": 0.3734130859375
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " Yes, especially when it comes to natural dialogue, or something related to a natural dialogue, for example in the market, or among friends, or in some party, or in some interview. So transcriptionism is something also useful that I use in teaching. I have a blog that is focusing on transcription or transcribing texts, news texts actually. So it helps the students and the learners to achieve some level of proficiency in the sounds and in the articulation of the sounds and in reading skulls."
+}

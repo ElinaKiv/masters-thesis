@@ -1,0 +1,1107 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 17.78,
+            "text": " Subtitling. So he was like, okay, I know this one. I know it's a good user interface. And he figured out a process to get the files through the CSC whisper solution and then put them, you can open them in this other tool. I can tell you the name of the tool, actually, if you're interested.",
+            "tokens": [
+                50364,
+                8511,
+                27689,
+                1688,
+                13,
+                407,
+                415,
+                390,
+                411,
+                11,
+                1392,
+                11,
+                286,
+                458,
+                341,
+                472,
+                13,
+                286,
+                458,
+                309,
+                311,
+                257,
+                665,
+                4195,
+                9226,
+                13,
+                400,
+                415,
+                8932,
+                484,
+                257,
+                1399,
+                281,
+                483,
+                264,
+                7098,
+                807,
+                264,
+                9460,
+                34,
+                26018,
+                3827,
+                293,
+                550,
+                829,
+                552,
+                11,
+                291,
+                393,
+                1269,
+                552,
+                294,
+                341,
+                661,
+                2290,
+                13,
+                286,
+                393,
+                980,
+                291,
+                264,
+                1315,
+                295,
+                264,
+                2290,
+                11,
+                767,
+                11,
+                498,
+                291,
+                434,
+                3102,
+                13,
+                51256
+            ],
+            "avg_logprob": -0.23290440685608807,
+            "compression_ratio": 1.5167464114832536,
+            "no_speech_prob": 0.1492919921875,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.92,
+                    "word": " Subtitling.",
+                    "probability": 0.660919189453125
+                },
+                {
+                    "start": 1.32,
+                    "end": 1.46,
+                    "word": " So",
+                    "probability": 0.76904296875
+                },
+                {
+                    "start": 1.46,
+                    "end": 1.62,
+                    "word": " he",
+                    "probability": 0.884765625
+                },
+                {
+                    "start": 1.62,
+                    "end": 1.8,
+                    "word": " was",
+                    "probability": 0.984375
+                },
+                {
+                    "start": 1.8,
+                    "end": 1.94,
+                    "word": " like,",
+                    "probability": 0.98291015625
+                },
+                {
+                    "start": 2.02,
+                    "end": 2.16,
+                    "word": " okay,",
+                    "probability": 0.411865234375
+                },
+                {
+                    "start": 2.16,
+                    "end": 2.26,
+                    "word": " I",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 2.26,
+                    "end": 2.48,
+                    "word": " know",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 2.48,
+                    "end": 2.78,
+                    "word": " this",
+                    "probability": 0.98291015625
+                },
+                {
+                    "start": 2.78,
+                    "end": 2.98,
+                    "word": " one.",
+                    "probability": 0.9873046875
+                },
+                {
+                    "start": 2.98,
+                    "end": 3.08,
+                    "word": " I",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 3.08,
+                    "end": 3.22,
+                    "word": " know",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 3.22,
+                    "end": 3.4,
+                    "word": " it's",
+                    "probability": 0.978271484375
+                },
+                {
+                    "start": 3.4,
+                    "end": 3.5,
+                    "word": " a",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 3.5,
+                    "end": 3.6,
+                    "word": " good",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 3.6,
+                    "end": 3.88,
+                    "word": " user",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 3.88,
+                    "end": 4.3,
+                    "word": " interface.",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 4.3,
+                    "end": 4.5,
+                    "word": " And",
+                    "probability": 0.9794921875
+                },
+                {
+                    "start": 4.5,
+                    "end": 4.66,
+                    "word": " he",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 4.66,
+                    "end": 4.9,
+                    "word": " figured",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 4.9,
+                    "end": 5.6,
+                    "word": " out",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 5.6,
+                    "end": 5.98,
+                    "word": " a",
+                    "probability": 0.86669921875
+                },
+                {
+                    "start": 5.98,
+                    "end": 6.5,
+                    "word": " process",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 6.5,
+                    "end": 7.28,
+                    "word": " to",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 7.28,
+                    "end": 7.6,
+                    "word": " get",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 7.6,
+                    "end": 7.84,
+                    "word": " the",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 7.84,
+                    "end": 8.18,
+                    "word": " files",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 8.18,
+                    "end": 8.54,
+                    "word": " through",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 8.54,
+                    "end": 8.78,
+                    "word": " the",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 8.78,
+                    "end": 9.22,
+                    "word": " CSC",
+                    "probability": 0.815185546875
+                },
+                {
+                    "start": 9.22,
+                    "end": 9.56,
+                    "word": " whisper",
+                    "probability": 0.4755859375
+                },
+                {
+                    "start": 9.56,
+                    "end": 10.04,
+                    "word": " solution",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 10.04,
+                    "end": 10.3,
+                    "word": " and",
+                    "probability": 0.52783203125
+                },
+                {
+                    "start": 10.3,
+                    "end": 10.82,
+                    "word": " then",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 10.82,
+                    "end": 11.04,
+                    "word": " put",
+                    "probability": 0.89404296875
+                },
+                {
+                    "start": 11.04,
+                    "end": 11.3,
+                    "word": " them,",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 11.34,
+                    "end": 11.48,
+                    "word": " you",
+                    "probability": 0.9755859375
+                },
+                {
+                    "start": 11.48,
+                    "end": 11.66,
+                    "word": " can",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 11.66,
+                    "end": 11.9,
+                    "word": " open",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 11.9,
+                    "end": 12.12,
+                    "word": " them",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 12.12,
+                    "end": 12.36,
+                    "word": " in",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 12.36,
+                    "end": 12.98,
+                    "word": " this",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 12.98,
+                    "end": 13.34,
+                    "word": " other",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 13.34,
+                    "end": 13.72,
+                    "word": " tool.",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 13.98,
+                    "end": 13.98,
+                    "word": " I",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 14.0,
+                    "end": 14.18,
+                    "word": " can",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 14.18,
+                    "end": 14.32,
+                    "word": " tell",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 14.32,
+                    "end": 14.46,
+                    "word": " you",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 14.46,
+                    "end": 14.54,
+                    "word": " the",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 14.54,
+                    "end": 14.68,
+                    "word": " name",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 14.68,
+                    "end": 14.82,
+                    "word": " of",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 14.82,
+                    "end": 15.02,
+                    "word": " the",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 15.02,
+                    "end": 15.18,
+                    "word": " tool,",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 15.2,
+                    "end": 15.8,
+                    "word": " actually,",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 16.46,
+                    "end": 16.72,
+                    "word": " if",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 16.72,
+                    "end": 17.08,
+                    "word": " you're",
+                    "probability": 0.998779296875
+                },
+                {
+                    "start": 17.08,
+                    "end": 17.78,
+                    "word": " interested.",
+                    "probability": 0.99609375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 18.4,
+            "end": 19.52,
+            "text": " Yeah, I'd appreciate that.",
+            "tokens": [
+                51276,
+                865,
+                11,
+                286,
+                1116,
+                4449,
+                300,
+                13,
+                51340
+            ],
+            "avg_logprob": -0.23290440685608807,
+            "compression_ratio": 1.5167464114832536,
+            "no_speech_prob": 0.1492919921875,
+            "words": [
+                {
+                    "start": 18.4,
+                    "end": 18.6,
+                    "word": " Yeah,",
+                    "probability": 0.80322265625
+                },
+                {
+                    "start": 18.64,
+                    "end": 18.9,
+                    "word": " I'd",
+                    "probability": 0.945068359375
+                },
+                {
+                    "start": 18.9,
+                    "end": 19.24,
+                    "word": " appreciate",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 19.24,
+                    "end": 19.52,
+                    "word": " that.",
+                    "probability": 0.9892578125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 1952,
+            "start": 19.52,
+            "end": 23.66,
+            "text": " Yeah, it was subtitle edit.",
+            "tokens": [
+                50372,
+                865,
+                11,
+                309,
+                390,
+                30706,
+                306,
+                8129,
+                13,
+                50560
+            ],
+            "avg_logprob": -0.3235576923076923,
+            "compression_ratio": 1.4779874213836477,
+            "no_speech_prob": 0.2763671875,
+            "words": [
+                {
+                    "start": 19.52,
+                    "end": 19.52,
+                    "word": " Yeah,",
+                    "probability": 0.11572265625
+                },
+                {
+                    "start": 19.62,
+                    "end": 20.48,
+                    "word": " it",
+                    "probability": 0.96826171875
+                },
+                {
+                    "start": 20.48,
+                    "end": 22.0,
+                    "word": " was",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 22.0,
+                    "end": 23.0,
+                    "word": " subtitle",
+                    "probability": 0.6617431640625
+                },
+                {
+                    "start": 23.0,
+                    "end": 23.66,
+                    "word": " edit.",
+                    "probability": 0.7490234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 1952,
+            "start": 25.34,
+            "end": 44.48,
+            "text": " Subtitle edit. And that's written all together. So capital, subtitle, and then capital E for edit. So we use that because I insisted on having a good user interface. This manual stuff is for the birds.",
+            "tokens": [
+                50646,
+                8511,
+                27689,
+                306,
+                8129,
+                13,
+                400,
+                300,
+                311,
+                3720,
+                439,
+                1214,
+                13,
+                407,
+                4238,
+                11,
+                30706,
+                306,
+                11,
+                293,
+                550,
+                4238,
+                462,
+                337,
+                8129,
+                13,
+                407,
+                321,
+                764,
+                300,
+                570,
+                286,
+                28456,
+                322,
+                1419,
+                257,
+                665,
+                4195,
+                9226,
+                13,
+                639,
+                9688,
+                1507,
+                307,
+                337,
+                264,
+                9009,
+                13,
+                51608
+            ],
+            "avg_logprob": -0.3235576923076923,
+            "compression_ratio": 1.4779874213836477,
+            "no_speech_prob": 0.2763671875,
+            "words": [
+                {
+                    "start": 25.34,
+                    "end": 25.86,
+                    "word": " Subtitle",
+                    "probability": 0.6728922526041666
+                },
+                {
+                    "start": 25.86,
+                    "end": 26.28,
+                    "word": " edit.",
+                    "probability": 0.86328125
+                },
+                {
+                    "start": 26.8,
+                    "end": 26.8,
+                    "word": " And",
+                    "probability": 0.232177734375
+                },
+                {
+                    "start": 26.9,
+                    "end": 31.34,
+                    "word": " that's",
+                    "probability": 0.821044921875
+                },
+                {
+                    "start": 31.34,
+                    "end": 31.56,
+                    "word": " written",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 31.56,
+                    "end": 31.84,
+                    "word": " all",
+                    "probability": 0.69140625
+                },
+                {
+                    "start": 31.84,
+                    "end": 32.2,
+                    "word": " together.",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 32.44,
+                    "end": 32.58,
+                    "word": " So",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 32.58,
+                    "end": 32.96,
+                    "word": " capital,",
+                    "probability": 0.83740234375
+                },
+                {
+                    "start": 33.08,
+                    "end": 33.96,
+                    "word": " subtitle,",
+                    "probability": 0.891357421875
+                },
+                {
+                    "start": 34.28,
+                    "end": 34.48,
+                    "word": " and",
+                    "probability": 0.96826171875
+                },
+                {
+                    "start": 34.48,
+                    "end": 34.76,
+                    "word": " then",
+                    "probability": 0.9541015625
+                },
+                {
+                    "start": 34.76,
+                    "end": 35.1,
+                    "word": " capital",
+                    "probability": 0.96728515625
+                },
+                {
+                    "start": 35.1,
+                    "end": 35.46,
+                    "word": " E",
+                    "probability": 0.87060546875
+                },
+                {
+                    "start": 35.46,
+                    "end": 35.72,
+                    "word": " for",
+                    "probability": 0.97802734375
+                },
+                {
+                    "start": 35.72,
+                    "end": 36.0,
+                    "word": " edit.",
+                    "probability": 0.9765625
+                },
+                {
+                    "start": 37.04,
+                    "end": 37.52,
+                    "word": " So",
+                    "probability": 0.6826171875
+                },
+                {
+                    "start": 37.52,
+                    "end": 38.28,
+                    "word": " we",
+                    "probability": 0.315673828125
+                },
+                {
+                    "start": 38.28,
+                    "end": 38.66,
+                    "word": " use",
+                    "probability": 0.8642578125
+                },
+                {
+                    "start": 38.66,
+                    "end": 39.56,
+                    "word": " that",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 39.56,
+                    "end": 40.18,
+                    "word": " because",
+                    "probability": 0.486328125
+                },
+                {
+                    "start": 40.18,
+                    "end": 40.54,
+                    "word": " I",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 40.54,
+                    "end": 41.02,
+                    "word": " insisted",
+                    "probability": 0.95263671875
+                },
+                {
+                    "start": 41.02,
+                    "end": 41.36,
+                    "word": " on",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 41.36,
+                    "end": 41.64,
+                    "word": " having",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 41.64,
+                    "end": 41.9,
+                    "word": " a",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 41.9,
+                    "end": 42.04,
+                    "word": " good",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 42.04,
+                    "end": 42.38,
+                    "word": " user",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 42.38,
+                    "end": 42.8,
+                    "word": " interface.",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 42.94,
+                    "end": 43.16,
+                    "word": " This",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 43.16,
+                    "end": 43.46,
+                    "word": " manual",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 43.46,
+                    "end": 43.7,
+                    "word": " stuff",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 43.7,
+                    "end": 43.88,
+                    "word": " is",
+                    "probability": 0.95263671875
+                },
+                {
+                    "start": 43.88,
+                    "end": 44.04,
+                    "word": " for",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 44.04,
+                    "end": 44.2,
+                    "word": " the",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 44.2,
+                    "end": 44.48,
+                    "word": " birds.",
+                    "probability": 0.943359375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 4448,
+            "start": 46.12,
+            "end": 60.02,
+            "text": " And then in the next phase of our project, we did not want to do interviews in person and record. It was just kind of not impossible and we didn't need as high security for the next phase.",
+            "tokens": [
+                50412,
+                400,
+                550,
+                294,
+                264,
+                958,
+                5574,
+                295,
+                527,
+                1716,
+                11,
+                321,
+                630,
+                406,
+                528,
+                281,
+                360,
+                12318,
+                294,
+                954,
+                293,
+                2136,
+                13,
+                467,
+                390,
+                445,
+                733,
+                295,
+                406,
+                6243,
+                293,
+                321,
+                994,
+                380,
+                643,
+                382,
+                1090,
+                3825,
+                337,
+                264,
+                958,
+                5574,
+                13,
+                51132
+            ],
+            "avg_logprob": -0.15190972487131754,
+            "compression_ratio": 1.413533834586466,
+            "no_speech_prob": 0.2122802734375,
+            "words": [
+                {
+                    "start": 46.12,
+                    "end": 46.68,
+                    "word": " And",
+                    "probability": 0.515625
+                },
+                {
+                    "start": 46.68,
+                    "end": 47.12,
+                    "word": " then",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 47.12,
+                    "end": 47.42,
+                    "word": " in",
+                    "probability": 0.85888671875
+                },
+                {
+                    "start": 47.42,
+                    "end": 47.56,
+                    "word": " the",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 47.56,
+                    "end": 47.78,
+                    "word": " next",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 47.78,
+                    "end": 47.94,
+                    "word": " phase",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 47.94,
+                    "end": 48.14,
+                    "word": " of",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 48.14,
+                    "end": 48.44,
+                    "word": " our",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 48.44,
+                    "end": 49.0,
+                    "word": " project,",
+                    "probability": 0.94921875
+                },
+                {
+                    "start": 49.96,
+                    "end": 50.74,
+                    "word": " we",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 50.74,
+                    "end": 51.48,
+                    "word": " did",
+                    "probability": 0.94091796875
+                },
+                {
+                    "start": 51.48,
+                    "end": 51.7,
+                    "word": " not",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 51.7,
+                    "end": 51.88,
+                    "word": " want",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 51.88,
+                    "end": 52.12,
+                    "word": " to",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 52.12,
+                    "end": 52.38,
+                    "word": " do",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 52.38,
+                    "end": 52.68,
+                    "word": " interviews",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 52.68,
+                    "end": 53.0,
+                    "word": " in",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 53.0,
+                    "end": 53.4,
+                    "word": " person",
+                    "probability": 0.9482421875
+                },
+                {
+                    "start": 53.4,
+                    "end": 53.74,
+                    "word": " and",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 53.74,
+                    "end": 54.1,
+                    "word": " record.",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 54.52,
+                    "end": 54.64,
+                    "word": " It",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 54.64,
+                    "end": 54.88,
+                    "word": " was",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 54.88,
+                    "end": 55.36,
+                    "word": " just",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 55.36,
+                    "end": 55.52,
+                    "word": " kind",
+                    "probability": 0.88134765625
+                },
+                {
+                    "start": 55.52,
+                    "end": 55.68,
+                    "word": " of",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 55.68,
+                    "end": 55.88,
+                    "word": " not",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 55.88,
+                    "end": 56.48,
+                    "word": " impossible",
+                    "probability": 0.77978515625
+                },
+                {
+                    "start": 56.48,
+                    "end": 57.12,
+                    "word": " and",
+                    "probability": 0.51806640625
+                },
+                {
+                    "start": 57.12,
+                    "end": 57.32,
+                    "word": " we",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 57.32,
+                    "end": 57.56,
+                    "word": " didn't",
+                    "probability": 0.998779296875
+                },
+                {
+                    "start": 57.56,
+                    "end": 57.78,
+                    "word": " need",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 57.78,
+                    "end": 57.98,
+                    "word": " as",
+                    "probability": 0.95751953125
+                },
+                {
+                    "start": 57.98,
+                    "end": 58.12,
+                    "word": " high",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 58.12,
+                    "end": 58.62,
+                    "word": " security",
+                    "probability": 0.93310546875
+                },
+                {
+                    "start": 58.62,
+                    "end": 59.34,
+                    "word": " for",
+                    "probability": 0.69140625
+                },
+                {
+                    "start": 59.34,
+                    "end": 59.5,
+                    "word": " the",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 59.5,
+                    "end": 59.7,
+                    "word": " next",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 59.7,
+                    "end": 60.02,
+                    "word": " phase.",
+                    "probability": 0.99365234375
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " Subtitling. So he was like, okay, I know this one. I know it's a good user interface. And he figured out a process to get the files through the CSC whisper solution and then put them, you can open them in this other tool. I can tell you the name of the tool, actually, if you're interested. Yeah, I'd appreciate that. Yeah, it was subtitle edit. Subtitle edit. And that's written all together. So capital, subtitle, and then capital E for edit. So we use that because I insisted on having a good user interface. This manual stuff is for the birds. And then in the next phase of our project, we did not want to do interviews in person and record. It was just kind of not impossible and we didn't need as high security for the next phase."
+}

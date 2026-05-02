@@ -1,0 +1,782 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.34,
+            "text": " With the final question that I have, like I mentioned, many people feel a bit intimidated",
+            "tokens": [
+                50364,
+                2022,
+                264,
+                2572,
+                1168,
+                300,
+                286,
+                362,
+                11,
+                411,
+                286,
+                2835,
+                11,
+                867,
+                561,
+                841,
+                257,
+                857,
+                40234,
+                50708
+            ],
+            "avg_logprob": -0.160425649634723,
+            "compression_ratio": 1.5542168674698795,
+            "no_speech_prob": 0.00319671630859375,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.26,
+                    "word": " With",
+                    "probability": 0.6455078125
+                },
+                {
+                    "start": 0.26,
+                    "end": 0.32,
+                    "word": " the",
+                    "probability": 0.8544921875
+                },
+                {
+                    "start": 0.32,
+                    "end": 0.64,
+                    "word": " final",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 0.64,
+                    "end": 1.06,
+                    "word": " question",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 1.06,
+                    "end": 1.24,
+                    "word": " that",
+                    "probability": 0.95361328125
+                },
+                {
+                    "start": 1.24,
+                    "end": 1.5,
+                    "word": " I",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 1.5,
+                    "end": 2.06,
+                    "word": " have,",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 2.44,
+                    "end": 2.58,
+                    "word": " like",
+                    "probability": 0.8173828125
+                },
+                {
+                    "start": 2.58,
+                    "end": 2.8,
+                    "word": " I",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 2.8,
+                    "end": 3.26,
+                    "word": " mentioned,",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 4.08,
+                    "end": 4.32,
+                    "word": " many",
+                    "probability": 0.97119140625
+                },
+                {
+                    "start": 4.32,
+                    "end": 4.7,
+                    "word": " people",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 4.7,
+                    "end": 5.14,
+                    "word": " feel",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 5.14,
+                    "end": 5.28,
+                    "word": " a",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 5.28,
+                    "end": 5.52,
+                    "word": " bit",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 5.52,
+                    "end": 6.34,
+                    "word": " intimidated",
+                    "probability": 0.998046875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.84,
+            "end": 13.66,
+            "text": " in using these speech recognition tools. So can you think of anything that you think",
+            "tokens": [
+                50708,
+                294,
+                1228,
+                613,
+                6218,
+                11150,
+                3873,
+                13,
+                407,
+                393,
+                291,
+                519,
+                295,
+                1340,
+                300,
+                291,
+                519,
+                51040
+            ],
+            "avg_logprob": -0.160425649634723,
+            "compression_ratio": 1.5542168674698795,
+            "no_speech_prob": 0.00319671630859375,
+            "words": [
+                {
+                    "start": 6.84,
+                    "end": 7.22,
+                    "word": " in",
+                    "probability": 0.93359375
+                },
+                {
+                    "start": 7.22,
+                    "end": 7.6,
+                    "word": " using",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 7.6,
+                    "end": 8.14,
+                    "word": " these",
+                    "probability": 0.955078125
+                },
+                {
+                    "start": 8.14,
+                    "end": 8.48,
+                    "word": " speech",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 8.48,
+                    "end": 9.14,
+                    "word": " recognition",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 9.14,
+                    "end": 9.66,
+                    "word": " tools.",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 10.34,
+                    "end": 10.94,
+                    "word": " So",
+                    "probability": 0.74365234375
+                },
+                {
+                    "start": 10.94,
+                    "end": 11.4,
+                    "word": " can",
+                    "probability": 0.68798828125
+                },
+                {
+                    "start": 11.4,
+                    "end": 11.56,
+                    "word": " you",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 11.56,
+                    "end": 11.76,
+                    "word": " think",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 11.76,
+                    "end": 12.02,
+                    "word": " of",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 12.02,
+                    "end": 12.52,
+                    "word": " anything",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 12.52,
+                    "end": 13.16,
+                    "word": " that",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 13.16,
+                    "end": 13.46,
+                    "word": " you",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 13.46,
+                    "end": 13.66,
+                    "word": " think",
+                    "probability": 0.99755859375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 13.66,
+            "end": 20.44,
+            "text": " would lower the threshold for people to use the tools, make them less intimidating?",
+            "tokens": [
+                51040,
+                576,
+                3126,
+                264,
+                14678,
+                337,
+                561,
+                281,
+                764,
+                264,
+                3873,
+                11,
+                652,
+                552,
+                1570,
+                29714,
+                30,
+                51384
+            ],
+            "avg_logprob": -0.160425649634723,
+            "compression_ratio": 1.5542168674698795,
+            "no_speech_prob": 0.00319671630859375,
+            "words": [
+                {
+                    "start": 13.66,
+                    "end": 13.94,
+                    "word": " would",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 13.94,
+                    "end": 14.3,
+                    "word": " lower",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 14.3,
+                    "end": 14.58,
+                    "word": " the",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 14.58,
+                    "end": 15.12,
+                    "word": " threshold",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 15.12,
+                    "end": 15.82,
+                    "word": " for",
+                    "probability": 0.9736328125
+                },
+                {
+                    "start": 15.82,
+                    "end": 16.32,
+                    "word": " people",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 16.32,
+                    "end": 16.76,
+                    "word": " to",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 16.76,
+                    "end": 16.94,
+                    "word": " use",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 16.94,
+                    "end": 17.2,
+                    "word": " the",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 17.2,
+                    "end": 17.62,
+                    "word": " tools,",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 18.84,
+                    "end": 19.26,
+                    "word": " make",
+                    "probability": 0.97314453125
+                },
+                {
+                    "start": 19.26,
+                    "end": 19.48,
+                    "word": " them",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 19.48,
+                    "end": 19.86,
+                    "word": " less",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 19.86,
+                    "end": 20.44,
+                    "word": " intimidating?",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2044,
+            "start": 23.72,
+            "end": 36.96,
+            "text": " Let me think... I don't know, maybe... I just literally don't know, like this is very technical.",
+            "tokens": [
+                50364,
+                961,
+                385,
+                519,
+                485,
+                286,
+                500,
+                380,
+                458,
+                11,
+                1310,
+                485,
+                286,
+                445,
+                3736,
+                500,
+                380,
+                458,
+                11,
+                411,
+                341,
+                307,
+                588,
+                6191,
+                13,
+                51184
+            ],
+            "avg_logprob": -0.366071418840058,
+            "compression_ratio": 1.4833333333333334,
+            "no_speech_prob": 0.0550537109375,
+            "words": [
+                {
+                    "start": 23.72,
+                    "end": 24.28,
+                    "word": " Let",
+                    "probability": 0.3173828125
+                },
+                {
+                    "start": 24.28,
+                    "end": 24.84,
+                    "word": " me",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 24.84,
+                    "end": 30.16,
+                    "word": " think...",
+                    "probability": 0.5643310546875
+                },
+                {
+                    "start": 30.16,
+                    "end": 30.2,
+                    "word": " I",
+                    "probability": 0.82958984375
+                },
+                {
+                    "start": 30.2,
+                    "end": 30.42,
+                    "word": " don't",
+                    "probability": 0.9755859375
+                },
+                {
+                    "start": 30.42,
+                    "end": 30.68,
+                    "word": " know,",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 30.74,
+                    "end": 34.02,
+                    "word": " maybe...",
+                    "probability": 0.8671875
+                },
+                {
+                    "start": 34.02,
+                    "end": 34.62,
+                    "word": " I",
+                    "probability": 0.7109375
+                },
+                {
+                    "start": 34.62,
+                    "end": 34.88,
+                    "word": " just",
+                    "probability": 0.371826171875
+                },
+                {
+                    "start": 34.88,
+                    "end": 35.1,
+                    "word": " literally",
+                    "probability": 0.374755859375
+                },
+                {
+                    "start": 35.1,
+                    "end": 35.34,
+                    "word": " don't",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 35.34,
+                    "end": 35.48,
+                    "word": " know,",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 35.62,
+                    "end": 35.82,
+                    "word": " like",
+                    "probability": 0.5419921875
+                },
+                {
+                    "start": 35.82,
+                    "end": 35.94,
+                    "word": " this",
+                    "probability": 0.55126953125
+                },
+                {
+                    "start": 35.94,
+                    "end": 36.12,
+                    "word": " is",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 36.12,
+                    "end": 36.42,
+                    "word": " very",
+                    "probability": 0.96337890625
+                },
+                {
+                    "start": 36.42,
+                    "end": 36.96,
+                    "word": " technical.",
+                    "probability": 0.98291015625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2044,
+            "start": 41.84,
+            "end": 49.18,
+            "text": " Maybe, I don't know, maybe like some proofs or like some reviews from other users",
+            "tokens": [
+                51416,
+                2704,
+                11,
+                286,
+                500,
+                380,
+                458,
+                11,
+                1310,
+                411,
+                512,
+                8177,
+                82,
+                420,
+                411,
+                512,
+                10229,
+                490,
+                661,
+                5022,
+                51804
+            ],
+            "avg_logprob": -0.366071418840058,
+            "compression_ratio": 1.4833333333333334,
+            "no_speech_prob": 0.0550537109375,
+            "words": [
+                {
+                    "start": 41.84,
+                    "end": 42.4,
+                    "word": " Maybe,",
+                    "probability": 0.3662109375
+                },
+                {
+                    "start": 42.4,
+                    "end": 42.96,
+                    "word": " I",
+                    "probability": 0.9296875
+                },
+                {
+                    "start": 42.96,
+                    "end": 43.22,
+                    "word": " don't",
+                    "probability": 0.995849609375
+                },
+                {
+                    "start": 43.22,
+                    "end": 43.38,
+                    "word": " know,",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 43.58,
+                    "end": 43.94,
+                    "word": " maybe",
+                    "probability": 0.96923828125
+                },
+                {
+                    "start": 43.94,
+                    "end": 44.26,
+                    "word": " like",
+                    "probability": 0.73388671875
+                },
+                {
+                    "start": 44.26,
+                    "end": 45.72,
+                    "word": " some",
+                    "probability": 0.96875
+                },
+                {
+                    "start": 45.72,
+                    "end": 46.5,
+                    "word": " proofs",
+                    "probability": 0.7080078125
+                },
+                {
+                    "start": 46.5,
+                    "end": 46.68,
+                    "word": " or",
+                    "probability": 0.8876953125
+                },
+                {
+                    "start": 46.68,
+                    "end": 46.9,
+                    "word": " like",
+                    "probability": 0.8125
+                },
+                {
+                    "start": 46.9,
+                    "end": 47.14,
+                    "word": " some",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 47.14,
+                    "end": 47.64,
+                    "word": " reviews",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 47.64,
+                    "end": 48.12,
+                    "word": " from",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 48.12,
+                    "end": 48.44,
+                    "word": " other",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 48.44,
+                    "end": 49.18,
+                    "word": " users",
+                    "probability": 0.9970703125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 4918,
+            "start": 49.18,
+            "end": 57.11,
+            "text": " would decrease that. But people are like, they are about their choices and...",
+            "tokens": [
+                50368,
+                576,
+                11514,
+                300,
+                13,
+                583,
+                561,
+                366,
+                411,
+                11,
+                436,
+                366,
+                466,
+                641,
+                7994,
+                293,
+                485,
+                50744
+            ],
+            "avg_logprob": -0.449388589548028,
+            "compression_ratio": 1.064102564102564,
+            "no_speech_prob": 0.006534576416015625,
+            "words": [
+                {
+                    "start": 49.18,
+                    "end": 50.02,
+                    "word": " would",
+                    "probability": 0.272216796875
+                },
+                {
+                    "start": 50.02,
+                    "end": 51.72,
+                    "word": " decrease",
+                    "probability": 0.72265625
+                },
+                {
+                    "start": 51.72,
+                    "end": 52.26,
+                    "word": " that.",
+                    "probability": 0.96240234375
+                },
+                {
+                    "start": 53.44,
+                    "end": 53.56,
+                    "word": " But",
+                    "probability": 0.947265625
+                },
+                {
+                    "start": 53.56,
+                    "end": 54.06,
+                    "word": " people",
+                    "probability": 0.96923828125
+                },
+                {
+                    "start": 54.06,
+                    "end": 54.74,
+                    "word": " are",
+                    "probability": 0.9755859375
+                },
+                {
+                    "start": 54.74,
+                    "end": 55.0,
+                    "word": " like,",
+                    "probability": 0.57861328125
+                },
+                {
+                    "start": 55.32,
+                    "end": 55.32,
+                    "word": " they",
+                    "probability": 0.16455078125
+                },
+                {
+                    "start": 55.42,
+                    "end": 55.54,
+                    "word": " are",
+                    "probability": 0.91748046875
+                },
+                {
+                    "start": 55.54,
+                    "end": 55.82,
+                    "word": " about",
+                    "probability": 0.94873046875
+                },
+                {
+                    "start": 55.82,
+                    "end": 56.14,
+                    "word": " their",
+                    "probability": 0.97314453125
+                },
+                {
+                    "start": 56.14,
+                    "end": 56.62,
+                    "word": " choices",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 56.62,
+                    "end": 57.11,
+                    "word": " and...",
+                    "probability": 0.3885498046875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 4918,
+            "start": 59.02,
+            "end": 59.64,
+            "text": " Yeah.",
+            "tokens": [
+                50868,
+                865,
+                13,
+                51244
+            ],
+            "avg_logprob": -0.449388589548028,
+            "compression_ratio": 1.064102564102564,
+            "no_speech_prob": 0.006534576416015625,
+            "words": [
+                {
+                    "start": 59.02,
+                    "end": 59.64,
+                    "word": " Yeah.",
+                    "probability": 0.61865234375
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " With the final question that I have, like I mentioned, many people feel a bit intimidated in using these speech recognition tools. So can you think of anything that you think would lower the threshold for people to use the tools, make them less intimidating? Let me think... I don't know, maybe... I just literally don't know, like this is very technical. Maybe, I don't know, maybe like some proofs or like some reviews from other users would decrease that. But people are like, they are about their choices and... Yeah."
+}

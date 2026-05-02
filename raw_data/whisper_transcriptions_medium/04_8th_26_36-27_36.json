@@ -1,0 +1,1106 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 20.0,
+            "text": " These teams, like another researcher colleague, introduced me to that idea, or that particular tool, and said that she had found it very helpful. But I'd say those seminars are a good place to train people, or give a demo or something.",
+            "tokens": [
+                50364,
+                1981,
+                5491,
+                11,
+                411,
+                1071,
+                21751,
+                13532,
+                11,
+                7268,
+                385,
+                281,
+                300,
+                1558,
+                11,
+                420,
+                300,
+                1729,
+                2290,
+                11,
+                293,
+                848,
+                300,
+                750,
+                632,
+                1352,
+                309,
+                588,
+                4961,
+                13,
+                583,
+                286,
+                1116,
+                584,
+                729,
+                43112,
+                366,
+                257,
+                665,
+                1081,
+                281,
+                3847,
+                561,
+                11,
+                420,
+                976,
+                257,
+                10723,
+                420,
+                746,
+                13,
+                51364
+            ],
+            "avg_logprob": -0.2983217465656775,
+            "compression_ratio": 1.4417177914110428,
+            "no_speech_prob": 0.36474609375,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.38,
+                    "word": " These",
+                    "probability": 0.05194091796875
+                },
+                {
+                    "start": 0.38,
+                    "end": 0.8,
+                    "word": " teams,",
+                    "probability": 0.97607421875
+                },
+                {
+                    "start": 0.98,
+                    "end": 1.14,
+                    "word": " like",
+                    "probability": 0.97509765625
+                },
+                {
+                    "start": 1.14,
+                    "end": 1.8,
+                    "word": " another",
+                    "probability": 0.98046875
+                },
+                {
+                    "start": 1.8,
+                    "end": 2.9,
+                    "word": " researcher",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 2.9,
+                    "end": 4.24,
+                    "word": " colleague,",
+                    "probability": 0.4794921875
+                },
+                {
+                    "start": 5.1,
+                    "end": 5.58,
+                    "word": " introduced",
+                    "probability": 0.90576171875
+                },
+                {
+                    "start": 5.58,
+                    "end": 5.82,
+                    "word": " me",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 5.82,
+                    "end": 6.04,
+                    "word": " to",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 6.04,
+                    "end": 6.3,
+                    "word": " that",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 6.3,
+                    "end": 6.76,
+                    "word": " idea,",
+                    "probability": 0.97998046875
+                },
+                {
+                    "start": 7.04,
+                    "end": 7.16,
+                    "word": " or",
+                    "probability": 0.98388671875
+                },
+                {
+                    "start": 7.16,
+                    "end": 7.54,
+                    "word": " that",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 7.54,
+                    "end": 8.0,
+                    "word": " particular",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 8.0,
+                    "end": 8.3,
+                    "word": " tool,",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 8.42,
+                    "end": 8.56,
+                    "word": " and",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 8.56,
+                    "end": 8.66,
+                    "word": " said",
+                    "probability": 0.8798828125
+                },
+                {
+                    "start": 8.66,
+                    "end": 8.94,
+                    "word": " that",
+                    "probability": 0.974609375
+                },
+                {
+                    "start": 8.94,
+                    "end": 9.12,
+                    "word": " she",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 9.12,
+                    "end": 9.32,
+                    "word": " had",
+                    "probability": 0.984375
+                },
+                {
+                    "start": 9.32,
+                    "end": 9.44,
+                    "word": " found",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 9.44,
+                    "end": 9.74,
+                    "word": " it",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 9.74,
+                    "end": 9.9,
+                    "word": " very",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 9.9,
+                    "end": 10.26,
+                    "word": " helpful.",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 11.58,
+                    "end": 11.78,
+                    "word": " But",
+                    "probability": 0.5283203125
+                },
+                {
+                    "start": 11.78,
+                    "end": 12.5,
+                    "word": " I'd",
+                    "probability": 0.851318359375
+                },
+                {
+                    "start": 12.5,
+                    "end": 12.76,
+                    "word": " say",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 12.76,
+                    "end": 13.2,
+                    "word": " those",
+                    "probability": 0.73681640625
+                },
+                {
+                    "start": 13.2,
+                    "end": 13.62,
+                    "word": " seminars",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 13.62,
+                    "end": 13.9,
+                    "word": " are",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 13.9,
+                    "end": 13.92,
+                    "word": " a",
+                    "probability": 0.95166015625
+                },
+                {
+                    "start": 13.92,
+                    "end": 14.08,
+                    "word": " good",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 14.08,
+                    "end": 14.92,
+                    "word": " place",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 14.92,
+                    "end": 17.3,
+                    "word": " to",
+                    "probability": 0.775390625
+                },
+                {
+                    "start": 17.3,
+                    "end": 17.62,
+                    "word": " train",
+                    "probability": 0.4228515625
+                },
+                {
+                    "start": 17.62,
+                    "end": 17.94,
+                    "word": " people,",
+                    "probability": 0.94384765625
+                },
+                {
+                    "start": 17.94,
+                    "end": 18.54,
+                    "word": " or",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 18.54,
+                    "end": 18.74,
+                    "word": " give",
+                    "probability": 0.96826171875
+                },
+                {
+                    "start": 18.74,
+                    "end": 18.88,
+                    "word": " a",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 18.88,
+                    "end": 19.24,
+                    "word": " demo",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 19.24,
+                    "end": 19.5,
+                    "word": " or",
+                    "probability": 0.787109375
+                },
+                {
+                    "start": 19.5,
+                    "end": 20.0,
+                    "word": " something.",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 2000,
+            "start": 20.84,
+            "end": 21.98,
+            "text": " Okay, yeah.",
+            "tokens": [
+                50414,
+                1033,
+                11,
+                1338,
+                13,
+                50464
+            ],
+            "avg_logprob": -0.16581632166492696,
+            "compression_ratio": 1.5179282868525896,
+            "no_speech_prob": 0.4853515625,
+            "words": [
+                {
+                    "start": 20.84,
+                    "end": 21.4,
+                    "word": " Okay,",
+                    "probability": 0.11785888671875
+                },
+                {
+                    "start": 21.6,
+                    "end": 21.98,
+                    "word": " yeah.",
+                    "probability": 0.93017578125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 2000,
+            "start": 22.32,
+            "end": 30.38,
+            "text": " If you can figure out who's running the seminar and just write them and propose, like, could we come give a 20-minute demo, even virtually?",
+            "tokens": [
+                50464,
+                759,
+                291,
+                393,
+                2573,
+                484,
+                567,
+                311,
+                2614,
+                264,
+                29235,
+                293,
+                445,
+                2464,
+                552,
+                293,
+                17421,
+                11,
+                411,
+                11,
+                727,
+                321,
+                808,
+                976,
+                257,
+                945,
+                12,
+                18256,
+                10723,
+                11,
+                754,
+                14103,
+                30,
+                50864
+            ],
+            "avg_logprob": -0.16581632166492696,
+            "compression_ratio": 1.5179282868525896,
+            "no_speech_prob": 0.4853515625,
+            "words": [
+                {
+                    "start": 22.32,
+                    "end": 22.44,
+                    "word": " If",
+                    "probability": 0.86962890625
+                },
+                {
+                    "start": 22.44,
+                    "end": 22.64,
+                    "word": " you",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 22.64,
+                    "end": 22.9,
+                    "word": " can",
+                    "probability": 0.4892578125
+                },
+                {
+                    "start": 22.9,
+                    "end": 23.34,
+                    "word": " figure",
+                    "probability": 0.51904296875
+                },
+                {
+                    "start": 23.34,
+                    "end": 23.5,
+                    "word": " out",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 23.5,
+                    "end": 23.76,
+                    "word": " who's",
+                    "probability": 0.93701171875
+                },
+                {
+                    "start": 23.76,
+                    "end": 23.98,
+                    "word": " running",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 23.98,
+                    "end": 24.28,
+                    "word": " the",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 24.28,
+                    "end": 24.58,
+                    "word": " seminar",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 24.58,
+                    "end": 24.74,
+                    "word": " and",
+                    "probability": 0.87548828125
+                },
+                {
+                    "start": 24.74,
+                    "end": 25.28,
+                    "word": " just",
+                    "probability": 0.96240234375
+                },
+                {
+                    "start": 25.28,
+                    "end": 25.5,
+                    "word": " write",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 25.5,
+                    "end": 25.64,
+                    "word": " them",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 25.64,
+                    "end": 25.8,
+                    "word": " and",
+                    "probability": 0.9208984375
+                },
+                {
+                    "start": 25.8,
+                    "end": 26.26,
+                    "word": " propose,",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 27.1,
+                    "end": 27.34,
+                    "word": " like,",
+                    "probability": 0.4208984375
+                },
+                {
+                    "start": 27.34,
+                    "end": 27.46,
+                    "word": " could",
+                    "probability": 0.75830078125
+                },
+                {
+                    "start": 27.46,
+                    "end": 27.68,
+                    "word": " we",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 27.68,
+                    "end": 27.9,
+                    "word": " come",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 27.9,
+                    "end": 28.08,
+                    "word": " give",
+                    "probability": 0.86865234375
+                },
+                {
+                    "start": 28.08,
+                    "end": 28.28,
+                    "word": " a",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 28.28,
+                    "end": 28.52,
+                    "word": " 20",
+                    "probability": 0.96484375
+                },
+                {
+                    "start": 28.52,
+                    "end": 28.78,
+                    "word": "-minute",
+                    "probability": 0.830322265625
+                },
+                {
+                    "start": 28.78,
+                    "end": 29.28,
+                    "word": " demo,",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 29.44,
+                    "end": 29.86,
+                    "word": " even",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 29.86,
+                    "end": 30.38,
+                    "word": " virtually?",
+                    "probability": 0.990234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2000,
+            "start": 31.8,
+            "end": 33.3,
+            "text": " Yeah, that's a good point.",
+            "tokens": [
+                50914,
+                865,
+                11,
+                300,
+                311,
+                257,
+                665,
+                935,
+                13,
+                51014
+            ],
+            "avg_logprob": -0.16581632166492696,
+            "compression_ratio": 1.5179282868525896,
+            "no_speech_prob": 0.4853515625,
+            "words": [
+                {
+                    "start": 31.8,
+                    "end": 32.16,
+                    "word": " Yeah,",
+                    "probability": 0.96484375
+                },
+                {
+                    "start": 32.18,
+                    "end": 32.5,
+                    "word": " that's",
+                    "probability": 0.998779296875
+                },
+                {
+                    "start": 32.5,
+                    "end": 32.54,
+                    "word": " a",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 32.54,
+                    "end": 32.72,
+                    "word": " good",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 32.72,
+                    "end": 33.3,
+                    "word": " point.",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2000,
+            "start": 36.02,
+            "end": 49.98,
+            "text": " Okay, I think that's it for the questions that I have. But if you have anything that you think is worth mentioning while talking about these speech-to-text tools, go ahead and add it to this discussion.",
+            "tokens": [
+                51164,
+                1033,
+                11,
+                286,
+                519,
+                300,
+                311,
+                309,
+                337,
+                264,
+                1651,
+                300,
+                286,
+                362,
+                13,
+                583,
+                498,
+                291,
+                362,
+                1340,
+                300,
+                291,
+                519,
+                307,
+                3163,
+                18315,
+                1339,
+                1417,
+                466,
+                613,
+                6218,
+                12,
+                1353,
+                12,
+                25111,
+                3873,
+                11,
+                352,
+                2286,
+                293,
+                909,
+                309,
+                281,
+                341,
+                5017,
+                13,
+                51814
+            ],
+            "avg_logprob": -0.16581632166492696,
+            "compression_ratio": 1.5179282868525896,
+            "no_speech_prob": 0.4853515625,
+            "words": [
+                {
+                    "start": 36.02,
+                    "end": 36.46,
+                    "word": " Okay,",
+                    "probability": 0.9072265625
+                },
+                {
+                    "start": 36.6,
+                    "end": 36.7,
+                    "word": " I",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 36.7,
+                    "end": 36.88,
+                    "word": " think",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 36.88,
+                    "end": 37.14,
+                    "word": " that's",
+                    "probability": 0.998779296875
+                },
+                {
+                    "start": 37.14,
+                    "end": 37.42,
+                    "word": " it",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 37.42,
+                    "end": 37.94,
+                    "word": " for",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 37.94,
+                    "end": 38.22,
+                    "word": " the",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 38.22,
+                    "end": 38.66,
+                    "word": " questions",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 38.66,
+                    "end": 38.94,
+                    "word": " that",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 38.94,
+                    "end": 39.24,
+                    "word": " I",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 39.24,
+                    "end": 39.56,
+                    "word": " have.",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 40.08,
+                    "end": 40.48,
+                    "word": " But",
+                    "probability": 0.9736328125
+                },
+                {
+                    "start": 40.48,
+                    "end": 40.86,
+                    "word": " if",
+                    "probability": 0.91845703125
+                },
+                {
+                    "start": 40.86,
+                    "end": 41.04,
+                    "word": " you",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 41.04,
+                    "end": 41.26,
+                    "word": " have",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 41.26,
+                    "end": 41.6,
+                    "word": " anything",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 41.6,
+                    "end": 42.08,
+                    "word": " that",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 42.08,
+                    "end": 42.48,
+                    "word": " you",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 42.48,
+                    "end": 42.72,
+                    "word": " think",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 42.72,
+                    "end": 43.36,
+                    "word": " is",
+                    "probability": 0.497314453125
+                },
+                {
+                    "start": 43.36,
+                    "end": 43.86,
+                    "word": " worth",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 43.86,
+                    "end": 44.58,
+                    "word": " mentioning",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 44.58,
+                    "end": 45.32,
+                    "word": " while",
+                    "probability": 0.830078125
+                },
+                {
+                    "start": 45.32,
+                    "end": 45.62,
+                    "word": " talking",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 45.62,
+                    "end": 45.94,
+                    "word": " about",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 45.94,
+                    "end": 46.4,
+                    "word": " these",
+                    "probability": 0.83837890625
+                },
+                {
+                    "start": 46.4,
+                    "end": 46.74,
+                    "word": " speech",
+                    "probability": 0.951171875
+                },
+                {
+                    "start": 46.74,
+                    "end": 46.9,
+                    "word": "-to",
+                    "probability": 0.754150390625
+                },
+                {
+                    "start": 46.9,
+                    "end": 47.08,
+                    "word": "-text",
+                    "probability": 0.999267578125
+                },
+                {
+                    "start": 47.08,
+                    "end": 47.56,
+                    "word": " tools,",
+                    "probability": 0.9736328125
+                },
+                {
+                    "start": 47.94,
+                    "end": 48.2,
+                    "word": " go",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 48.2,
+                    "end": 48.46,
+                    "word": " ahead",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 48.46,
+                    "end": 48.64,
+                    "word": " and",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 48.64,
+                    "end": 48.82,
+                    "word": " add",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 48.82,
+                    "end": 49.1,
+                    "word": " it",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 49.1,
+                    "end": 49.28,
+                    "word": " to",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 49.28,
+                    "end": 49.46,
+                    "word": " this",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 49.46,
+                    "end": 49.98,
+                    "word": " discussion.",
+                    "probability": 0.9990234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 5000,
+            "start": 51.72,
+            "end": 53.44,
+            "text": " Anything that we didn't talk about?",
+            "tokens": [
+                50414,
+                11998,
+                300,
+                321,
+                994,
+                380,
+                751,
+                466,
+                30,
+                50514
+            ],
+            "avg_logprob": -0.16184543435638016,
+            "compression_ratio": 1.1504424778761062,
+            "no_speech_prob": 0.016754150390625,
+            "words": [
+                {
+                    "start": 51.72,
+                    "end": 52.28,
+                    "word": " Anything",
+                    "probability": 0.0191192626953125
+                },
+                {
+                    "start": 52.28,
+                    "end": 52.56,
+                    "word": " that",
+                    "probability": 0.8623046875
+                },
+                {
+                    "start": 52.56,
+                    "end": 52.68,
+                    "word": " we",
+                    "probability": 0.97265625
+                },
+                {
+                    "start": 52.68,
+                    "end": 52.92,
+                    "word": " didn't",
+                    "probability": 0.993408203125
+                },
+                {
+                    "start": 52.92,
+                    "end": 53.14,
+                    "word": " talk",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 53.14,
+                    "end": 53.44,
+                    "word": " about?",
+                    "probability": 0.998046875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 5000,
+            "start": 54.2,
+            "end": 59.66,
+            "text": " Yeah, actually we did, but I'll just re-emphasize this. The security aspect is very important.",
+            "tokens": [
+                50564,
+                865,
+                11,
+                767,
+                321,
+                630,
+                11,
+                457,
+                286,
+                603,
+                445,
+                319,
+                12,
+                443,
+                7485,
+                1125,
+                341,
+                13,
+                440,
+                3825,
+                4171,
+                307,
+                588,
+                1021,
+                13,
+                50814
+            ],
+            "avg_logprob": -0.16184543435638016,
+            "compression_ratio": 1.1504424778761062,
+            "no_speech_prob": 0.016754150390625,
+            "words": [
+                {
+                    "start": 54.2,
+                    "end": 54.48,
+                    "word": " Yeah,",
+                    "probability": 0.81298828125
+                },
+                {
+                    "start": 54.64,
+                    "end": 54.88,
+                    "word": " actually",
+                    "probability": 0.97998046875
+                },
+                {
+                    "start": 54.88,
+                    "end": 55.06,
+                    "word": " we",
+                    "probability": 0.7900390625
+                },
+                {
+                    "start": 55.06,
+                    "end": 55.24,
+                    "word": " did,",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 55.36,
+                    "end": 55.4,
+                    "word": " but",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 55.4,
+                    "end": 55.66,
+                    "word": " I'll",
+                    "probability": 0.98388671875
+                },
+                {
+                    "start": 55.66,
+                    "end": 55.86,
+                    "word": " just",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 55.86,
+                    "end": 56.06,
+                    "word": " re",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 56.06,
+                    "end": 56.6,
+                    "word": "-emphasize",
+                    "probability": 0.89306640625
+                },
+                {
+                    "start": 56.6,
+                    "end": 56.96,
+                    "word": " this.",
+                    "probability": 0.79443359375
+                },
+                {
+                    "start": 57.32,
+                    "end": 57.42,
+                    "word": " The",
+                    "probability": 0.78076171875
+                },
+                {
+                    "start": 57.42,
+                    "end": 57.94,
+                    "word": " security",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 57.94,
+                    "end": 58.46,
+                    "word": " aspect",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 58.46,
+                    "end": 58.86,
+                    "word": " is",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 58.86,
+                    "end": 59.16,
+                    "word": " very",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 59.16,
+                    "end": 59.66,
+                    "word": " important.",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " These teams, like another researcher colleague, introduced me to that idea, or that particular tool, and said that she had found it very helpful. But I'd say those seminars are a good place to train people, or give a demo or something. Okay, yeah. If you can figure out who's running the seminar and just write them and propose, like, could we come give a 20-minute demo, even virtually? Yeah, that's a good point. Okay, I think that's it for the questions that I have. But if you have anything that you think is worth mentioning while talking about these speech-to-text tools, go ahead and add it to this discussion. Anything that we didn't talk about? Yeah, actually we did, but I'll just re-emphasize this. The security aspect is very important."
+}
