@@ -1,4 +1,4 @@
-This repository contains material for comparing Whisper transcriptions to human-made (gold standard) transcriptions. The material is used in the Master's thesis "Careless Whisper?: A lingusitic evaluation of the AI-based automatic speech recognition tool" by Elina Kivari (2026) at the Univeristy of Helsinki in collaboration with CSC - IT Center for Science.
+This repository contains material for comparing Whisper transcriptions to human-made (gold standard) transcriptions. The material is used in the Master's thesis "Careless Whisper?: A lingusitic evaluation of the AI-based automatic speech recognition tool" by Elina Kivari (2026) at the Univeristy of Helsinki in collaboration with CSC - IT Center for Science [![DOI](https://zenodo.org/badge/1227365703.svg)](https://doi.org/10.5281/zenodo.19982426).
 
 ## Running Whisper transcriptions
 
