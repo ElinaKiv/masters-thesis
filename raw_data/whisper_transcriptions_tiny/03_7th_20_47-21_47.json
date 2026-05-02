@@ -1,0 +1,1061 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.0,
+            "text": " So it sort of doubles the time I can use.",
+            "tokens": [
+                50364,
+                407,
+                309,
+                1333,
+                295,
+                31634,
+                264,
+                565,
+                286,
+                393,
+                764,
+                13,
+                50664
+            ],
+            "avg_logprob": -0.33933823669657986,
+            "compression_ratio": 1.529100529100529,
+            "no_speech_prob": 0.06671142578125,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.9,
+                    "word": " So",
+                    "probability": 0.3916015625
+                },
+                {
+                    "start": 0.9,
+                    "end": 1.2,
+                    "word": " it",
+                    "probability": 0.76220703125
+                },
+                {
+                    "start": 1.2,
+                    "end": 1.38,
+                    "word": " sort",
+                    "probability": 0.53076171875
+                },
+                {
+                    "start": 1.38,
+                    "end": 1.44,
+                    "word": " of",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 1.44,
+                    "end": 1.88,
+                    "word": " doubles",
+                    "probability": 0.96240234375
+                },
+                {
+                    "start": 1.88,
+                    "end": 3.34,
+                    "word": " the",
+                    "probability": 0.32373046875
+                },
+                {
+                    "start": 3.34,
+                    "end": 3.64,
+                    "word": " time",
+                    "probability": 0.9482421875
+                },
+                {
+                    "start": 3.64,
+                    "end": 4.28,
+                    "word": " I",
+                    "probability": 0.93994140625
+                },
+                {
+                    "start": 4.28,
+                    "end": 4.82,
+                    "word": " can",
+                    "probability": 0.91064453125
+                },
+                {
+                    "start": 4.82,
+                    "end": 6.0,
+                    "word": " use.",
+                    "probability": 0.98779296875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.9,
+            "end": 9.5,
+            "text": " Okay.",
+            "tokens": [
+                50764,
+                1033,
+                13,
+                50864
+            ],
+            "avg_logprob": -0.33933823669657986,
+            "compression_ratio": 1.529100529100529,
+            "no_speech_prob": 0.06671142578125,
+            "words": [
+                {
+                    "start": 8.9,
+                    "end": 9.5,
+                    "word": " Okay.",
+                    "probability": 0.44091796875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 10.64,
+            "end": 13.98,
+            "text": " Yeah. And of course, language is a human science.",
+            "tokens": [
+                50864,
+                865,
+                13,
+                400,
+                295,
+                1164,
+                11,
+                2856,
+                307,
+                257,
+                1952,
+                3497,
+                13,
+                51064
+            ],
+            "avg_logprob": -0.33933823669657986,
+            "compression_ratio": 1.529100529100529,
+            "no_speech_prob": 0.06671142578125,
+            "words": [
+                {
+                    "start": 10.64,
+                    "end": 10.74,
+                    "word": " Yeah.",
+                    "probability": 0.8828125
+                },
+                {
+                    "start": 10.86,
+                    "end": 10.86,
+                    "word": " And",
+                    "probability": 0.489013671875
+                },
+                {
+                    "start": 10.86,
+                    "end": 10.94,
+                    "word": " of",
+                    "probability": 0.92431640625
+                },
+                {
+                    "start": 10.94,
+                    "end": 11.16,
+                    "word": " course,",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 11.3,
+                    "end": 11.5,
+                    "word": " language",
+                    "probability": 0.849609375
+                },
+                {
+                    "start": 11.5,
+                    "end": 12.64,
+                    "word": " is",
+                    "probability": 0.01263427734375
+                },
+                {
+                    "start": 12.64,
+                    "end": 13.08,
+                    "word": " a",
+                    "probability": 0.85693359375
+                },
+                {
+                    "start": 13.08,
+                    "end": 13.34,
+                    "word": " human",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 13.34,
+                    "end": 13.98,
+                    "word": " science.",
+                    "probability": 0.9912109375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 14.56,
+            "end": 18.84,
+            "text": " So most of the people who are doing linguistic research are",
+            "tokens": [
+                51064,
+                407,
+                881,
+                295,
+                264,
+                561,
+                567,
+                366,
+                884,
+                43002,
+                2132,
+                366,
+                51264
+            ],
+            "avg_logprob": -0.33933823669657986,
+            "compression_ratio": 1.529100529100529,
+            "no_speech_prob": 0.06671142578125,
+            "words": [
+                {
+                    "start": 14.56,
+                    "end": 14.68,
+                    "word": " So",
+                    "probability": 0.94775390625
+                },
+                {
+                    "start": 14.68,
+                    "end": 15.14,
+                    "word": " most",
+                    "probability": 0.876953125
+                },
+                {
+                    "start": 15.14,
+                    "end": 15.38,
+                    "word": " of",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 15.38,
+                    "end": 15.8,
+                    "word": " the",
+                    "probability": 0.90380859375
+                },
+                {
+                    "start": 15.8,
+                    "end": 16.12,
+                    "word": " people",
+                    "probability": 0.98583984375
+                },
+                {
+                    "start": 16.12,
+                    "end": 16.42,
+                    "word": " who",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 16.42,
+                    "end": 16.44,
+                    "word": " are",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 16.44,
+                    "end": 17.1,
+                    "word": " doing",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 17.1,
+                    "end": 17.7,
+                    "word": " linguistic",
+                    "probability": 0.6953125
+                },
+                {
+                    "start": 17.7,
+                    "end": 18.14,
+                    "word": " research",
+                    "probability": 0.78125
+                },
+                {
+                    "start": 18.14,
+                    "end": 18.84,
+                    "word": " are",
+                    "probability": 0.806640625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 19.94,
+            "end": 24.12,
+            "text": " with a human science is background on and only handful of them.",
+            "tokens": [
+                51264,
+                365,
+                257,
+                1952,
+                3497,
+                307,
+                3678,
+                322,
+                293,
+                787,
+                16458,
+                295,
+                552,
+                13,
+                51564
+            ],
+            "avg_logprob": -0.33933823669657986,
+            "compression_ratio": 1.529100529100529,
+            "no_speech_prob": 0.06671142578125,
+            "words": [
+                {
+                    "start": 19.94,
+                    "end": 20.54,
+                    "word": " with",
+                    "probability": 0.44091796875
+                },
+                {
+                    "start": 20.54,
+                    "end": 20.82,
+                    "word": " a",
+                    "probability": 0.5634765625
+                },
+                {
+                    "start": 20.82,
+                    "end": 21.04,
+                    "word": " human",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 21.04,
+                    "end": 21.3,
+                    "word": " science",
+                    "probability": 0.9091796875
+                },
+                {
+                    "start": 21.3,
+                    "end": 21.56,
+                    "word": " is",
+                    "probability": 0.49365234375
+                },
+                {
+                    "start": 21.56,
+                    "end": 21.82,
+                    "word": " background",
+                    "probability": 0.96875
+                },
+                {
+                    "start": 21.82,
+                    "end": 22.26,
+                    "word": " on",
+                    "probability": 0.59423828125
+                },
+                {
+                    "start": 22.26,
+                    "end": 22.42,
+                    "word": " and",
+                    "probability": 0.45751953125
+                },
+                {
+                    "start": 22.42,
+                    "end": 22.66,
+                    "word": " only",
+                    "probability": 0.97119140625
+                },
+                {
+                    "start": 22.66,
+                    "end": 23.0,
+                    "word": " handful",
+                    "probability": 0.72119140625
+                },
+                {
+                    "start": 23.0,
+                    "end": 23.26,
+                    "word": " of",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 23.26,
+                    "end": 24.12,
+                    "word": " them.",
+                    "probability": 0.9990234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 24.38,
+            "end": 26.12,
+            "text": " No programming, I think.",
+            "tokens": [
+                51564,
+                883,
+                9410,
+                11,
+                286,
+                519,
+                13,
+                51664
+            ],
+            "avg_logprob": -0.33933823669657986,
+            "compression_ratio": 1.529100529100529,
+            "no_speech_prob": 0.06671142578125,
+            "words": [
+                {
+                    "start": 24.38,
+                    "end": 24.42,
+                    "word": " No",
+                    "probability": 0.97021484375
+                },
+                {
+                    "start": 24.42,
+                    "end": 25.06,
+                    "word": " programming,",
+                    "probability": 0.9658203125
+                },
+                {
+                    "start": 25.3,
+                    "end": 25.34,
+                    "word": " I",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 25.34,
+                    "end": 26.12,
+                    "word": " think.",
+                    "probability": 0.9990234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 26.68,
+            "end": 29.54,
+            "text": " Yeah, that's sort of not part of our",
+            "tokens": [
+                51664,
+                865,
+                11,
+                300,
+                311,
+                1333,
+                295,
+                406,
+                644,
+                295,
+                527,
+                51764
+            ],
+            "avg_logprob": -0.33933823669657986,
+            "compression_ratio": 1.529100529100529,
+            "no_speech_prob": 0.06671142578125,
+            "words": [
+                {
+                    "start": 26.68,
+                    "end": 26.84,
+                    "word": " Yeah,",
+                    "probability": 0.96435546875
+                },
+                {
+                    "start": 27.14,
+                    "end": 27.26,
+                    "word": " that's",
+                    "probability": 0.783203125
+                },
+                {
+                    "start": 27.26,
+                    "end": 27.4,
+                    "word": " sort",
+                    "probability": 0.42041015625
+                },
+                {
+                    "start": 27.4,
+                    "end": 27.54,
+                    "word": " of",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 27.54,
+                    "end": 27.82,
+                    "word": " not",
+                    "probability": 0.61279296875
+                },
+                {
+                    "start": 27.82,
+                    "end": 28.04,
+                    "word": " part",
+                    "probability": 0.982421875
+                },
+                {
+                    "start": 28.04,
+                    "end": 28.22,
+                    "word": " of",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 28.22,
+                    "end": 29.54,
+                    "word": " our",
+                    "probability": 0.96337890625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 8,
+            "seek": 2954,
+            "start": 29.54,
+            "end": 30.3,
+            "text": " education.",
+            "tokens": [
+                50364,
+                3309,
+                13,
+                50564
+            ],
+            "avg_logprob": -0.19046677781056753,
+            "compression_ratio": 1.5602094240837696,
+            "no_speech_prob": 0.016021728515625,
+            "words": [
+                {
+                    "start": 29.54,
+                    "end": 30.3,
+                    "word": " education.",
+                    "probability": 0.0985107421875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 9,
+            "seek": 2954,
+            "start": 33.12,
+            "end": 40.12,
+            "text": " That brings me to my final question, which is that if you could choose",
+            "tokens": [
+                50564,
+                663,
+                5607,
+                385,
+                281,
+                452,
+                2572,
+                1168,
+                11,
+                597,
+                307,
+                300,
+                498,
+                291,
+                727,
+                2826,
+                50864
+            ],
+            "avg_logprob": -0.19046677781056753,
+            "compression_ratio": 1.5602094240837696,
+            "no_speech_prob": 0.016021728515625,
+            "words": [
+                {
+                    "start": 33.12,
+                    "end": 33.28,
+                    "word": " That",
+                    "probability": 0.76904296875
+                },
+                {
+                    "start": 33.28,
+                    "end": 33.5,
+                    "word": " brings",
+                    "probability": 0.9814453125
+                },
+                {
+                    "start": 33.5,
+                    "end": 33.74,
+                    "word": " me",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 33.74,
+                    "end": 33.94,
+                    "word": " to",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 33.94,
+                    "end": 34.24,
+                    "word": " my",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 34.24,
+                    "end": 34.56,
+                    "word": " final",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 34.56,
+                    "end": 35.82,
+                    "word": " question,",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 36.84,
+                    "end": 37.04,
+                    "word": " which",
+                    "probability": 0.943359375
+                },
+                {
+                    "start": 37.04,
+                    "end": 37.34,
+                    "word": " is",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 37.34,
+                    "end": 38.14,
+                    "word": " that",
+                    "probability": 0.92138671875
+                },
+                {
+                    "start": 38.14,
+                    "end": 39.3,
+                    "word": " if",
+                    "probability": 0.84912109375
+                },
+                {
+                    "start": 39.3,
+                    "end": 39.44,
+                    "word": " you",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 39.44,
+                    "end": 39.66,
+                    "word": " could",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 39.66,
+                    "end": 40.12,
+                    "word": " choose",
+                    "probability": 0.99462890625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 10,
+            "seek": 2954,
+            "start": 40.12,
+            "end": 45.54,
+            "text": " which you prefer a tool that has a golden standard.",
+            "tokens": [
+                50864,
+                597,
+                291,
+                4382,
+                257,
+                2290,
+                300,
+                575,
+                257,
+                9729,
+                3832,
+                13,
+                51164
+            ],
+            "avg_logprob": -0.19046677781056753,
+            "compression_ratio": 1.5602094240837696,
+            "no_speech_prob": 0.016021728515625,
+            "words": [
+                {
+                    "start": 40.12,
+                    "end": 40.54,
+                    "word": " which",
+                    "probability": 0.477294921875
+                },
+                {
+                    "start": 40.54,
+                    "end": 40.74,
+                    "word": " you",
+                    "probability": 0.81396484375
+                },
+                {
+                    "start": 40.74,
+                    "end": 41.16,
+                    "word": " prefer",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 41.16,
+                    "end": 41.5,
+                    "word": " a",
+                    "probability": 0.9375
+                },
+                {
+                    "start": 41.5,
+                    "end": 42.16,
+                    "word": " tool",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 42.16,
+                    "end": 43.54,
+                    "word": " that",
+                    "probability": 0.9609375
+                },
+                {
+                    "start": 43.54,
+                    "end": 44.08,
+                    "word": " has",
+                    "probability": 0.9814453125
+                },
+                {
+                    "start": 44.08,
+                    "end": 44.58,
+                    "word": " a",
+                    "probability": 0.97021484375
+                },
+                {
+                    "start": 44.58,
+                    "end": 44.88,
+                    "word": " golden",
+                    "probability": 0.84228515625
+                },
+                {
+                    "start": 44.88,
+                    "end": 45.54,
+                    "word": " standard.",
+                    "probability": 0.95361328125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 11,
+            "seek": 2954,
+            "start": 46.94,
+            "end": 51.3,
+            "text": " Let's say that you don't have to change the settings at all.",
+            "tokens": [
+                51164,
+                961,
+                311,
+                584,
+                300,
+                291,
+                500,
+                380,
+                362,
+                281,
+                1319,
+                264,
+                6257,
+                412,
+                439,
+                13,
+                51364
+            ],
+            "avg_logprob": -0.19046677781056753,
+            "compression_ratio": 1.5602094240837696,
+            "no_speech_prob": 0.016021728515625,
+            "words": [
+                {
+                    "start": 46.94,
+                    "end": 46.94,
+                    "word": " Let's",
+                    "probability": 0.936767578125
+                },
+                {
+                    "start": 46.96,
+                    "end": 47.18,
+                    "word": " say",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 47.18,
+                    "end": 47.36,
+                    "word": " that",
+                    "probability": 0.370361328125
+                },
+                {
+                    "start": 47.36,
+                    "end": 47.44,
+                    "word": " you",
+                    "probability": 0.9755859375
+                },
+                {
+                    "start": 47.44,
+                    "end": 47.74,
+                    "word": " don't",
+                    "probability": 0.996337890625
+                },
+                {
+                    "start": 47.74,
+                    "end": 48.04,
+                    "word": " have",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 48.04,
+                    "end": 48.76,
+                    "word": " to",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 48.76,
+                    "end": 49.3,
+                    "word": " change",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 49.3,
+                    "end": 49.54,
+                    "word": " the",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 49.54,
+                    "end": 50.02,
+                    "word": " settings",
+                    "probability": 0.9765625
+                },
+                {
+                    "start": 50.02,
+                    "end": 51.08,
+                    "word": " at",
+                    "probability": 0.9326171875
+                },
+                {
+                    "start": 51.08,
+                    "end": 51.3,
+                    "word": " all.",
+                    "probability": 0.99169921875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 12,
+            "seek": 2954,
+            "start": 51.3,
+            "end": 53.86,
+            "text": " You can just start using the tool.",
+            "tokens": [
+                51364,
+                509,
+                393,
+                445,
+                722,
+                1228,
+                264,
+                2290,
+                13,
+                51564
+            ],
+            "avg_logprob": -0.19046677781056753,
+            "compression_ratio": 1.5602094240837696,
+            "no_speech_prob": 0.016021728515625,
+            "words": [
+                {
+                    "start": 51.3,
+                    "end": 51.46,
+                    "word": " You",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 51.46,
+                    "end": 51.68,
+                    "word": " can",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 51.68,
+                    "end": 52.0,
+                    "word": " just",
+                    "probability": 0.9814453125
+                },
+                {
+                    "start": 52.0,
+                    "end": 52.4,
+                    "word": " start",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 52.4,
+                    "end": 52.76,
+                    "word": " using",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 52.76,
+                    "end": 53.02,
+                    "word": " the",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 53.02,
+                    "end": 53.86,
+                    "word": " tool.",
+                    "probability": 0.98583984375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 13,
+            "seek": 2954,
+            "start": 54.44,
+            "end": 59.52,
+            "text": " There are simple commands you don't really have to put any energy in",
+            "tokens": [
+                51564,
+                821,
+                366,
+                2199,
+                16901,
+                291,
+                500,
+                380,
+                534,
+                362,
+                281,
+                829,
+                604,
+                2281,
+                294,
+                51814
+            ],
+            "avg_logprob": -0.19046677781056753,
+            "compression_ratio": 1.5602094240837696,
+            "no_speech_prob": 0.016021728515625,
+            "words": [
+                {
+                    "start": 54.44,
+                    "end": 54.56,
+                    "word": " There",
+                    "probability": 0.623046875
+                },
+                {
+                    "start": 54.56,
+                    "end": 54.58,
+                    "word": " are",
+                    "probability": 0.9716796875
+                },
+                {
+                    "start": 54.58,
+                    "end": 54.82,
+                    "word": " simple",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 54.82,
+                    "end": 55.4,
+                    "word": " commands",
+                    "probability": 0.98193359375
+                },
+                {
+                    "start": 55.4,
+                    "end": 55.62,
+                    "word": " you",
+                    "probability": 0.352783203125
+                },
+                {
+                    "start": 55.62,
+                    "end": 56.5,
+                    "word": " don't",
+                    "probability": 0.996337890625
+                },
+                {
+                    "start": 56.5,
+                    "end": 56.9,
+                    "word": " really",
+                    "probability": 0.970703125
+                },
+                {
+                    "start": 56.9,
+                    "end": 57.14,
+                    "word": " have",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 57.14,
+                    "end": 57.86,
+                    "word": " to",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 57.86,
+                    "end": 58.62,
+                    "word": " put",
+                    "probability": 0.9814453125
+                },
+                {
+                    "start": 58.62,
+                    "end": 58.92,
+                    "word": " any",
+                    "probability": 0.93798828125
+                },
+                {
+                    "start": 58.92,
+                    "end": 59.28,
+                    "word": " energy",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 59.28,
+                    "end": 59.52,
+                    "word": " in",
+                    "probability": 0.82177734375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 14,
+            "seek": 5952,
+            "start": 59.52,
+            "end": 60.02,
+            "text": " the settings.",
+            "tokens": [
+                50364,
+                264,
+                6257,
+                13,
+                50464
+            ],
+            "avg_logprob": -0.3328450520833333,
+            "compression_ratio": 0.6190476190476191,
+            "no_speech_prob": 0.509765625,
+            "words": [
+                {
+                    "start": 59.52,
+                    "end": 59.88,
+                    "word": " the",
+                    "probability": 0.061614990234375
+                },
+                {
+                    "start": 59.88,
+                    "end": 60.02,
+                    "word": " settings.",
+                    "probability": 0.0186004638671875
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " So it sort of doubles the time I can use. Okay. Yeah. And of course, language is a human science. So most of the people who are doing linguistic research are with a human science is background on and only handful of them. No programming, I think. Yeah, that's sort of not part of our education. That brings me to my final question, which is that if you could choose which you prefer a tool that has a golden standard. Let's say that you don't have to change the settings at all. You can just start using the tool. There are simple commands you don't really have to put any energy in the settings."
+}

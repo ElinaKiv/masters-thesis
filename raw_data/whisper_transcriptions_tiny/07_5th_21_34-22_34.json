@@ -1,0 +1,924 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 8.2,
+            "text": " But personal things. So in that sense it's not, perhaps sensitive, but we don't have to reveal",
+            "tokens": [
+                50364,
+                583,
+                2973,
+                721,
+                13,
+                407,
+                294,
+                300,
+                2020,
+                309,
+                311,
+                406,
+                11,
+                4317,
+                9477,
+                11,
+                457,
+                321,
+                500,
+                380,
+                362,
+                281,
+                10658,
+                50772
+            ],
+            "avg_logprob": -0.38593751447541375,
+            "compression_ratio": 1.484375,
+            "no_speech_prob": 0.038848876953125,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.26,
+                    "word": " But",
+                    "probability": 0.1956787109375
+                },
+                {
+                    "start": 0.26,
+                    "end": 0.64,
+                    "word": " personal",
+                    "probability": 0.84521484375
+                },
+                {
+                    "start": 0.64,
+                    "end": 1.34,
+                    "word": " things.",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 1.9,
+                    "end": 2.02,
+                    "word": " So",
+                    "probability": 0.88232421875
+                },
+                {
+                    "start": 2.02,
+                    "end": 2.12,
+                    "word": " in",
+                    "probability": 0.88525390625
+                },
+                {
+                    "start": 2.12,
+                    "end": 2.44,
+                    "word": " that",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 2.44,
+                    "end": 2.7,
+                    "word": " sense",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 2.7,
+                    "end": 3.06,
+                    "word": " it's",
+                    "probability": 0.6282958984375
+                },
+                {
+                    "start": 3.06,
+                    "end": 3.9,
+                    "word": " not,",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 3.9,
+                    "end": 4.58,
+                    "word": " perhaps",
+                    "probability": 0.75146484375
+                },
+                {
+                    "start": 4.58,
+                    "end": 5.26,
+                    "word": " sensitive,",
+                    "probability": 0.54052734375
+                },
+                {
+                    "start": 6.56,
+                    "end": 6.56,
+                    "word": " but",
+                    "probability": 0.8515625
+                },
+                {
+                    "start": 6.6,
+                    "end": 7.44,
+                    "word": " we",
+                    "probability": 0.8466796875
+                },
+                {
+                    "start": 7.44,
+                    "end": 7.68,
+                    "word": " don't",
+                    "probability": 0.990966796875
+                },
+                {
+                    "start": 7.68,
+                    "end": 7.86,
+                    "word": " have",
+                    "probability": 0.466796875
+                },
+                {
+                    "start": 7.86,
+                    "end": 7.98,
+                    "word": " to",
+                    "probability": 0.9833984375
+                },
+                {
+                    "start": 7.98,
+                    "end": 8.2,
+                    "word": " reveal",
+                    "probability": 0.99658203125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.2,
+            "end": 16.92,
+            "text": " there, their identities or where they come from and so. Okay, yeah. Then I would like you",
+            "tokens": [
+                50772,
+                456,
+                11,
+                641,
+                24239,
+                420,
+                689,
+                436,
+                808,
+                490,
+                293,
+                370,
+                13,
+                1033,
+                11,
+                1338,
+                13,
+                1396,
+                286,
+                576,
+                411,
+                291,
+                51204
+            ],
+            "avg_logprob": -0.38593751447541375,
+            "compression_ratio": 1.484375,
+            "no_speech_prob": 0.038848876953125,
+            "words": [
+                {
+                    "start": 8.2,
+                    "end": 8.84,
+                    "word": " there,",
+                    "probability": 0.479248046875
+                },
+                {
+                    "start": 9.3,
+                    "end": 9.32,
+                    "word": " their",
+                    "probability": 0.515625
+                },
+                {
+                    "start": 9.32,
+                    "end": 9.74,
+                    "word": " identities",
+                    "probability": 0.7373046875
+                },
+                {
+                    "start": 9.74,
+                    "end": 10.28,
+                    "word": " or",
+                    "probability": 0.76513671875
+                },
+                {
+                    "start": 10.28,
+                    "end": 10.36,
+                    "word": " where",
+                    "probability": 0.916015625
+                },
+                {
+                    "start": 10.36,
+                    "end": 10.54,
+                    "word": " they",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 10.54,
+                    "end": 10.78,
+                    "word": " come",
+                    "probability": 0.796875
+                },
+                {
+                    "start": 10.78,
+                    "end": 11.3,
+                    "word": " from",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 11.3,
+                    "end": 11.66,
+                    "word": " and",
+                    "probability": 0.3798828125
+                },
+                {
+                    "start": 11.66,
+                    "end": 12.1,
+                    "word": " so.",
+                    "probability": 0.71337890625
+                },
+                {
+                    "start": 12.5,
+                    "end": 12.9,
+                    "word": " Okay,",
+                    "probability": 0.279541015625
+                },
+                {
+                    "start": 13.14,
+                    "end": 14.6,
+                    "word": " yeah.",
+                    "probability": 0.7470703125
+                },
+                {
+                    "start": 16.12,
+                    "end": 16.22,
+                    "word": " Then",
+                    "probability": 0.8115234375
+                },
+                {
+                    "start": 16.22,
+                    "end": 16.32,
+                    "word": " I",
+                    "probability": 0.98193359375
+                },
+                {
+                    "start": 16.32,
+                    "end": 16.54,
+                    "word": " would",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 16.54,
+                    "end": 16.7,
+                    "word": " like",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 16.7,
+                    "end": 16.92,
+                    "word": " you",
+                    "probability": 0.99560546875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 16.92,
+            "end": 25.4,
+            "text": " to estimate how much speech data you have in your project. If you can just estimate in approximately",
+            "tokens": [
+                51204,
+                281,
+                12539,
+                577,
+                709,
+                6218,
+                1412,
+                291,
+                362,
+                294,
+                428,
+                1716,
+                13,
+                759,
+                291,
+                393,
+                445,
+                12539,
+                294,
+                10447,
+                51636
+            ],
+            "avg_logprob": -0.38593751447541375,
+            "compression_ratio": 1.484375,
+            "no_speech_prob": 0.038848876953125,
+            "words": [
+                {
+                    "start": 16.92,
+                    "end": 17.68,
+                    "word": " to",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 17.68,
+                    "end": 18.3,
+                    "word": " estimate",
+                    "probability": 0.98291015625
+                },
+                {
+                    "start": 18.3,
+                    "end": 19.08,
+                    "word": " how",
+                    "probability": 0.9755859375
+                },
+                {
+                    "start": 19.08,
+                    "end": 19.72,
+                    "word": " much",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 19.72,
+                    "end": 20.1,
+                    "word": " speech",
+                    "probability": 0.775390625
+                },
+                {
+                    "start": 20.1,
+                    "end": 20.64,
+                    "word": " data",
+                    "probability": 0.96533203125
+                },
+                {
+                    "start": 20.64,
+                    "end": 21.14,
+                    "word": " you",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 21.14,
+                    "end": 21.44,
+                    "word": " have",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 21.44,
+                    "end": 21.62,
+                    "word": " in",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 21.62,
+                    "end": 21.82,
+                    "word": " your",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 21.82,
+                    "end": 22.74,
+                    "word": " project.",
+                    "probability": 0.50439453125
+                },
+                {
+                    "start": 23.2,
+                    "end": 23.58,
+                    "word": " If",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 23.58,
+                    "end": 23.62,
+                    "word": " you",
+                    "probability": 0.97802734375
+                },
+                {
+                    "start": 23.62,
+                    "end": 23.82,
+                    "word": " can",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 23.82,
+                    "end": 24.12,
+                    "word": " just",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 24.12,
+                    "end": 24.52,
+                    "word": " estimate",
+                    "probability": 0.9765625
+                },
+                {
+                    "start": 24.52,
+                    "end": 24.9,
+                    "word": " in",
+                    "probability": 0.642578125
+                },
+                {
+                    "start": 24.9,
+                    "end": 25.4,
+                    "word": " approximately",
+                    "probability": 0.9921875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2540,
+            "start": 25.4,
+            "end": 41.61,
+            "text": " in how many hours. 11 to 1200, so 1100, 12200 or something like that. Okay, so it is a very",
+            "tokens": [
+                50364,
+                294,
+                577,
+                867,
+                2496,
+                13,
+                2975,
+                281,
+                29139,
+                11,
+                370,
+                2975,
+                628,
+                11,
+                2272,
+                7629,
+                420,
+                746,
+                411,
+                300,
+                13,
+                1033,
+                11,
+                370,
+                309,
+                307,
+                257,
+                588,
+                51084
+            ],
+            "avg_logprob": -0.40104167218561526,
+            "compression_ratio": 1.3237410071942446,
+            "no_speech_prob": 0.10626220703125,
+            "words": [
+                {
+                    "start": 25.4,
+                    "end": 25.7,
+                    "word": " in",
+                    "probability": 0.252197265625
+                },
+                {
+                    "start": 25.7,
+                    "end": 25.94,
+                    "word": " how",
+                    "probability": 0.89453125
+                },
+                {
+                    "start": 25.94,
+                    "end": 26.18,
+                    "word": " many",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 26.18,
+                    "end": 28.44,
+                    "word": " hours.",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 32.69,
+                    "end": 33.41,
+                    "word": " 11",
+                    "probability": 0.6708984375
+                },
+                {
+                    "start": 33.41,
+                    "end": 33.79,
+                    "word": " to",
+                    "probability": 0.890625
+                },
+                {
+                    "start": 33.79,
+                    "end": 34.51,
+                    "word": " 1200,",
+                    "probability": 0.251953125
+                },
+                {
+                    "start": 35.23,
+                    "end": 36.25,
+                    "word": " so",
+                    "probability": 0.9453125
+                },
+                {
+                    "start": 36.25,
+                    "end": 37.99,
+                    "word": " 1100,",
+                    "probability": 0.5941162109375
+                },
+                {
+                    "start": 37.99,
+                    "end": 38.73,
+                    "word": " 12200",
+                    "probability": 0.42919921875
+                },
+                {
+                    "start": 38.73,
+                    "end": 39.21,
+                    "word": " or",
+                    "probability": 0.2449951171875
+                },
+                {
+                    "start": 39.21,
+                    "end": 39.57,
+                    "word": " something",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 39.57,
+                    "end": 39.81,
+                    "word": " like",
+                    "probability": 0.2802734375
+                },
+                {
+                    "start": 39.81,
+                    "end": 40.29,
+                    "word": " that.",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 40.67,
+                    "end": 40.75,
+                    "word": " Okay,",
+                    "probability": 0.73193359375
+                },
+                {
+                    "start": 40.95,
+                    "end": 41.07,
+                    "word": " so",
+                    "probability": 0.97998046875
+                },
+                {
+                    "start": 41.07,
+                    "end": 41.19,
+                    "word": " it",
+                    "probability": 0.953125
+                },
+                {
+                    "start": 41.19,
+                    "end": 41.31,
+                    "word": " is",
+                    "probability": 0.97216796875
+                },
+                {
+                    "start": 41.31,
+                    "end": 41.47,
+                    "word": " a",
+                    "probability": 0.947265625
+                },
+                {
+                    "start": 41.47,
+                    "end": 41.61,
+                    "word": " very",
+                    "probability": 0.98046875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2540,
+            "start": 41.61,
+            "end": 48.65,
+            "text": " large amount. It's a massive, yeah, we have massive corporate. For example, the the military",
+            "tokens": [
+                51084,
+                2416,
+                2372,
+                13,
+                467,
+                311,
+                257,
+                5994,
+                11,
+                1338,
+                11,
+                321,
+                362,
+                5994,
+                10896,
+                13,
+                1171,
+                1365,
+                11,
+                264,
+                264,
+                4632,
+                51436
+            ],
+            "avg_logprob": -0.40104167218561526,
+            "compression_ratio": 1.3237410071942446,
+            "no_speech_prob": 0.10626220703125,
+            "words": [
+                {
+                    "start": 41.61,
+                    "end": 42.11,
+                    "word": " large",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 42.11,
+                    "end": 42.59,
+                    "word": " amount.",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 42.93,
+                    "end": 43.33,
+                    "word": " It's",
+                    "probability": 0.923583984375
+                },
+                {
+                    "start": 43.33,
+                    "end": 43.43,
+                    "word": " a",
+                    "probability": 0.9384765625
+                },
+                {
+                    "start": 43.43,
+                    "end": 43.99,
+                    "word": " massive,",
+                    "probability": 0.978515625
+                },
+                {
+                    "start": 43.99,
+                    "end": 44.23,
+                    "word": " yeah,",
+                    "probability": 0.6318359375
+                },
+                {
+                    "start": 44.37,
+                    "end": 44.55,
+                    "word": " we",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 44.55,
+                    "end": 44.79,
+                    "word": " have",
+                    "probability": 0.74267578125
+                },
+                {
+                    "start": 44.79,
+                    "end": 45.17,
+                    "word": " massive",
+                    "probability": 0.89501953125
+                },
+                {
+                    "start": 45.17,
+                    "end": 45.87,
+                    "word": " corporate.",
+                    "probability": 0.24853515625
+                },
+                {
+                    "start": 46.19,
+                    "end": 46.45,
+                    "word": " For",
+                    "probability": 0.73828125
+                },
+                {
+                    "start": 46.45,
+                    "end": 46.77,
+                    "word": " example,",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 47.77,
+                    "end": 48.21,
+                    "word": " the",
+                    "probability": 0.91748046875
+                },
+                {
+                    "start": 48.21,
+                    "end": 48.23,
+                    "word": " the",
+                    "probability": 0.226806640625
+                },
+                {
+                    "start": 48.23,
+                    "end": 48.65,
+                    "word": " military",
+                    "probability": 0.90234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 4680,
+            "start": 48.65,
+            "end": 57.31,
+            "text": " or crisis management training corpus or the core product we have are huge. Yeah. And we've we've used",
+            "tokens": [
+                50368,
+                420,
+                5869,
+                4592,
+                3097,
+                1181,
+                31624,
+                420,
+                264,
+                4965,
+                1674,
+                321,
+                362,
+                366,
+                2603,
+                13,
+                865,
+                13,
+                400,
+                321,
+                600,
+                321,
+                600,
+                1143,
+                50792
+            ],
+            "avg_logprob": -0.4401041666666667,
+            "compression_ratio": 1.160919540229885,
+            "no_speech_prob": 0.0782470703125,
+            "words": [
+                {
+                    "start": 48.65,
+                    "end": 48.99,
+                    "word": " or",
+                    "probability": 0.171875
+                },
+                {
+                    "start": 48.99,
+                    "end": 49.31,
+                    "word": " crisis",
+                    "probability": 0.7822265625
+                },
+                {
+                    "start": 49.31,
+                    "end": 49.71,
+                    "word": " management",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 49.71,
+                    "end": 50.15,
+                    "word": " training",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 50.15,
+                    "end": 51.05,
+                    "word": " corpus",
+                    "probability": 0.5855712890625
+                },
+                {
+                    "start": 51.05,
+                    "end": 51.65,
+                    "word": " or",
+                    "probability": 0.6865234375
+                },
+                {
+                    "start": 51.65,
+                    "end": 51.87,
+                    "word": " the",
+                    "probability": 0.9794921875
+                },
+                {
+                    "start": 51.87,
+                    "end": 52.09,
+                    "word": " core",
+                    "probability": 0.49365234375
+                },
+                {
+                    "start": 52.09,
+                    "end": 52.43,
+                    "word": " product",
+                    "probability": 0.76513671875
+                },
+                {
+                    "start": 52.43,
+                    "end": 52.69,
+                    "word": " we",
+                    "probability": 0.88232421875
+                },
+                {
+                    "start": 52.69,
+                    "end": 53.29,
+                    "word": " have",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 53.29,
+                    "end": 53.85,
+                    "word": " are",
+                    "probability": 0.4794921875
+                },
+                {
+                    "start": 53.85,
+                    "end": 54.47,
+                    "word": " huge.",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 54.97,
+                    "end": 54.97,
+                    "word": " Yeah.",
+                    "probability": 0.1229248046875
+                },
+                {
+                    "start": 55.65,
+                    "end": 55.65,
+                    "word": " And",
+                    "probability": 0.94677734375
+                },
+                {
+                    "start": 55.75,
+                    "end": 56.93,
+                    "word": " we've",
+                    "probability": 0.828125
+                },
+                {
+                    "start": 56.93,
+                    "end": 57.01,
+                    "word": " we've",
+                    "probability": 0.519500732421875
+                },
+                {
+                    "start": 57.01,
+                    "end": 57.31,
+                    "word": " used",
+                    "probability": 0.98486328125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 5546,
+            "start": 57.31,
+            "end": 60.01,
+            "text": " expensive sort of a hell.",
+            "tokens": [
+                50364,
+                5124,
+                1333,
+                295,
+                257,
+                4921,
+                13,
+                50500
+            ],
+            "avg_logprob": -1.010660383436415,
+            "compression_ratio": 0.7575757575757576,
+            "no_speech_prob": 0.138916015625,
+            "words": [
+                {
+                    "start": 57.31,
+                    "end": 57.85,
+                    "word": " expensive",
+                    "probability": 0.00162506103515625
+                },
+                {
+                    "start": 57.85,
+                    "end": 58.33,
+                    "word": " sort",
+                    "probability": 0.83056640625
+                },
+                {
+                    "start": 58.33,
+                    "end": 59.73,
+                    "word": " of",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 59.73,
+                    "end": 59.93,
+                    "word": " a",
+                    "probability": 0.338134765625
+                },
+                {
+                    "start": 59.93,
+                    "end": 60.01,
+                    "word": " hell.",
+                    "probability": 0.876953125
+                }
+            ],
+            "temperature": 1.0
+        }
+    ],
+    "language": "en",
+    "text": " But personal things. So in that sense it's not, perhaps sensitive, but we don't have to reveal there, their identities or where they come from and so. Okay, yeah. Then I would like you to estimate how much speech data you have in your project. If you can just estimate in approximately in how many hours. 11 to 1200, so 1100, 12200 or something like that. Okay, so it is a very large amount. It's a massive, yeah, we have massive corporate. For example, the the military or crisis management training corpus or the core product we have are huge. Yeah. And we've we've used expensive sort of a hell."
+}

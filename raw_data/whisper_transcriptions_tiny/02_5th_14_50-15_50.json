@@ -1,0 +1,792 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.1,
+            "text": " Is it quite diverse with your research group? Yeah, like it's diverse like it's okay.",
+            "tokens": [
+                50364,
+                1119,
+                309,
+                1596,
+                9521,
+                365,
+                428,
+                2132,
+                1594,
+                30,
+                865,
+                11,
+                411,
+                309,
+                311,
+                9521,
+                411,
+                309,
+                311,
+                1392,
+                13,
+                50714
+            ],
+            "avg_logprob": -0.32764423076923077,
+            "compression_ratio": 1.488888888888889,
+            "no_speech_prob": 0.07708740234375,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.34,
+                    "word": " Is",
+                    "probability": 0.259521484375
+                },
+                {
+                    "start": 0.34,
+                    "end": 1.08,
+                    "word": " it",
+                    "probability": 0.966796875
+                },
+                {
+                    "start": 1.08,
+                    "end": 1.36,
+                    "word": " quite",
+                    "probability": 0.91015625
+                },
+                {
+                    "start": 1.36,
+                    "end": 1.96,
+                    "word": " diverse",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 1.96,
+                    "end": 2.32,
+                    "word": " with",
+                    "probability": 0.88037109375
+                },
+                {
+                    "start": 2.32,
+                    "end": 2.7,
+                    "word": " your",
+                    "probability": 0.9306640625
+                },
+                {
+                    "start": 2.7,
+                    "end": 3.04,
+                    "word": " research",
+                    "probability": 0.94091796875
+                },
+                {
+                    "start": 3.04,
+                    "end": 3.38,
+                    "word": " group?",
+                    "probability": 0.7724609375
+                },
+                {
+                    "start": 3.84,
+                    "end": 3.88,
+                    "word": " Yeah,",
+                    "probability": 0.51171875
+                },
+                {
+                    "start": 3.88,
+                    "end": 4.5,
+                    "word": " like",
+                    "probability": 0.25927734375
+                },
+                {
+                    "start": 4.5,
+                    "end": 5.26,
+                    "word": " it's",
+                    "probability": 0.888671875
+                },
+                {
+                    "start": 5.26,
+                    "end": 5.62,
+                    "word": " diverse",
+                    "probability": 0.935546875
+                },
+                {
+                    "start": 5.62,
+                    "end": 5.98,
+                    "word": " like",
+                    "probability": 0.3818359375
+                },
+                {
+                    "start": 5.98,
+                    "end": 6.64,
+                    "word": " it's",
+                    "probability": 0.775146484375
+                },
+                {
+                    "start": 6.64,
+                    "end": 7.1,
+                    "word": " okay.",
+                    "probability": 0.343505859375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.52,
+            "end": 18.4,
+            "text": " Others are I'm good at technology. Others are not really in a high level capability.",
+            "tokens": [
+                50714,
+                20277,
+                366,
+                286,
+                478,
+                665,
+                412,
+                2899,
+                13,
+                20277,
+                366,
+                406,
+                534,
+                294,
+                257,
+                1090,
+                1496,
+                13759,
+                13,
+                51264
+            ],
+            "avg_logprob": -0.32764423076923077,
+            "compression_ratio": 1.488888888888889,
+            "no_speech_prob": 0.07708740234375,
+            "words": [
+                {
+                    "start": 7.52,
+                    "end": 7.98,
+                    "word": " Others",
+                    "probability": 0.6669921875
+                },
+                {
+                    "start": 7.98,
+                    "end": 8.68,
+                    "word": " are",
+                    "probability": 0.9482421875
+                },
+                {
+                    "start": 8.68,
+                    "end": 8.9,
+                    "word": " I'm",
+                    "probability": 0.6370849609375
+                },
+                {
+                    "start": 8.9,
+                    "end": 9.18,
+                    "word": " good",
+                    "probability": 0.97314453125
+                },
+                {
+                    "start": 9.18,
+                    "end": 9.8,
+                    "word": " at",
+                    "probability": 0.98193359375
+                },
+                {
+                    "start": 9.8,
+                    "end": 10.44,
+                    "word": " technology.",
+                    "probability": 0.82861328125
+                },
+                {
+                    "start": 11.48,
+                    "end": 11.48,
+                    "word": " Others",
+                    "probability": 0.62060546875
+                },
+                {
+                    "start": 11.58,
+                    "end": 12.54,
+                    "word": " are",
+                    "probability": 0.98779296875
+                },
+                {
+                    "start": 12.54,
+                    "end": 12.78,
+                    "word": " not",
+                    "probability": 0.7041015625
+                },
+                {
+                    "start": 12.78,
+                    "end": 13.7,
+                    "word": " really",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 13.7,
+                    "end": 16.4,
+                    "word": " in",
+                    "probability": 0.392578125
+                },
+                {
+                    "start": 16.4,
+                    "end": 16.62,
+                    "word": " a",
+                    "probability": 0.84375
+                },
+                {
+                    "start": 16.62,
+                    "end": 16.78,
+                    "word": " high",
+                    "probability": 0.97265625
+                },
+                {
+                    "start": 16.78,
+                    "end": 17.2,
+                    "word": " level",
+                    "probability": 0.9892578125
+                },
+                {
+                    "start": 17.2,
+                    "end": 18.4,
+                    "word": " capability.",
+                    "probability": 0.720703125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 19.0,
+            "end": 27.68,
+            "text": " Yeah. Are you at all familiar with command line tools or do you prefer graphical user interfaces?",
+            "tokens": [
+                51264,
+                865,
+                13,
+                2014,
+                291,
+                412,
+                439,
+                4963,
+                365,
+                5622,
+                1622,
+                3873,
+                420,
+                360,
+                291,
+                4382,
+                35942,
+                4195,
+                28416,
+                30,
+                51764
+            ],
+            "avg_logprob": -0.32764423076923077,
+            "compression_ratio": 1.488888888888889,
+            "no_speech_prob": 0.07708740234375,
+            "words": [
+                {
+                    "start": 19.0,
+                    "end": 19.4,
+                    "word": " Yeah.",
+                    "probability": 0.80419921875
+                },
+                {
+                    "start": 21.52,
+                    "end": 21.66,
+                    "word": " Are",
+                    "probability": 0.955078125
+                },
+                {
+                    "start": 21.66,
+                    "end": 21.82,
+                    "word": " you",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 21.82,
+                    "end": 22.08,
+                    "word": " at",
+                    "probability": 0.98876953125
+                },
+                {
+                    "start": 22.08,
+                    "end": 22.36,
+                    "word": " all",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 22.36,
+                    "end": 22.7,
+                    "word": " familiar",
+                    "probability": 0.984375
+                },
+                {
+                    "start": 22.7,
+                    "end": 23.42,
+                    "word": " with",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 23.42,
+                    "end": 23.8,
+                    "word": " command",
+                    "probability": 0.93212890625
+                },
+                {
+                    "start": 23.8,
+                    "end": 24.28,
+                    "word": " line",
+                    "probability": 0.9208984375
+                },
+                {
+                    "start": 24.28,
+                    "end": 24.74,
+                    "word": " tools",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 24.74,
+                    "end": 25.56,
+                    "word": " or",
+                    "probability": 0.6552734375
+                },
+                {
+                    "start": 25.56,
+                    "end": 25.72,
+                    "word": " do",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 25.72,
+                    "end": 25.86,
+                    "word": " you",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 25.86,
+                    "end": 26.16,
+                    "word": " prefer",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 26.16,
+                    "end": 26.68,
+                    "word": " graphical",
+                    "probability": 0.7021484375
+                },
+                {
+                    "start": 26.68,
+                    "end": 27.18,
+                    "word": " user",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 27.18,
+                    "end": 27.68,
+                    "word": " interfaces?",
+                    "probability": 0.9931640625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2768,
+            "start": 29.08,
+            "end": 34.68,
+            "text": " Command line tools like what do you mean?",
+            "tokens": [
+                50414,
+                17901,
+                1622,
+                3873,
+                411,
+                437,
+                360,
+                291,
+                914,
+                30,
+                50714
+            ],
+            "avg_logprob": -0.2922952565653571,
+            "compression_ratio": 1.4903225806451612,
+            "no_speech_prob": 0.046478271484375,
+            "words": [
+                {
+                    "start": 29.08,
+                    "end": 30.08,
+                    "word": " Command",
+                    "probability": 0.023681640625
+                },
+                {
+                    "start": 30.08,
+                    "end": 31.08,
+                    "word": " line",
+                    "probability": 0.252197265625
+                },
+                {
+                    "start": 31.08,
+                    "end": 32.1,
+                    "word": " tools",
+                    "probability": 0.60498046875
+                },
+                {
+                    "start": 32.1,
+                    "end": 32.68,
+                    "word": " like",
+                    "probability": 0.81494140625
+                },
+                {
+                    "start": 32.68,
+                    "end": 33.34,
+                    "word": " what",
+                    "probability": 0.8759765625
+                },
+                {
+                    "start": 33.34,
+                    "end": 33.6,
+                    "word": " do",
+                    "probability": 0.955078125
+                },
+                {
+                    "start": 33.6,
+                    "end": 33.6,
+                    "word": " you",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 33.7,
+                    "end": 34.68,
+                    "word": " mean?",
+                    "probability": 0.99560546875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2768,
+            "start": 35.18,
+            "end": 39.8,
+            "text": " Like any programming, are you familiar with?",
+            "tokens": [
+                50714,
+                1743,
+                604,
+                9410,
+                11,
+                366,
+                291,
+                4963,
+                365,
+                30,
+                50964
+            ],
+            "avg_logprob": -0.2922952565653571,
+            "compression_ratio": 1.4903225806451612,
+            "no_speech_prob": 0.046478271484375,
+            "words": [
+                {
+                    "start": 35.18,
+                    "end": 35.6,
+                    "word": " Like",
+                    "probability": 0.52294921875
+                },
+                {
+                    "start": 35.6,
+                    "end": 35.86,
+                    "word": " any",
+                    "probability": 0.9228515625
+                },
+                {
+                    "start": 35.86,
+                    "end": 36.5,
+                    "word": " programming,",
+                    "probability": 0.494384765625
+                },
+                {
+                    "start": 36.92,
+                    "end": 36.92,
+                    "word": " are",
+                    "probability": 0.97021484375
+                },
+                {
+                    "start": 36.94,
+                    "end": 37.26,
+                    "word": " you",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 37.26,
+                    "end": 37.56,
+                    "word": " familiar",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 37.56,
+                    "end": 39.8,
+                    "word": " with?",
+                    "probability": 0.98681640625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2768,
+            "start": 40.16,
+            "end": 44.98,
+            "text": " I'm not sure what I'm asking you about now.",
+            "tokens": [
+                50964,
+                286,
+                478,
+                406,
+                988,
+                437,
+                286,
+                478,
+                3365,
+                291,
+                466,
+                586,
+                13,
+                51264
+            ],
+            "avg_logprob": -0.2922952565653571,
+            "compression_ratio": 1.4903225806451612,
+            "no_speech_prob": 0.046478271484375,
+            "words": [
+                {
+                    "start": 40.16,
+                    "end": 41.16,
+                    "word": " I'm",
+                    "probability": 0.941162109375
+                },
+                {
+                    "start": 41.16,
+                    "end": 41.36,
+                    "word": " not",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 41.36,
+                    "end": 41.76,
+                    "word": " sure",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 41.76,
+                    "end": 42.16,
+                    "word": " what",
+                    "probability": 0.92919921875
+                },
+                {
+                    "start": 42.16,
+                    "end": 42.64,
+                    "word": " I'm",
+                    "probability": 0.3394775390625
+                },
+                {
+                    "start": 42.64,
+                    "end": 42.7,
+                    "word": " asking",
+                    "probability": 0.341796875
+                },
+                {
+                    "start": 42.7,
+                    "end": 43.02,
+                    "word": " you",
+                    "probability": 0.27734375
+                },
+                {
+                    "start": 43.02,
+                    "end": 43.26,
+                    "word": " about",
+                    "probability": 0.81787109375
+                },
+                {
+                    "start": 43.26,
+                    "end": 44.98,
+                    "word": " now.",
+                    "probability": 0.7236328125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 2768,
+            "start": 45.64,
+            "end": 55.2,
+            "text": " Have you had any experience with programming with let's say Python or are any programming languages?",
+            "tokens": [
+                51264,
+                3560,
+                291,
+                632,
+                604,
+                1752,
+                365,
+                9410,
+                365,
+                718,
+                311,
+                584,
+                15329,
+                420,
+                366,
+                604,
+                9410,
+                8650,
+                30,
+                51814
+            ],
+            "avg_logprob": -0.2922952565653571,
+            "compression_ratio": 1.4903225806451612,
+            "no_speech_prob": 0.046478271484375,
+            "words": [
+                {
+                    "start": 45.64,
+                    "end": 46.64,
+                    "word": " Have",
+                    "probability": 0.56494140625
+                },
+                {
+                    "start": 46.64,
+                    "end": 46.84,
+                    "word": " you",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 46.84,
+                    "end": 47.2,
+                    "word": " had",
+                    "probability": 0.98583984375
+                },
+                {
+                    "start": 47.2,
+                    "end": 47.52,
+                    "word": " any",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 47.52,
+                    "end": 48.04,
+                    "word": " experience",
+                    "probability": 0.97900390625
+                },
+                {
+                    "start": 48.04,
+                    "end": 49.5,
+                    "word": " with",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 49.5,
+                    "end": 49.5,
+                    "word": " programming",
+                    "probability": 0.96044921875
+                },
+                {
+                    "start": 49.6,
+                    "end": 50.2,
+                    "word": " with",
+                    "probability": 0.73828125
+                },
+                {
+                    "start": 50.2,
+                    "end": 50.5,
+                    "word": " let's",
+                    "probability": 0.777099609375
+                },
+                {
+                    "start": 50.5,
+                    "end": 50.78,
+                    "word": " say",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 50.78,
+                    "end": 51.3,
+                    "word": " Python",
+                    "probability": 0.82763671875
+                },
+                {
+                    "start": 51.3,
+                    "end": 52.88,
+                    "word": " or",
+                    "probability": 0.8623046875
+                },
+                {
+                    "start": 52.88,
+                    "end": 53.08,
+                    "word": " are",
+                    "probability": 0.316650390625
+                },
+                {
+                    "start": 53.08,
+                    "end": 54.04,
+                    "word": " any",
+                    "probability": 0.662109375
+                },
+                {
+                    "start": 54.04,
+                    "end": 54.56,
+                    "word": " programming",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 54.56,
+                    "end": 55.2,
+                    "word": " languages?",
+                    "probability": 0.99609375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 8,
+            "seek": 5520,
+            "start": 55.2,
+            "end": 59.64,
+            "text": " And 1, 8.",
+            "tokens": [
+                50414,
+                400,
+                502,
+                11,
+                1649,
+                13,
+                50614
+            ],
+            "avg_logprob": -0.765625,
+            "compression_ratio": 0.5294117647058824,
+            "no_speech_prob": 0.39111328125,
+            "words": [
+                {
+                    "start": 55.2,
+                    "end": 57.02,
+                    "word": " And",
+                    "probability": 0.112548828125
+                },
+                {
+                    "start": 57.02,
+                    "end": 58.52,
+                    "word": " 1,",
+                    "probability": 0.173095703125
+                },
+                {
+                    "start": 58.88,
+                    "end": 59.64,
+                    "word": " 8.",
+                    "probability": 0.54150390625
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " Is it quite diverse with your research group? Yeah, like it's diverse like it's okay. Others are I'm good at technology. Others are not really in a high level capability. Yeah. Are you at all familiar with command line tools or do you prefer graphical user interfaces? Command line tools like what do you mean? Like any programming, are you familiar with? I'm not sure what I'm asking you about now. Have you had any experience with programming with let's say Python or are any programming languages? And 1, 8."
+}

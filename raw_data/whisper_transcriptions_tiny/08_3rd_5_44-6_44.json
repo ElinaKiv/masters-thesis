@@ -1,0 +1,750 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.26,
+            "end": 17.58,
+            "text": " So, I found it in Google. Well, I thought it would probably be, it seemed like a very robust tool.",
+            "tokens": [
+                50364,
+                407,
+                11,
+                286,
+                1352,
+                309,
+                294,
+                3329,
+                13,
+                1042,
+                11,
+                286,
+                1194,
+                309,
+                576,
+                1391,
+                312,
+                11,
+                309,
+                6576,
+                411,
+                257,
+                588,
+                13956,
+                2290,
+                13,
+                51164
+            ],
+            "avg_logprob": -0.2225877192982456,
+            "compression_ratio": 1.3154362416107384,
+            "no_speech_prob": 0.1427001953125,
+            "words": [
+                {
+                    "start": 3.26,
+                    "end": 3.96,
+                    "word": " So,",
+                    "probability": 0.5234375
+                },
+                {
+                    "start": 4.3,
+                    "end": 4.46,
+                    "word": " I",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 4.46,
+                    "end": 4.9,
+                    "word": " found",
+                    "probability": 0.97705078125
+                },
+                {
+                    "start": 4.9,
+                    "end": 5.54,
+                    "word": " it",
+                    "probability": 0.9873046875
+                },
+                {
+                    "start": 5.54,
+                    "end": 6.1,
+                    "word": " in",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 6.1,
+                    "end": 7.5,
+                    "word": " Google.",
+                    "probability": 0.9873046875
+                },
+                {
+                    "start": 10.74,
+                    "end": 10.98,
+                    "word": " Well,",
+                    "probability": 0.771484375
+                },
+                {
+                    "start": 11.04,
+                    "end": 11.18,
+                    "word": " I",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 11.18,
+                    "end": 11.5,
+                    "word": " thought",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 11.5,
+                    "end": 11.76,
+                    "word": " it",
+                    "probability": 0.96923828125
+                },
+                {
+                    "start": 11.76,
+                    "end": 12.0,
+                    "word": " would",
+                    "probability": 0.98046875
+                },
+                {
+                    "start": 12.0,
+                    "end": 12.72,
+                    "word": " probably",
+                    "probability": 0.96240234375
+                },
+                {
+                    "start": 12.72,
+                    "end": 13.6,
+                    "word": " be,",
+                    "probability": 0.9765625
+                },
+                {
+                    "start": 13.6,
+                    "end": 13.96,
+                    "word": " it",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 13.96,
+                    "end": 14.18,
+                    "word": " seemed",
+                    "probability": 0.921875
+                },
+                {
+                    "start": 14.18,
+                    "end": 14.54,
+                    "word": " like",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 14.54,
+                    "end": 14.84,
+                    "word": " a",
+                    "probability": 0.95458984375
+                },
+                {
+                    "start": 14.84,
+                    "end": 15.08,
+                    "word": " very",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 15.08,
+                    "end": 15.68,
+                    "word": " robust",
+                    "probability": 1.0
+                },
+                {
+                    "start": 15.68,
+                    "end": 17.58,
+                    "word": " tool.",
+                    "probability": 0.994140625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 18.08,
+            "end": 30.36,
+            "text": " It's from the OpenAI project, I believe. And it did a good job with the task that I needed to do.",
+            "tokens": [
+                51164,
+                467,
+                311,
+                490,
+                264,
+                7238,
+                48698,
+                1716,
+                11,
+                286,
+                1697,
+                13,
+                400,
+                309,
+                630,
+                257,
+                665,
+                1691,
+                365,
+                264,
+                5633,
+                300,
+                286,
+                2978,
+                281,
+                360,
+                13,
+                51814
+            ],
+            "avg_logprob": -0.2225877192982456,
+            "compression_ratio": 1.3154362416107384,
+            "no_speech_prob": 0.1427001953125,
+            "words": [
+                {
+                    "start": 18.08,
+                    "end": 18.16,
+                    "word": " It's",
+                    "probability": 0.986083984375
+                },
+                {
+                    "start": 18.16,
+                    "end": 18.38,
+                    "word": " from",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 18.38,
+                    "end": 18.68,
+                    "word": " the",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 18.68,
+                    "end": 19.86,
+                    "word": " OpenAI",
+                    "probability": 0.6923828125
+                },
+                {
+                    "start": 19.86,
+                    "end": 21.04,
+                    "word": " project,",
+                    "probability": 0.97265625
+                },
+                {
+                    "start": 21.22,
+                    "end": 21.32,
+                    "word": " I",
+                    "probability": 0.974609375
+                },
+                {
+                    "start": 21.32,
+                    "end": 21.62,
+                    "word": " believe.",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 23.86,
+                    "end": 24.56,
+                    "word": " And",
+                    "probability": 0.42724609375
+                },
+                {
+                    "start": 24.56,
+                    "end": 24.8,
+                    "word": " it",
+                    "probability": 0.97705078125
+                },
+                {
+                    "start": 24.8,
+                    "end": 25.1,
+                    "word": " did",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 25.1,
+                    "end": 25.28,
+                    "word": " a",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 25.28,
+                    "end": 25.76,
+                    "word": " good",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 25.76,
+                    "end": 26.02,
+                    "word": " job",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 26.02,
+                    "end": 26.74,
+                    "word": " with",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 26.74,
+                    "end": 27.58,
+                    "word": " the",
+                    "probability": 0.97021484375
+                },
+                {
+                    "start": 27.58,
+                    "end": 28.06,
+                    "word": " task",
+                    "probability": 0.935546875
+                },
+                {
+                    "start": 28.06,
+                    "end": 29.3,
+                    "word": " that",
+                    "probability": 0.98095703125
+                },
+                {
+                    "start": 29.3,
+                    "end": 29.44,
+                    "word": " I",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 29.44,
+                    "end": 29.76,
+                    "word": " needed",
+                    "probability": 0.98828125
+                },
+                {
+                    "start": 29.76,
+                    "end": 30.0,
+                    "word": " to",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 30.0,
+                    "end": 30.36,
+                    "word": " do.",
+                    "probability": 0.99951171875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 2924,
+            "start": 31.98,
+            "end": 42.56,
+            "text": " So, yeah, I think it seemed like the most professional well-trained model we would say.",
+            "tokens": [
+                50364,
+                407,
+                11,
+                1338,
+                11,
+                286,
+                519,
+                309,
+                6576,
+                411,
+                264,
+                881,
+                4843,
+                731,
+                12,
+                17227,
+                2001,
+                2316,
+                321,
+                576,
+                584,
+                13,
+                50964
+            ],
+            "avg_logprob": -0.2838541625274552,
+            "compression_ratio": 1.4082840236686391,
+            "no_speech_prob": 0.01503753662109375,
+            "words": [
+                {
+                    "start": 31.98,
+                    "end": 32.66,
+                    "word": " So,",
+                    "probability": 0.82275390625
+                },
+                {
+                    "start": 32.66,
+                    "end": 33.34,
+                    "word": " yeah,",
+                    "probability": 0.74072265625
+                },
+                {
+                    "start": 33.48,
+                    "end": 33.76,
+                    "word": " I",
+                    "probability": 0.9619140625
+                },
+                {
+                    "start": 33.76,
+                    "end": 33.94,
+                    "word": " think",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 33.94,
+                    "end": 34.38,
+                    "word": " it",
+                    "probability": 0.94384765625
+                },
+                {
+                    "start": 34.38,
+                    "end": 34.68,
+                    "word": " seemed",
+                    "probability": 0.9560546875
+                },
+                {
+                    "start": 34.68,
+                    "end": 35.2,
+                    "word": " like",
+                    "probability": 0.98974609375
+                },
+                {
+                    "start": 35.2,
+                    "end": 36.32,
+                    "word": " the",
+                    "probability": 0.7822265625
+                },
+                {
+                    "start": 36.32,
+                    "end": 36.64,
+                    "word": " most",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 36.64,
+                    "end": 37.4,
+                    "word": " professional",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 37.4,
+                    "end": 39.12,
+                    "word": " well",
+                    "probability": 0.80322265625
+                },
+                {
+                    "start": 39.12,
+                    "end": 39.76,
+                    "word": "-trained",
+                    "probability": 0.8343098958333334
+                },
+                {
+                    "start": 39.76,
+                    "end": 40.76,
+                    "word": " model",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 40.76,
+                    "end": 41.26,
+                    "word": " we",
+                    "probability": 0.095703125
+                },
+                {
+                    "start": 41.26,
+                    "end": 41.4,
+                    "word": " would",
+                    "probability": 0.87158203125
+                },
+                {
+                    "start": 41.4,
+                    "end": 42.56,
+                    "word": " say.",
+                    "probability": 0.900390625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 2924,
+            "start": 43.2,
+            "end": 43.9,
+            "text": " That I found.",
+            "tokens": [
+                50964,
+                663,
+                286,
+                1352,
+                13,
+                51064
+            ],
+            "avg_logprob": -0.2838541625274552,
+            "compression_ratio": 1.4082840236686391,
+            "no_speech_prob": 0.01503753662109375,
+            "words": [
+                {
+                    "start": 43.2,
+                    "end": 43.22,
+                    "word": " That",
+                    "probability": 0.12152099609375
+                },
+                {
+                    "start": 43.22,
+                    "end": 43.4,
+                    "word": " I",
+                    "probability": 0.84423828125
+                },
+                {
+                    "start": 43.4,
+                    "end": 43.9,
+                    "word": " found.",
+                    "probability": 0.262939453125
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 2924,
+            "start": 44.52,
+            "end": 52.22,
+            "text": " Okay. And you just found it on Google, right? So, it wasn't in use officially with your work.",
+            "tokens": [
+                51064,
+                1033,
+                13,
+                400,
+                291,
+                445,
+                1352,
+                309,
+                322,
+                3329,
+                11,
+                558,
+                30,
+                407,
+                11,
+                309,
+                2067,
+                380,
+                294,
+                764,
+                12053,
+                365,
+                428,
+                589,
+                13,
+                51464
+            ],
+            "avg_logprob": -0.2838541625274552,
+            "compression_ratio": 1.4082840236686391,
+            "no_speech_prob": 0.01503753662109375,
+            "words": [
+                {
+                    "start": 44.52,
+                    "end": 44.84,
+                    "word": " Okay.",
+                    "probability": 0.109375
+                },
+                {
+                    "start": 45.82,
+                    "end": 45.92,
+                    "word": " And",
+                    "probability": 0.900390625
+                },
+                {
+                    "start": 45.92,
+                    "end": 46.16,
+                    "word": " you",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 46.16,
+                    "end": 46.5,
+                    "word": " just",
+                    "probability": 0.974609375
+                },
+                {
+                    "start": 46.5,
+                    "end": 46.74,
+                    "word": " found",
+                    "probability": 0.9384765625
+                },
+                {
+                    "start": 46.74,
+                    "end": 47.0,
+                    "word": " it",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 47.0,
+                    "end": 47.44,
+                    "word": " on",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 47.44,
+                    "end": 47.78,
+                    "word": " Google,",
+                    "probability": 0.97705078125
+                },
+                {
+                    "start": 48.06,
+                    "end": 48.2,
+                    "word": " right?",
+                    "probability": 0.966796875
+                },
+                {
+                    "start": 48.22,
+                    "end": 48.28,
+                    "word": " So,",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 48.36,
+                    "end": 48.48,
+                    "word": " it",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 48.48,
+                    "end": 49.48,
+                    "word": " wasn't",
+                    "probability": 0.934326171875
+                },
+                {
+                    "start": 49.48,
+                    "end": 50.06,
+                    "word": " in",
+                    "probability": 0.892578125
+                },
+                {
+                    "start": 50.06,
+                    "end": 50.52,
+                    "word": " use",
+                    "probability": 0.96533203125
+                },
+                {
+                    "start": 50.52,
+                    "end": 51.12,
+                    "word": " officially",
+                    "probability": 0.68017578125
+                },
+                {
+                    "start": 51.12,
+                    "end": 51.64,
+                    "word": " with",
+                    "probability": 0.8818359375
+                },
+                {
+                    "start": 51.64,
+                    "end": 51.82,
+                    "word": " your",
+                    "probability": 0.9111328125
+                },
+                {
+                    "start": 51.82,
+                    "end": 52.22,
+                    "word": " work.",
+                    "probability": 0.99560546875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 2924,
+            "start": 53.1,
+            "end": 57.02,
+            "text": " No, no, I found it on my own, with Google.",
+            "tokens": [
+                51464,
+                883,
+                11,
+                572,
+                11,
+                286,
+                1352,
+                309,
+                322,
+                452,
+                1065,
+                11,
+                365,
+                3329,
+                13,
+                51764
+            ],
+            "avg_logprob": -0.2838541625274552,
+            "compression_ratio": 1.4082840236686391,
+            "no_speech_prob": 0.01503753662109375,
+            "words": [
+                {
+                    "start": 53.1,
+                    "end": 53.6,
+                    "word": " No,",
+                    "probability": 0.9736328125
+                },
+                {
+                    "start": 53.6,
+                    "end": 53.9,
+                    "word": " no,",
+                    "probability": 0.9228515625
+                },
+                {
+                    "start": 53.9,
+                    "end": 53.98,
+                    "word": " I",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 53.98,
+                    "end": 54.26,
+                    "word": " found",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 54.26,
+                    "end": 55.84,
+                    "word": " it",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 55.84,
+                    "end": 55.94,
+                    "word": " on",
+                    "probability": 0.93212890625
+                },
+                {
+                    "start": 55.94,
+                    "end": 56.18,
+                    "word": " my",
+                    "probability": 0.97607421875
+                },
+                {
+                    "start": 56.18,
+                    "end": 56.86,
+                    "word": " own,",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 56.86,
+                    "end": 56.94,
+                    "word": " with",
+                    "probability": 0.50244140625
+                },
+                {
+                    "start": 56.94,
+                    "end": 57.02,
+                    "word": " Google.",
+                    "probability": 0.95068359375
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " So, I found it in Google. Well, I thought it would probably be, it seemed like a very robust tool. It's from the OpenAI project, I believe. And it did a good job with the task that I needed to do. So, yeah, I think it seemed like the most professional well-trained model we would say. That I found. Okay. And you just found it on Google, right? So, it wasn't in use officially with your work. No, no, I found it on my own, with Google."
+}

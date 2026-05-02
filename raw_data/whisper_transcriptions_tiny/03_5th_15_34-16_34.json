@@ -1,0 +1,473 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 39.76,
+            "text": " Thank you. Okay, this is 170 hours. 170? Yes. Okay, there might be duplicates. But these are the files that we have.",
+            "tokens": [
+                50364,
+                1044,
+                291,
+                13,
+                1033,
+                11,
+                341,
+                307,
+                27228,
+                2496,
+                13,
+                27228,
+                30,
+                1079,
+                13,
+                1033,
+                11,
+                456,
+                1062,
+                312,
+                17154,
+                1024,
+                13,
+                583,
+                613,
+                366,
+                264,
+                7098,
+                300,
+                321,
+                362,
+                13,
+                51064
+            ],
+            "avg_logprob": -0.28681142653449104,
+            "compression_ratio": 1.5068493150684932,
+            "no_speech_prob": 0.05072021484375,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.38,
+                    "word": " Thank",
+                    "probability": 0.7890625
+                },
+                {
+                    "start": 0.38,
+                    "end": 2.12,
+                    "word": " you.",
+                    "probability": 0.98291015625
+                },
+                {
+                    "start": 28.38,
+                    "end": 28.5,
+                    "word": " Okay,",
+                    "probability": 0.76171875
+                },
+                {
+                    "start": 28.68,
+                    "end": 28.92,
+                    "word": " this",
+                    "probability": 0.1141357421875
+                },
+                {
+                    "start": 28.92,
+                    "end": 29.0,
+                    "word": " is",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 29.0,
+                    "end": 29.74,
+                    "word": " 170",
+                    "probability": 0.83642578125
+                },
+                {
+                    "start": 29.74,
+                    "end": 31.7,
+                    "word": " hours.",
+                    "probability": 0.84033203125
+                },
+                {
+                    "start": 31.98,
+                    "end": 32.28,
+                    "word": " 170?",
+                    "probability": 0.461181640625
+                },
+                {
+                    "start": 33.32,
+                    "end": 33.78,
+                    "word": " Yes.",
+                    "probability": 0.921875
+                },
+                {
+                    "start": 34.36,
+                    "end": 34.54,
+                    "word": " Okay,",
+                    "probability": 0.7802734375
+                },
+                {
+                    "start": 35.08,
+                    "end": 35.14,
+                    "word": " there",
+                    "probability": 0.9736328125
+                },
+                {
+                    "start": 35.14,
+                    "end": 35.32,
+                    "word": " might",
+                    "probability": 0.98583984375
+                },
+                {
+                    "start": 35.32,
+                    "end": 35.48,
+                    "word": " be",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 35.48,
+                    "end": 36.1,
+                    "word": " duplicates.",
+                    "probability": 0.9892578125
+                },
+                {
+                    "start": 36.66,
+                    "end": 36.88,
+                    "word": " But",
+                    "probability": 0.97900390625
+                },
+                {
+                    "start": 36.88,
+                    "end": 37.08,
+                    "word": " these",
+                    "probability": 0.9462890625
+                },
+                {
+                    "start": 37.08,
+                    "end": 37.28,
+                    "word": " are",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 37.28,
+                    "end": 37.4,
+                    "word": " the",
+                    "probability": 0.99609375
+                },
+                {
+                    "start": 37.4,
+                    "end": 37.62,
+                    "word": " files",
+                    "probability": 0.978515625
+                },
+                {
+                    "start": 37.62,
+                    "end": 37.88,
+                    "word": " that",
+                    "probability": 0.97314453125
+                },
+                {
+                    "start": 37.88,
+                    "end": 37.98,
+                    "word": " we",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 37.98,
+                    "end": 39.76,
+                    "word": " have.",
+                    "probability": 0.99560546875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 40.36,
+            "end": 48.08,
+            "text": " So some of these, we have might have duplicates like sound files and video files of the same recording.",
+            "tokens": [
+                51064,
+                407,
+                512,
+                295,
+                613,
+                11,
+                321,
+                362,
+                1062,
+                362,
+                17154,
+                1024,
+                411,
+                1626,
+                7098,
+                293,
+                960,
+                7098,
+                295,
+                264,
+                912,
+                6613,
+                13,
+                51514
+            ],
+            "avg_logprob": -0.28681142653449104,
+            "compression_ratio": 1.5068493150684932,
+            "no_speech_prob": 0.05072021484375,
+            "words": [
+                {
+                    "start": 40.36,
+                    "end": 40.66,
+                    "word": " So",
+                    "probability": 0.93212890625
+                },
+                {
+                    "start": 40.66,
+                    "end": 40.88,
+                    "word": " some",
+                    "probability": 0.7275390625
+                },
+                {
+                    "start": 40.88,
+                    "end": 41.04,
+                    "word": " of",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 41.04,
+                    "end": 41.2,
+                    "word": " these,",
+                    "probability": 0.78125
+                },
+                {
+                    "start": 41.64,
+                    "end": 41.7,
+                    "word": " we",
+                    "probability": 0.95947265625
+                },
+                {
+                    "start": 41.7,
+                    "end": 41.84,
+                    "word": " have",
+                    "probability": 0.90087890625
+                },
+                {
+                    "start": 41.84,
+                    "end": 41.98,
+                    "word": " might",
+                    "probability": 0.8486328125
+                },
+                {
+                    "start": 41.98,
+                    "end": 42.22,
+                    "word": " have",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 42.22,
+                    "end": 42.66,
+                    "word": " duplicates",
+                    "probability": 0.9853515625
+                },
+                {
+                    "start": 42.66,
+                    "end": 43.62,
+                    "word": " like",
+                    "probability": 0.8232421875
+                },
+                {
+                    "start": 43.62,
+                    "end": 45.0,
+                    "word": " sound",
+                    "probability": 0.5986328125
+                },
+                {
+                    "start": 45.0,
+                    "end": 45.82,
+                    "word": " files",
+                    "probability": 0.958984375
+                },
+                {
+                    "start": 45.82,
+                    "end": 46.42,
+                    "word": " and",
+                    "probability": 0.88525390625
+                },
+                {
+                    "start": 46.42,
+                    "end": 46.66,
+                    "word": " video",
+                    "probability": 0.97705078125
+                },
+                {
+                    "start": 46.66,
+                    "end": 46.92,
+                    "word": " files",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 46.92,
+                    "end": 47.16,
+                    "word": " of",
+                    "probability": 0.876953125
+                },
+                {
+                    "start": 47.16,
+                    "end": 47.28,
+                    "word": " the",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 47.28,
+                    "end": 47.48,
+                    "word": " same",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 47.48,
+                    "end": 48.08,
+                    "word": " recording.",
+                    "probability": 0.99609375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 2214,
+            "start": 49.38,
+            "end": 57.76,
+            "text": " So it might be around maybe 100 hours. Give our take. Okay, that's a good estimate.",
+            "tokens": [
+                50414,
+                407,
+                309,
+                1062,
+                312,
+                926,
+                1310,
+                2319,
+                2496,
+                13,
+                5303,
+                527,
+                747,
+                13,
+                1033,
+                11,
+                300,
+                311,
+                257,
+                665,
+                12539,
+                13,
+                50864
+            ],
+            "avg_logprob": -0.3369140625,
+            "compression_ratio": 1.0121951219512195,
+            "no_speech_prob": 0.2371826171875,
+            "words": [
+                {
+                    "start": 49.38,
+                    "end": 49.96,
+                    "word": " So",
+                    "probability": 0.42822265625
+                },
+                {
+                    "start": 49.96,
+                    "end": 50.08,
+                    "word": " it",
+                    "probability": 0.90185546875
+                },
+                {
+                    "start": 50.08,
+                    "end": 50.26,
+                    "word": " might",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 50.26,
+                    "end": 51.22,
+                    "word": " be",
+                    "probability": 0.9912109375
+                },
+                {
+                    "start": 51.22,
+                    "end": 52.12,
+                    "word": " around",
+                    "probability": 0.60595703125
+                },
+                {
+                    "start": 52.12,
+                    "end": 52.44,
+                    "word": " maybe",
+                    "probability": 0.84765625
+                },
+                {
+                    "start": 52.44,
+                    "end": 52.66,
+                    "word": " 100",
+                    "probability": 0.348876953125
+                },
+                {
+                    "start": 52.66,
+                    "end": 53.98,
+                    "word": " hours.",
+                    "probability": 0.34130859375
+                },
+                {
+                    "start": 54.72,
+                    "end": 54.9,
+                    "word": " Give",
+                    "probability": 0.8564453125
+                },
+                {
+                    "start": 54.9,
+                    "end": 55.06,
+                    "word": " our",
+                    "probability": 0.330322265625
+                },
+                {
+                    "start": 55.06,
+                    "end": 55.6,
+                    "word": " take.",
+                    "probability": 0.7841796875
+                },
+                {
+                    "start": 56.64,
+                    "end": 56.84,
+                    "word": " Okay,",
+                    "probability": 0.7724609375
+                },
+                {
+                    "start": 56.86,
+                    "end": 57.12,
+                    "word": " that's",
+                    "probability": 0.982177734375
+                },
+                {
+                    "start": 57.12,
+                    "end": 57.18,
+                    "word": " a",
+                    "probability": 0.93798828125
+                },
+                {
+                    "start": 57.18,
+                    "end": 57.36,
+                    "word": " good",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 57.36,
+                    "end": 57.76,
+                    "word": " estimate.",
+                    "probability": 0.998046875
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " Thank you. Okay, this is 170 hours. 170? Yes. Okay, there might be duplicates. But these are the files that we have. So some of these, we have might have duplicates like sound files and video files of the same recording. So it might be around maybe 100 hours. Give our take. Okay, that's a good estimate."
+}

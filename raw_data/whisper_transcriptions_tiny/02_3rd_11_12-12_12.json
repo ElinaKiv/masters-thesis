@@ -1,0 +1,915 @@
+{
+    "segments": [
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.0,
+            "end": 12.72,
+            "text": " If the output of the speech recognition tool would identify the speakers, if your audio has multiple speakers, would you like that they are maybe numbered?",
+            "tokens": [
+                50364,
+                759,
+                264,
+                5598,
+                295,
+                264,
+                6218,
+                11150,
+                2290,
+                576,
+                5876,
+                264,
+                9518,
+                11,
+                498,
+                428,
+                6278,
+                575,
+                3866,
+                9518,
+                11,
+                576,
+                291,
+                411,
+                300,
+                436,
+                366,
+                1310,
+                40936,
+                30,
+                51014
+            ],
+            "avg_logprob": -0.4059436274509804,
+            "compression_ratio": 1.5570469798657718,
+            "no_speech_prob": 0.07501220703125,
+            "words": [
+                {
+                    "start": 0.0,
+                    "end": 0.38,
+                    "word": " If",
+                    "probability": 0.57177734375
+                },
+                {
+                    "start": 0.38,
+                    "end": 0.82,
+                    "word": " the",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 0.82,
+                    "end": 1.24,
+                    "word": " output",
+                    "probability": 0.98681640625
+                },
+                {
+                    "start": 1.24,
+                    "end": 1.6,
+                    "word": " of",
+                    "probability": 0.99365234375
+                },
+                {
+                    "start": 1.6,
+                    "end": 1.76,
+                    "word": " the",
+                    "probability": 0.68359375
+                },
+                {
+                    "start": 1.76,
+                    "end": 2.0,
+                    "word": " speech",
+                    "probability": 0.2088623046875
+                },
+                {
+                    "start": 2.0,
+                    "end": 2.56,
+                    "word": " recognition",
+                    "probability": 0.99169921875
+                },
+                {
+                    "start": 2.56,
+                    "end": 3.28,
+                    "word": " tool",
+                    "probability": 0.99462890625
+                },
+                {
+                    "start": 3.28,
+                    "end": 3.76,
+                    "word": " would",
+                    "probability": 0.97216796875
+                },
+                {
+                    "start": 3.76,
+                    "end": 4.44,
+                    "word": " identify",
+                    "probability": 0.98583984375
+                },
+                {
+                    "start": 4.44,
+                    "end": 4.82,
+                    "word": " the",
+                    "probability": 0.53173828125
+                },
+                {
+                    "start": 4.82,
+                    "end": 5.42,
+                    "word": " speakers,",
+                    "probability": 0.982421875
+                },
+                {
+                    "start": 6.14,
+                    "end": 6.22,
+                    "word": " if",
+                    "probability": 0.97607421875
+                },
+                {
+                    "start": 6.22,
+                    "end": 6.44,
+                    "word": " your",
+                    "probability": 0.966796875
+                },
+                {
+                    "start": 6.44,
+                    "end": 6.7,
+                    "word": " audio",
+                    "probability": 0.96630859375
+                },
+                {
+                    "start": 6.7,
+                    "end": 7.18,
+                    "word": " has",
+                    "probability": 0.9873046875
+                },
+                {
+                    "start": 7.18,
+                    "end": 7.64,
+                    "word": " multiple",
+                    "probability": 0.99560546875
+                },
+                {
+                    "start": 7.64,
+                    "end": 8.28,
+                    "word": " speakers,",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 9.46,
+                    "end": 9.9,
+                    "word": " would",
+                    "probability": 0.92431640625
+                },
+                {
+                    "start": 9.9,
+                    "end": 10.1,
+                    "word": " you",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 10.1,
+                    "end": 10.7,
+                    "word": " like",
+                    "probability": 0.69775390625
+                },
+                {
+                    "start": 10.7,
+                    "end": 11.02,
+                    "word": " that",
+                    "probability": 0.8935546875
+                },
+                {
+                    "start": 11.02,
+                    "end": 11.24,
+                    "word": " they",
+                    "probability": 0.6923828125
+                },
+                {
+                    "start": 11.24,
+                    "end": 11.8,
+                    "word": " are",
+                    "probability": 0.814453125
+                },
+                {
+                    "start": 11.8,
+                    "end": 12.08,
+                    "word": " maybe",
+                    "probability": 0.947265625
+                },
+                {
+                    "start": 12.08,
+                    "end": 12.72,
+                    "word": " numbered?",
+                    "probability": 0.9697265625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 13.26,
+            "end": 18.92,
+            "text": " Speak once, speak to that the tool recognizes who is speaking at which time?",
+            "tokens": [
+                51014,
+                27868,
+                1564,
+                11,
+                1710,
+                281,
+                300,
+                264,
+                2290,
+                26564,
+                567,
+                307,
+                4124,
+                412,
+                597,
+                565,
+                30,
+                51364
+            ],
+            "avg_logprob": -0.4059436274509804,
+            "compression_ratio": 1.5570469798657718,
+            "no_speech_prob": 0.07501220703125,
+            "words": [
+                {
+                    "start": 13.26,
+                    "end": 13.46,
+                    "word": " Speak",
+                    "probability": 0.7353515625
+                },
+                {
+                    "start": 13.46,
+                    "end": 13.84,
+                    "word": " once,",
+                    "probability": 0.58056640625
+                },
+                {
+                    "start": 14.1,
+                    "end": 14.1,
+                    "word": " speak",
+                    "probability": 0.52734375
+                },
+                {
+                    "start": 14.1,
+                    "end": 14.7,
+                    "word": " to",
+                    "probability": 0.313720703125
+                },
+                {
+                    "start": 14.7,
+                    "end": 15.06,
+                    "word": " that",
+                    "probability": 0.7470703125
+                },
+                {
+                    "start": 15.06,
+                    "end": 15.26,
+                    "word": " the",
+                    "probability": 0.7109375
+                },
+                {
+                    "start": 15.26,
+                    "end": 15.48,
+                    "word": " tool",
+                    "probability": 0.97216796875
+                },
+                {
+                    "start": 15.48,
+                    "end": 16.04,
+                    "word": " recognizes",
+                    "probability": 0.3994140625
+                },
+                {
+                    "start": 16.04,
+                    "end": 16.52,
+                    "word": " who",
+                    "probability": 0.464111328125
+                },
+                {
+                    "start": 16.52,
+                    "end": 16.7,
+                    "word": " is",
+                    "probability": 0.92626953125
+                },
+                {
+                    "start": 16.7,
+                    "end": 17.2,
+                    "word": " speaking",
+                    "probability": 0.99072265625
+                },
+                {
+                    "start": 17.2,
+                    "end": 18.0,
+                    "word": " at",
+                    "probability": 0.935546875
+                },
+                {
+                    "start": 18.0,
+                    "end": 18.2,
+                    "word": " which",
+                    "probability": 0.402099609375
+                },
+                {
+                    "start": 18.2,
+                    "end": 18.92,
+                    "word": " time?",
+                    "probability": 0.99853515625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 3,
+            "seek": 1892,
+            "start": 20.94,
+            "end": 26.7,
+            "text": " Like for example, if it's a dialogue, yeah.",
+            "tokens": [
+                50414,
+                1743,
+                337,
+                1365,
+                11,
+                498,
+                309,
+                311,
+                257,
+                10221,
+                11,
+                1338,
+                13,
+                50714
+            ],
+            "avg_logprob": -0.2833059155627301,
+            "compression_ratio": 1.5085714285714287,
+            "no_speech_prob": 0.255615234375,
+            "words": [
+                {
+                    "start": 20.94,
+                    "end": 21.46,
+                    "word": " Like",
+                    "probability": 0.1942138671875
+                },
+                {
+                    "start": 21.46,
+                    "end": 21.62,
+                    "word": " for",
+                    "probability": 0.73486328125
+                },
+                {
+                    "start": 21.62,
+                    "end": 21.94,
+                    "word": " example,",
+                    "probability": 0.998046875
+                },
+                {
+                    "start": 22.08,
+                    "end": 22.22,
+                    "word": " if",
+                    "probability": 0.98486328125
+                },
+                {
+                    "start": 22.22,
+                    "end": 22.72,
+                    "word": " it's",
+                    "probability": 0.9501953125
+                },
+                {
+                    "start": 22.72,
+                    "end": 22.76,
+                    "word": " a",
+                    "probability": 0.84130859375
+                },
+                {
+                    "start": 22.76,
+                    "end": 23.4,
+                    "word": " dialogue,",
+                    "probability": 0.277099609375
+                },
+                {
+                    "start": 26.64,
+                    "end": 26.7,
+                    "word": " yeah.",
+                    "probability": 0.740234375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 4,
+            "seek": 1892,
+            "start": 26.7,
+            "end": 33.2,
+            "text": " Yeah, that would be fine. I mean, it's also something that I can do by myself as a user.",
+            "tokens": [
+                50714,
+                865,
+                11,
+                300,
+                576,
+                312,
+                2489,
+                13,
+                286,
+                914,
+                11,
+                309,
+                311,
+                611,
+                746,
+                300,
+                286,
+                393,
+                360,
+                538,
+                2059,
+                382,
+                257,
+                4195,
+                13,
+                51114
+            ],
+            "avg_logprob": -0.2833059155627301,
+            "compression_ratio": 1.5085714285714287,
+            "no_speech_prob": 0.255615234375,
+            "words": [
+                {
+                    "start": 26.7,
+                    "end": 26.88,
+                    "word": " Yeah,",
+                    "probability": 0.5029296875
+                },
+                {
+                    "start": 27.1,
+                    "end": 27.26,
+                    "word": " that",
+                    "probability": 0.6904296875
+                },
+                {
+                    "start": 27.26,
+                    "end": 27.46,
+                    "word": " would",
+                    "probability": 0.9580078125
+                },
+                {
+                    "start": 27.46,
+                    "end": 27.64,
+                    "word": " be",
+                    "probability": 0.85888671875
+                },
+                {
+                    "start": 27.64,
+                    "end": 28.3,
+                    "word": " fine.",
+                    "probability": 0.47705078125
+                },
+                {
+                    "start": 28.96,
+                    "end": 28.96,
+                    "word": " I",
+                    "probability": 0.8798828125
+                },
+                {
+                    "start": 28.98,
+                    "end": 29.1,
+                    "word": " mean,",
+                    "probability": 0.9931640625
+                },
+                {
+                    "start": 29.32,
+                    "end": 29.7,
+                    "word": " it's",
+                    "probability": 0.927734375
+                },
+                {
+                    "start": 29.7,
+                    "end": 30.1,
+                    "word": " also",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 30.1,
+                    "end": 30.66,
+                    "word": " something",
+                    "probability": 0.9306640625
+                },
+                {
+                    "start": 30.66,
+                    "end": 31.02,
+                    "word": " that",
+                    "probability": 0.93212890625
+                },
+                {
+                    "start": 31.02,
+                    "end": 31.18,
+                    "word": " I",
+                    "probability": 0.986328125
+                },
+                {
+                    "start": 31.18,
+                    "end": 31.6,
+                    "word": " can",
+                    "probability": 0.99755859375
+                },
+                {
+                    "start": 31.6,
+                    "end": 31.78,
+                    "word": " do",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 31.78,
+                    "end": 31.98,
+                    "word": " by",
+                    "probability": 0.93994140625
+                },
+                {
+                    "start": 31.98,
+                    "end": 32.38,
+                    "word": " myself",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 32.38,
+                    "end": 32.72,
+                    "word": " as",
+                    "probability": 0.9755859375
+                },
+                {
+                    "start": 32.72,
+                    "end": 32.84,
+                    "word": " a",
+                    "probability": 0.93798828125
+                },
+                {
+                    "start": 32.84,
+                    "end": 33.2,
+                    "word": " user.",
+                    "probability": 0.98974609375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 5,
+            "seek": 1892,
+            "start": 34.86,
+            "end": 46.32,
+            "text": " But if it exists, of course, yes. So the text, the written text, for example, is not confusing like two speakers in the same audio.",
+            "tokens": [
+                51114,
+                583,
+                498,
+                309,
+                8198,
+                11,
+                295,
+                1164,
+                11,
+                2086,
+                13,
+                407,
+                264,
+                2487,
+                11,
+                264,
+                3720,
+                2487,
+                11,
+                337,
+                1365,
+                11,
+                307,
+                406,
+                13181,
+                411,
+                732,
+                9518,
+                294,
+                264,
+                912,
+                6278,
+                13,
+                51764
+            ],
+            "avg_logprob": -0.2833059155627301,
+            "compression_ratio": 1.5085714285714287,
+            "no_speech_prob": 0.255615234375,
+            "words": [
+                {
+                    "start": 34.86,
+                    "end": 35.38,
+                    "word": " But",
+                    "probability": 0.9736328125
+                },
+                {
+                    "start": 35.38,
+                    "end": 35.9,
+                    "word": " if",
+                    "probability": 0.9560546875
+                },
+                {
+                    "start": 35.9,
+                    "end": 36.06,
+                    "word": " it",
+                    "probability": 0.97607421875
+                },
+                {
+                    "start": 36.06,
+                    "end": 36.44,
+                    "word": " exists,",
+                    "probability": 0.71923828125
+                },
+                {
+                    "start": 36.7,
+                    "end": 36.88,
+                    "word": " of",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 36.88,
+                    "end": 37.12,
+                    "word": " course,",
+                    "probability": 0.9990234375
+                },
+                {
+                    "start": 37.86,
+                    "end": 37.86,
+                    "word": " yes.",
+                    "probability": 0.8271484375
+                },
+                {
+                    "start": 38.82,
+                    "end": 38.94,
+                    "word": " So",
+                    "probability": 0.814453125
+                },
+                {
+                    "start": 38.94,
+                    "end": 39.2,
+                    "word": " the",
+                    "probability": 0.72607421875
+                },
+                {
+                    "start": 39.2,
+                    "end": 39.42,
+                    "word": " text,",
+                    "probability": 0.8759765625
+                },
+                {
+                    "start": 39.42,
+                    "end": 39.66,
+                    "word": " the",
+                    "probability": 0.82275390625
+                },
+                {
+                    "start": 39.66,
+                    "end": 39.92,
+                    "word": " written",
+                    "probability": 0.7509765625
+                },
+                {
+                    "start": 39.92,
+                    "end": 40.24,
+                    "word": " text,",
+                    "probability": 0.94140625
+                },
+                {
+                    "start": 40.3,
+                    "end": 40.34,
+                    "word": " for",
+                    "probability": 0.9970703125
+                },
+                {
+                    "start": 40.34,
+                    "end": 40.68,
+                    "word": " example,",
+                    "probability": 0.99951171875
+                },
+                {
+                    "start": 40.72,
+                    "end": 40.92,
+                    "word": " is",
+                    "probability": 0.984375
+                },
+                {
+                    "start": 40.92,
+                    "end": 41.44,
+                    "word": " not",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 41.44,
+                    "end": 43.1,
+                    "word": " confusing",
+                    "probability": 0.9638671875
+                },
+                {
+                    "start": 43.1,
+                    "end": 43.74,
+                    "word": " like",
+                    "probability": 0.33544921875
+                },
+                {
+                    "start": 43.74,
+                    "end": 44.36,
+                    "word": " two",
+                    "probability": 0.759765625
+                },
+                {
+                    "start": 44.36,
+                    "end": 45.02,
+                    "word": " speakers",
+                    "probability": 0.8408203125
+                },
+                {
+                    "start": 45.02,
+                    "end": 45.68,
+                    "word": " in",
+                    "probability": 0.95263671875
+                },
+                {
+                    "start": 45.68,
+                    "end": 45.78,
+                    "word": " the",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 45.78,
+                    "end": 45.94,
+                    "word": " same",
+                    "probability": 0.923828125
+                },
+                {
+                    "start": 45.94,
+                    "end": 46.32,
+                    "word": " audio.",
+                    "probability": 0.79248046875
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 6,
+            "seek": 4632,
+            "start": 47.32,
+            "end": 48.02,
+            "text": " Yeah.",
+            "tokens": [
+                50414,
+                865,
+                13,
+                50514
+            ],
+            "avg_logprob": -0.29984375953674314,
+            "compression_ratio": 1.0930232558139534,
+            "no_speech_prob": 0.173095703125,
+            "words": [
+                {
+                    "start": 47.32,
+                    "end": 48.02,
+                    "word": " Yeah.",
+                    "probability": 0.1556396484375
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 7,
+            "seek": 4632,
+            "start": 50.44,
+            "end": 56.26,
+            "text": " And do you ever collect sensitive information from your speakers or your interviews?",
+            "tokens": [
+                50514,
+                400,
+                360,
+                291,
+                1562,
+                2500,
+                9477,
+                1589,
+                490,
+                428,
+                9518,
+                420,
+                428,
+                12318,
+                30,
+                50914
+            ],
+            "avg_logprob": -0.29984375953674314,
+            "compression_ratio": 1.0930232558139534,
+            "no_speech_prob": 0.173095703125,
+            "words": [
+                {
+                    "start": 50.44,
+                    "end": 50.62,
+                    "word": " And",
+                    "probability": 0.7470703125
+                },
+                {
+                    "start": 50.62,
+                    "end": 50.78,
+                    "word": " do",
+                    "probability": 0.95361328125
+                },
+                {
+                    "start": 50.78,
+                    "end": 51.02,
+                    "word": " you",
+                    "probability": 0.99853515625
+                },
+                {
+                    "start": 51.02,
+                    "end": 51.26,
+                    "word": " ever",
+                    "probability": 0.9921875
+                },
+                {
+                    "start": 51.26,
+                    "end": 51.76,
+                    "word": " collect",
+                    "probability": 0.9814453125
+                },
+                {
+                    "start": 51.76,
+                    "end": 52.52,
+                    "word": " sensitive",
+                    "probability": 0.99267578125
+                },
+                {
+                    "start": 52.52,
+                    "end": 53.32,
+                    "word": " information",
+                    "probability": 0.99658203125
+                },
+                {
+                    "start": 53.32,
+                    "end": 53.76,
+                    "word": " from",
+                    "probability": 0.990234375
+                },
+                {
+                    "start": 53.76,
+                    "end": 54.04,
+                    "word": " your",
+                    "probability": 0.994140625
+                },
+                {
+                    "start": 54.04,
+                    "end": 54.52,
+                    "word": " speakers",
+                    "probability": 0.9951171875
+                },
+                {
+                    "start": 54.52,
+                    "end": 55.74,
+                    "word": " or",
+                    "probability": 0.79931640625
+                },
+                {
+                    "start": 55.74,
+                    "end": 55.96,
+                    "word": " your",
+                    "probability": 0.9267578125
+                },
+                {
+                    "start": 55.96,
+                    "end": 56.26,
+                    "word": " interviews?",
+                    "probability": 0.263916015625
+                }
+            ],
+            "temperature": 0.0
+        },
+        {
+            "id": 8,
+            "seek": 4632,
+            "start": 58.04,
+            "end": 58.96,
+            "text": " No.",
+            "tokens": [
+                50914,
+                883,
+                13,
+                51064
+            ],
+            "avg_logprob": -0.29984375953674314,
+            "compression_ratio": 1.0930232558139534,
+            "no_speech_prob": 0.173095703125,
+            "words": [
+                {
+                    "start": 58.04,
+                    "end": 58.96,
+                    "word": " No.",
+                    "probability": 0.53759765625
+                }
+            ],
+            "temperature": 0.0
+        }
+    ],
+    "language": "en",
+    "text": " If the output of the speech recognition tool would identify the speakers, if your audio has multiple speakers, would you like that they are maybe numbered? Speak once, speak to that the tool recognizes who is speaking at which time? Like for example, if it's a dialogue, yeah. Yeah, that would be fine. I mean, it's also something that I can do by myself as a user. But if it exists, of course, yes. So the text, the written text, for example, is not confusing like two speakers in the same audio. Yeah. And do you ever collect sensitive information from your speakers or your interviews? No."
+}
