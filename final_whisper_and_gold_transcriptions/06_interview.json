@@ -1707,18 +1707,12 @@
               "medium": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "large-v3": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               }
             },
             {
@@ -1787,18 +1781,12 @@
               "medium": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "large-v3": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               }
             },
             {
@@ -1815,18 +1803,12 @@
               "medium": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "large-v3": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               }
             },
             {
@@ -2847,18 +2829,12 @@
               "tiny": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "medium": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "large-v3": {
                 "segment_id": 6,
@@ -2875,18 +2851,12 @@
               "tiny": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "medium": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "large-v3": {
                 "segment_id": 7,
@@ -2903,18 +2873,12 @@
               "tiny": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "medium": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "large-v3": {
                 "segment_id": 7,
@@ -2931,18 +2895,12 @@
               "tiny": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "medium": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "large-v3": {
                 "segment_id": 7,
@@ -3804,18 +3762,12 @@
               "medium": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "large-v3": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               }
             },
             {
@@ -4676,18 +4628,12 @@
               "medium": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "large-v3": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               }
             },
             {
@@ -8808,18 +8754,12 @@
               "tiny": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "medium": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "large-v3": {
                 "segment_id": 1,
@@ -8836,18 +8776,12 @@
               "tiny": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "medium": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "large-v3": {
                 "segment_id": 1,
@@ -10456,18 +10390,12 @@
               "medium": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "large-v3": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               }
             },
             {
@@ -21425,18 +21353,12 @@
               "medium": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "large-v3": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               }
             },
             {
@@ -22506,18 +22428,12 @@
               "medium": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "large-v3": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               }
             },
             {
@@ -22534,18 +22450,12 @@
               "medium": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "large-v3": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               }
             },
             {
@@ -22562,18 +22472,12 @@
               "medium": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "large-v3": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               }
             }
           ]
@@ -26264,10 +26168,7 @@
               "tiny": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "medium": {
                 "segment_id": 1,
@@ -28942,18 +28843,12 @@
               "medium": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "large-v3": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               }
             },
             {
@@ -28970,18 +28865,12 @@
               "medium": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "large-v3": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               }
             },
             {
@@ -30811,18 +30700,12 @@
               "medium": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "large-v3": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               }
             },
             {
@@ -30839,18 +30722,12 @@
               "medium": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "large-v3": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               }
             },
             {
@@ -30867,18 +30744,12 @@
               "medium": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               },
               "large-v3": {
                 "segment_id": null,
                 "word_start": null,
-                "status": "mismatch",
-                "error_category": [
-                  "omission"
-                ]
+                "status": "match"
               }
             },
             {
