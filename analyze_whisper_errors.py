@@ -3,11 +3,10 @@ Error Analysis and Visualization for Whisper--Gold Comparisons.
 
 This module analyzes word-level alignment results from the Whisper--gold
 matching pipeline. It aggregates error counts and error rates across
-multiple Whisper model sizes and outputs both CSV summaries and
-publication-ready visualizations.
+multiple Whisper model sizes and outputs both CSV summaries and visualizations.
 
 The analysis:
-- Processes aligned JSON files containing gold and Whisper annotations
+- Processes aligned JSON files containing gold and Whisper transcriptions
 - Computes word counts and error frequencies per model
 - Calculates per-category and total error rates
 - Exports results as CSV files
@@ -77,7 +76,7 @@ def count_error_categories_single(data):
             - word_counts (dict): {model -> total words}
 
     Notes:
-        Word counting uses a corrected rule:
+        Word counting rule:
         a word is skipped only if gold, segment_id, and word_start
         are ALL None. This ensures fair normalization across models.
     """
@@ -128,7 +127,7 @@ def count_error_categories_single(data):
 
 def merge_counts(total_errors, total_words, file_errors, file_words):
     """
-    Merge per-file error and word counts into corpus-level totals.
+    Merge per-file error and word counts into totals.
 
     Parameters:
         total_errors (dict): Accumulated error counts.

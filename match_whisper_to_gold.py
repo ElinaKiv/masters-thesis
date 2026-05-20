@@ -13,6 +13,8 @@ For each gold JSON file, the pipeline:
   (strict, case-insensitive, punctuation-stripped).
 - Classifies mismatches into error types such as word mismatch,
   orthographic, pragmatic, omission, and addition.
+- The category "word_mismatch" is inteded for further manual division
+  into linguistic error categories.
 
 The output is one enriched JSON file per gold transcription, preserving
 the original structure while adding per-model comparison results.
@@ -30,7 +32,7 @@ from tqdm import tqdm
 
 gold_folder = r"raw_data/gold_standard_json_files"  # directory of gold standard transcriptions
 whisper_folder = "raw_data"                         # base directory for whisper transcriptions
-output_folder = "matched_whisper_and_gold"          # directory for processed output files
+output_folder = "matched_whisper_and_gold_2"          # directory for processed output files
 
 # Whisper models to include in the comparison
 selected_models = [
@@ -105,7 +107,7 @@ def extract_ordinal_from_title(title):
         "fifth": "5th",
         "sixth": "6th",
         "seventh": "7th",
-        "eight": "8th"
+        "eight": "8th"      # the typo 'eight' instead of 'eighth' is intentional
     }
     title_lower = title.lower()
     for word, ordinal in mapping.items():
@@ -380,9 +382,14 @@ def process_gold_file(gold_path, whisper_folder, selected_models, output_path):
                         continue
 
                     # Alignment metadata missing
-                    if seg_id is None or start is None:
+                    if (seg_id is None or start is None) and gold_word is not None:
                         model_info["status"] = "mismatch"
                         model_info["error_category"] = ["omission"]
+                        continue
+                    
+                    # Both gold and whisper are null
+                    if (seg_id is None or start is None) and gold_word is None:
+                        model_info["status"] = "match"
                         continue
 
                     whisper_words = index.get(seg_id, [])
@@ -390,7 +397,7 @@ def process_gold_file(gold_path, whisper_folder, selected_models, output_path):
                     model_info["word"] = whisper_word
 
                     # Gold word missing
-                    if gold_word is None:
+                    if gold_word is None and seg_id is not None and start is not None:
                         model_info["status"] = "mismatch"
                         model_info["error_category"] = ["addition"]
                         continue
@@ -431,8 +438,6 @@ def process_gold_file(gold_path, whisper_folder, selected_models, output_path):
                         if is_pragmatic_error(gold_word, whisper_word):
                             model_info["error_category"].append("pragmatic")
                     else:
-                        # Genuine lexical mismatch; orthographic and pragmatic
-                        # labels may be added based on secondary diagnostics
                         model_info["status"] = "mismatch"
                         model_info["error_category"] = ["word_mismatch"]
                         if has_different_case(strict_gold, strict_whisper) or has_different_punctuation(strict_gold, strict_whisper):
